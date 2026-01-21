@@ -1,0 +1,10 @@
+# 微博热搜分析Skill - Python依赖
+
+# HTTP请求库
+requests>=2.31.0
+
+# YAML配置文件解析
+pyyaml>=6.0
+
+# Claude Agent SDK (兼容智谱 API)
+anthropic>=0.40.0

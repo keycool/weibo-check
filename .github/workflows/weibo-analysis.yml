@@ -1,0 +1,56 @@
+name: 微博热搜分析
+
+on:
+  schedule:
+    # 北京时间早上 6:00 (UTC 22:00)
+    - cron: '0 22 * * *'
+    # 北京时间晚上 18:00 (UTC 10:00)
+    - cron: '0 10 * * *'
+  workflow_dispatch:  # 支持手动触发
+
+env:
+  TIANAPI_KEY: ${{ secrets.TIANAPI_KEY }}
+  ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+  ANTHROPIC_BASE_URL: ${{ secrets.ANTHROPIC_BASE_URL }}
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Fetch Weibo hot search data
+        run: python -m src.fetch_weibo
+
+      - name: Analyze with Claude SDK
+        run: python -m src.analyze_with_claude
+
+      - name: Upload analysis report
+        uses: actions/upload-artifact@v4
+        with:
+          name: weibo-analysis-${{ github.run_id }}
+          path: data/*.html
+          retention-days: 30
+
+      - name: Deploy to GitHub Pages
+        if: success()
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./data
+          publish_branch: gh-pages
