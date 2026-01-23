@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "林诗栋止步男单8强",
+    "scores": {
+      "novelty": 5,
+      "resonance": 18,
+      "viral": 12,
+      "entertainment": 5,
+      "practical": 0,
+      "market": 2
+    },
+    "total_score": 42,
+    "grade": "普通",
+    "product_idea": {
+      "name": "赛后情绪安抚互动社区",
+      "features": "专为粉丝提供的失意球员鲜花与鼓励寄送服务，以及数据化的球员成长轨迹分析。",
+      "target_users": "乒乓球粉丝、体育竞彩用户",
+      "value_proposition": "将粉丝的焦虑转化为对球员职业生涯的长期陪伴与数据支持。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "不二之臣",
+    "scores": {
+      "novelty": 4,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 0,
+      "market": 5
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "剧集IP联动恋爱模拟器",
+      "features": "结合短剧剧情的互动式小说游戏，用户可代入主角体验霸道总裁或忠臣剧情线。",
+      "target_users": "短剧受众、年轻女性",
+      "value_proposition": "让用户从旁观者变为剧中人，深度体验沉浸式恋爱幻想。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "我国地理标志产品直接年产值接近1万亿元",
+    "scores": {
+      "novelty": 8,
+      "resonance": 10,
+      "viral": 5,
+      "entertainment": 2,
+      "practical": 9,
+      "market": 10
+    },
+    "total_score": 44,
+    "grade": "普通",
+    "product_idea": {
+      "name": "地标产品区块链溯源平台",
+      "features": "利用区块链技术对地理标志产品进行全链路溯源，提供产地认证和一键购买。",
+      "target_users": "注重食品安全的家庭消费者、礼品采购者",
+      "value_proposition": "解决特产市场假货泛滥痛点，建立“正宗”信任机制。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "听不懂的汽车黑话",
+    "scores": {
+      "novelty": 12,
+      "resonance": 15,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 8,
+      "market": 6
+    },
+    "total_score": 71,
+    "grade": "良好",
+    "product_idea": {
+      "name": "汽车黑话翻译官AR插件",
+      "features": "针对车展或宣传册的AR扫描功能，将“冰箱彩电大沙发”等专业营销术语翻译成人话和真实参数。",
+      "target_users": "购车小白、车展观众",
+      "value_proposition": "打破信息不对称，让消费者看透营销迷雾，回归汽车本质。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "TF四代川渝春晚路透",
+    "scores": {
+      "novelty": 4,
+      "resonance": 17,
+      "viral": 16,
+      "entertainment": 13,
+      "practical": 0,
+      "market": 4
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "爱豆路透聚合订阅APP",
+      "features": "基于地理位置和关注列表的实时路透推送，整合多方站姐资源的一手资讯。",
+      "target_users": "追星族、粉丝后援会",
+      "value_proposition": "告别繁琐的微博搜索，精准获取偶像动态，掌握追星一手情报。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "商家回应半年被1人薅了4万4",
+    "scores": {
+      "novelty": 15,
+      "resonance": 12,
+      "viral": 18,
+      "entertainment": 14,
+      "practical": 9,
+      "market": 9
+    },
+    "total_score": 77,
+    "grade": "良好",
+    "product_idea": {
+      "name": "反羊毛风控SaaS系统",
+      "features": "针对中小商家的异常订单自动识别与拦截系统，包含IP分析和购买频率预警。",
+      "target_users": "电商中小商家、拼多多/淘宝店主",
+      "value_proposition": "用低成本技术手段保护商家利润，防止职业薅羊毛党攻击导致破产。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "国乒多名球员退队",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 4,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 50,
+    "grade": "普通",
+    "product_idea": {
+      "name": "退役运动员职业转型规划平台",
+      "features": "提供退役后的商业代言对接、直播带货培训及学历提升咨询服务。",
+      "target_users": "退役运动员、体育经纪机构",
+      "价值_proposition": "帮助为国争光的运动员在退役后平稳着陆，实现第二职业生涯价值。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "摸凹猫 摸凸猫",
+    "scores": {
+      "novelty": 17,
+      "resonance": 16,
+      "viral": 19,
+      "entertainment": 18,
+      "practical": 1,
+      "market": 7
+    },
+    "total_score": 78,
+    "grade": "良好",
+    "product_idea": {
+      "name": "治愈系触感解压玩具盲盒",
+      "features": "模拟猫背脊和猫肚手感的不同材质慢回弹玩具，配合‘吸猫’音效的解压神器。",
+      "target_users": "云吸猫人群、办公室白领",
+      "value_proposition": "在过敏或租房受限环境下，提供最接近真实撸猫的触觉与听觉治愈体验。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "多地中小学取消非毕业年级期末统考",
+    "scores": {
+      "novelty": 10,
+      "resonance": 18,
+      "viral": 14,
+      "entertainment": 2,
+      "practical": 8,
+      "market": 7
+    },
+    "total_score": 59,
+    "grade": "普通",
+    "product_idea": {
+      "name": "非标学习成果多维评估APP",
+      "features": "不只看分数，通过语音、视频、作品集等形式记录孩子一学期的综合素质成长报告。",
+      "target_users": "中小学生家长、素质教育机构",
+      "value_proposition": "在‘减考’政策下，通过可视化数据缓解家长对学业退步的焦虑，发现孩子闪光点。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "王鹤棣白鹿买了一车东西",
+    "scores": {
+      "novelty": 6,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 13,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 58,
+    "grade": "普通",
+    "product_idea": {
+      "name": "明星同款扫货导购插件",
+      "features": "识别综艺或视频中出现的商品，自动生成同款购买链接和比价历史。",
+      "target_users": "剧粉、冲动型消费者",
+      "value_proposition": "满足粉丝‘想要拥有偶像同款’的即时消费冲动，缩短种草到拔草的路径。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "九尾输出",
+    "scores": {
+      "novelty": 8,
+      "resonance": 14,
+      "viral": 12,
+      "entertainment": 10,
+      "practical": 0,
+      "market": 2
+    },
+    "total_score": 46,
+    "grade": "普通",
+    "product_idea": {
+      "name": "电竞名场面复盘生成工具",
+      "features": "一键将高光操作生成带有AI配音和特效分析的短视频，方便社交媒体分享。",
+      "target_users": "电竞玩家、游戏解说博主",
+      "value_proposition": "让普通玩家也能通过简单工具生成具有职业比赛观赏性的高光时刻视频。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "苹果用户的天塌了",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 17,
+      "entertainment": 10,
+      "practical": 6,
+      "market": 5
+    },
+    "total_score": 66,
+    "grade": "良好",
+    "product_idea": {
+      "name": "苹果生态紧急救援指南",
+      "features": "针对各类系统崩溃、配件失效的极速排查与修复教程库，以及平替硬件推荐。",
+      "target_users": "苹果全家桶用户",
+      "价值_proposition": "在‘天塌了’的恐慌时刻，成为用户第一时间寻求解决方案的定心丸。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "邓佳鑫被批不是偶像团体中最火的",
+    "scores": {
+      "novelty": 7,
+      "resonance": 14,
+      "viral": 15,
+      "entertainment": 12,
+      "practical": 0,
+      "market": 2
+    },
+    "total_score": 50,
+    "grade": "普通",
+    "product_idea": {
+      "name": "爱团人气值预测与打投助手",
+      "features": "基于社交媒体大数据预测成员未来的商业价值，为粉丝打投提供数据策略支持。",
+      "target_users": "偶像粉丝、娱乐经纪公司",
+      "value_proposition": "用数据理性指导情感投入，最大化粉丝应援的投入产出比。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "猝死程序员家属称找的律师都不想接",
+    "scores": {
+      "novelty": 12,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 2,
+      "practical": 10,
+      "market": 8
+    },
+    "total_score": 66,
+    "grade": "良好",
+    "product_idea": {
+      "name": "高风险职业法律预检与互助金平台",
+      "features": "提供劳资纠纷预咨询服务，并建立‘行业互助资金池’以应对突发法律费用。",
+      "target_users": "互联网从业者、高压行业劳动者",
+      "value_proposition": "在发生悲剧前规避法律风险，在发生悲剧后提供第一笔启动资金支持。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "牢A称没见过美国底层成功逆袭",
+    "scores": {
+      "novelty": 14,
+      "resonance": 15,
+      "viral": 16,
+      "entertainment": 12,
+      "practical": 5,
+      "market": 4
+    },
+    "total_score": 66,
+    "grade": "良好",
+    "product_idea": {
+      "name": "海外底层生存实录纪录片频道",
+      "features": "第一视角拍摄海外华人或底层劳动者的真实生存状态，打破‘国外月亮圆’滤镜。",
+      "target_users": "出海意向人群、社会学爱好者",
+      "value_proposition": "提供最真实的海外生活情报，祛除信息茧房带来的盲目乐观或恐慌。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "喵娲娲内娱又火了一个",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 14,
+      "entertainment": 14,
+      "practical": 0,
+      "market": 3
+    },
+    "total_score": 53,
+    "grade": "普通",
+    "product_idea": {
+      "name": "宠物拟人化IP孵化器",
+      "features": "利用AI将网红宠物视频自动转化为漫画或动画，快速生成周边内容。",
+      "target_users": "宠物博主、IP周边厂商",
+      "value_proposition": "降低宠物IP开发的制作门槛，让网红宠物的商业价值迅速变现。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "一口气买2斤黄金2天赚10多万",
+    "scores": {
+      "novelty": 11,
+      "resonance": 18,
+      "viral": 17,
+      "entertainment": 10,
+      "practical": 7,
+      "market": 8
+    },
+    "total_score": 71,
+    "grade": "良好",
+    "product_idea": {
+      "name": "黄金投资比价与趋势提醒工具",
+      "features": "整合各品牌金店实时金价与工费，结合国际金价趋势提供‘低买’时机推送。",
+      "target_users": "理财小白、家庭主妇",
+      "value_proposition": "帮助用户在纷繁的金店品牌中找到最低溢价渠道，像买菜一样买黄金。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "中年考公三件套一年狂捞270亿",
+    "scores": {
+      "novelty": 16,
+      "resonance": 17,
+      "viral": 18,
+      "entertainment": 10,
+      "practical": 8,
+      "market": 10
+    },
+    "total_score": 79,
+    "grade": "良好",
+    "product_idea": {
+      "name": "公考AI刷题与心理陪练机器人",
+      "features": "结合申论/行测AI批改与‘中年危机’心理疏导的备考伴侣，主打短时高效提分。",
+      "target_users": "35岁+考公人群、在职备考者",
+      "value_proposition": "针对中年考生记忆力下降、精力有限的痛点，提供精准的提分方案与情绪价值。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "夫妻吵架将俩年幼孩子留酒店后失联",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 16,
+      "entertainment": 0,
+      "practical": 6,
+      "market": 4
+    },
+    "total_score": 50,
+    "grade": "普通",
+    "product_idea": {
+      "name": "智能酒店儿童防遗留守护系统",
+      "features": "通过红外传感器监测房内动静，若识别到儿童独处且门未关或长时间无成人活动，自动报警。",
+      "target_users": "连锁酒店、亲子家庭",
+      "value_proposition": "利用物联网技术防止因监护人情绪失控或疏忽导致的儿童遗弃事故。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "500人群里499个是托",
+    "scores": {
+      "novelty": 13,
+      "resonance": 16,
+      "viral": 18,
+      "entertainment": 12,
+      "practical": 9,
+      "market": 8
+    },
+    "total_score": 76,
+    "grade": "良好",
+    "product_idea": {
+      "name": "社群水军识别小程序",
+      "features": "用户将群成员列表或聊天记录导入，通过活跃度规律、发言内容重复率等算法分析‘托’的比例。",
+      "target_users": "微信用户、股民/兼职寻找者",
+      "value_proposition": "帮用户识别杀猪盘和诈骗群，避免成为被收割的‘韭菜’。"
+    }
+  }
+]
