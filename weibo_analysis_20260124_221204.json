@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "U23国足vs日本",
+    "scores": {
+      "novelty": 12,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 10,
+      "practical": 1,
+      "market": 5
+    },
+    "total_score": 65,
+    "grade": "良好",
+    "product_idea": {
+      "name": "热血应援AI生成器",
+      "features": "根据比赛实时数据和聊天记录，自动生成燃向的应援海报、短视频和助威口号，支持一键分发至社交平台。",
+      "target_users": "年轻体育迷、UGC创作者",
+      "value_proposition": "将观赛情绪即时转化为高颜值的社交货币，提升用户的参与感和表达欲。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "U23国足亚军",
+    "scores": {
+      "novelty": 14,
+      "resonance": 17,
+      "viral": 16,
+      "entertainment": 8,
+      "practical": 1,
+      "market": 4
+    },
+    "total_score": 60,
+    "grade": "良好",
+    "product_idea": {
+      "name": "体育纪念链NFT门票",
+      "features": "将比赛的精彩瞬间、最终成绩铸造为数字纪念品，分发给购票或线上观赛的粉丝，作为永恒的参与证明。",
+      "target_users": "收藏爱好者、铁杆球迷",
+      "value_proposition": "将单纯的比赛结果转化为可收藏的数字资产，通过“遗憾美学”或“荣誉时刻”实现情感变现。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "奋进中国",
+    "scores": {
+      "novelty": 5,
+      "resonance": 15,
+      "viral": 10,
+      "entertainment": 2,
+      "practical": 5,
+      "market": 8
+    },
+    "total_score": 45,
+    "grade": "普通",
+    "product_idea": {
+      "name": "正能量党建知识小程序",
+      "features": "提供每日时政打卡、学习积分兑换礼品，结合严肃内容与轻量化游戏化机制。",
+      "target_users": "体制内人员、学生群体",
+      "value_proposition": "满足体制内及特定群体的学习考核需求，通过积分体系提高用户粘性。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "李昊无缘最佳门将",
+    "scores": {
+      "novelty": 8,
+      "resonance": 12,
+      "viral": 14,
+      "entertainment": 5,
+      "practical": 1,
+      "market": 3
+    },
+    "total_score": 43,
+    "grade": "普通",
+    "product_idea": {
+      "name": "粉丝众筹定制礼物平台",
+      "features": "当运动员遭受争议或错失荣誉时，粉丝可一键集资定制安慰大屏、实体礼物或专属公益项目。",
+      "target_users": "狂热粉丝社群",
+      "value_proposition": "为粉丝提供情绪宣泄和情感支持的出口，通过社群力量进行情感变现。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "U23国足0比4日本队",
+    "scores": {
+      "novelty": 10,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 2,
+      "practical": 1,
+      "market": 3
+    },
+    "total_score": 50,
+    "grade": "普通",
+    "product_idea": {
+      "name": "emo吐槽生成器",
+      "features": "识别用户输入的比赛结果或心情，自动生成图文并茂的“发疯文学”或自嘲段子，供朋友圈发泄。",
+      "target_users": "输球后的球迷、压力大的年轻人",
+      "value_proposition": "提供幽默解构负面情绪的工具，将输球的痛苦转化为社交互动的娱乐素材。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "两个消失的顶流歌手都回归了",
+    "scores": {
+      "novelty": 18,
+      "resonance": 19,
+      "viral": 20,
+      "entertainment": 18,
+      "practical": 2,
+      "market": 12
+    },
+    "total_score": 89,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "音乐人复出日历与共创社区",
+      "features": "追踪沉寂艺人的动态，提供复出倒计时、回忆杀特辑，以及粉丝与艺人共同创作新歌的互动平台。",
+      "target_users": "老粉、音乐综艺观众",
+      "value_proposition": "利用情怀经济打造“爷青回”的沉浸式体验，连接艺人复出与粉丝回忆，实现音乐宣发和周边变现。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "保安冒充辅警发布虚假招聘被查",
+    "scores": {
+      "novelty": 10,
+      "resonance": 5,
+      "viral": 8,
+      "entertainment": 12,
+      "practical": 4,
+      "market": 2
+    },
+    "total_score": 41,
+    "grade": "普通",
+    "product_idea": {
+      "name": "职位真伪区块链查询器",
+      "features": "基于官方数据库，对招聘启事进行公章、资质的快速核验，标记高风险招聘信息。",
+      "target_users": "求职者、蓝领工人",
+      "value_proposition": "解决招聘市场信息不对称痛点，保障求职者权益，建立招聘市场的信任机制。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "国足进步了",
+    "scores": {
+      "novelty": 15,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 61,
+    "grade": "良好",
+    "product_idea": {
+      "name": "体育数据可视化对比工具",
+      "features": "直观展示球队历史数据对比，用高亮方式展示“进步点”（如跑动距离、传球成功率），辅以专家解说。",
+      "target_users": "数据控球迷、体育博主",
+      "value_proposition": "用理性的数据佐证感性的观点，为球迷提供“黑转粉”或客观评价的谈资工具。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "国足 2030世界杯",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 12,
+      "entertainment": 8,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "长期主义心愿单APP",
+      "features": "用户可设立长周期的目标（如2030年去现场看球），系统自动分解规划路径并定期提醒储蓄或健身。",
+      "target_users": "梦想规划者、年轻球迷",
+      "value_proposition": "将遥远的热点话题转化为个人的长期生活目标，提供时间管理的情感寄托。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "李昊 look my eyes",
+    "scores": {
+      "novelty": 16,
+      "resonance": 15,
+      "viral": 17,
+      "entertainment": 16,
+      "practical": 1,
+      "market": 5
+    },
+    "total_score": 70,
+    "grade": "良好",
+    "product_idea": {
+      "name": "影视级凝视GIF生成器",
+      "features": "提取视频中人物眼神交流的片段，一键生成高清动图或壁纸，支持添加滤镜和文字。",
+      "target_users": "追星女孩、内容创作者",
+      "value_proposition": "捕捉心动瞬间，满足粉丝对偶像神态细节的审美需求，易于在社交媒体传播。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "我们的少年时代2拍摄周期",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 12,
+      "practical": 3,
+      "market": 8
+    },
+    "total_score": 61,
+    "grade": "良好",
+    "product_idea": {
+      "name": "影视剧探班与周边游",
+      "features": "结合拍摄周期和地点，为粉丝提供探班攻略、同款打卡路线以及剧组周边的预约购买服务。",
+      "target_users": "剧粉、旅游爱好者",
+      "value_proposition": "打通影视娱乐与本地生活服务，将粉丝对IP的关注转化为旅游和消费动力。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "林允 速效救心丸",
+    "scores": {
+      "novelty": 14,
+      "resonance": 10,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 6,
+      "market": 5
+    },
+    "total_score": 64,
+    "grade": "良好",
+    "product_idea": {
+      "name": "明星同款健康辟谣百科",
+      "features": "快速检索明星提及的非处方药品和保健品，提供真实的药理作用科普和医生建议，杜绝盲目跟风。",
+      "target_users": "养生青年、粉丝群体",
+      "value_proposition": "利用明星效应反向进行健康教育，提供科学的生活指导，建立权威健康资讯平台。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "女教师校内宿舍病亡两天后被发现",
+    "scores": {
+      "novelty": 5,
+      "resonance": 15,
+      "viral": 10,
+      "entertainment": 0,
+      "practical": 6,
+      "market": 2
+    },
+    "total_score": 38,
+    "grade": "普通",
+    "product_idea": {
+      "name": "独居智能守护系统",
+      "features": "通过分析水电表数据和智能门锁状态，利用AI算法识别独居者的异常作息并自动向紧急联系人报警。",
+      "target_users": "独居青年、空巢老人家属",
+      "value_proposition": "用技术手段解决独居安全隐患，提供低成本、非侵入式的生命健康监测服务。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "美国网友提问9000万遗体去向",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 16,
+      "entertainment": 2,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 48,
+    "grade": "普通",
+    "product_idea": {
+      "name": "跨文化谣言粉碎机",
+      "features": "针对国际热点争议话题，整合多方权威信源，生成可视化的辟谣长图或视频，支持多语言翻译。",
+      "target_users": "关注国际时政的用户、留学生",
+      "value_proposition": "在信息战背景下，提供基于事实的理性分析工具，消除认知偏差。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "太平年 牵羊礼",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 12,
+      "entertainment": 10,
+      "practical": 3,
+      "market": 6
+    },
+    "total_score": 57,
+    "grade": "普通",
+    "product_idea": {
+      "name": "古装剧情知识图谱",
+      "features": "在追剧时实时弹出剧中涉及的礼教、历史典故的详细解释，提供“剧情+历史”的双重观看体验。",
+      "target_users": "古装剧观众、历史爱好者",
+      "value_proposition": "降低历史剧的观影门槛，将娱乐内容转化为知识付费的切入点。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "陈建斌曝李亚鹏晚上睡觉没有被子",
+    "scores": {
+      "novelty": 15,
+      "resonance": 12,
+      "viral": 16,
+      "entertainment": 17,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 66,
+    "grade": "良好",
+    "product_idea": {
+      "name": "好友爆料的盲盒社交APP",
+      "features": "好友间可以匿名或实名发布关于对方的“生活小趣事”或“黑历史”，内容需对方审核后才能可见。",
+      "target_users": "熟人社交圈子、大学生",
+      "value_proposition": "挖掘熟人社交的娱乐潜力，通过揭秘和吐槽增强社交互动的趣味性。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "40岁男子吃鱼生后胆管爬满虫子",
+    "scores": {
+      "novelty": 14,
+      "resonance": 16,
+      "viral": 19,
+      "entertainment": 5,
+      "practical": 8,
+      "market": 6
+    },
+    "total_score": 68,
+    "grade": "良好",
+    "product_idea": {
+      "name": "饮食安全可视化扫描仪",
+      "features": "用户拍摄生食菜品或菜单，AI基于医学数据库识别潜在寄生虫风险并给出食用建议或警告。",
+      "target_users": "美食爱好者、注重健康人群",
+      "value_proposition": "用视觉冲击力强的科学反馈提醒用户饮食卫生，填补食品安全科普的市场空白。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "日本队6号",
+    "scores": {
+      "novelty": 8,
+      "resonance": 10,
+      "viral": 10,
+      "entertainment": 5,
+      "practical": 1,
+      "market": 6
+    },
+    "total_score": 40,
+    "grade": "普通",
+    "product_idea": {
+      "name": "球星卡碎片收集游戏",
+      "features": "结合热门赛事，用户通过开屏、看广告获取球星卡碎片，集齐特定球员（如对手主力）可兑换实体周边。",
+      "target_users": "体育迷、休闲游戏玩家",
+      "value_proposition": "利用“对手也是焦点”的心理，通过集换机制提升用户粘性和广告曝光率。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "U23国足进球被吹",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 5,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 51,
+    "grade": "普通",
+    "product_idea": {
+      "name": "VAR判罚模拟挑战赛",
+      "features": "精选争议判罚镜头，让用户扮演裁判进行判罚选择，随后公布官方结果并进行规则科普。",
+      "target_users": "硬核球迷、普通观众",
+      "value_proposition": "化争议为教育，通过互动游戏让球迷理解复杂规则，增加观赛的专业乐趣。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "突然的喜欢",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 12,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 56,
+    "grade": "普通",
+    "product_idea": {
+      "name": "心动瞬间匿名匹配",
+      "features": "用户发布“突然心动”的对象或场景描述，AI分析语义特征并推荐有相似心动时刻的用户进行匿名匹配。",
+      "target_users": "单身青年、浪漫主义者",
+      "value_proposition": "捕捉微妙的情绪波动，通过共同的情感偏好建立深度的社交连接。"
+    }
+  }
+]
