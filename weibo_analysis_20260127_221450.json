@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "团播不得浓妆艳抹过度磨皮美颜",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 8,
+      "practical": 6,
+      "market": 5
+    },
+    "total_score": 61,
+    "grade": "良好",
+    "product_idea": {
+      "name": "真颜直播合规检测工具",
+      "features": "基于AI的实时美颜程度监测与合规预警，帮助主播调整滤镜至监管安全范围内；同时提供'原生感'美颜算法，在保留皮肤质感的基础上进行优化。",
+      "target_users": "MCN机构、团播主播、直播平台审核人员",
+      "value_proposition": "解决监管合规痛点，降低封号风险，同时平衡'真我'与'美感'的商业需求。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "1克黄金竟能打造一张完整黄金婚书",
+    "scores": {
+      "novelty": 18,
+      "resonance": 14,
+      "viral": 16,
+      "entertainment": 12,
+      "practical": 4,
+      "market": 9
+    },
+    "total_score": 73,
+    "grade": "良好",
+    "product_idea": {
+      "name": "黄金誓言-个性化金箔定制小程序",
+      "features": "用户上传结婚誓词或情书，系统通过纳米金压印技术将其打印在超薄金箔上，并装裱为装饰画或卡片。",
+      "target_users": "备婚情侣、黄金投资者、礼品购买者",
+      "value_proposition": "将情感承诺与保值贵金属结合，作为新型婚嫁伴手礼或纪念藏品，满足'情感+投资'双重心理。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "2026逐梦中国",
+    "scores": {
+      "novelty": 5,
+      "resonance": 15,
+      "viral": 8,
+      "entertainment": 5,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 37,
+    "grade": "普通",
+    "product_idea": {
+      "name": "逐梦规划局-AI人生路线图",
+      "features": "结合国家宏观政策趋势，为个人提供职业、教育、置业的中长期规划建议，生成可视化的'逐梦路线'。",
+      "target_users": "大学生、职场新人、投资者",
+      "value_proposition": "将宏大的国家叙事与个人发展路径挂钩，帮助用户抓住时代红利。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "刘宇宁京东年货节红运摇",
+    "scores": {
+      "novelty": 6,
+      "resonance": 10,
+      "viral": 10,
+      "entertainment": 8,
+      "practical": 6,
+      "market": 9
+    },
+    "total_score": 49,
+    "grade": "普通",
+    "product_idea": {
+      "name": "星推官-互动式带货直播组件",
+      "features": "集成'摇一摇'、手势识别等体感互动的电商直播插件，用户做动作触发优惠券或实物奖励。",
+      "target_users": "品牌方、电商平台、明星粉丝",
+      "value_proposition": "提升直播间的停留时长与互动率，将粉丝热情转化为实际购买力。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "以色列女子看电视发现自己死在伊朗",
+    "scores": {
+      "novelty": 20,
+      "resonance": 12,
+      "viral": 18,
+      "entertainment": 5,
+      "practical": 0,
+      "market": 2
+    },
+    "total_score": 57,
+    "grade": "普通",
+    "product_idea": {
+      "name": "数字身份遗产保险箱",
+      "features": "管理个人数字足迹（社交媒体、云记录），在发生意外或失踪时，提供数字信息的验证、追溯与遗产化处理服务。",
+      "target_users": "常驻海外人员、战地记者、高风险职业者",
+      "value_proposition": "在混乱的信息环境中保护个人身份的真实性，为家属提供确切的'数字存在'证明。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "运毒车逃逸时坠河470万颗冰毒落水",
+    "scores": {
+      "novelty": 14,
+      "resonance": 6,
+      "viral": 12,
+      "entertainment": 4,
+      "practical": 0,
+      "market": 0
+    },
+    "total_score": 36,
+    "grade": "普通",
+    "product_idea": {
+      "name": "环保卫士-水源污染物溯源模拟",
+      "features": "基于流体力学算法，模拟污染物在水体中的扩散路径，用于环保教育或应急演练的沙盘软件。",
+      "target_users": "环保部门、教育机构、科普自媒体",
+      "value_proposition": "通过真实大案的模拟，普及水源保护知识，展示科技在环境治理中的作用。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "湖南省考多地监狱岗位仅招艺术类",
+    "scores": {
+      "novelty": 16,
+      "resonance": 18,
+      "viral": 15,
+      "entertainment": 8,
+      "practical": 8,
+      "market": 4
+    },
+    "total_score": 69,
+    "grade": "良好",
+    "product_idea": {
+      "name": "艺术矫正-狱内美育课程体系",
+      "features": "针对服刑人员的艺术治疗课程（戏剧、绘画、音乐），利用艺术类专业考公岗位的需求，设计标准化教学与教材。",
+      "target_users": "监狱系统、司法警官职业学院、艺术类考生",
+      "value_proposition": "响应公务员招考新趋势，将艺术教育作为监狱管教与心理矫治的创新手段。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "中方回应加拿大出售白鲸给美国",
+    "scores": {
+      "novelty": 8,
+      "resonance": 10,
+      "viral": 6,
+      "entertainment": 4,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 32,
+    "grade": "普通",
+    "product_idea": {
+      "name": "海洋守护-生物迁徙可视化地图",
+      "features": "追踪展示海洋生物的跨境迁移路径与生存状态，科普海洋保护法规与国际新闻背后的生态知识。",
+      "target_users": "自然教育机构、环保主义者、学生",
+      "value_proposition": "透过新闻热点普及海洋生物保护意识，构建人与自然的情感连接。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "澳大利亚多地逼近50℃",
+    "scores": {
+      "novelty": 6,
+      "resonance": 10,
+      "viral": 10,
+      "entertainment": 2,
+      "practical": 8,
+      "market": 7
+    },
+    "total_score": 43,
+    "grade": "普通",
+    "product_idea": {
+      "name": "便携式应急降温制冷背心",
+      "features": "利用相变材料或半导体技术，为户外工作者、旅行者提供主动降温的穿戴设备。",
+      "target_users": "户外劳动者、高温地区旅行者、热过敏人群",
+      "value_proposition": "应对极端高温天气，保障人体舒适度与安全，防止热射病。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "微博之夜阵容官宣",
+    "scores": {
+      "novelty": 5,
+      "resonance": 18,
+      "viral": 15,
+      "entertainment": 15,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 63,
+    "grade": "良好",
+    "product_idea": {
+      "name": "盛典饭圈应援互助平台",
+      "features": "整合明星出席信息、红毯造型预测、线上投票打榜及线下应援物资众筹的一站式粉丝社区。",
+      "target_users": "明星粉丝后援会、追星族",
+      "value_proposition": "聚合流量，提升粉丝参与感与归属感，实现高效的粉丝经济变现。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "王者荣耀",
+    "scores": {
+      "novelty": 0,
+      "resonance": 15,
+      "viral": 5,
+      "entertainment": 12,
+      "practical": 4,
+      "market": 10
+    },
+    "total_score": 46,
+    "grade": "普通",
+    "product_idea": {
+      "name": "电竞社交-战绩匹配约会App",
+      "features": "根据王者荣耀的历史战绩、常用位置和段位，匹配异性玩家，提供'开黑+约会'的社交场景。",
+      "target_users": "年轻MOBA游戏玩家",
+      "value_proposition": "将共同的游戏语言转化为社交筹码，解决游戏玩家'只网恋不奔现'的痛点。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "日本一女性在同一家公司上班近70年",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 10,
+      "entertainment": 6,
+      "practical": 4,
+      "market": 3
+    },
+    "total_score": 49,
+    "grade": "普通",
+    "product_idea": {
+      "name": "职场时光轴-员工生涯纪念册",
+      "features": "自动抓取员工在公司系统中的打卡、邮件、项目记录等数据，生成可视化的'职业生涯回忆录'，供退休或周年纪念使用。",
+      "target_users": "HR部门、企业文化建设者、资深员工",
+      "value_proposition": "增强员工对企业历史的认同感与荣誉感，打造温情的企业文化。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "大批中成药将退出市场",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 12,
+      "entertainment": 2,
+      "practical": 10,
+      "market": 8
+    },
+    "total_score": 58,
+    "grade": "普通",
+    "product_idea": {
+      "name": "家庭用药安全助手AI",
+      "features": "扫描家中老药盒，自动识别并在国家药监局数据库中比对，提示因政策原因或过期需淘汰的药物，并推荐替代方案。",
+      "target_users": "家庭主妇、老年人、药店经营者",
+      "value_proposition": "解决药品监管政策变动带来的家庭用药安全隐患，提供换药指引。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "iPhone4S为何突然迎来第二春",
+    "scores": {
+      "novelty": 14,
+      "resonance": 12,
+      "viral": 14,
+      "entertainment": 10,
+      "practical": 6,
+      "market": 7
+    },
+    "total_score": 63,
+    "grade": "良好",
+    "product_idea": {
+      "name": "怀旧极客-经典机型智能改装套件",
+      "features": "提供旧款手机（如iPhone 4S）的硬件翻新、电池扩容及类安卓系统刷机包，将其改造为音乐播放器、电子相册或备用机。",
+      "target_users": "数码极客、怀旧玩家、学生党",
+      "value_proposition": "延长电子产品寿命，将旧废物转化为具有情感价值和特定功能的潮玩设备。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "店主在穿脏退回的衣服掏出100元",
+    "scores": {
+      "novelty": 16,
+      "resonance": 10,
+      "viral": 16,
+      "entertainment": 12,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 58,
+    "grade": "普通",
+    "product_idea": {
+      "name": "无忧退-寄退货自动清洁服务",
+      "features": "电商退货的中间服务，在寄回商家前，对衣物进行快速消毒、熨烫和包装，避免因试穿脏污导致的纠纷。",
+      "target_users": "服装电商、高频退货买家",
+      "value_proposition": "提升二手退回物品的品相，降低商家损耗，保护买家信用，解决尴尬误会。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "伊能静剪了十年没剪的斜刘海",
+    "scores": {
+      "novelty": 4,
+      "resonance": 12,
+      "viral": 8,
+      "entertainment": 10,
+      "practical": 6,
+      "market": 6
+    },
+    "total_score": 46,
+    "grade": "普通",
+    "product_idea": {
+      "name": "明星同款-AR发型试戴App",
+      "features": "结合最新的娱乐新闻，实时更新明星发型库，用户通过AR技术一键试戴同款刘海或妆容。",
+      "target_users": "美发沙龙、时尚女性、粉丝",
+      "value_proposition": "利用热点新闻进行场景化营销，让用户即时实现'想要那个明星发型'的冲动。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "孙颖莎王曼昱蒯曼聚餐",
+    "scores": {
+      "novelty": 5,
+      "resonance": 16,
+      "viral": 10,
+      "entertainment": 8,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 47,
+    "grade": "普通",
+    "product_idea": {
+      "name": "冠军食谱-运动营养餐订阅",
+      "features": "与国家队营养师合作，推出针对国乒队员聚餐同款或训练期间的健康食谱订阅，并附带食材配送。",
+      "target_users": "健身人群、乒乓球爱好者、家长",
+      "value_proposition": "利用'冠军同款'的背书效应，推广健康、科学的饮食生活方式。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "7000人滞留日本机场称再不来了",
+    "scores": {
+      "novelty": 8,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 2,
+      "practical": 9,
+      "market": 7
+    },
+    "total_score": 60,
+    "grade": "良好",
+    "product_idea": {
+      "name": "流浪旅客-机场滞险与应急助手",
+      "features": "针对航班延误或取消的保险产品，附赠应急服务（如机场休息室折扣、当地酒店快速预订、法律维权咨询）。",
+      "target_users": "国际旅客、商务人士、旅行保险购买者",
+      "value_proposition": "缓解旅客在突发滞留情况下的焦虑与经济损失，提供全方位的出行兜底方案。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "杨紫化妆金鹤龙",
+    "scores": {
+      "novelty": 6,
+      "resonance": 14,
+      "viral": 12,
+      "entertainment": 10,
+      "practical": 4,
+      "market": 7
+    },
+    "total_score": 53,
+    "grade": "普通",
+    "product_idea": {
+      "name": "国风鹤韵-东方美学彩妆盘",
+      "features": "以'金鹤龙'等传统吉祥意象为设计元素的彩妆眼影盘，配合教程教用户画出具有东方韵味的'开运妆'。",
+      "target_users": "年轻女性、国风爱好者、杨紫粉丝",
+      "value_proposition": "将明星流量与国潮美学结合，打造不仅是化妆品更是'开运符'的节日礼品。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "娱乐圈四大不倒人设",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 12,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 56,
+    "grade": "普通",
+    "product_idea": {
+      "name": "人设通-公众形象风险监测SaaS",
+      "features": "为艺人或网红提供AI驱动的'人设'一致性分析，监测社交媒体言论与公众形象的偏差，预警崩塌风险。",
+      "target_users": "艺人经纪公司、公关公司、头部网红",
+      "value_proposition": "用数据量化'人设'安全度，帮助公关团队提前规避可能导致形象崩塌的言行风险。"
+    }
+  }
+]
