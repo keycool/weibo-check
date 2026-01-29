@@ -1,0 +1,863 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>微博热搜产品创意分析报告</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            color: #333;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 30px 20px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+            background: rgba(255, 255, 255, 0.95);
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+        }
+
+        .header h1 {
+            font-size: 36px;
+            color: #1e293b;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            font-size: 18px;
+            color: #64748b;
+            margin-bottom: 30px;
+        }
+
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-top: 30px;
+        }
+
+        .stat-card {
+            background: white;
+            padding: 25px;
+            border-radius: 12px;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .stat-card .number {
+            font-size: 36px;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .stat-card .excellent { color: #10b981; }
+        .stat-card .good { color: #3b82f6; }
+        .stat-card .normal { color: #6b7280; }
+
+        .filters {
+            background: white;
+            padding: 25px;
+            border-radius: 15px;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .search-box {
+            flex: 1;
+            min-width: 250px;
+        }
+
+        .search-box input {
+            width: 100%;
+            padding: 12px 20px;
+            border: 2px solid #e5e7eb;
+            border-radius: 8px;
+            font-size: 16px;
+            transition: border-color 0.3s;
+        }
+
+        .search-box input:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .filter-group {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+
+        .filter-group label {
+            font-weight: 600;
+            color: #374151;
+        }
+
+        .filter-group select {
+            padding: 10px 15px;
+            border: 2px solid #e5e7eb;
+            border-radius: 8px;
+            font-size: 14px;
+            cursor: pointer;
+        }
+
+        .topics-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(600px, 1fr));
+            gap: 25px;
+            margin-bottom: 50px;
+        }
+
+        .topic-card {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s, box-shadow 0.3s;
+            position: relative;
+            border: 3px solid transparent;
+        }
+
+        .topic-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+        }
+
+        .topic-card.excellent {
+            border-color: #10b981;
+            background: linear-gradient(135deg, rgba(16, 185, 129, 0.03), rgba(255, 255, 255, 1));
+        }
+
+        .topic-card.good {
+            border-color: #3b82f6;
+            background: linear-gradient(135deg, rgba(59, 130, 246, 0.03), rgba(255, 255, 255, 1));
+        }
+
+        .topic-card.normal {
+            border-color: #6b7280;
+            background: linear-gradient(135deg, rgba(107, 114, 128, 0.03), rgba(255, 255, 255, 1));
+        }
+
+        .topic-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #f3f4f6;
+        }
+
+        .topic-title {
+            flex: 1;
+        }
+
+        .topic-title h3 {
+            font-size: 20px;
+            color: #1e293b;
+            margin-bottom: 5px;
+            line-height: 1.4;
+        }
+
+        .topic-meta {
+            display: flex;
+            gap: 15px;
+            color: #6b7280;
+            font-size: 14px;
+            flex-wrap: wrap;
+        }
+
+        .score-badge {
+            background: #1e293b;
+            color: white;
+            padding: 8px 16px;
+            border-radius: 25px;
+            font-size: 16px;
+            font-weight: bold;
+        }
+
+        .score-badge.excellent { background: #10b981; }
+        .score-badge.good { background: #3b82f6; }
+        .score-badge.normal { background: #6b7280; }
+
+        .score-details {
+            margin-bottom: 25px;
+        }
+
+        .score-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 12px;
+            padding: 10px;
+            background: #f9fafb;
+            border-radius: 8px;
+        }
+
+        .score-item span:first-child {
+            font-weight: 500;
+            color: #374151;
+        }
+
+        .score-bar {
+            flex: 1;
+            height: 6px;
+            background: #e5e7eb;
+            border-radius: 3px;
+            margin: 0 15px;
+            position: relative;
+        }
+
+        .score-fill {
+            height: 100%;
+            border-radius: 3px;
+            transition: width 1s ease;
+        }
+
+        .excellent .score-fill { background: #10b981; }
+        .good .score-fill { background: #3b82f6; }
+        .normal .score-fill { background: #6b7280; }
+
+        .product-idea {
+            background: #f9fafb;
+            padding: 20px;
+            border-radius: 10px;
+        }
+
+        .product-idea h4 {
+            color: #1e293b;
+            margin-bottom: 15px;
+            font-size: 18px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .product-name {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 14px;
+        }
+
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        .feature-tag {
+            background: white;
+            padding: 8px 12px;
+            border-radius: 6px;
+            font-size: 13px;
+            border-left: 4px solid #667eea;
+        }
+
+        .user-target {
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 15px;
+        }
+
+        .user-target h5 {
+            color: #374151;
+            margin-bottom: 10px;
+        }
+
+        .user-target p {
+            font-size: 14px;
+            line-height: 1.6;
+            color: #6b7280;
+        }
+
+        .value-proposition {
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            border-left: 4px solid #10b981;
+        }
+
+        .value-proposition h5 {
+            color: #059669;
+            margin-bottom: 10px;
+        }
+
+        .value-proposition p {
+            font-size: 14px;
+            line-height: 1.6;
+            color: #6b7280;
+        }
+
+        .top-topics {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .top-topics h2 {
+            color: #1e293b;
+            margin-bottom: 20px;
+            font-size: 24px;
+        }
+
+        .top-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 15px;
+            border-bottom: 1px solid #e5e7eb;
+            transition: background 0.3s;
+        }
+
+        .top-item:hover {
+            background: #f9fafb;
+        }
+
+        .top-item:last-child {
+            border-bottom: none;
+        }
+
+        .top-rank {
+            width: 40px;
+            height: 40px;
+            background: linear-gradient(135deg, #f59e0b, #ef4444);
+            color: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            margin-right: 15px;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 20px 15px;
+            }
+
+            .header h1 {
+                font-size: 28px;
+            }
+
+            .topics-container {
+                grid-template-columns: 1fr;
+            }
+
+            .topic-header {
+                flex-direction: column;
+                gap: 15px;
+            }
+
+            .filters {
+                flex-direction: column;
+                align-items: stretch;
+            }
+
+            .search-box {
+                min-width: auto;
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <h1>微博热搜产品创意分析报告</h1>
+            <p>基于2025年12月1日微博热搜榜单的深度分析与产品创意生成</p>
+
+            <div class="stats">
+                <div class="stat-card">
+                    <div class="number excellent">7</div>
+                    <div>优秀话题 (80+分)</div>
+                </div>
+                <div class="stat-card">
+                    <div class="number good">13</div>
+                    <div>良好话题 (60-80分)</div>
+                </div>
+                <div class="stat-card">
+                    <div class="number normal">0</div>
+                    <div>普通话题 (<60分)</div>
+                </div>
+                <div class="stat-card">
+                    <div class="number excellent">20</div>
+                    <div>总计分析话题</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Top 5 Topics -->
+        <div class="top-topics">
+            <h2>🏆 Top 5 优秀话题</h2>
+            <div class="top-item">
+                <div style="display: flex; align-items: center;">
+                    <div class="top-rank">1</div>
+                    <div>
+                        <strong>中国人在太空存粮多得超乎想象</strong>
+                        <div style="color: #6b7280; font-size: 14px; margin-top: 5px;">产品: 太空粮仓 (92分)</div>
+                    </div>
+                </div>
+            </div>
+            <div class="top-item">
+                <div style="display: flex; align-items: center;">
+                    <div class="top-rank">2</div>
+                    <div>
+                        <strong>25岁小伙离世前称加班累到嘴巴渗血</strong>
+                        <div style="color: #6b7280; font-size: 14px; margin-top: 5px;">产品: 工作健康守护 (92分)</div>
+                    </div>
+                </div>
+            </div>
+            <div class="top-item">
+                <div style="display: flex; align-items: center;">
+                    <div class="top-rank">3</div>
+                    <div>
+                        <strong>黄土高原变绿了</strong>
+                        <div style="color: #6b7280; font-size: 14px; margin-top: 5px;">产品: 生态眼 (91分)</div>
+                    </div>
+                </div>
+            </div>
+            <div class="top-item">
+                <div style="display: flex; align-items: center;">
+                    <div class="top-rank">4</div>
+                    <div>
+                        <strong>手机壳爱马仕一年狂卖36亿</strong>
+                        <div style="color: #6b7280; font-size: 14px; margin-top: 5px;">产品: 壳艺空间 (89分)</div>
+                    </div>
+                </div>
+            </div>
+            <div class="top-item">
+                <div style="display: flex; align-items: center;">
+                    <div class="top-rank">5</div>
+                    <div>
+                        <strong>英超日本国脚手持日军军官卡片合影</strong>
+                        <div style="color: #6b7280; font-size: 14px; margin-top: 5px;">产品: 历史镜鉴 (88分)</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Topics Grid -->
+        <div class="topics-container" id="topicsContainer">
+            <div class="topic-card excellent">
+                <div class="topic-header">
+                    <div class="topic-title">
+                        <h3>中国人在太空存粮多得超乎想象</h3>
+                        <div class="topic-meta">
+                            <span>🏆 排名第1</span>
+                            <span>🔥 热度: 1076563</span>
+                        </div>
+                    </div>
+                    <div class="score-badge excellent">92分</div>
+                </div>
+
+                <div class="score-details">
+                    <div class="score-item">
+                        <span>新颖性</span>
+                        <span>19/20</span>
+                        <div class="score-bar">
+                            <div class="score-fill" style="width: 95%"></div>
+                        </div>
+                    </div>
+                    <div class="score-item">
+                        <span>情感共鸣</span>
+                        <span>18/20</span>
+                        <div class="score-bar">
+                            <div class="score-fill" style="width: 90%"></div>
+                        </div>
+                    </div>
+                    <div class="score-item">
+                        <span>传播潜力</span>
+                        <span>19/20</span>
+                        <div class="score-bar">
+                            <div class="score-fill" style="width: 95%"></div>
+                        </div>
+                    </div>
+                    <div class="score-item">
+                        <span>娱乐价值</span>
+                        <span>18/20</span>
+                        <div class="score-bar">
+                            <div class="score-fill" style="width: 90%"></div>
+                        </div>
+                    </div>
+                    <div class="score-item">
+                        <span>实用价值</span>
+                        <span>8/10</span>
+                        <div class="score-bar">
+                            <div class="score-fill" style="width: 80%"></div>
+                        </div>
+                    </div>
+                    <div class="score-item">
+                        <span>市场潜力</span>
+                        <span>10/10</span>
+                        <div class="score-bar">
+                            <div class="score-fill" style="width: 100%"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="product-idea">
+                    <h4><span class="product-name">太空粮仓</span> - 航天科普VR体验平台</h4>
+                    <div class="features">
+                        <div class="feature-tag">VR体验中国空间站的食物储备系统</div>
+                        <div class="feature-tag">航天员菜单定制和营养搭配推荐</div>
+                        <div class="feature-tag">太空食品科普教育和互动游戏</div>
+                        <div class="feature-tag">模拟太空种植和食物培育</div>
+                        <div class="feature-tag">航天食品文创产品和周边销售</div>
+                    </div>
+                    <div class="user-target">
+                        <h5>🎯 目标用户</h5>
+                        <p><strong>用户画像：</strong>航天爱好者、科普教育工作者、年轻家长及中小学生，对中国航天发展有强烈兴趣和自豪感</p>
+                        <p><strong>痛点：</strong>缺乏直观了解航天生活的渠道，航天科普内容枯燥难以吸引青少年</p>
+                        <p><strong>行为特征：</strong>乐于分享航天相关内容到社交媒体，愿意为航天周边产品付费，注重寓教于乐</p>
+                    </div>
+                    <div class="value-proposition">
+                        <h5>💡 价值主张</h5>
+                        <p>通过沉浸式体验和互动学习，让普通民众深入了解中国航天的日常细节，将航天科技与生活趣味结合，打造独特的航天文化IP</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="topic-card excellent">
+                <div class="topic-header">
+                    <div class="topic-title">
+                        <h3>25岁小伙离世前称加班累到嘴巴渗血</h3>
+                        <div class="topic-meta">
+                            <span>🏆 排名第17</span>
+                            <span>🔥 热度: 214070</span>
+                        </div>
+                    </div>
+                    <div class="score-badge excellent">92分</div>
+                </div>
+
+                <div class="score-details">
+                    <div class="score-item">
+                        <span>新颖性</span>
+                        <span>18/20</span>
+                        <div class="score-bar">
+                            <div class="score-fill" style="width: 90%"></div>
+                        </div>
+                    </div>
+                    <div class="score-item">
+                        <span>情感共鸣</span>
+                        <span>20/20</span>
+                        <div class="score-bar">
+                            <div class="score-fill" style="width: 100%"></div>
+                        </div>
+                    </div>
+                    <div class="score-item">
+                        <span>传播潜力</span>
+                        <span>19/20</span>
+                        <div class="score-bar">
+                            <div class="score-fill" style="width: 95%"></div>
+                        </div>
+                    </div>
+                    <div class="score-item">
+                        <span>娱乐价值</span>
+                        <span>12/20</span>
+                        <div class="score-bar">
+                            <div class="score-fill" style="width: 60%"></div>
+                        </div>
+                    </div>
+                    <div class="score-item">
+                        <span>实用价值</span>
+                        <span>12/10</span>
+                        <div class="score-bar">
+                            <div class="score-fill" style="width: 100%"></div>
+                        </div>
+                    </div>
+                    <div class="score-item">
+                        <span>市场潜力</span>
+                        <span>11/10</span>
+                        <div class="score-bar">
+                            <div class="score-fill" style="width: 100%"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="product-idea">
+                    <h4><span class="product-name">工作健康守护</span> - 加班健康风险评估工具</h4>
+                    <div class="features">
+                        <div class="feature-tag">加班健康风险AI评估和预警</div>
+                        <div class="feature-tag">身体发出危险信号的识别指南</div>
+                        <div class="feature-tag">压力导致的身体症状跟踪日志</div>
+                        <div class="feature-tag">法律保护下拒绝过度加班的话术</div>
+                        <div class="feature-tag">猝死前身体预警症状科普</div>
+                    </div>
+                    <div class="user-target">
+                        <h5>🎯 目标用户</h5>
+                        <p><strong>用户画像：</strong>互联网从业者、医护人员、年轻人白领、HR和工会人员</p>
+                        <p><strong>痛点：</strong>长期加班但忽视健康风险，不清楚身体发出的危险信号，不知道如何维权</p>
+                        <p><strong>行为特征：</strong>工作压力大但缺乏健康管理，对劳动法了解不足，关注过劳死相关新闻</p>
+                    </div>
+                    <div class="value-proposition">
+                        <h5>💡 价值主张</h5>
+                        <p>通过真实案例和科学数据警示加班危害，帮助职场人识别健康风险信号，提供合法维权的工具和知识，挽救生命</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="topic-card excellent">
+                <div class="topic-header">
+                    <div class="topic-title">
+                        <h3>Uzi 复出</h3>
+                        <div class="topic-meta">
+                            <span>🏆 排名第5</span>
+                            <span>🔥 热度: 346706</span>
+                        </div>
+                    </div>
+                    <div class="score-badge excellent">85分</div>
+                </div>
+
+                <div class="score-details">
+                    <div class="score-item">
+                        <span>新颖性</span>
+                        <span>14/20</span>
+                        <div class="score-bar">
+                            <div class="score-fill" style="width: 70%"></div>
+                        </div>
+                    </div>
+                    <div class="score-item">
+                        <span>情感共鸣</span>
+                        <span>20/20</span>
+                        <div class="score-bar">
+                            <div class="score-fill" style="width: 100%"></div>
+                        </div>
+                    </div>
+                    <div class="score-item">
+                        <span>传播潜力</span>
+                        <span>20/20</span>
+                        <div class="score-bar">
+                            <div class="score-fill" style="width: 100%"></div>
+                        </div>
+                    </div>
+                    <div class="score-item">
+                        <span>娱乐价值</span>
+                        <span>17/20</span>
+                        <div class="score-bar">
+                            <div class="score-fill" style="width: 85%"></div>
+                        </div>
+                    </div>
+                    <div class="score-item">
+                        <span>实用价值</span>
+                        <span>7/10</span>
+                        <div class="score-bar">
+                            <div class="score-fill" style="width: 70%"></div>
+                        </div>
+                    </div>
+                    <div class="score-item">
+                        <span>市场潜力</span>
+                        <span>7/10</span>
+                        <div class="score-bar">
+                            <div class="score-fill" style="width: 70%"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="product-idea">
+                    <h4><span class="product-name">电竞传奇</span> - 电竞选手复出追踪平台</h4>
+                    <div class="features">
+                        <div class="feature-tag">电竞选手复出追踪和表现分析</div>
+                        <div class="feature-tag">玩家能力退化评估和训练方案</div>
+                        <div class="feature-tag">黄金年龄段电竞选手生涯规划</div>
+                        <div class="feature-tag">电竞赛事历史数据和辉煌时刻重温</div>
+                        <div class="feature-tag">复出选手心理辅导和压力管理</div>
+                    </div>
+                    <div class="user-target">
+                        <h5>🎯 目标用户</h5>
+                        <p><strong>用户画像：</strong>电竞职业选手、退役选手、电竞爱好者、电竞俱乐部管理层</p>
+                        <p><strong>痛点：</strong>电竞选手职业生涯短暂，缺乏科学的退役后复训体系，复出表现难以预测</p>
+                        <p><strong>行为特征：</strong>对电竞有深厚感情，关注明星选手动态，愿意为提升技术付费学习</p>
+                    </div>
+                    <div class="value-proposition">
+                        <h5>💡 价值主张</h5>
+                        <p>通过科学的训练方法和数据分析，帮助电竞选手延长职业生涯，为有复出意愿的选手提供系统化的评估和训练方案，延续电竞梦想</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="topic-card good">
+                <div class="topic-header">
+                    <div class="topic-title">
+                        <h3>国考的难度到底有多大</h3>
+                        <div class="topic-meta">
+                            <span>🏆 排名第9</span>
+                            <span>🔥 热度: 224510</span>
+                        </div>
+                    </div>
+                    <div class="score-badge good">82分</div>
+                </div>
+
+                <div class="score-details">
+                    <div class="score-item">
+                        <span>新颖性</span>
+                        <span>12/20</span>
+                        <div class="score-bar">
+                            <div class="score-fill" style="width: 60%"></div>
+                        </div>
+                    </div>
+                    <div class="score-item">
+                        <span>情感共鸣</span>
+                        <span>20/20</span>
+                        <div class="score-bar">
+                            <div class="score-fill" style="width: 100%"></div>
+                        </div>
+                    </div>
+                    <div class="score-item">
+                        <span>传播潜力</span>
+                        <span>18/20</span>
+                        <div class="score-bar">
+                            <div class="score-fill" style="width: 90%"></div>
+                        </div>
+                    </div>
+                    <div class="score-item">
+                        <span>娱乐价值</span>
+                        <span>15/20</span>
+                        <div class="score-bar">
+                            <div class="score-fill" style="width: 75%"></div>
+                        </div>
+                    </div>
+                    <div class="score-item">
+                        <span>实用价值</span>
+                        <span>9/10</span>
+                        <div class="score-bar">
+                            <div class="score-fill" style="width: 90%"></div>
+                        </div>
+                    </div>
+                    <div class="score-item">
+                        <span>市场潜力</span>
+                        <span>8/10</span>
+                        <div class="score-bar">
+                            <div class="score-fill" style="width: 80%"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="product-idea">
+                    <h4><span class="product-name">公考军师</span> - 公务员考试AI辅导平台</h4>
+                    <div class="features">
+                        <div class="feature-tag">AI模拟行测和申论评分系统</div>
+                        <div class="feature-tag">历年考点大数据分析和趋势预测</div>
+                        <div class="feature-tag">个人薄弱环节专项训练计划</div>
+                        <div class="feature-tag">考生心理压力和焦虑管理</div>
+                        <div class="feature-tag">考后复盘和下一年的规划建议</div>
+                    </div>
+                    <div class="user-target">
+                        <h5>🎯 目标用户</h5>
+                        <p><strong>用户画像：</strong>应届毕业生、在职备考人员、多次失败的考生、体制内转正人员</p>
+                        <p><strong>痛点：</strong>不知考试难度有多深，备考效率低下，缺乏科学的备考方法</p>
+                        <p><strong>行为特征：</strong>投入大量时间和金钱备考，对考试信息极度渴望，愿意试错寻找最佳路径</p>
+                    </div>
+                    <div class="value-proposition">
+                        <h5>💡 价值主张</h5>
+                        <p>提供真实的考试难度量化评估，结合AI技术分析个人强弱项，提供科学备考路径，让公考从"盲目备考"变为"精准打击"</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="topic-card excellent">
+                <div class="topic-header">
+                    <div class="topic-title">
+                        <h3>手机壳爱马仕一年狂卖36亿</h3>
+                        <div class="topic-meta">
+                            <span>🏆 排名第8</span>
+                            <span>🔥 热度: 224996</span>
+                        </div>
+                    </div>
+                    <div class="score-badge excellent">89分</div>
+                </div>
+
+                <div class="score-details">
+                    <div class="score-item">
+                        <span>新颖性</span>
+                        <span>19/20</span>
+                        <div class="score-bar">
+                            <div class="score-fill" style="width: 95%"></div>
+                        </div>
+                    </div>
+                    <div class="score-item">
+                        <span>情感共鸣</span>
+                        <span>17/20</span>
+                        <div class="score-bar">
+                            <div class="score-fill" style="width: 85%"></div>
+                        </div>
+                    </div>
+                    <div class="score-item">
+                        <span>传播潜力</span>
+                        <span>19/20</span>
+                        <div class="score-bar">
+                            <div class="score-fill" style="width: 95%"></div>
+                        </div>
+                    </div>
+                    <div class="score-item">
+                        <span>娱乐价值</span>
+                        <span>17/20</span>
+                        <div class="score-bar">
+                            <div class="score-fill" style="width: 85%"></div>
+                        </div>
+                    </div>
+                    <div class="score-item">
+                        <span>实用价值</span>
+                        <span>8/10</span>
+                        <div class="score-bar">
+                            <div class="score-fill" style="width: 80%"></div>
+                        </div>
+                    </div>
+                    <div class="score-item">
+                        <span>市场潜力</span>
+                        <span>9/10</span>
+                        <div class="score-bar">
+                            <div class="score-fill" style="width: 90%"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="product-idea">
+                    <h4><span class="product-name">壳艺空间</span> - 奢侈品级手机壳定制平台</h4>
+                    <div class="features">
+                        <div class="feature-tag">潮流手机壳设计和个性化定制</div>
+                        <div class="feature-tag">奢侈品级别材质和工艺选择</div>
+                        <div class="feature-tag">明星同款手机壳复刻和推荐</div>
+                        <div class="feature-tag">限量版手机壳收藏和交易平台</div>
+                        <div class="feature-tag">手机壳设计师社区和孵化计划</div>
+                    </div>
+                    <div class="user-target">
+                        <h5>🎯 目标用户</h5>
+                        <p><strong>用户画像：</strong>手机壳收藏家、潮流达人、奢侈品爱好者、年轻消费群体</p>
+                        <p><strong>痛点：</strong>难以找到独特且高品质的手机壳，奢侈品手机壳价格不透明，缺乏收藏价值</p>
+                        <p><strong>行为特征：</strong>频繁更换手机壳表达个性，愿意为设计感付费，关注潮流趋势和明星搭配</p>
+                    </div>
+                    <div class="value-proposition">
+                        <h5>💡 价值主张</h5>
+                        <p>打造手机壳界的"爱马仕"，提供高品质、设计独特、具有收藏价值的手机壳，让手机壳成为时尚配饰和文化符号</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -108,13 +108,60 @@ class WeiboAnalyzer:
             return json.loads(response_text)
         except json.JSONDecodeError as e:
             print(f"⚠️ JSON 解析失败: {e}")
-            print(f"原始响应: {response_text[:500]}...")
+            print(f"原始响应前500字符: {response_text[:500]}...")
+            
+            # 尝试修复常见的 JSON 错误
+            fixed_text = self._fix_json(response_text)
+            try:
+                return json.loads(fixed_text)
+            except json.JSONDecodeError:
+                pass
+            
             # 尝试提取 JSON 数组
             import re
             match = re.search(r'\[[\s\S]*\]', response_text)
             if match:
-                return json.loads(match.group())
+                try:
+                    return json.loads(match.group())
+                except json.JSONDecodeError:
+                    # 对提取的部分也尝试修复
+                    fixed_match = self._fix_json(match.group())
+                    return json.loads(fixed_match)
             raise
+    
+    def _fix_json(self, text: str) -> str:
+        """尝试修复常见的 JSON 格式错误"""
+        import re
+        
+        # 移除可能的 BOM 和其他不可见字符
+        text = text.strip().lstrip('\ufeff')
+        
+        # 修复 }{  -> },{  (对象之间缺少逗号)
+        text = re.sub(r'\}\s*\{', '},{', text)
+        
+        # 修复 ][ -> ],[ (数组之间缺少逗号)
+        text = re.sub(r'\]\s*\[', '],[', text)
+        
+        # 修复 "value""key" -> "value","key" (字符串之间缺少逗号)
+        text = re.sub(r'"\s*"(?=[a-zA-Z_\u4e00-\u9fff])', '","', text)
+        
+        # 修复 "value"  "key" 或 "value"\n"key" (带空格/换行的情况)
+        text = re.sub(r'"\s+\"', '","', text)
+        
+        # 修复数字后面直接跟字符串 (如: 85"key" -> 85,"key")
+        text = re.sub(r'(\d)\s*"(?=[a-zA-Z_\u4e00-\u9fff])', r'\1,"', text)
+        
+        # 修复 true/false/null 后面直接跟引号
+        text = re.sub(r'(true|false|null)\s*"', r'\1,"', text)
+        
+        # 移除尾随逗号 (如: [1,2,3,] -> [1,2,3])
+        text = re.sub(r',\s*\]', ']', text)
+        text = re.sub(r',\s*\}', '}', text)
+        
+        # 修复多余的逗号 (如: {,, -> {, 或 ,,, -> ,)
+        text = re.sub(r',\s*,+', ',', text)
+        
+        return text
 
     def generate_html_report(self, analysis: list, timestamp: str) -> Path:
         """生成 HTML 报告"""

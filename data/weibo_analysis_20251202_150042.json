@@ -1,0 +1,592 @@
+{
+  "analysis_time": "2025-12-02T15:00:42.016421",
+  "source_file": "weibo_raw_20251202_144021.json",
+  "total_topics": 20,
+  "results": [
+    {
+      "rank": 1,
+      "title": "G7凭什么对中国提3个不许",
+      "hot_value": 1052368,
+      "scores": {
+        "novelty": 14.0,
+        "emotional_resonance": 13.0,
+        "viral_potential": 14.0,
+        "entertainment_value": 10.0,
+        "interesting_score": 51.0,
+        "practical_value": 5.0,
+        "market_potential": 6.5,
+        "useful_score": 11.5,
+        "total_score": 62.5
+      },
+      "product_idea": {
+        "product_name": "国际观APP",
+        "core_features": [
+          "实时国际热点解读",
+          "多角度新闻聚合",
+          "专家观点对比分析",
+          "历史事件关联推荐",
+          "用户讨论社区"
+        ],
+        "target_users": "关注国际政治、经济的年轻人，学生群体，职场人士",
+        "value_proposition": "一站式国际资讯平台，帮助用户快速理解复杂国际事件，培养全球化视野"
+      },
+      "grade": "良好"
+    },
+    {
+      "rank": 2,
+      "title": "罗永浩谈三星三折叠",
+      "hot_value": 528110,
+      "scores": {
+        "novelty": 14.0,
+        "emotional_resonance": 13.0,
+        "viral_potential": 13.0,
+        "entertainment_value": 10.0,
+        "interesting_score": 50.0,
+        "practical_value": 5.0,
+        "market_potential": 6.5,
+        "useful_score": 11.5,
+        "total_score": 61.5
+      },
+      "product_idea": {
+        "product_name": "热点解读",
+        "core_features": [
+          "实时热点话题聚合",
+          "多角度深度解读",
+          "用户观点讨论",
+          "相关内容推荐",
+          "历史话题回顾"
+        ],
+        "target_users": "关注时事的网民、内容创作者、媒体从业者",
+        "value_proposition": "智能热点分析平台，帮助用户快速理解热门话题背后的深意"
+      },
+      "grade": "良好"
+    },
+    {
+      "rank": 3,
+      "title": "刷1条视频上百个集装箱出海了",
+      "hot_value": 236511,
+      "scores": {
+        "novelty": 11.5,
+        "emotional_resonance": 12.0,
+        "viral_potential": 12.0,
+        "entertainment_value": 10.0,
+        "interesting_score": 45.5,
+        "practical_value": 5.0,
+        "market_potential": 5.0,
+        "useful_score": 10.0,
+        "total_score": 55.5
+      },
+      "product_idea": {
+        "product_name": "热点解读",
+        "core_features": [
+          "实时热点话题聚合",
+          "多角度深度解读",
+          "用户观点讨论",
+          "相关内容推荐",
+          "历史话题回顾"
+        ],
+        "target_users": "关注时事的网民、内容创作者、媒体从业者",
+        "value_proposition": "智能热点分析平台，帮助用户快速理解热门话题背后的深意"
+      },
+      "grade": "普通"
+    },
+    {
+      "rank": 4,
+      "title": "凤凰台上假死重逢胜新婚",
+      "hot_value": 235396,
+      "scores": {
+        "novelty": 11.5,
+        "emotional_resonance": 12.0,
+        "viral_potential": 12.0,
+        "entertainment_value": 10.0,
+        "interesting_score": 45.5,
+        "practical_value": 5.0,
+        "market_potential": 5.0,
+        "useful_score": 10.0,
+        "total_score": 55.5
+      },
+      "product_idea": {
+        "product_name": "热点解读",
+        "core_features": [
+          "实时热点话题聚合",
+          "多角度深度解读",
+          "用户观点讨论",
+          "相关内容推荐",
+          "历史话题回顾"
+        ],
+        "target_users": "关注时事的网民、内容创作者、媒体从业者",
+        "value_proposition": "智能热点分析平台，帮助用户快速理解热门话题背后的深意"
+      },
+      "grade": "普通"
+    },
+    {
+      "rank": 5,
+      "title": "iG 0等五",
+      "hot_value": 200046,
+      "scores": {
+        "novelty": 11.5,
+        "emotional_resonance": 12.0,
+        "viral_potential": 12.0,
+        "entertainment_value": 10.0,
+        "interesting_score": 45.5,
+        "practical_value": 5.0,
+        "market_potential": 5.0,
+        "useful_score": 10.0,
+        "total_score": 55.5
+      },
+      "product_idea": {
+        "product_name": "热点解读",
+        "core_features": [
+          "实时热点话题聚合",
+          "多角度深度解读",
+          "用户观点讨论",
+          "相关内容推荐",
+          "历史话题回顾"
+        ],
+        "target_users": "关注时事的网民、内容创作者、媒体从业者",
+        "value_proposition": "智能热点分析平台，帮助用户快速理解热门话题背后的深意"
+      },
+      "grade": "普通"
+    },
+    {
+      "rank": 6,
+      "title": "甲型H3N2毒株严重可导致呼吸衰竭",
+      "hot_value": 194439,
+      "scores": {
+        "novelty": 11.0,
+        "emotional_resonance": 11.0,
+        "viral_potential": 10.0,
+        "entertainment_value": 10.0,
+        "interesting_score": 42.0,
+        "practical_value": 5.0,
+        "market_potential": 5.0,
+        "useful_score": 10.0,
+        "total_score": 52.0
+      },
+      "product_idea": {
+        "product_name": "热点解读",
+        "core_features": [
+          "实时热点话题聚合",
+          "多角度深度解读",
+          "用户观点讨论",
+          "相关内容推荐",
+          "历史话题回顾"
+        ],
+        "target_users": "关注时事的网民、内容创作者、媒体从业者",
+        "value_proposition": "智能热点分析平台，帮助用户快速理解热门话题背后的深意"
+      },
+      "grade": "普通"
+    },
+    {
+      "rank": 7,
+      "title": "鲁南制药全时空守护",
+      "hot_value": 0,
+      "scores": {
+        "novelty": 11.0,
+        "emotional_resonance": 10.0,
+        "viral_potential": 10.0,
+        "entertainment_value": 10.0,
+        "interesting_score": 41.0,
+        "practical_value": 5.0,
+        "market_potential": 5.0,
+        "useful_score": 10.0,
+        "total_score": 51.0
+      },
+      "product_idea": {
+        "product_name": "热点解读",
+        "core_features": [
+          "实时热点话题聚合",
+          "多角度深度解读",
+          "用户观点讨论",
+          "相关内容推荐",
+          "历史话题回顾"
+        ],
+        "target_users": "关注时事的网民、内容创作者、媒体从业者",
+        "value_proposition": "智能热点分析平台，帮助用户快速理解热门话题背后的深意"
+      },
+      "grade": "普通"
+    },
+    {
+      "rank": 8,
+      "title": "家长吐槽一上小学就要买打印机",
+      "hot_value": 193623,
+      "scores": {
+        "novelty": 11.0,
+        "emotional_resonance": 11.0,
+        "viral_potential": 10.0,
+        "entertainment_value": 10.0,
+        "interesting_score": 42.0,
+        "practical_value": 5.0,
+        "market_potential": 5.0,
+        "useful_score": 10.0,
+        "total_score": 52.0
+      },
+      "product_idea": {
+        "product_name": "家校通",
+        "core_features": [
+          "作业发布与提交",
+          "学习成绩实时查看",
+          "家校沟通即时消息",
+          "教育资源分享平台",
+          "学生表现综合评估"
+        ],
+        "target_users": "学生家长、教师、教育机构管理者",
+        "value_proposition": "数字化家校沟通平台，提高教育效率，促进家校合作"
+      },
+      "grade": "普通"
+    },
+    {
+      "rank": 9,
+      "title": "机构采购5台电脑预算写2.95亿",
+      "hot_value": 186961,
+      "scores": {
+        "novelty": 11.0,
+        "emotional_resonance": 11.0,
+        "viral_potential": 10.0,
+        "entertainment_value": 10.0,
+        "interesting_score": 42.0,
+        "practical_value": 7.0,
+        "market_potential": 5.0,
+        "useful_score": 12.0,
+        "total_score": 54.0
+      },
+      "product_idea": {
+        "product_name": "科技测评",
+        "core_features": [
+          "数码产品专业评测",
+          "购买建议与对比",
+          "使用技巧分享",
+          "维修保养指导",
+          "二手交易平台"
+        ],
+        "target_users": "数码爱好者、消费者、科技产品购买者",
+        "value_proposition": "专业数码产品导购平台，帮助用户做出明智购买决策"
+      },
+      "grade": "普通"
+    },
+    {
+      "rank": 10,
+      "title": "张杰跨年演唱会",
+      "hot_value": 179256,
+      "scores": {
+        "novelty": 11.0,
+        "emotional_resonance": 11.0,
+        "viral_potential": 12.5,
+        "entertainment_value": 14.0,
+        "interesting_score": 48.5,
+        "practical_value": 5.0,
+        "market_potential": 5.0,
+        "useful_score": 10.0,
+        "total_score": 58.5
+      },
+      "product_idea": {
+        "product_name": "星途",
+        "core_features": [
+          "明星动态实时追踪",
+          "演唱会门票抢购",
+          "粉丝社区互动",
+          "明星周边商城",
+          "独家内容订阅"
+        ],
+        "target_users": "年轻粉丝群体、娱乐爱好者、追星族",
+        "value_proposition": "一站式粉丝互动平台，追星更轻松，体验更丰富"
+      },
+      "grade": "普通"
+    },
+    {
+      "rank": 11,
+      "title": "恋与深空登顶",
+      "hot_value": 179112,
+      "scores": {
+        "novelty": 10.0,
+        "emotional_resonance": 11.0,
+        "viral_potential": 10.0,
+        "entertainment_value": 10.0,
+        "interesting_score": 41.0,
+        "practical_value": 5.0,
+        "market_potential": 5.0,
+        "useful_score": 10.0,
+        "total_score": 51.0
+      },
+      "product_idea": {
+        "product_name": "热点解读",
+        "core_features": [
+          "实时热点话题聚合",
+          "多角度深度解读",
+          "用户观点讨论",
+          "相关内容推荐",
+          "历史话题回顾"
+        ],
+        "target_users": "关注时事的网民、内容创作者、媒体从业者",
+        "value_proposition": "智能热点分析平台，帮助用户快速理解热门话题背后的深意"
+      },
+      "grade": "普通"
+    },
+    {
+      "rank": 12,
+      "title": "王梓莼 00花",
+      "hot_value": 179013,
+      "scores": {
+        "novelty": 10.0,
+        "emotional_resonance": 11.0,
+        "viral_potential": 10.0,
+        "entertainment_value": 10.0,
+        "interesting_score": 41.0,
+        "practical_value": 5.0,
+        "market_potential": 5.0,
+        "useful_score": 10.0,
+        "total_score": 51.0
+      },
+      "product_idea": {
+        "product_name": "热点解读",
+        "core_features": [
+          "实时热点话题聚合",
+          "多角度深度解读",
+          "用户观点讨论",
+          "相关内容推荐",
+          "历史话题回顾"
+        ],
+        "target_users": "关注时事的网民、内容创作者、媒体从业者",
+        "value_proposition": "智能热点分析平台，帮助用户快速理解热门话题背后的深意"
+      },
+      "grade": "普通"
+    },
+    {
+      "rank": 13,
+      "title": "胡歌自曝母亲看不上他拍的古偶戏",
+      "hot_value": 178846,
+      "scores": {
+        "novelty": 10.0,
+        "emotional_resonance": 11.0,
+        "viral_potential": 10.0,
+        "entertainment_value": 10.0,
+        "interesting_score": 41.0,
+        "practical_value": 5.0,
+        "market_potential": 5.0,
+        "useful_score": 10.0,
+        "total_score": 51.0
+      },
+      "product_idea": {
+        "product_name": "热点解读",
+        "core_features": [
+          "实时热点话题聚合",
+          "多角度深度解读",
+          "用户观点讨论",
+          "相关内容推荐",
+          "历史话题回顾"
+        ],
+        "target_users": "关注时事的网民、内容创作者、媒体从业者",
+        "value_proposition": "智能热点分析平台，帮助用户快速理解热门话题背后的深意"
+      },
+      "grade": "普通"
+    },
+    {
+      "rank": 14,
+      "title": "业内曝大量艺人资源降级",
+      "hot_value": 178740,
+      "scores": {
+        "novelty": 10.0,
+        "emotional_resonance": 11.0,
+        "viral_potential": 10.0,
+        "entertainment_value": 10.0,
+        "interesting_score": 41.0,
+        "practical_value": 5.0,
+        "market_potential": 5.0,
+        "useful_score": 10.0,
+        "total_score": 51.0
+      },
+      "product_idea": {
+        "product_name": "热点解读",
+        "core_features": [
+          "实时热点话题聚合",
+          "多角度深度解读",
+          "用户观点讨论",
+          "相关内容推荐",
+          "历史话题回顾"
+        ],
+        "target_users": "关注时事的网民、内容创作者、媒体从业者",
+        "value_proposition": "智能热点分析平台，帮助用户快速理解热门话题背后的深意"
+      },
+      "grade": "普通"
+    },
+    {
+      "rank": 15,
+      "title": "发朋友圈 羞耻感",
+      "hot_value": 178576,
+      "scores": {
+        "novelty": 10.0,
+        "emotional_resonance": 11.0,
+        "viral_potential": 10.0,
+        "entertainment_value": 10.0,
+        "interesting_score": 41.0,
+        "practical_value": 5.0,
+        "market_potential": 5.0,
+        "useful_score": 10.0,
+        "total_score": 51.0
+      },
+      "product_idea": {
+        "product_name": "热点解读",
+        "core_features": [
+          "实时热点话题聚合",
+          "多角度深度解读",
+          "用户观点讨论",
+          "相关内容推荐",
+          "历史话题回顾"
+        ],
+        "target_users": "关注时事的网民、内容创作者、媒体从业者",
+        "value_proposition": "智能热点分析平台，帮助用户快速理解热门话题背后的深意"
+      },
+      "grade": "普通"
+    },
+    {
+      "rank": 16,
+      "title": "攒了两万条的朋友圈消息被别人点了",
+      "hot_value": 178395,
+      "scores": {
+        "novelty": 10.0,
+        "emotional_resonance": 11.0,
+        "viral_potential": 10.0,
+        "entertainment_value": 10.0,
+        "interesting_score": 41.0,
+        "practical_value": 5.0,
+        "market_potential": 5.0,
+        "useful_score": 10.0,
+        "total_score": 51.0
+      },
+      "product_idea": {
+        "product_name": "热点解读",
+        "core_features": [
+          "实时热点话题聚合",
+          "多角度深度解读",
+          "用户观点讨论",
+          "相关内容推荐",
+          "历史话题回顾"
+        ],
+        "target_users": "关注时事的网民、内容创作者、媒体从业者",
+        "value_proposition": "智能热点分析平台，帮助用户快速理解热门话题背后的深意"
+      },
+      "grade": "普通"
+    },
+    {
+      "rank": 17,
+      "title": "演员洪剑涛景区试戴帽子被要价5元",
+      "hot_value": 178192,
+      "scores": {
+        "novelty": 10.0,
+        "emotional_resonance": 11.0,
+        "viral_potential": 12.5,
+        "entertainment_value": 14.0,
+        "interesting_score": 47.5,
+        "practical_value": 5.0,
+        "market_potential": 5.0,
+        "useful_score": 10.0,
+        "total_score": 57.5
+      },
+      "product_idea": {
+        "product_name": "星途",
+        "core_features": [
+          "明星动态实时追踪",
+          "演唱会门票抢购",
+          "粉丝社区互动",
+          "明星周边商城",
+          "独家内容订阅"
+        ],
+        "target_users": "年轻粉丝群体、娱乐爱好者、追星族",
+        "value_proposition": "一站式粉丝互动平台，追星更轻松，体验更丰富"
+      },
+      "grade": "普通"
+    },
+    {
+      "rank": 18,
+      "title": "服奥司他韦防流感有个前提条件",
+      "hot_value": 177940,
+      "scores": {
+        "novelty": 10.0,
+        "emotional_resonance": 11.0,
+        "viral_potential": 10.0,
+        "entertainment_value": 10.0,
+        "interesting_score": 41.0,
+        "practical_value": 7.5,
+        "market_potential": 5.0,
+        "useful_score": 12.5,
+        "total_score": 53.5
+      },
+      "product_idea": {
+        "product_name": "热点解读",
+        "core_features": [
+          "实时热点话题聚合",
+          "多角度深度解读",
+          "用户观点讨论",
+          "相关内容推荐",
+          "历史话题回顾"
+        ],
+        "target_users": "关注时事的网民、内容创作者、媒体从业者",
+        "value_proposition": "智能热点分析平台，帮助用户快速理解热门话题背后的深意"
+      },
+      "grade": "普通"
+    },
+    {
+      "rank": 19,
+      "title": "举报公职人员后喝农药店主已去世",
+      "hot_value": 177776,
+      "scores": {
+        "novelty": 10.0,
+        "emotional_resonance": 14.0,
+        "viral_potential": 10.0,
+        "entertainment_value": 10.0,
+        "interesting_score": 44.0,
+        "practical_value": 5.0,
+        "market_potential": 5.0,
+        "useful_score": 10.0,
+        "total_score": 54.0
+      },
+      "product_idea": {
+        "product_name": "热点解读",
+        "core_features": [
+          "实时热点话题聚合",
+          "多角度深度解读",
+          "用户观点讨论",
+          "相关内容推荐",
+          "历史话题回顾"
+        ],
+        "target_users": "关注时事的网民、内容创作者、媒体从业者",
+        "value_proposition": "智能热点分析平台，帮助用户快速理解热门话题背后的深意"
+      },
+      "grade": "普通"
+    },
+    {
+      "rank": 20,
+      "title": "千问上线阿里最强AI生图模型满血版",
+      "hot_value": 177669,
+      "scores": {
+        "novelty": 13.0,
+        "emotional_resonance": 11.0,
+        "viral_potential": 10.0,
+        "entertainment_value": 10.0,
+        "interesting_score": 44.0,
+        "practical_value": 7.0,
+        "market_potential": 8.0,
+        "useful_score": 15.0,
+        "total_score": 59.0
+      },
+      "product_idea": {
+        "product_name": "AI工具箱",
+        "core_features": [
+          "多模型AI生成工具集成",
+          "创意内容一键生成",
+          "工作效率提升助手",
+          "个性化AI训练",
+          "团队协作空间"
+        ],
+        "target_users": "内容创作者、设计师、营销人员、开发者、企业用户",
+        "value_proposition": "整合主流AI工具，提供一站式AI解决方案，大幅提升工作效率和创意产出"
+      },
+      "grade": "普通"
+    }
+  ],
+  "statistics": {
+    "excellent": 0,
+    "good": 2,
+    "normal": 18
+  }
+}
