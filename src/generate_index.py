@@ -6,19 +6,18 @@
 import sys
 from pathlib import Path
 from datetime import datetime
-import json
-
-# 添加项目根目录到 Python 路径
-project_root = Path(__file__).parent.parent
-sys.path.insert(0, str(project_root))
-
-from src.path_utils import PathManager
 
 
 def generate_index_html():
     """生成索引页面"""
-    path_manager = PathManager()
-    data_dir = path_manager.get_data_dir()
+    # 直接使用相对路径，不依赖 PathManager
+    project_root = Path(__file__).parent.parent
+    data_dir = project_root / "data"
+
+    # 确保 data 目录存在
+    if not data_dir.exists():
+        print(f"Error: data directory not found at {data_dir}")
+        return None
 
     # 获取所有 HTML 报告文件
     html_files = sorted(data_dir.glob("*_analysis_*.html"), reverse=True)
@@ -68,7 +67,7 @@ def generate_index_html():
     with open(index_path, 'w', encoding='utf-8') as f:
         f.write(html_content)
 
-    print(f"✅ 索引页面已生成: {index_path}")
+    print(f"Index page generated: {index_path}")
     return index_path
 
 
