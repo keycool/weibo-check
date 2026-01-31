@@ -117,34 +117,107 @@ class TrendAnalyzer:
             return json.loads(response_text)
         except json.JSONDecodeError as e:
             print(f"⚠️ JSON 解析失败: {e}")
-            fixed_text = self._fix_json(response_text)
-            try:
-                return json.loads(fixed_text)
-            except json.JSONDecodeError:
-                pass
-            
+            print(f"错误位置: line {e.lineno} column {e.colno}")
+            print(f"原始响应前500字符: {response_text[:500]}...")
+
+            # 尝试提取 JSON 数组（先提取再修复）
             import re
             match = re.search(r'\[[\s\S]*\]', response_text)
             if match:
+                extracted = match.group()
+                print(f"✓ 提取到 JSON 数组，长度: {len(extracted)}")
+
+                # 尝试直接解析提取的内容
                 try:
-                    return json.loads(match.group())
-                except json.JSONDecodeError:
-                    fixed_match = self._fix_json(match.group())
-                    return json.loads(fixed_match)
-            raise
+                    return json.loads(extracted)
+                except json.JSONDecodeError as e2:
+                    print(f"⚠️ 提取的 JSON 仍有错误: {e2}")
+                    print(f"错误位置: line {e2.lineno} column {e2.colno}")
+
+                    # 尝试修复提取的 JSON
+                    fixed_extracted = self._fix_json(extracted)
+                    try:
+                        result = json.loads(fixed_extracted)
+                        print(f"✓ JSON 修复成功")
+                        return result
+                    except json.JSONDecodeError as e3:
+                        print(f"⚠️ 修复后仍有错误: {e3}")
+                        # 保存问题 JSON 用于调试
+                        debug_file = self.path_manager.get_data_dir() / f"debug_json_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt"
+                        with open(debug_file, 'w', encoding='utf-8') as f:
+                            f.write("=== 原始响应 ===\n")
+                            f.write(response_text)
+                            f.write("\n\n=== 提取的 JSON ===\n")
+                            f.write(extracted)
+                            f.write("\n\n=== 修复后的 JSON ===\n")
+                            f.write(fixed_extracted)
+                        print(f"⚠️ 调试信息已保存到: {debug_file.name}")
+                        raise e3
+
+            # 如果无法提取 JSON 数组，尝试修复原始文本
+            print(f"⚠️ 无法提取 JSON 数组，尝试修复原始文本")
+            fixed_text = self._fix_json(response_text)
+            try:
+                return json.loads(fixed_text)
+            except json.JSONDecodeError as e4:
+                # 保存问题 JSON 用于调试
+                debug_file = self.path_manager.get_data_dir() / f"debug_json_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt"
+                with open(debug_file, 'w', encoding='utf-8') as f:
+                    f.write("=== 原始响应 ===\n")
+                    f.write(response_text)
+                    f.write("\n\n=== 修复后的文本 ===\n")
+                    f.write(fixed_text)
+                print(f"⚠️ 调试信息已保存到: {debug_file.name}")
+                raise e4
 
     def _fix_json(self, text: str) -> str:
+        """尝试修复常见的 JSON 格式错误"""
         import re
+
+        # 移除可能的 BOM 和其他不可见字符
         text = text.strip().lstrip('\ufeff')
+
+        # 修复 }{  -> },{  (对象之间缺少逗号)
         text = re.sub(r'\}\s*\{', '},{', text)
+
+        # 修复 ][ -> ],[ (数组之间缺少逗号)
         text = re.sub(r'\]\s*\[', '],[', text)
+
+        # 修复对象后面直接跟字符串键 (如: }"key" -> },"key")
+        text = re.sub(r'\}\s*"(?=[a-zA-Z_\u4e00-\u9fff])', '},"', text)
+
+        # 修复数组后面直接跟字符串 (如: ]"key" -> ],"key")
+        text = re.sub(r'\]\s*"(?=[a-zA-Z_\u4e00-\u9fff])', '],"', text)
+
+        # 修复 "value""key" -> "value","key" (字符串之间缺少逗号)
         text = re.sub(r'"\s*"(?=[a-zA-Z_\u4e00-\u9fff])', '","', text)
+
+        # 修复 "value"  "key" 或 "value"\n"key" (带空格/换行的情况)
         text = re.sub(r'"\s+\"', '","', text)
+
+        # 修复数字后面直接跟字符串 (如: 85"key" -> 85,"key")
         text = re.sub(r'(\d)\s*"(?=[a-zA-Z_\u4e00-\u9fff])', r'\1,"', text)
+
+        # 修复数字后面直接跟对象 (如: 85{ -> 85,{)
+        text = re.sub(r'(\d)\s*\{', r'\1,{', text)
+
+        # 修复 true/false/null 后面直接跟引号
         text = re.sub(r'(true|false|null)\s*"', r'\1,"', text)
+
+        # 修复 true/false/null 后面直接跟对象
+        text = re.sub(r'(true|false|null)\s*\{', r'\1,{', text)
+
+        # 移除尾随逗号 (如: [1,2,3,] -> [1,2,3])
         text = re.sub(r',\s*\]', ']', text)
         text = re.sub(r',\s*\}', '}', text)
+
+        # 修复多余的逗号 (如: {,, -> {, 或 ,,, -> ,)
         text = re.sub(r',\s*,+', ',', text)
+
+        # 修复开头的逗号 (如: {,"key" -> {"key")
+        text = re.sub(r'\{\s*,', '{', text)
+        text = re.sub(r'\[\s*,', '[', text)
+
         return text
 
     def generate_html_report(self, analysis: list, timestamp: str) -> Path:
