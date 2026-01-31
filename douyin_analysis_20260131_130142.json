@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "莱巴金娜首夺澳网桂冠",
+    "scores": {
+      "novelty": 12,
+      "resonance": 10,
+      "viral": 8,
+      "entertainment": 10,
+      "practical": 1,
+      "market": 5
+    },
+    "total_score": 46,
+    "grade": "普通",
+    "product_idea": {
+      "name": "冠军时刻智能剪辑",
+      "features": "AI自动识别体育赛事高光时刻，一键生成带特效的庆祝短视频，支持个性化贴纸和庆祝语音。",
+      "target_users": "网球爱好者、体育迷、短视频创作者",
+      "value_proposition": "让普通用户零门槛制作属于自己的夺冠纪念视频，瞬间拥有主角光环。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "伊朗阿巴斯港居民楼传出爆炸声",
+    "scores": {
+      "novelty": 10,
+      "resonance": 5,
+      "viral": 8,
+      "entertainment": 0,
+      "practical": 3,
+      "market": 1
+    },
+    "total_score": 27,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球安全态势地图",
+      "features": "基于LBS和新闻API的全球突发安全事件实时推送与安全避险路径规划。",
+      "target_users": "出境旅游者、商务出差人士、海外留学生",
+      "value_proposition": "提供及时的海外安全预警与避险指导，保障出行安全。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "春运期间各地天气情况如何",
+    "scores": {
+      "novelty": 2,
+      "resonance": 15,
+      "viral": 10,
+      "entertainment": 2,
+      "practical": 9,
+      "market": 6
+    },
+    "total_score": 44,
+    "grade": "普通",
+    "product_idea": {
+      "name": "归途通智能伴驾",
+      "features": "结合沿途天气、路况拥堵预测及服务区繁忙度的返乡全程助手，提供衣物的携带建议。",
+      "target_users": "春运自驾返乡人群",
+      "value_proposition": "不仅要让你知道天气，更要帮你规划一条最温暖、最顺畅的回家路。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "应急管理部部长王祥喜被查",
+    "scores": {
+      "novelty": 15,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 0,
+      "practical": 2,
+      "market": 1
+    },
+    "total_score": 40,
+    "grade": "普通",
+    "product_idea": {
+      "name": "无门时政资讯流",
+      "features": "去中心化的新闻事实核查与时间线梳理工具，过滤情绪化表达，呈现客观事实脉络。",
+      "target_users": "关注时事的高知群体、投资者",
+      "value_proposition": "在信息过载的时代，提供纯净、客观的事实梳理服务。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "日本山林发现中国籍女性遗体",
+    "scores": {
+      "novelty": 10,
+      "resonance": 8,
+      "viral": 12,
+      "entertainment": 0,
+      "practical": 2,
+      "market": 1
+    },
+    "total_score": 33,
+    "grade": "普通",
+    "product_idea": {
+      "name": "独行侠出境安全卫士",
+      "features": "针对独自出境女性的SOS一键报警、位置实时共享、轨迹偏移预警及本地警方联动功能。",
+      "target_users": "独自出境旅游的女性、留学生",
+      "value_proposition": "为独自探索世界的女性提供隐形的数字保镖，让远方不再无助。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "T1 3:0 DK",
+    "scores": {
+      "novelty": 5,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 15,
+      "practical": 1,
+      "market": 8
+    },
+    "total_score": 59,
+    "grade": "普通",
+    "product_idea": {
+      "name": "电竞神预言竞猜乐园",
+      "features": "基于比赛数据的实时互动预言游戏，用户可使用虚拟货币对MVP、比赛时长等进行微竞猜。",
+      "target_users": "电竞观众、游戏玩家",
+      "value_proposition": "提升观赛参与感，让每一位观众都能享受预测准确的成就感。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "2026第一个月就要过完了",
+    "scores": {
+      "novelty": 16,
+      "resonance": 18,
+      "viral": 15,
+      "entertainment": 8,
+      "practical": 4,
+      "market": 5
+    },
+    "total_score": 66,
+    "grade": "良好",
+    "product_idea": {
+      "name": "流光岁月可视化账单",
+      "features": "以年为单位生成个人时间消耗报告，通过沉浸式3D视频展示用户在吃饭、睡眠、娱乐等方面的时间投入。",
+      "target_users": "年轻白领、学生党、对时光流逝敏感的人群",
+      "value_proposition": "用直观的视觉冲击唤醒用户的时间管理意识，记录每一寸光阴的痕迹。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "把思念写进一封家书",
+    "scores": {
+      "novelty": 14,
+      "resonance": 19,
+      "viral": 16,
+      "entertainment": 5,
+      "practical": 7,
+      "market": 8
+    },
+    "total_score": 69,
+    "grade": "良好",
+    "product_idea": {
+      "name": "慢递未来家书馆",
+      "features": "数字化手写信工具，支持语音转文字、指纹印章加密，并可在指定未来时间（如明年春节）送达。",
+      "target_users": "离家在外的游子、不善于口头表达的群体",
+      "value_proposition": "在这个快节奏时代，复兴传统书信文化，用仪式感承载沉甸甸的思念。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "重返狼群导演亦风发声",
+    "scores": {
+      "novelty": 11,
+      "resonance": 13,
+      "viral": 12,
+      "entertainment": 6,
+      "practical": 3,
+      "market": 4
+    },
+    "total_score": 49,
+    "grade": "普通",
+    "product_idea": {
+      "name": "云端野生动物守护者",
+      "features": "通过AI识别技术在野外红外相机素材中筛选有趣片段，用户可领养虚拟动物并获得真实野保反馈。",
+      "target_users": "宠物爱好者、环保人士、亲子家庭",
+      "value_proposition": "让城市人通过云养的方式参与野生动物保护，获得心灵治愈。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "伊媒否认革命卫队海军司令遭暗杀",
+    "scores": {
+      "novelty": 12,
+      "resonance": 8,
+      "viral": 9,
+      "entertainment": 2,
+      "practical": 2,
+      "market": 1
+    },
+    "total_score": 34,
+    "grade": "普通",
+    "product_idea": {
+      "name": "真伪鉴别新闻聚合器",
+      "features": "针对突发国际新闻，自动抓取多方信源并生成真假概率分析图，标注官方辟谣信息。",
+      "target_users": "时政关注者、研究者",
+      "value_proposition": "在真假难辨的舆论场中，做用户的私人事实核查员。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "烟火下心愿皆成",
+    "scores": {
+      "novelty": 10,
+      "resonance": 17,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 67,
+    "grade": "良好",
+    "product_idea": {
+      "name": "AR实景烟花许愿",
+      "features": "基于LBS的AR应用，用户在夜空放飞虚拟烟花，烟花炸裂时展示用户的心愿弹幕。",
+      "target_users": "情侣、年轻群体、节日庆祝者",
+      "value_proposition": "用科技弥补环保限制下的遗憾，随时随地享受浪漫的视觉盛宴。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "一周谣言鉴别",
+    "scores": {
+      "novelty": 8,
+      "resonance": 10,
+      "viral": 12,
+      "entertainment": 8,
+      "practical": 9,
+      "market": 6
+    },
+    "total_score": 53,
+    "grade": "普通",
+    "product_idea": {
+      "name": "家庭群辟谣小助手",
+      "features": "浏览器插件或小程序，自动识别转发文章中的科学/医学谣言，并生成带有表情包的通俗辟谣卡片。",
+      "target_users": "经常被家族群谣言困扰的年轻人",
+      "value_proposition": "用科学武装亲情，让关爱不再被谣言误导，守护家庭健康。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "延边大学食堂阿姨受邀看春晚彩排",
+    "scores": {
+      "novelty": 15,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 12,
+      "practical": 3,
+      "market": 7
+    },
+    "total_score": 68,
+    "grade": "良好",
+    "product_idea": {
+      "name": "素人高光时刻策划官",
+      "features": "挖掘身边平凡人的不平凡故事，提供专业的脚本包装与视频剪辑服务，助其登上热搜。",
+      "target_users": "想要出圈的品牌方、有故事的普通人",
+      "value_proposition": "每一个普通人都是生活的主角，我们负责寻找并放大平凡生活中的星光。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "想陪你追着日落看星星",
+    "scores": {
+      "novelty": 6,
+      "resonance": 15,
+      "viral": 13,
+      "entertainment": 12,
+      "practical": 2,
+      "market": 7
+    },
+    "total_score": 55,
+    "grade": "普通",
+    "product_idea": {
+      "name": "星际恋人约会地图",
+      "features": "结合天文数据和地理位置，推荐最佳观星、日落景点，并关联附近适合约会的高评分餐厅。",
+      "target_users": "情侣、浪漫主义者",
+      "value_proposition": "为约会提供最具浪漫科学依据的路线，打造难忘的回忆场景。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "择天记3D动画开播",
+    "scores": {
+      "novelty": 10,
+      "resonance": 14,
+      "viral": 13,
+      "entertainment": 15,
+      "practical": 2,
+      "market": 9
+    },
+    "total_score": 63,
+    "grade": "普通",
+    "product_idea": {
+      "name": "国漫角色AI捏脸换装",
+      "features": "基于国漫IP的3D角色生成工具，用户可上传照片生成角色立绘，并进行服饰、武器的DIY搭配。",
+      "target_users": "国漫粉丝、二次元用户",
+      "value_proposition": "打破次元壁，让用户瞬间化身动画主角，创作专属国漫形象。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "年夜饭代表牛羊肉申请出战",
+    "scores": {
+      "novelty": 11,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 7,
+      "market": 9
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "家乡年味预制菜盲盒",
+      "features": "将全国各地的特色年菜（如内蒙牛羊肉、广东盆菜）做成小份装盲盒，用户可通过视频开箱试吃。",
+      "target_users": "过年不想做大菜的人群、想尝鲜的吃货",
+      "value_proposition": "足不出户，一桌吃遍全国硬菜，解决春节做饭难的痛点。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "生命树首播热度",
+    "scores": {
+      "novelty": 8,
+      "resonance": 12,
+      "viral": 12,
+      "entertainment": 12,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "剧情同款穿搭AR试穿",
+      "features": "影视剧播出时，AI实时识别剧中人物服饰，并提供同款链接或AR一键试穿功能。",
+      "target_users": "追剧党、网购爱好者",
+      "value_proposition": "实现“看到即买到”，边追剧边边种草边剁手，缩短消费路径。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "和郁可唯一起唱路过人间",
+    "scores": {
+      "novelty": 10,
+      "resonance": 14,
+      "viral": 14,
+      "entertainment": 15,
+      "practical": 3,
+      "market": 7
+    },
+    "total_score": 63,
+    "grade": "普通",
+    "product_idea": {
+      "name": "明星合调K歌房",
+      "features": "AI自动提取明星原声音轨，支持用户与明星原声进行实时合唱，并生成双人分屏MV。",
+      "target_users": "K歌爱好者、粉丝群体",
+      "value_proposition": "零门槛实现与偶像同台对唱的梦想，打造专业级个人MV。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "在抖音追生命树有问必答",
+    "scores": {
+      "novelty": 12,
+      "resonance": 13,
+      "viral": 12,
+      "entertainment": 10,
+      "practical": 4,
+      "market": 7
+    },
+    "total_score": 58,
+    "grade": "普通",
+    "product_idea": {
+      "name": "剧集角色智能陪聊师",
+      "features": "基于大模型技术的剧中角色Chatbot，用户可与角色进行跨次元对话，甚至改变剧情走向。",
+      "target_users": "剧粉、寻求情感陪伴的用户",
+      "value_proposition": "打破屏幕隔阂，让用户进入剧中的世界，与喜欢的角色建立真实情感连接。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "抖音年味舞蹈大赏",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 18,
+      "entertainment": 16,
+      "practical": 4,
+      "market": 9
+    },
+    "total_score": 71,
+    "grade": "良好",
+    "product_idea": {
+      "name": "全家福魔镜舞动教学",
+      "features": "对着屏幕起舞，AI实时捕捉全家人的动作并进行评分纠错，生成自带特效的电子全家福相框。",
+      "target_users": "家庭用户、聚会人群",
+      "value_proposition": "将独居的短视频挑战转化为线下家庭互动游戏，用科技激活亲情。"
+    }
+  }
+]
