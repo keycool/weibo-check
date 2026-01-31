@@ -1,4 +1,4 @@
-name: 微博热搜分析
+name: 多平台热搜分析
 
 on:
   schedule:
@@ -35,15 +35,27 @@ jobs:
           pip install -r requirements.txt
 
       - name: Fetch Weibo hot search data
-        run: python -m src.fetch_weibo
+        run: python -m src.fetch_hotsearch --source weibo
 
-      - name: Analyze with Claude SDK
-        run: python -m src.analyze_with_claude
+      - name: Fetch Douyin hot search data
+        run: python -m src.fetch_hotsearch --source douyin
+
+      - name: Fetch WeChat hot search data
+        run: python -m src.fetch_hotsearch --source wechat
+
+      - name: Analyze Weibo with Claude SDK
+        run: python -m src.analyze_trends --source weibo
+
+      - name: Analyze Douyin with Claude SDK
+        run: python -m src.analyze_trends --source douyin
+
+      - name: Analyze WeChat with Claude SDK
+        run: python -m src.analyze_trends --source wechat
 
       - name: Upload analysis report
         uses: actions/upload-artifact@v4
         with:
-          name: weibo-analysis-${{ github.run_id }}
+          name: hotsearch-analysis-${{ github.run_id }}
           path: data/*.html
           retention-days: 30
 
