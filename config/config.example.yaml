@@ -7,15 +7,18 @@ version: "1.0.0"
 # API配置
 api:
   tianapi:
-    # 天API基础URL
-    base_url: "https://apis.tianapi.com/weibohot/index"
+    # API密钥（推荐使用环境变量 TIANAPI_KEY）
+    # 在此设置密钥不安全，仅供测试使用
+    key: ""
     # 请求超时时间（秒）
     timeout: 30
     # 最大重试次数
     max_retries: 3
-    # API密钥（推荐使用环境变量 TIANAPI_KEY）
-    # 在此设置密钥不安全，仅供测试使用
-    key: ""
+    # 多平台热搜API地址
+    sources:
+      weibo: "https://apis.tianapi.com/weibohot/index"
+      douyin: "https://apis.tianapi.com/douyinhot/index"
+      wechat: "https://apis.tianapi.com/wxhottopic/index"
 
 # 分析配置
 analysis:
@@ -46,10 +49,10 @@ analysis:
 paths:
   # 数据目录（相对于项目根目录）
   data_dir: "data"
-  # 原始数据文件名格式（{timestamp}将自动替换为时间戳）
-  raw_filename_format: "weibo_raw_{timestamp}.json"
+  # 原始数据文件名格式（{source}和{timestamp}将自动替换）
+  raw_filename_format: "{source}_raw_{timestamp}.json"
   # 分析报告文件名格式
-  report_filename_format: "weibo_analysis_{timestamp}.html"
+  report_filename_format: "{source}_analysis_{timestamp}.html"
   # 时间戳格式（Python strftime格式）
   timestamp_format: "%Y%m%d_%H%M%S"
 
@@ -61,8 +64,8 @@ output:
   encoding: "utf-8"
   # 是否保存分析中间结果
   save_intermediate: true
-  # 中间结果文件名格式
-  intermediate_filename: "weibo_analysis_{timestamp}.json"
+  # 中间结果文件名格式（{source}和{timestamp}将自动替换）
+  intermediate_filename: "{source}_analysis_{timestamp}.json"
 
 # 日志配置
 logging:
@@ -78,7 +81,7 @@ logging:
 # HTML报告配置
 html:
   # 报告标题
-  title: "微博热搜产品创意分析"
+  title: "多平台热搜产品创意分析"
   # 主题：dark, light, auto
   theme: "dark"
   # 是否启用动画
