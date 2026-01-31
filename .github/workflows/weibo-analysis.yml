@@ -34,6 +34,11 @@ jobs:
         run: |
           pip install -r requirements.txt
 
+      - name: Create config file
+        run: |
+          mkdir -p config
+          cp config/config.example.yaml config/config.yaml
+
       - name: Fetch Weibo hot search data
         run: python -m src.fetch_hotsearch --source weibo
 
