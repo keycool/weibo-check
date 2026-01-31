@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "续写中非友好的时代新篇",
+    "scores": {
+      "novelty": 5,
+      "resonance": 10,
+      "viral": 5,
+      "entertainment": 2,
+      "practical": 0,
+      "market": 0
+    },
+    "total_score": 22,
+    "grade": "普通",
+    "product_idea": {
+      "name": "“非”凡之旅 AR 博物馆",
+      "features": "结合AR技术，在手机端展示中非合作项目的历史与成果，用户可360度查看援建工程模型。",
+      "target_users": "学生、外交关注者、博物馆游客",
+      "value_proposition": "通过沉浸式体验增强对国家外交战略的认知和理解。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "歼-20体系化试飞罕见画面公开",
+    "scores": {
+      "novelty": 18,
+      "resonance": 19,
+      "viral": 17,
+      "entertainment": 18,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 79,
+    "grade": "良好",
+    "product_idea": {
+      "name": "“御空” 歼-20互动模拟屏保",
+      "features": "提取官方视频素材，开发动态屏保或互动壁纸，用户可通过手势操控简单的飞机特技动作。",
+      "target_users": "军迷、男性用户、年轻人",
+      "value_proposition": "将硬核军事内容转化为轻松的指尖娱乐，满足用户的自豪感和操控欲。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "应急管理部部长王祥喜被查",
+    "scores": {
+      "novelty": 15,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 5,
+      "practical": 0,
+      "market": 0
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "无（敏感话题不建议商业开发）",
+      "features": "",
+      "target_users": "",
+      "value_proposition": ""
+    }
+  },
+  {
+    "rank": 4,
+    "title": "一周“靓”数",
+    "scores": {
+      "novelty": 8,
+      "resonance": 10,
+      "viral": 8,
+      "entertainment": 5,
+      "practical": 5,
+      "market": 5
+    },
+    "total_score": 41,
+    "grade": "普通",
+    "product_idea": {
+      "name": "个人周报生成器",
+      "features": "自动抓取用户手机内的步数、消费、运动等数据，生成高颜值的“靓”数周报海报。",
+      "target_users": "社交媒体活跃用户、健身人群",
+      "value_proposition": "满足用户分享生活状态、展示自律形象的需求。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "“北京范儿”短视频大赛",
+    "scores": {
+      "novelty": 5,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 15,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 47,
+    "grade": "普通",
+    "product_idea": {
+      "name": "京味儿滤镜 APP",
+      "features": "提供具有北京特色（如胡同红墙、鸽哨音效、京腔字幕）的短视频拍摄模板和滤镜。",
+      "target_users": "短视频创作者、游客",
+      "value_proposition": "降低拍摄城市特色内容的门槛，帮助用户快速产出地道的“北京范儿”作品。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "重庆一小学回应班级收1500元清洁费",
+    "scores": {
+      "novelty": 12,
+      "resonance": 18,
+      "viral": 17,
+      "entertainment": 5,
+      "practical": 5,
+      "market": 2
+    },
+    "total_score": 59,
+    "grade": "普通",
+    "product_idea": {
+      "name": "校园透明收支助手",
+      "features": "为家委会或班级提供数字化记账工具，费用明细实时同步至所有家长，支持匿名质疑功能。",
+      "target_users": "学生家长、家委会成员",
+      "value_proposition": "利用区块链或透明记账技术，解决校园收费不透明引发的信任危机。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "年轻人开始抛弃投影仪",
+    "scores": {
+      "novelty": 16,
+      "resonance": 20,
+      "viral": 18,
+      "entertainment": 10,
+      "practical": 8,
+      "market": 9
+    },
+    "total_score": 81,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "居家光影改造顾问服务",
+      "features": "基于用户户型图，提供专业的影音设备选购方案（如是否适合投影、遮光优化、巨幕电视推荐）。",
+      "target_users": "租房族、装修人群、影音爱好者",
+      "value_proposition": "帮用户避开消费陷阱（如白天看不清的投影仪），提升居住品质的决策效率。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "11位储户220万存款被银行员工转走挥霍",
+    "scores": {
+      "novelty": 12,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 2,
+      "practical": 6,
+      "market": 4
+    },
+    "total_score": 61,
+    "grade": "良好",
+    "product_idea": {
+      "name": "资金流向卫士 App",
+      "features": "监测银行卡大额变动，当发生非本人操作的转账（特别是特定柜台操作）时，通过多通道报警。",
+      "target_users": "老年人、存款家庭、商户",
+      "value_proposition": "填补银行内部风控漏洞，为储户提供最后一道财产安全防线。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "男子李小龙被拐32年找到亲人",
+    "scores": {
+      "novelty": 10,
+      "resonance": 20,
+      "viral": 15,
+      "entertainment": 2,
+      "practical": 8,
+      "market": 2
+    },
+    "total_score": 57,
+    "grade": "普通",
+    "product_idea": {
+      "name": "寻亲基因比对互助平台",
+      "features": "利用开源基因数据技术，帮助失散家庭低成本进行初步筛选，并提供法律援助对接。",
+      "target_users": "寻亲者、公益组织",
+      "value_proposition": "用科技手段降低寻亲门槛，提供情感慰藉和实际帮助。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "69万公款误转租客 女职员：感觉天塌了",
+    "scores": {
+      "novelty": 15,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 5,
+      "practical": 9,
+      "market": 6
+    },
+    "total_score": 69,
+    "grade": "良好",
+    "product_idea": {
+      "name": "资金撤回“后悔药”工具",
+      "features": "与企业微信/支付宝合作，提供转账延时到期插件，内置风险账号库检测。",
+      "target_users": "财务人员、中小企业主",
+      "value_proposition": "通过技术手段（如SCA强客户认证）在转账黄金时间内拦截或撤销错误操作。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "只要穿得厚，关节就一定不会受寒？",
+    "scores": {
+      "novelty": 8,
+      "resonance": 15,
+      "viral": 12,
+      "entertainment": 5,
+      "practical": 8,
+      "market": 7
+    },
+    "total_score": 55,
+    "grade": "普通",
+    "product_idea": {
+      "name": "智能关节保暖护具",
+      "features": "内置温感芯片的护膝/护腕，根据环境温度和关节体表温度自动发热。",
+      "target_users": "老年人、风湿患者、冬季骑行者",
+      "value_proposition": "打破“穿得厚=保暖”的误区，提供精准的关节健康管理方案。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "“擦边”卖了超百亿，处罚来了",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 18,
+      "entertainment": 15,
+      "practical": 3,
+      "market": 2
+    },
+    "total_score": 66,
+    "grade": "良好",
+    "product_idea": {
+      "name": "纯净版内容聚合器",
+      "features": "利用AI识别并过滤含有软色情暗示的营销内容，只展示核心产品信息。",
+      "target_users": "家长、反感擦边营销的消费者",
+      "value_proposition": "还消费者一个清爽的购物环境，抵制低俗营销带来的流量剥削。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "哪座城市，最敢花钱！",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 8,
+      "practical": 5,
+      "market": 6
+    },
+    "total_score": 59,
+    "grade": "普通",
+    "product_idea": {
+      "name": "城市消费力指数榜",
+      "features": "可视化展示各城市餐饮、旅游、零售数据，为商家选址和游客出行提供参考。",
+      "target_users": "连锁商家、旅游爱好者",
+      "value_proposition": "将宏观数据转化为微观的商业决策依据和出行指南。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "河南省委书记：杜绝好大喜功",
+    "scores": {
+      "novelty": 10,
+      "resonance": 15,
+      "viral": 12,
+      "entertainment": 2,
+      "practical": 5,
+      "market": 2
+    },
+    "total_score": 46,
+    "grade": "普通",
+    "product_idea": {
+      "name": "政务项目实效评估模型",
+      "features": "SaaS工具，帮助地方政府评估项目的实际民生效益与投入产出比，规避面子工程。",
+      "target_users": "地方政府决策部门、智库",
+      "value_proposition": "通过数据量化评估，推动财政资金的高效利用。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "猛涨6000亿，紫金矿业又拿下4座金山",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 13,
+      "entertainment": 5,
+      "practical": 6,
+      "market": 7
+    },
+    "total_score": 57,
+    "grade": "普通",
+    "product_idea": {
+      "name": "黄金行情智能追踪助手",
+      "features": "关联全球矿业新闻与金价走势，提供智能定投建议。",
+      "target_users": "黄金投资者、散户",
+      "value_proposition": "从矿业巨头动态中洞察金价底层逻辑，辅助投资决策。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "财政部、税务总局发布增值税征税公告",
+    "scores": {
+      "novelty": 5,
+      "resonance": 15,
+      "viral": 10,
+      "entertainment": 0,
+      "practical": 10,
+      "market": 5
+    },
+    "total_score": 45,
+    "grade": "普通",
+    "product_idea": {
+      "name": "税务政策解读机器人",
+      "features": "将复杂的税务公告转化为自然语言问答，自动计算企业税负变化。",
+      "target_users": "中小企业主、财务人员",
+      "value_proposition": "降低政策理解门槛，助力企业快速适应税务变化。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "候补中央委员吴强，当选新职",
+    "scores": {
+      "novelty": 8,
+      "resonance": 12,
+      "viral": 8,
+      "entertainment": 0,
+      "practical": 2,
+      "market": 0
+    },
+    "total_score": 30,
+    "grade": "普通",
+    "product_idea": {
+      "name": "无",
+      "features": "",
+      "target_users": "",
+      "value_proposition": ""
+    }
+  },
+  {
+    "rank": 18,
+    "title": "勇救跳桥女子的理想车主找到了！",
+    "scores": {
+      "novelty": 10,
+      "resonance": 20,
+      "viral": 18,
+      "entertainment": 5,
+      "practical": 4,
+      "market": 3
+    },
+    "total_score": 60,
+    "grade": "良好",
+    "product_idea": {
+      "name": "紧急救助互助平台",
+      "features": "基于地理位置的“一键求助”功能，连接附近的救援力量（如车主、医护人员）。",
+      "target_users": "车主、救援志愿者",
+      "value_proposition": "发扬见义勇为精神，打造城市级的民间安全救援网络。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "创历史！张帅夺澳网女双第2冠",
+    "scores": {
+      "novelty": 12,
+      "resonance": 17,
+      "viral": 16,
+      "entertainment": 10,
+      "practical": 3,
+      "market": 6
+    },
+    "total_score": 64,
+    "grade": "良好",
+    "product_idea": {
+      "name": "冠军同款网球训练计划",
+      "features": "结合张帅的比赛数据，为业余球友提供针对性的双打战术训练和体能恢复计划。",
+      "target_users": "网球爱好者、健身人群",
+      "value_proposition": "借势冠军热度，满足用户模仿和学习专业技术的需求。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "贵州多家店铺一夜之间遭砌墙封堵",
+    "scores": {
+      "novelty": 14,
+      "resonance": 16,
+      "viral": 17,
+      "entertainment": 5,
+      "practical": 6,
+      "market": 4
+    },
+    "total_score": 62,
+    "grade": "良好",
+    "product_idea": {
+      "name": "商铺合规风险险",
+      "features": "针对突发性行政整改导致的停业损失提供保险产品，并包含法律咨询热线。",
+      "target_users": "个体商户、小微创业者",
+      "value_proposition": "为小微经营者提供抵御政策突变和意外风险的财务保障。"
+    }
+  }
+]
