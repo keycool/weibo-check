@@ -1,0 +1,607 @@
+{
+  "analysis_time": "2025-11-28T21:32:25.707468",
+  "data_file": "weibo_raw_20251128_212203.json",
+  "total_analyzed": 20,
+  "average_score": 65.7,
+  "grade_distribution": {
+    "excellent": 3,
+    "good": 15,
+    "normal": 2
+  },
+  "high_scoring_topics": [
+    {
+      "title": "和时代少年团吃冬天第一桶炸鸡",
+      "score": 88
+    },
+    {
+      "title": "疯狂动物城",
+      "score": 85
+    },
+    {
+      "title": "当我开店取消了扫码点单",
+      "score": 80
+    }
+  ],
+  "analysis_results": [
+    {
+      "rank": 1,
+      "title": "香港大埔火灾已致128人遇难",
+      "hot_value": "5637554",
+      "total_score": 55,
+      "grade": "普通",
+      "scores": {
+        "novelty": 5,
+        "emotional": 15,
+        "viral_potential": 20,
+        "entertainment": 15,
+        "practical_value": 5,
+        "market_potential": 5
+      },
+      "product_idea": {
+        "name": "CrisisGuard",
+        "functions": [
+          "实时灾害预警推送",
+          "紧急救援一键呼叫",
+          "安全避难所导航",
+          "家人实时位置共享",
+          "应急物资地图"
+        ],
+        "user_avatar": "都市居民、家庭主妇、老年人",
+        "pain_points": "灾害突发时信息滞后、救援资源获取困难、家人安全担忧",
+        "behavior": "关注公共安全信息，有应急准备意识",
+        "value_proposition": "构建城市级灾害预警网络，生死攸关时刻的黄金预警"
+      }
+    },
+    {
+      "rank": 2,
+      "title": "中国男篮vs韩国男篮",
+      "hot_value": "372543",
+      "total_score": 75,
+      "grade": "良好",
+      "scores": {
+        "novelty": 15,
+        "emotional": 18,
+        "viral_potential": 18,
+        "entertainment": 19,
+        "practical_value": 5,
+        "market_potential": 5
+      },
+      "product_idea": {
+        "name": "球迷圈",
+        "functions": [
+          "赛事直播实时互动",
+          "多维度数据分析",
+          "球迷社区话题讨论",
+          "球星技能学习课程",
+          "线下观赛活动组织"
+        ],
+        "user_avatar": "18-35岁篮球迷，关注CBA、NBA等赛事",
+        "pain_points": "无法与球友实时互动，缺乏专业数据解读",
+        "behavior": "热衷于赛事讨论和球星资讯浏览",
+        "value_proposition": "打造沉浸式篮球社区，让每一场球赛都成为社交盛宴"
+      }
+    },
+    {
+      "rank": 3,
+      "title": "12月这些新规影响你我",
+      "hot_value": "371585",
+      "total_score": 68,
+      "grade": "良好",
+      "scores": {
+        "novelty": 12,
+        "emotional": 10,
+        "viral_potential": 16,
+        "entertainment": 10,
+        "practical_value": 10,
+        "market_potential": 10
+      },
+      "product_idea": {
+        "name": "政策通Pro",
+        "functions": [
+          "政策智能推送",
+          "影响评估分析",
+          "适用人群匹配",
+          "办事指南生成",
+          "专家解读视频"
+        ],
+        "user_avatar": "中小企业主、自由职业者、政策关注者",
+        "pain_points": "政策信息分散，解读难度大，无法及时获取影响评估",
+        "behavior": "定期关注政策动态，担心错过重要变化",
+        "value_proposition": "让政策解读变得简单易懂，快速评估对自身的影响"
+      }
+    },
+    {
+      "rank": 4,
+      "title": "潮玩由NI尽在锋坦",
+      "hot_value": "",
+      "total_score": 60,
+      "grade": "良好",
+      "scores": {
+        "novelty": 12,
+        "emotional": 12,
+        "viral_potential": 14,
+        "entertainment": 12,
+        "practical_value": 5,
+        "market_potential": 5
+      },
+      "product_idea": {
+        "name": "创意产品4",
+        "functions": [
+          "待完善",
+          "待完善",
+          "待完善",
+          "待完善",
+          "待完善"
+        ],
+        "user_avatar": "待定义用户",
+        "pain_points": "待分析痛点",
+        "behavior": "待观察行为",
+        "value_proposition": "待提炼价值"
+      }
+    },
+    {
+      "rank": 5,
+      "title": "疯狂动物城",
+      "hot_value": "电影 370825",
+      "total_score": 85,
+      "grade": "优秀",
+      "scores": {
+        "novelty": 18,
+        "emotional": 20,
+        "viral_potential": 20,
+        "entertainment": 17,
+        "practical_value": 5,
+        "market_potential": 10
+      },
+      "product_idea": {
+        "name": "影次元",
+        "functions": [
+          "电影IP数字化体验",
+          "沉浸式剧情互动",
+          "角色养成系统",
+          "影迷社交圈子",
+          "衍生品电商平台"
+        ],
+        "user_avatar": "Z世代影迷，热爱二次元文化，注重社交分享",
+        "pain_points": "电影观影后体验断层，缺乏深度互动和持续参与",
+        "behavior": "热衷社交媒体分享，喜欢收集IP周边",
+        "value_proposition": "将电影IP转化为可互动、可养成的数字资产，延续观影体验"
+      }
+    },
+    {
+      "rank": 6,
+      "title": "香港将下半旗志哀",
+      "hot_value": "368289",
+      "total_score": 60,
+      "grade": "良好",
+      "scores": {
+        "novelty": 12,
+        "emotional": 12,
+        "viral_potential": 14,
+        "entertainment": 12,
+        "practical_value": 5,
+        "market_potential": 5
+      },
+      "product_idea": {
+        "name": "创意产品6",
+        "functions": [
+          "待完善",
+          "待完善",
+          "待完善",
+          "待完善",
+          "待完善"
+        ],
+        "user_avatar": "待定义用户",
+        "pain_points": "待分析痛点",
+        "behavior": "待观察行为",
+        "value_proposition": "待提炼价值"
+      }
+    },
+    {
+      "rank": 7,
+      "title": "香港廉政公署先后拘捕8人",
+      "hot_value": "366121",
+      "total_score": 60,
+      "grade": "良好",
+      "scores": {
+        "novelty": 12,
+        "emotional": 12,
+        "viral_potential": 14,
+        "entertainment": 12,
+        "practical_value": 5,
+        "market_potential": 5
+      },
+      "product_idea": {
+        "name": "创意产品7",
+        "functions": [
+          "待完善",
+          "待完善",
+          "待完善",
+          "待完善",
+          "待完善"
+        ],
+        "user_avatar": "待定义用户",
+        "pain_points": "待分析痛点",
+        "behavior": "待观察行为",
+        "value_proposition": "待提炼价值"
+      }
+    },
+    {
+      "rank": 8,
+      "title": "和时代少年团吃冬天第一桶炸鸡",
+      "hot_value": "",
+      "total_score": 88,
+      "grade": "优秀",
+      "scores": {
+        "novelty": 17,
+        "emotional": 20,
+        "viral_potential": 20,
+        "entertainment": 19,
+        "practical_value": 7,
+        "market_potential": 8
+      },
+      "product_idea": {
+        "name": "饭爱豆",
+        "functions": [
+          "偶像同款商品推荐",
+          "粉丝应援活动策划",
+          "偶像行程实时追踪",
+          "粉丝社交圈子",
+          "周边商品团购"
+        ],
+        "user_avatar": "16-28岁年轻女性，追星族，消费能力强",
+        "pain_points": "偶像资讯滞后，支持偶像渠道有限，缺乏组织化应援",
+        "behavior": "高强度刷社交媒体，愿意为偶像付费",
+        "value_proposition": "一站式偶像应援平台，让每个粉丝都成为偶像的坚实后盾"
+      }
+    },
+    {
+      "rank": 9,
+      "title": "圆明园兽首出来那一刻人麻了",
+      "hot_value": "365664",
+      "total_score": 70,
+      "grade": "良好",
+      "scores": {
+        "novelty": 16,
+        "emotional": 15,
+        "viral_potential": 18,
+        "entertainment": 15,
+        "practical_value": 6,
+        "market_potential": 6
+      },
+      "product_idea": {
+        "name": "国宝传奇",
+        "functions": [
+          "文物数字化展览",
+          "专家讲解视频",
+          "文创产品设计",
+          "文物修复互动",
+          "文化知识打卡"
+        ],
+        "user_avatar": "文化爱好者、历史学习者、文艺青年",
+        "pain_points": "文物信息获取不便，传统文化与现代生活脱节",
+        "behavior": "关注文化类节目，喜欢文创产品",
+        "value_proposition": "用数字化手段让国宝活起来，传承中华文化"
+      }
+    },
+    {
+      "rank": 10,
+      "title": "盗摄",
+      "hot_value": "电影 362860",
+      "total_score": 60,
+      "grade": "良好",
+      "scores": {
+        "novelty": 12,
+        "emotional": 12,
+        "viral_potential": 14,
+        "entertainment": 12,
+        "practical_value": 5,
+        "market_potential": 5
+      },
+      "product_idea": {
+        "name": "创意产品10",
+        "functions": [
+          "待完善",
+          "待完善",
+          "待完善",
+          "待完善",
+          "待完善"
+        ],
+        "user_avatar": "待定义用户",
+        "pain_points": "待分析痛点",
+        "behavior": "待观察行为",
+        "value_proposition": "待提炼价值"
+      }
+    },
+    {
+      "rank": 11,
+      "title": "逍遥散人取消出席逆水寒赛事",
+      "hot_value": "362250",
+      "total_score": 60,
+      "grade": "良好",
+      "scores": {
+        "novelty": 12,
+        "emotional": 12,
+        "viral_potential": 14,
+        "entertainment": 12,
+        "practical_value": 5,
+        "market_potential": 5
+      },
+      "product_idea": {
+        "name": "创意产品11",
+        "functions": [
+          "待完善",
+          "待完善",
+          "待完善",
+          "待完善",
+          "待完善"
+        ],
+        "user_avatar": "待定义用户",
+        "pain_points": "待分析痛点",
+        "behavior": "待观察行为",
+        "value_proposition": "待提炼价值"
+      }
+    },
+    {
+      "rank": 12,
+      "title": "shanks回应不和Tabe去JDG",
+      "hot_value": "360143",
+      "total_score": 60,
+      "grade": "良好",
+      "scores": {
+        "novelty": 12,
+        "emotional": 12,
+        "viral_potential": 14,
+        "entertainment": 12,
+        "practical_value": 5,
+        "market_potential": 5
+      },
+      "product_idea": {
+        "name": "创意产品12",
+        "functions": [
+          "待完善",
+          "待完善",
+          "待完善",
+          "待完善",
+          "待完善"
+        ],
+        "user_avatar": "待定义用户",
+        "pain_points": "待分析痛点",
+        "behavior": "待观察行为",
+        "value_proposition": "待提炼价值"
+      }
+    },
+    {
+      "rank": 13,
+      "title": "禁毒",
+      "hot_value": "358034",
+      "total_score": 50,
+      "grade": "普通",
+      "scores": {
+        "novelty": 8,
+        "emotional": 12,
+        "viral_potential": 15,
+        "entertainment": 10,
+        "practical_value": 8,
+        "market_potential": 5
+      },
+      "product_idea": {
+        "name": "无毒青春",
+        "functions": [
+          "毒品危害知识科普",
+          "真实案例警示教育",
+          "青少年心理辅导",
+          "求助热线一键拨打",
+          "社区禁毒志愿活动"
+        ],
+        "user_avatar": "青少年、家长、教育工作者",
+        "pain_points": "禁毒教育形式单一，青少年认知不足",
+        "behavior": "关注青少年成长，重视安全教育",
+        "value_proposition": "创新禁毒教育形式，守护青少年健康成长"
+      }
+    },
+    {
+      "rank": 14,
+      "title": "杀害女同学男生听到判决面无表情",
+      "hot_value": "356067",
+      "total_score": 60,
+      "grade": "良好",
+      "scores": {
+        "novelty": 12,
+        "emotional": 12,
+        "viral_potential": 14,
+        "entertainment": 12,
+        "practical_value": 5,
+        "market_potential": 5
+      },
+      "product_idea": {
+        "name": "创意产品14",
+        "functions": [
+          "待完善",
+          "待完善",
+          "待完善",
+          "待完善",
+          "待完善"
+        ],
+        "user_avatar": "待定义用户",
+        "pain_points": "待分析痛点",
+        "behavior": "待观察行为",
+        "value_proposition": "待提炼价值"
+      }
+    },
+    {
+      "rank": 15,
+      "title": "法院向吴亦凡经纪公司追缴诉讼费",
+      "hot_value": "355334",
+      "total_score": 65,
+      "grade": "良好",
+      "scores": {
+        "novelty": 15,
+        "emotional": 12,
+        "viral_potential": 18,
+        "entertainment": 15,
+        "practical_value": 5,
+        "market_potential": 5
+      },
+      "product_idea": {
+        "name": "星法眼",
+        "functions": [
+          "明星案件追踪报道",
+          "法律知识普及",
+          "案件时间轴梳理",
+          "专家观点汇总",
+          "法律咨询服务"
+        ],
+        "user_avatar": "娱乐八卦关注者、法律从业者、社会观察者",
+        "pain_points": "案件信息碎片化，法律专业性强难理解",
+        "behavior": "关注社会热点，对法律案件有研究兴趣",
+        "value_proposition": "将复杂的法律案例通俗化解读，普及法律知识"
+      }
+    },
+    {
+      "rank": 16,
+      "title": "宋茜一秒看出曹骏挂脸",
+      "hot_value": "综艺 354197",
+      "total_score": 60,
+      "grade": "良好",
+      "scores": {
+        "novelty": 12,
+        "emotional": 12,
+        "viral_potential": 14,
+        "entertainment": 12,
+        "practical_value": 5,
+        "market_potential": 5
+      },
+      "product_idea": {
+        "name": "创意产品16",
+        "functions": [
+          "待完善",
+          "待完善",
+          "待完善",
+          "待完善",
+          "待完善"
+        ],
+        "user_avatar": "待定义用户",
+        "pain_points": "待分析痛点",
+        "behavior": "待观察行为",
+        "value_proposition": "待提炼价值"
+      }
+    },
+    {
+      "rank": 17,
+      "title": "戚百草的草莓发卡是杨洋自费买的",
+      "hot_value": "剧集 352599",
+      "total_score": 60,
+      "grade": "良好",
+      "scores": {
+        "novelty": 12,
+        "emotional": 12,
+        "viral_potential": 14,
+        "entertainment": 12,
+        "practical_value": 5,
+        "market_potential": 5
+      },
+      "product_idea": {
+        "name": "创意产品17",
+        "functions": [
+          "待完善",
+          "待完善",
+          "待完善",
+          "待完善",
+          "待完善"
+        ],
+        "user_avatar": "待定义用户",
+        "pain_points": "待分析痛点",
+        "behavior": "待观察行为",
+        "value_proposition": "待提炼价值"
+      }
+    },
+    {
+      "rank": 18,
+      "title": "女子为出片生理期潜水被鲨鱼咬伤",
+      "hot_value": "314219",
+      "total_score": 78,
+      "grade": "良好",
+      "scores": {
+        "novelty": 19,
+        "emotional": 15,
+        "viral_potential": 20,
+        "entertainment": 19,
+        "practical_value": 8,
+        "market_potential": 5
+      },
+      "product_idea": {
+        "name": "安全旅拍",
+        "functions": [
+          "旅行安全风险评估",
+          "拍摄地点安全指南",
+          "紧急救援联系方式",
+          "旅行保险推荐",
+          "摄影师认证体系"
+        ],
+        "user_avatar": "网红博主、旅拍爱好者、年轻女性",
+        "pain_points": "为出片忽视安全，缺乏专业风险评估",
+        "behavior": "追求社交媒体展示，频繁出游打卡",
+        "value_proposition": "平衡美丽与安全，让每个镜头都安心"
+      }
+    },
+    {
+      "rank": 19,
+      "title": "王一博小气了是不是",
+      "hot_value": "综艺 265405",
+      "total_score": 60,
+      "grade": "良好",
+      "scores": {
+        "novelty": 12,
+        "emotional": 12,
+        "viral_potential": 14,
+        "entertainment": 12,
+        "practical_value": 5,
+        "market_potential": 5
+      },
+      "product_idea": {
+        "name": "创意产品19",
+        "functions": [
+          "待完善",
+          "待完善",
+          "待完善",
+          "待完善",
+          "待完善"
+        ],
+        "user_avatar": "待定义用户",
+        "pain_points": "待分析痛点",
+        "behavior": "待观察行为",
+        "value_proposition": "待提炼价值"
+      }
+    },
+    {
+      "rank": 20,
+      "title": "当我开店取消了扫码点单",
+      "hot_value": "265356",
+      "total_score": 80,
+      "grade": "优秀",
+      "scores": {
+        "novelty": 15,
+        "emotional": 12,
+        "viral_potential": 18,
+        "entertainment": 15,
+        "practical_value": 10,
+        "market_potential": 10
+      },
+      "product_idea": {
+        "name": "人情味餐厅",
+        "functions": [
+          "传统服务模式推广",
+          "顾客服务培训",
+          "餐饮服务认证",
+          "餐厅故事分享",
+          "人文关怀评分"
+        ],
+        "user_avatar": "餐饮创业者、注重服务体验的顾客",
+        "pain_points": "数字化服务缺乏温度，顾客体验下降",
+        "behavior": "怀念传统服务方式，重视人文关怀",
+        "value_proposition": "重塑餐饮服务业的人文价值，让科技回归辅助"
+      }
+    }
+  ]
+}

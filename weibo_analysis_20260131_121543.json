@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "莱巴金娜夺冠",
+    "scores": {
+      "novelty": 8,
+      "resonance": 15,
+      "viral": 12,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 52.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "冠军同款穿搭推荐App",
+      "features": "基于图像识别技术，实时抓取比赛直播中运动员的服装、装备品牌，并提供同款购买链接及穿搭建议。",
+      "target_users": "网球爱好者、运动时尚人群、女性观众。",
+      "value_proposition": "将竞技体育的热度即时转化为时尚消费，满足用户对运动员赛场风格的模仿需求。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "家委会收每生263元家长报警",
+    "scores": {
+      "novelty": 16,
+      "resonance": 19,
+      "viral": 19,
+      "entertainment": 12,
+      "practical": 8,
+      "market": 4
+    },
+    "total_score": 78.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "家校透明账本小程序",
+      "features": "家长端可查看每一笔班费支出的明细凭证（含发票照片），支持匿名质疑投票，引入第三方审计机制。",
+      "target_users": "中小学家长、家委会成员、学校管理层。",
+      "value_proposition": "通过区块链存证技术，解决班级收费不透明引发的信任危机，降低家校沟通成本。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "京味烟火",
+    "scores": {
+      "novelty": 5,
+      "resonance": 10,
+      "viral": 6,
+      "entertainment": 8,
+      "practical": 6,
+      "market": 8
+    },
+    "total_score": 43.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "城市烟火地图LPT",
+      "features": "基于地理位置推荐本地人常去的苍蝇馆子、早市和夜市，主打'非游客'视角的城市体验。",
+      "target_users": "旅游爱好者、寻找地道美食的年轻人。",
+      "value_proposition": "挖掘城市隐秘的市井角落，为用户提供更有生活气息的旅行体验。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "TF四代赢了TOP",
+    "scores": {
+      "novelty": 10,
+      "resonance": 18,
+      "viral": 18,
+      "entertainment": 16,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 72.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "爱豆练习生成长日记",
+      "features": "养成系游戏，用户作为经纪人，每天需完成打榜、应援任务解锁练习生独家训练视频。",
+      "target_users": "TF家族粉丝、养成系偶像受众。",
+      "value_proposition": "让粉丝在虚拟世界体验造星过程，加深与偶像的情感羁绊，并通过付费任务变现。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "黄金白银创单日暴跌纪录",
+    "scores": {
+      "novelty": 14,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 2,
+      "practical": 9,
+      "market": 8
+    },
+    "total_score": 64.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "恐慌指数反向投资顾问",
+      "features": "在市场出现极端暴跌或暴涨新闻时，利用AI分析历史数据，提供'抄底'或'避险'的量化策略建议。",
+      "target_users": "贵金属投资者、理财新手。",
+      "value_proposition": "利用大众的市场恐慌情绪，辅助用户做出理性的反向投资决策。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "深圳通报杰我睿公司经营异常事件",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 14,
+      "entertainment": 0,
+      "practical": 9,
+      "market": 3
+    },
+    "total_score": 48.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "企业风险雷达插件",
+      "features": "浏览器插件，在用户访问招聘网站或企业官网时，自动标红显示该企业的经营异常、法律诉讼记录。",
+      "target_users": "求职者、B2B商务人士。",
+      "value_proposition": "帮助求职者和合作伙伴快速识别潜在的商业陷阱和职场风险。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "田栩宁半亩花田品牌代言人",
+    "scores": {
+      "novelty": 2,
+      "resonance": 5,
+      "viral": 5,
+      "entertainment": 2,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 21.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "明星肌肤测试工具",
+      "features": "用户上传自拍，AI分析肤质，并推荐与明星代言人肤质相似的护肤品 regimen。",
+      "target_users": "粉丝群体、护肤品消费者。",
+      "value_proposition": "将明星代言转化为具体的皮肤解决方案，提高带货转化率。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "发明洗澡吃橙子的人是个天才",
+    "scores": {
+      "novelty": 18,
+      "resonance": 16,
+      "viral": 16,
+      "entertainment": 18,
+      "practical": 5,
+      "market": 7
+    },
+    "total_score": 80.0,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "浴室香氛果盘（防水款）",
+      "features": "吸盘式防水设计，可固定在浴室瓷砖上，带有恒温功能，防止水果变冷，同时具备排水功能。",
+      "target_users": "享受生活仪式感的年轻人、独居女性。",
+      "value_proposition": "通过极简的设计创新，将'洗澡吃水果'这一网络热梗转化为具体的浴室休闲场景产品。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "王一博 春晚",
+    "scores": {
+      "novelty": 5,
+      "resonance": 15,
+      "viral": 14,
+      "entertainment": 12,
+      "practical": 1,
+      "market": 7
+    },
+    "total_score": 54.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "春晚同款AR滤镜",
+      "features": "基于当晚明星舞台效果开发的AR滤镜，用户可录制自己的'春晚舞台'短视频。",
+      "target_users": "粉丝群体、短视频用户。",
+      "value_proposition": "利用大型晚会流量，为普通用户提供参与感强的娱乐化工具。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "徐晨皓宣布退出国家队",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 13,
+      "entertainment": 4,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 49.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "退役运动员转型社区",
+      "features": "为退役运动员提供职业规划咨询、直播带货培训及心理辅导的社区平台。",
+      "target_users": "退役运动员、体育迷。",
+      "value_proposition": "解决职业运动员退役后的迷茫期问题，挖掘退役明星的商业价值。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "NOVA告别启点赛",
+    "scores": {
+      "novelty": 8,
+      "resonance": 10,
+      "viral": 10,
+      "entertainment": 8,
+      "practical": 3,
+      "market": 6
+    },
+    "total_score": 45.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "电竞战队数字藏品馆",
+      "features": "记录战队的经典战役瞬间、告别签名等，生成NFT数字藏品供粉丝收藏。",
+      "target_users": "电竞粉丝、战队粉丝。",
+      "value_proposition": "将电竞情怀数字化，打造永恒的纪念品。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "朴信惠母亲自曝不愿看天国的阶梯",
+    "scores": {
+      "novelty": 15,
+      "resonance": 12,
+      "viral": 13,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 55.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "剧情情感预警App",
+      "features": "针对经典老剧，提供'虐心指数'预警，用户可根据心情选择观看'治愈版剪辑'或'原版'。",
+      "target_users": "情绪敏感观众、重温经典剧集的用户。",
+      "value_proposition": "通过大数据标注剧集情绪走向，保护观众心理健康，避免'哭晕'。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "一栗小莎子回应确诊淋巴瘤",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 0,
+      "practical": 6,
+      "market": 4
+    },
+    "total_score": 50.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "病友互助日记",
+      "features": "专注于特定病种的匿名交流社区，提供治疗历程记录、副作用管理及心理支持。",
+      "target_users": "年轻病患、关注健康的网民。",
+      "value_proposition": "利用网红的影响力建立垂直病种社群，提供真实的康复参考和情感抚慰。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "男子买彩票中500万后立马离婚",
+    "scores": {
+      "novelty": 12,
+      "resonance": 18,
+      "viral": 18,
+      "entertainment": 12,
+      "practical": 4,
+      "market": 7
+    },
+    "total_score": 71.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "彩票守护协议（智能合约）",
+      "features": "基于区块链的彩票奖金分配协议，购买时可设定'离婚稀释'条款，确保突发横财的资产归属。",
+      "target_users": "已婚彩民、财产高风险人群。",
+      "value_proposition": "用技术手段解决人性贪婪带来的法律纠纷，保障婚姻双方的财产权益。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "在飞机上删了五个小时的照片",
+    "scores": {
+      "novelty": 12,
+      "resonance": 15,
+      "viral": 14,
+      "entertainment": 6,
+      "practical": 7,
+      "market": 6
+    },
+    "total_score": 60.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "AI相册断舍离助手",
+      "features": "本地运行AI，快速识别模糊、重复、截屏等废片，并生成'可安全删除'列表，无需上传云端。",
+      "target_users": "摄影爱好者、手机存储空间不足的用户。",
+      "value_proposition": "利用碎片时间高效整理海量照片，缓解存储焦虑，保护隐私。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "英国首相一行吃光牛肝菌焖饭",
+    "scores": {
+      "novelty": 14,
+      "resonance": 8,
+      "viral": 12,
+      "entertainment": 10,
+      "practical": 5,
+      "market": 8
+    },
+    "total_score": 57.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "国宴级半成品料理包",
+      "features": "复刻外事接待级别的特色菜肴（如牛肝菌焖饭），主打高端食材和标准化烹饪流程。",
+      "target_users": "中产家庭、美食爱好者。",
+      "value_proposition": "将外交美食'去神秘化'，让用户在家也能享受到国宴级别的美味体验。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "生命树",
+    "scores": {
+      "novelty": 6,
+      "resonance": 8,
+      "viral": 6,
+      "entertainment": 8,
+      "practical": 3,
+      "market": 5
+    },
+    "total_score": 36.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "剧情角色关系图谱生成器",
+      "features": "针对复杂剧情（如《生命树》），自动生成人物关系交互图，梳理剧情脉络。",
+      "target_users": "追剧党、影评人。",
+      "value_proposition": "降低复杂剧情的理解门槛，提升追剧体验。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "张峻豪直播",
+    "scores": {
+      "novelty": 4,
+      "resonance": 14,
+      "viral": 14,
+      "entertainment": 12,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 52.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "偶像直播切片工具",
+      "features": "自动将偶像长直播中的高光时刻、搞笑瞬间剪辑成短视频分发。",
+      "target_users": "站姐、粉丝运营者。",
+      "value_proposition": "利用AI降低二创门槛，帮助粉丝更高效地在社交平台传播偶像内容。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "名侦探柯南 联动",
+    "scores": {
+      "novelty": 10,
+      "resonance": 14,
+      "viral": 14,
+      "entertainment": 14,
+      "practical": 4,
+      "market": 9
+    },
+    "total_score": 65.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "线下实景剧本杀：柯南迷的邀请函",
+      "features": "与热门IP（如游戏、餐厅）联动，打造沉浸式探店/解谜体验，用户需化身侦探完成消费任务。",
+      "target_users": "柯南迷、Z世代消费者。",
+      "value_proposition": "利用超级IP的情怀，为实体商业场所引流，增强线下消费的趣味性。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "TTG战胜JDG",
+    "scores": {
+      "novelty": 8,
+      "resonance": 14,
+      "viral": 14,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 7
+    },
+    "total_score": 59.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "电竞竞猜预言家大厅",
+      "features": "基于比赛数据的实时预测社交平台，用户可发表胜负预测并排名。",
+      "target_users": "电竞观众、数据控。",
+      "value_proposition": "增加观赛的互动性，让观众不仅是看客，更是参与预测的'分析师'。"
+    }
+  }
+]

@@ -1,0 +1,149 @@
+{
+  "fetch_time": "2025-11-29T08:19:52.240930",
+  "source": "tianapi_weibohot",
+  "api_code": 200,
+  "api_message": "success",
+  "topics": [
+    {
+      "rank": 1,
+      "title": "普京宣布与乌克兰停火条件",
+      "hot_value": " 1095579",
+      "url": "",
+      "description": ""
+    },
+    {
+      "rank": 2,
+      "title": "中国男篮主场不敌韩国男篮",
+      "hot_value": " 960380",
+      "url": "",
+      "description": ""
+    },
+    {
+      "rank": 3,
+      "title": "网警斩断非法引流黑手",
+      "hot_value": " 789261",
+      "url": "",
+      "description": ""
+    },
+    {
+      "rank": 4,
+      "title": "黄金加速上涨",
+      "hot_value": " 624899",
+      "url": "",
+      "description": ""
+    },
+    {
+      "rank": 5,
+      "title": "第一次在综艺里看送房产证的",
+      "hot_value": " 558735",
+      "url": "",
+      "description": ""
+    },
+    {
+      "rank": 6,
+      "title": "香港大埔火灾已致128人遇难",
+      "hot_value": " 423199",
+      "url": "",
+      "description": ""
+    },
+    {
+      "rank": 7,
+      "title": "入冬仪式感是第一桶炸鸡给的",
+      "hot_value": "",
+      "url": "",
+      "description": ""
+    },
+    {
+      "rank": 8,
+      "title": "香港大埔火灾约200人情况未明",
+      "hot_value": " 233432",
+      "url": "",
+      "description": ""
+    },
+    {
+      "rank": 9,
+      "title": "俄罗斯多次对日本发出警告",
+      "hot_value": " 155718",
+      "url": "",
+      "description": ""
+    },
+    {
+      "rank": 10,
+      "title": "黑莲花攻略手册",
+      "hot_value": " 155668",
+      "url": "",
+      "description": ""
+    },
+    {
+      "rank": 11,
+      "title": "日本八成地区达流感流行警报级别",
+      "hot_value": " 154225",
+      "url": "",
+      "description": ""
+    },
+    {
+      "rank": 12,
+      "title": "当年真的错怪蒋欣了",
+      "hot_value": " 153078",
+      "url": "",
+      "description": ""
+    },
+    {
+      "rank": 13,
+      "title": "5岁女儿游乐园遭电击进ICU母亲发声",
+      "hot_value": " 152629",
+      "url": "",
+      "description": ""
+    },
+    {
+      "rank": 14,
+      "title": "上班时间禁止偷吃同事",
+      "hot_value": " 151802",
+      "url": "",
+      "description": ""
+    },
+    {
+      "rank": 15,
+      "title": "香港将下半旗志哀",
+      "hot_value": " 151140",
+      "url": "",
+      "description": ""
+    },
+    {
+      "rank": 16,
+      "title": "微信步数 窥探隐私",
+      "hot_value": " 147488",
+      "url": "",
+      "description": ""
+    },
+    {
+      "rank": 17,
+      "title": "疑似范丞丞趁机表白",
+      "hot_value": " 142558",
+      "url": "",
+      "description": ""
+    },
+    {
+      "rank": 18,
+      "title": "疯狂动物城",
+      "hot_value": " 134888",
+      "url": "",
+      "description": ""
+    },
+    {
+      "rank": 19,
+      "title": "女子被造黄谣失业离婚仅获道歉",
+      "hot_value": " 133219",
+      "url": "",
+      "description": ""
+    },
+    {
+      "rank": 20,
+      "title": "女子钻漏洞下单476笔薅羊毛25万",
+      "hot_value": " 132878",
+      "url": "",
+      "description": ""
+    }
+  ],
+  "total_count": 20
+}

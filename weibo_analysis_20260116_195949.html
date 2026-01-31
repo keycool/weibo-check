@@ -1,0 +1,1770 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WEIBO TRENDS — 产品创意分析</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700;900&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --navy: #0a0e1a;
+            --navy-light: #141b2d;
+            --orange: #ff4d00;
+            --orange-light: #ff6a2c;
+            --cream: #f5f0e8;
+            --cream-dark: #e8e0d4;
+            --green: #00ff88;
+            --blue: #00d4ff;
+            --gray: #6b7280;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: 'Noto Serif SC', serif;
+            background: var(--navy);
+            color: var(--cream);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        /* Grain overlay */
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%' height='100%' filter='url(%23noise)' opacity='0.08'/%3E%3C/svg%3E");
+            pointer-events: none;
+            z-index: 9999;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 40px;
+        }
+
+        /* Hero Section */
+        .hero {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero::before {
+            content: 'TRENDS';
+            position: absolute;
+            top: -5%;
+            right: -5%;
+            font-size: clamp(200px, 30vw, 400px);
+            font-weight: 900;
+            color: var(--orange);
+            opacity: 0.03;
+            line-height: 1;
+            pointer-events: none;
+        }
+
+        .hero-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 12px;
+            background: var(--orange);
+            color: var(--navy);
+            padding: 12px 24px;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 12px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            align-self: flex-start;
+            margin-bottom: 40px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .hero-badge::before {
+            content: '';
+            width: 8px;
+            height: 8px;
+            background: var(--navy);
+            border-radius: 50%;
+            animation: pulse 2s ease-in-out infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); opacity: 1; }
+            50% { transform: scale(1.5); opacity: 0.5; }
+        }
+
+        .hero h1 {
+            font-size: clamp(48px, 8vw, 120px);
+            font-weight: 900;
+            line-height: 0.95;
+            margin-bottom: 30px;
+            position: relative;
+        }
+
+        .hero h1 span {
+            display: block;
+            color: var(--orange);
+        }
+
+        .hero-meta {
+            display: flex;
+            gap: 40px;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 14px;
+            color: var(--gray);
+            flex-wrap: wrap;
+        }
+
+        .hero-meta div {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .hero-meta div::before {
+            content: '';
+            width: 1px;
+            height: 20px;
+            background: var(--orange);
+        }
+
+        .hero-meta div:first-child::before {
+            display: none;
+        }
+
+        /* Scroll indicator */
+        .scroll-indicator {
+            position: absolute;
+            bottom: 40px;
+            left: 50%;
+            transform: translateX(-50%);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 10px;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            color: var(--gray);
+        }
+
+        .scroll-indicator::after {
+            content: '';
+            width: 1px;
+            height: 60px;
+            background: linear-gradient(to bottom, var(--orange), transparent);
+            animation: scrollDown 2s ease-in-out infinite;
+        }
+
+        @keyframes scrollDown {
+            0%, 100% { transform: scaleY(0); transform-origin: top; }
+            50% { transform: scaleY(1); transform-origin: top; }
+            50.1% { transform: scaleY(1); transform-origin: bottom; }
+            100% { transform: scaleY(0); transform-origin: bottom; }
+        }
+
+        /* Stats Section */
+        .stats-section {
+            padding: 120px 0;
+            background: var(--navy-light);
+            position: relative;
+        }
+
+        .stats-section::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 1px;
+            background: linear-gradient(to right, transparent, var(--orange), transparent);
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 40px;
+        }
+
+        .stat-card {
+            text-align: center;
+            padding: 40px 20px;
+            background: var(--navy);
+            border: 1px solid rgba(255, 77, 0, 0.2);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .stat-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 3px;
+            background: var(--orange);
+            transform: scaleX(0);
+            transform-origin: left;
+            transition: transform 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        .stat-card:hover::before {
+            transform: scaleX(1);
+        }
+
+        .stat-number {
+            font-size: clamp(48px, 6vw, 72px);
+            font-weight: 900;
+            color: var(--orange);
+            line-height: 1;
+            margin-bottom: 15px;
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .stat-label {
+            font-size: 14px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--gray);
+        }
+
+        /* Filter Section */
+        .filter-section {
+            padding: 60px 0;
+            position: sticky;
+            top: 0;
+            background: rgba(10, 14, 26, 0.95);
+            backdrop-filter: blur(20px);
+            z-index: 100;
+            border-bottom: 1px solid rgba(255, 77, 0, 0.2);
+        }
+
+        .filter-container {
+            display: flex;
+            align-items: center;
+            gap: 30px;
+            flex-wrap: wrap;
+        }
+
+        .search-box {
+            flex: 1;
+            min-width: 280px;
+            position: relative;
+        }
+
+        .search-box input {
+            width: 100%;
+            padding: 16px 24px;
+            background: var(--navy-light);
+            border: 1px solid rgba(255, 77, 0, 0.3);
+            color: var(--cream);
+            font-family: 'Noto Serif SC', serif;
+            font-size: 16px;
+            transition: all 0.3s ease;
+        }
+
+        .search-box input:focus {
+            outline: none;
+            border-color: var(--orange);
+            box-shadow: 0 0 0 3px rgba(255, 77, 0, 0.1);
+        }
+
+        .search-box input::placeholder {
+            color: var(--gray);
+        }
+
+        .filter-buttons {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .filter-btn {
+            padding: 14px 28px;
+            background: transparent;
+            border: 1px solid rgba(255, 77, 0, 0.3);
+            color: var(--cream);
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 11px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .filter-btn::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: var(--orange);
+            transform: translateY(100%);
+            transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+            z-index: -1;
+        }
+
+        .filter-btn:hover::before,
+        .filter-btn.active::before {
+            transform: translateY(0);
+        }
+
+        .filter-btn:hover,
+        .filter-btn.active {
+            color: var(--navy);
+            border-color: var(--orange);
+        }
+
+        .export-btn {
+            margin-left: auto;
+            padding: 14px 28px;
+            background: var(--orange);
+            border: none;
+            color: var(--navy);
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 11px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .export-btn:hover {
+            background: var(--orange-light);
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(255, 77, 0, 0.3);
+        }
+
+        /* Topics Grid */
+        .topics-section {
+            padding: 80px 0;
+        }
+
+        .topics-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(420px, 1fr));
+            gap: 30px;
+        }
+
+        .topic-card {
+            background: var(--navy-light);
+            border: 1px solid rgba(255, 77, 0, 0.15);
+            padding: 40px;
+            position: relative;
+            transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+            cursor: pointer;
+            overflow: hidden;
+        }
+
+        .topic-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: radial-gradient(circle at var(--mouse-x, 50%) var(--mouse-y, 50%), rgba(255, 77, 0, 0.1) 0%, transparent 50%);
+            opacity: 0;
+            transition: opacity 0.3s ease;
+            pointer-events: none;
+        }
+
+        .topic-card:hover::before {
+            opacity: 1;
+        }
+
+        .topic-card:hover {
+            transform: translateY(-8px) rotateX(2deg);
+            border-color: var(--orange);
+            box-shadow: 0 30px 60px rgba(0, 0, 0, 0.5);
+        }
+
+        .topic-card.excellent {
+            border-color: rgba(0, 255, 136, 0.3);
+        }
+
+        .topic-card.excellent:hover {
+            border-color: var(--green);
+        }
+
+        .topic-card.good {
+            border-color: rgba(0, 212, 255, 0.3);
+        }
+
+        .topic-card.good:hover {
+            border-color: var(--blue);
+        }
+
+        .topic-card.average {
+            opacity: 0.6;
+        }
+
+        .topic-card.average:hover {
+            opacity: 1;
+        }
+
+        .topic-rank {
+            position: absolute;
+            top: 30px;
+            right: 30px;
+            font-size: 72px;
+            font-weight: 900;
+            color: rgba(255, 77, 0, 0.1);
+            line-height: 1;
+            font-family: 'JetBrains Mono', monospace;
+            transition: all 0.3s ease;
+        }
+
+        .topic-card:hover .topic-rank {
+            color: var(--orange);
+            transform: scale(1.1);
+        }
+
+        .topic-card.excellent .topic-rank {
+            color: rgba(0, 255, 136, 0.15);
+        }
+
+        .topic-card.excellent:hover .topic-rank {
+            color: var(--green);
+        }
+
+        .topic-card.good .topic-rank {
+            color: rgba(0, 212, 255, 0.15);
+        }
+
+        .topic-card.good:hover .topic-rank {
+            color: var(--blue);
+        }
+
+        .topic-header {
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+            margin-bottom: 20px;
+            padding-right: 80px;
+        }
+
+        .topic-score {
+            font-size: 48px;
+            font-weight: 900;
+            line-height: 1;
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .topic-score.excellent {
+            color: var(--green);
+        }
+
+        .topic-score.good {
+            color: var(--blue);
+        }
+
+        .topic-score.average {
+            color: var(--gray);
+        }
+
+        .topic-title {
+            font-size: 28px;
+            font-weight: 700;
+            line-height: 1.3;
+            margin-bottom: 20px;
+            padding-right: 60px;
+        }
+
+        .topic-meta {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin-bottom: 25px;
+        }
+
+        .meta-tag {
+            padding: 6px 14px;
+            background: rgba(255, 77, 0, 0.1);
+            border: 1px solid rgba(255, 77, 0, 0.3);
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 10px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--orange);
+        }
+
+        .meta-tag.hot {
+            background: rgba(255, 77, 0, 0.15);
+            border-color: var(--orange);
+        }
+
+        .meta-tag.new {
+            background: rgba(0, 255, 136, 0.1);
+            border-color: var(--green);
+            color: var(--green);
+        }
+
+        .topic-scores {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+            padding: 20px;
+            background: var(--navy);
+            margin-bottom: 20px;
+        }
+
+        .score-item {
+            text-align: center;
+        }
+
+        .score-value {
+            font-size: 24px;
+            font-weight: 900;
+            color: var(--orange);
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .score-label {
+            font-size: 10px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--gray);
+            margin-top: 5px;
+        }
+
+        .product-section {
+            background: var(--navy);
+            padding: 25px;
+            border-left: 3px solid var(--orange);
+        }
+
+        .topic-card.excellent .product-section {
+            border-left-color: var(--green);
+        }
+
+        .topic-card.good .product-section {
+            border-left-color: var(--blue);
+        }
+
+        .product-name {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 12px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--orange);
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .product-name::before {
+            content: '●';
+            font-size: 8px;
+        }
+
+        .topic-card.excellent .product-name {
+            color: var(--green);
+        }
+
+        .topic-card.good .product-name {
+            color: var(--blue);
+        }
+
+        .product-item {
+            margin-bottom: 15px;
+        }
+
+        .product-item:last-child {
+            margin-bottom: 0;
+        }
+
+        .product-item-label {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--gray);
+            margin-bottom: 8px;
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .product-item-value {
+            font-size: 15px;
+            line-height: 1.6;
+            color: var(--cream-dark);
+        }
+
+        /* Footer */
+        .footer {
+            padding: 80px 0;
+            text-align: center;
+            border-top: 1px solid rgba(255, 77, 0, 0.2);
+        }
+
+        .footer-text {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 12px;
+            color: var(--gray);
+            text-transform: uppercase;
+            letter-spacing: 3px;
+        }
+
+        /* Animations */
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(40px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .topic-card {
+            animation: fadeInUp 0.6s ease forwards;
+            opacity: 0;
+        }
+
+        .topic-card:nth-child(1) { animation-delay: 0.05s; }
+        .topic-card:nth-child(2) { animation-delay: 0.1s; }
+        .topic-card:nth-child(3) { animation-delay: 0.15s; }
+        .topic-card:nth-child(4) { animation-delay: 0.2s; }
+        .topic-card:nth-child(5) { animation-delay: 0.25s; }
+        .topic-card:nth-child(6) { animation-delay: 0.3s; }
+        .topic-card:nth-child(7) { animation-delay: 0.35s; }
+        .topic-card:nth-child(8) { animation-delay: 0.4s; }
+        .topic-card:nth-child(9) { animation-delay: 0.45s; }
+        .topic-card:nth-child(10) { animation-delay: 0.5s; }
+
+        /* Responsive */
+        @media (max-width: 1024px) {
+            .stats-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .topics-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 0 20px;
+            }
+
+            .hero {
+                min-height: auto;
+                padding: 100px 0;
+            }
+
+            .stats-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .filter-container {
+                flex-direction: column;
+                align-items: stretch;
+            }
+
+            .export-btn {
+                margin-left: 0;
+            }
+
+            .topic-card {
+                padding: 30px;
+            }
+
+            .topic-title {
+                font-size: 22px;
+            }
+
+            .topic-scores {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        @media print {
+            body {
+                background: white;
+                color: black;
+            }
+
+            body::before {
+                display: none;
+            }
+
+            .filter-section,
+            .scroll-indicator {
+                display: none;
+            }
+
+            .topic-card {
+                break-inside: avoid;
+                page-break-inside: avoid;
+            }
+        }
+
+        /* Custom scrollbar */
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: var(--navy);
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: var(--orange);
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: var(--orange-light);
+        }
+
+        /* Selection */
+        ::selection {
+            background: var(--orange);
+            color: var(--navy);
+        }
+    </style>
+</head>
+<body>
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-badge">
+                <span>Product Intelligence Report</span>
+            </div>
+            <h1>
+                微博热搜
+                <span>产品创意分析</span>
+            </h1>
+            <div class="hero-meta">
+                <div>2026.01.16</div>
+                <div>20 TOPICS ANALYZED</div>
+                <div>AI-POWERED INSIGHTS</div>
+            </div>
+        </div>
+        <div class="scroll-indicator">
+            <span>Scroll</span>
+        </div>
+    </section>
+
+    <!-- Stats Section -->
+    <section class="stats-section">
+        <div class="container">
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-number" data-count="20">0</div>
+                    <div class="stat-label">分析总数</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number excellent" data-count="6">0</div>
+                    <div class="stat-label">优秀 80+</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number good" data-count="12">0</div>
+                    <div class="stat-label">良好 60-80</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number average" data-count="2">0</div>
+                    <div class="stat-label">普通 &lt;60</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Filter Section -->
+    <section class="filter-section">
+        <div class="container">
+            <div class="filter-container">
+                <div class="search-box">
+                    <input type="text" id="searchInput" placeholder="搜索话题或产品创意...">
+                </div>
+                <div class="filter-buttons">
+                    <button class="filter-btn active" data-filter="all">全部</button>
+                    <button class="filter-btn" data-filter="excellent">优秀 80+</button>
+                    <button class="filter-btn" data-filter="good">良好 60-80</button>
+                    <button class="filter-btn" data-filter="average">普通 &lt;60</button>
+                </div>
+                <button class="export-btn" onclick="window.print()">导出报告</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Topics Section -->
+    <section class="topics-section">
+        <div class="container">
+            <div class="topics-grid" id="topicsGrid">
+                <!-- Topic 1: 刘翔回应移民美国 -->
+                <div class="topic-card excellent" data-category="excellent" data-title="刘翔回应移民美国" data-product="公众人物言论追踪器">
+                    <div class="topic-rank">01</div>
+                    <div class="topic-header">
+                        <div class="topic-score excellent">88</div>
+                    </div>
+                    <div class="topic-title">刘翔回应移民美国</div>
+                    <div class="topic-meta">
+                        <span class="meta-tag hot">热度 1160074</span>
+                    </div>
+                    <div class="topic-scores">
+                        <div class="score-item">
+                            <div class="score-value">18</div>
+                            <div class="score-label">新颖性</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">19</div>
+                            <div class="score-label">情感共鸣</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">18</div>
+                            <div class="score-label">传播潜力</div>
+                        </div>
+                    </div>
+                    <div class="product-section">
+                        <div class="product-name">产品创意: 公众人物言论追踪器</div>
+                        <div class="product-item">
+                            <div class="product-item-label">核心功能</div>
+                            <div class="product-item-value">实时追踪公众人物言论 · 跨平台内容聚合 · AI事实核查 · 舆情趋势分析</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">目标用户</div>
+                            <div class="product-item-value">媒体从业者、公关人员、新闻读者、关注名人的网友</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">价值主张</div>
+                            <div class="product-item-value">一站式追踪公众人物动态，让真相跑得比谣言更快</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Topic 2: 坐高铁可以不用自己扛行李了 -->
+                <div class="topic-card excellent" data-category="excellent" data-title="坐高铁可以不用自己扛行李了" data-product="行李侠">
+                    <div class="topic-rank">02</div>
+                    <div class="topic-header">
+                        <div class="topic-score excellent">85</div>
+                    </div>
+                    <div class="topic-title">坐高铁可以不用自己扛行李了</div>
+                    <div class="topic-meta">
+                        <span class="meta-tag hot">热度 854284</span>
+                    </div>
+                    <div class="topic-scores">
+                        <div class="score-item">
+                            <div class="score-value">17</div>
+                            <div class="score-label">新颖性</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">18</div>
+                            <div class="score-label">情感共鸣</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">17</div>
+                            <div class="score-label">传播潜力</div>
+                        </div>
+                    </div>
+                    <div class="product-section">
+                        <div class="product-name">产品创意: 行李侠</div>
+                        <div class="product-item">
+                            <div class="product-item-label">核心功能</div>
+                            <div class="product-item-value">高铁站行李代寄存 · 门到门配送服务 · 实时行李追踪 · 行李保险</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">目标用户</div>
+                            <div class="product-item-value">高铁旅客、携带大件行李的乘客、商务人士、老年人</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">价值主张</div>
+                            <div class="product-item-value">解放双手，让高铁出行更轻松，从车站到目的地无缝衔接</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Topic 3: 中国天眼又立功了 -->
+                <div class="topic-card excellent" data-category="excellent" data-title="中国天眼又立功了" data-product="星空探索">
+                    <div class="topic-rank">03</div>
+                    <div class="topic-header">
+                        <div class="topic-score excellent">83</div>
+                    </div>
+                    <div class="topic-title">中国天眼又立功了</div>
+                    <div class="topic-meta">
+                        <span class="meta-tag hot">热度 661874</span>
+                    </div>
+                    <div class="topic-scores">
+                        <div class="score-item">
+                            <div class="score-value">17</div>
+                            <div class="score-label">新颖性</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">17</div>
+                            <div class="score-label">情感共鸣</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">16</div>
+                            <div class="score-label">传播潜力</div>
+                        </div>
+                    </div>
+                    <div class="product-section">
+                        <div class="product-name">产品创意: 星空探索</div>
+                        <div class="product-item">
+                            <div class="product-item-label">核心功能</div>
+                            <div class="product-item-value">AR天文科普 · 实时射电望远镜数据可视化 · 天文发现推送 · 虚拟天文馆</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">目标用户</div>
+                            <div class="product-item-value">天文爱好者、学生、科普工作者、青少年</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">价值主张</div>
+                            <div class="product-item-value">让每个人都能触摸宇宙，感受科学探索的魅力</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Topic 4: 胖东来599元羽绒服进价457.9元 -->
+                <div class="topic-card excellent" data-category="excellent" data-title="胖东来599元羽绒服进价457.9元" data-product="价格雷达">
+                    <div class="topic-rank">05</div>
+                    <div class="topic-header">
+                        <div class="topic-score excellent">81</div>
+                    </div>
+                    <div class="topic-title">胖东来599元羽绒服进价457.9元</div>
+                    <div class="topic-meta">
+                        <span class="meta-tag hot">热度 375083</span>
+                    </div>
+                    <div class="topic-scores">
+                        <div class="score-item">
+                            <div class="score-value">16</div>
+                            <div class="score-label">新颖性</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">17</div>
+                            <div class="score-label">情感共鸣</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">17</div>
+                            <div class="score-label">传播潜力</div>
+                        </div>
+                    </div>
+                    <div class="product-section">
+                        <div class="product-name">产品创意: 价格雷达</div>
+                        <div class="product-item">
+                            <div class="product-item-label">核心功能</div>
+                            <div class="product-item-value">商品进价透明化查询 · 零售价合理性分析 · 消费者晒价社区 · 诚信商家推荐</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">目标用户</div>
+                            <div class="product-item-value">理性消费者、价格敏感型购物者、追求性价比的用户</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">价值主张</div>
+                            <div class="product-item-value">让价格透明化，帮消费者找到真正诚信的商家</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Topic 5: 泡泡玛特星星人 -->
+                <div class="topic-card excellent" data-category="excellent" data-title="泡泡玛特星星人" data-product="潮玩社区">
+                    <div class="topic-rank">06</div>
+                    <div class="topic-header">
+                        <div class="topic-score excellent">80</div>
+                    </div>
+                    <div class="topic-title">泡泡玛特星星人</div>
+                    <div class="topic-meta">
+                        <span class="meta-tag hot">热度 329273</span>
+                    </div>
+                    <div class="topic-scores">
+                        <div class="score-item">
+                            <div class="score-value">16</div>
+                            <div class="score-label">新颖性</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">16</div>
+                            <div class="score-label">情感共鸣</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">17</div>
+                            <div class="score-label">传播潜力</div>
+                        </div>
+                    </div>
+                    <div class="product-section">
+                        <div class="product-name">产品创意: 潮玩社区</div>
+                        <div class="product-item">
+                            <div class="product-item-label">核心功能</div>
+                            <div class="product-item-value">盲盒交易与交换 · 收藏品展示 · 抽奖概率分析 · 潮玩新品测评</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">目标用户</div>
+                            <div class="product-item-value">盲盒玩家、潮玩收藏者、Z世代年轻人、社交达人</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">价值主张</div>
+                            <div class="product-item-value">连接潮玩爱好者，让收藏更有趣、交易更安全</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Topic 6: 第五人格 -->
+                <div class="topic-card excellent" data-category="excellent" data-title="第五人格" data-product="电竞陪练">
+                    <div class="topic-rank">08</div>
+                    <div class="topic-header">
+                        <div class="topic-score excellent">80</div>
+                    </div>
+                    <div class="topic-title">第五人格</div>
+                    <div class="topic-meta">
+                        <span class="meta-tag hot">热度 304588</span>
+                        <span class="meta-tag new">新</span>
+                    </div>
+                    <div class="topic-scores">
+                        <div class="score-item">
+                            <div class="score-value">15</div>
+                            <div class="score-label">新颖性</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">17</div>
+                            <div class="score-label">情感共鸣</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">17</div>
+                            <div class="score-label">传播潜力</div>
+                        </div>
+                    </div>
+                    <div class="product-section">
+                        <div class="product-name">产品创意: 电竞陪练</div>
+                        <div class="product-item">
+                            <div class="product-item-label">核心功能</div>
+                            <div class="product-item-value">大神陪练服务 · 技术教学视频 · 实时语音指导 · 段位提升计划</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">目标用户</div>
+                            <div class="product-item-value">手游玩家、想提升技术的玩家、竞技游戏爱好者</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">价值主张</div>
+                            <div class="product-item-value">让每个玩家都能享受游戏的乐趣，快速上分</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Topic 7: 孙颖莎王楚钦最想尝试的冬奥会项目 -->
+                <div class="topic-card good" data-category="good" data-title="孙颖莎王楚钦最想尝试的冬奥会项目" data-product="运动员互动">
+                    <div class="topic-rank">10</div>
+                    <div class="topic-header">
+                        <div class="topic-score good">78</div>
+                    </div>
+                    <div class="topic-title">孙颖莎王楚钦最想尝试的冬奥会项目</div>
+                    <div class="topic-meta">
+                        <span class="meta-tag hot">热度 300666</span>
+                        <span class="meta-tag new">新</span>
+                    </div>
+                    <div class="topic-scores">
+                        <div class="score-item">
+                            <div class="score-value">15</div>
+                            <div class="score-label">新颖性</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">16</div>
+                            <div class="score-label">情感共鸣</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">16</div>
+                            <div class="score-label">传播潜力</div>
+                        </div>
+                    </div>
+                    <div class="product-section">
+                        <div class="product-name">产品创意: 运动员互动</div>
+                        <div class="product-item">
+                            <div class="product-item-label">核心功能</div>
+                            <div class="product-item-value">运动员问答社区 · 互动直播 · 训练日常分享 · 粉丝应援</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">目标用户</div>
+                            <div class="product-item-value">体育迷、粉丝、乒乓球爱好者、年轻人</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">价值主张</div>
+                            <div class="product-item-value">拉近运动员与粉丝的距离，分享体育精神</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Topic 8: 617分考生放弃985选职业院校 -->
+                <div class="topic-card good" data-category="good" data-title="617分考生放弃985选职业院校" data-product="志愿填报顾问">
+                    <div class="topic-rank">14</div>
+                    <div class="topic-header">
+                        <div class="topic-score good">77</div>
+                    </div>
+                    <div class="topic-title">617分考生放弃985选职业院校</div>
+                    <div class="topic-meta">
+                        <span class="meta-tag hot">热度 287822</span>
+                        <span class="meta-tag new">新</span>
+                    </div>
+                    <div class="topic-scores">
+                        <div class="score-item">
+                            <div class="score-value">16</div>
+                            <div class="score-label">新颖性</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">16</div>
+                            <div class="score-label">情感共鸣</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">15</div>
+                            <div class="score-label">传播潜力</div>
+                        </div>
+                    </div>
+                    <div class="product-section">
+                        <div class="product-name">产品创意: 志愿填报顾问</div>
+                        <div class="product-item">
+                            <div class="product-item-label">核心功能</div>
+                            <div class="product-item-value">AI志愿推荐 · 职业规划测评 · 历年录取分析 · 就业前景评估</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">目标用户</div>
+                            <div class="product-item-value">高考考生、家长、教育工作者、职业规划师</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">价值主张</div>
+                            <div class="product-item-value">基于数据和职业规划，让每一个分数都发挥最大价值</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Topic 9: 一条小团团时隔两年更新视频 -->
+                <div class="topic-card good" data-category="good" data-title="一条小团团时隔两年更新视频" data-product="创作者回归提醒">
+                    <div class="topic-rank">18</div>
+                    <div class="topic-header">
+                        <div class="topic-score good">76</div>
+                    </div>
+                    <div class="topic-title">一条小团团时隔两年更新视频</div>
+                    <div class="topic-meta">
+                        <span class="meta-tag hot">热度 147864</span>
+                        <span class="meta-tag new">新</span>
+                    </div>
+                    <div class="topic-scores">
+                        <div class="score-item">
+                            <div class="score-value">15</div>
+                            <div class="score-label">新颖性</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">16</div>
+                            <div class="score-label">情感共鸣</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">15</div>
+                            <div class="score-label">传播潜力</div>
+                        </div>
+                    </div>
+                    <div class="product-section">
+                        <div class="product-name">产品创意: 创作者回归提醒</div>
+                        <div class="product-item">
+                            <div class="product-item-label">核心功能</div>
+                            <div class="product-item-value">关注的UP主更新提醒 · 休期跟踪 · 回归预告推送 · 一键追更</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">目标用户</div>
+                            <div class="product-item-value">视频平台用户、粉丝、创作者、内容平台</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">价值主张</div>
+                            <div class="product-item-value">让粉丝不再错过喜爱的创作者，连接情感纽带</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Topic 10: 辅警保住100多万哭出了声 -->
+                <div class="topic-card good" data-category="good" data-title="辅警保住100多万哭出了声" data-product="公益救助平台">
+                    <div class="topic-rank">04</div>
+                    <div class="topic-header">
+                        <div class="topic-score good">75</div>
+                    </div>
+                    <div class="topic-title">辅警保住100多万哭出了声</div>
+                    <div class="topic-meta">
+                        <span class="meta-tag hot">热度 458298</span>
+                    </div>
+                    <div class="topic-scores">
+                        <div class="score-item">
+                            <div class="score-value">15</div>
+                            <div class="score-label">新颖性</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">16</div>
+                            <div class="score-label">情感共鸣</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">14</div>
+                            <div class="score-label">传播潜力</div>
+                        </div>
+                    </div>
+                    <div class="product-section">
+                        <div class="product-name">产品创意: 公益救助平台</div>
+                        <div class="product-item">
+                            <div class="product-item-label">核心功能</div>
+                            <div class="product-item-value">见义勇为奖励基金 · 紧急救助快速响应 · 感人事迹传播 · 爱心捐赠通道</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">目标用户</div>
+                            <div class="product-item-value">公益组织、爱心人士、政府机构、媒体</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">价值主张</div>
+                            <div class="product-item-value">让善举得到应有的回报，激励更多人传递正能量</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Topic 11: 第五人格调整争议角色 -->
+                <div class="topic-card good" data-category="good" data-title="第五人格调整争议角色" data-product="游戏平衡分析">
+                    <div class="topic-rank">11</div>
+                    <div class="topic-header">
+                        <div class="topic-score good">74</div>
+                    </div>
+                    <div class="topic-title">第五人格调整争议角色</div>
+                    <div class="topic-meta">
+                        <span class="meta-tag hot">热度 296574</span>
+                    </div>
+                    <div class="topic-scores">
+                        <div class="score-item">
+                            <div class="score-value">14</div>
+                            <div class="score-label">新颖性</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">15</div>
+                            <div class="score-label">情感共鸣</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">15</div>
+                            <div class="score-label">传播潜力</div>
+                        </div>
+                    </div>
+                    <div class="product-section">
+                        <div class="product-name">产品创意: 游戏平衡分析</div>
+                        <div class="product-item">
+                            <div class="product-item-label">核心功能</div>
+                            <div class="product-item-value">游戏平衡数据分析 · 角色强度排行 · 调整历史追踪 · 玩家建议反馈</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">目标用户</div>
+                            <div class="product-item-value">游戏玩家、开发者、数据分析师、电竞爱好者</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">价值主张</div>
+                            <div class="product-item-value">用数据说话，让游戏平衡更透明，玩家体验更好</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Topic 12: 女孩晕倒离世前妈妈疑已哄了一小时 -->
+                <div class="topic-card good" data-category="good" data-title="女孩晕倒离世前妈妈疑已哄了一小时" data-product="儿童健康监护">
+                    <div class="topic-rank">12</div>
+                    <div class="topic-header">
+                        <div class="topic-score good">73</div>
+                    </div>
+                    <div class="topic-title">女孩晕倒离世前妈妈疑已哄了一小时</div>
+                    <div class="topic-meta">
+                        <span class="meta-tag hot">热度 292401</span>
+                        <span class="meta-tag">重磅</span>
+                    </div>
+                    <div class="topic-scores">
+                        <div class="score-item">
+                            <div class="score-value">14</div>
+                            <div class="score-label">新颖性</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">16</div>
+                            <div class="score-label">情感共鸣</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">14</div>
+                            <div class="score-label">传播潜力</div>
+                        </div>
+                    </div>
+                    <div class="product-section">
+                        <div class="product-name">产品创意: 儿童健康监护</div>
+                        <div class="product-item">
+                            <div class="product-item-label">核心功能</div>
+                            <div class="product-item-value">儿童健康知识库 · 症状自查工具 · 紧急情况指导 · 专家在线咨询</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">目标用户</div>
+                            <div class="product-item-value">家长、幼儿园、学校、儿童医疗机构</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">价值主张</div>
+                            <div class="product-item-value">普及儿童健康知识，让悲剧不再重演</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Topic 13: 韩国火灾已投入85辆消防车 -->
+                <div class="topic-card good" data-category="good" data-title="韩国火灾已投入85辆消防车" data-product="国际灾害追踪">
+                    <div class="topic-rank">09</div>
+                    <div class="topic-header">
+                        <div class="topic-score good">72</div>
+                    </div>
+                    <div class="topic-title">韩国火灾已投入85辆消防车</div>
+                    <div class="topic-meta">
+                        <span class="meta-tag hot">热度 303929</span>
+                    </div>
+                    <div class="topic-scores">
+                        <div class="score-item">
+                            <div class="score-value">14</div>
+                            <div class="score-label">新颖性</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">15</div>
+                            <div class="score-label">情感共鸣</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">14</div>
+                            <div class="score-label">传播潜力</div>
+                        </div>
+                    </div>
+                    <div class="product-section">
+                        <div class="product-name">产品创意: 国际灾害追踪</div>
+                        <div class="product-item">
+                            <div class="product-item-label">核心功能</div>
+                            <div class="product-item-value">全球灾害实时追踪 · 安全提醒推送 · 使馆协助信息 · 应急指南</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">目标用户</div>
+                            <div class="product-item-value">出境游客、海外华人、关注国际新闻的用户</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">价值主张</div>
+                            <div class="product-item-value">第一时间掌握海外安全信息，保护海外华人安全</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Topic 14: 6岁女童发烧17天脑子险被吃掉 -->
+                <div class="topic-card good" data-category="good" data-title="6岁女童发烧17天脑子险被吃掉" data-product="智能健康管理">
+                    <div class="topic-rank">15</div>
+                    <div class="topic-header">
+                        <div class="topic-score good">71</div>
+                    </div>
+                    <div class="topic-title">6岁女童发烧17天脑子险被吃掉</div>
+                    <div class="topic-meta">
+                        <span class="meta-tag hot">热度 258118</span>
+                    </div>
+                    <div class="topic-scores">
+                        <div class="score-item">
+                            <div class="score-value">13</div>
+                            <div class="score-label">新颖性</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">16</div>
+                            <div class="score-label">情感共鸣</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">13</div>
+                            <div class="score-label">传播潜力</div>
+                        </div>
+                    </div>
+                    <div class="product-section">
+                        <div class="product-name">产品创意: 智能健康管理</div>
+                        <div class="product-item">
+                            <div class="product-item-label">核心功能</div>
+                            <div class="product-item-value">儿童健康监测 · 发烧预警 · 病情分析 · 就医推荐</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">目标用户</div>
+                            <div class="product-item-value">家长、儿科医生、幼儿园、儿童医疗机构</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">价值主张</div>
+                            <div class="product-item-value">用AI守护儿童健康，及时发现风险，避免延误治疗</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Topic 15: 轧戏 -->
+                <div class="topic-card good" data-category="good" data-title="轧戏" data-product="影视制作追踪">
+                    <div class="topic-rank">16</div>
+                    <div class="topic-header">
+                        <div class="topic-score good">70</div>
+                    </div>
+                    <div class="topic-title">轧戏</div>
+                    <div class="topic-meta">
+                        <span class="meta-tag hot">热度 246045</span>
+                    </div>
+                    <div class="topic-scores">
+                        <div class="score-item">
+                            <div class="score-value">13</div>
+                            <div class="score-label">新颖性</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">14</div>
+                            <div class="score-label">情感共鸣</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">15</div>
+                            <div class="score-label">传播潜力</div>
+                        </div>
+                    </div>
+                    <div class="product-section">
+                        <div class="product-name">产品创意: 影视制作追踪</div>
+                        <div class="product-item">
+                            <div class="product-item-label">核心功能</div>
+                            <div class="product-item-value">剧集制作进度 · 幕后花絮 · 演员动态 · 首映提醒</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">目标用户</div>
+                            <div class="product-item-value">剧迷、影视从业者、投资者、媒体</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">价值主张</div>
+                            <div class="product-item-value">从制作到播出，全程追踪喜爱的剧集</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Topic 16: 普通人化妆最有效的一步 -->
+                <div class="topic-card good" data-category="good" data-title="普通人化妆最有效的一步" data-product="美妆教程">
+                    <div class="topic-rank">31</div>
+                    <div class="topic-header">
+                        <div class="topic-score good">69</div>
+                    </div>
+                    <div class="topic-title">普通人化妆最有效的一步</div>
+                    <div class="topic-meta">
+                        <span class="meta-tag hot">热度 129936</span>
+                    </div>
+                    <div class="topic-scores">
+                        <div class="score-item">
+                            <div class="score-value">14</div>
+                            <div class="score-label">新颖性</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">14</div>
+                            <div class="score-label">情感共鸣</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">14</div>
+                            <div class="score-label">传播潜力</div>
+                        </div>
+                    </div>
+                    <div class="product-section">
+                        <div class="product-name">产品创意: 美妆教程</div>
+                        <div class="product-item">
+                            <div class="product-item-label">核心功能</div>
+                            <div class="product-item-value">分级化妆教程 · 产品推荐 · 个性化美妆方案 · 用户交流社区</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">目标用户</div>
+                            <div class="product-item-value">化妆新手、上班族、学生、美妆爱好者</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">价值主张</div>
+                            <div class="product-item-value">让每个人都能轻松变美，化妆从基础开始</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Topic 17: 发现极繁主义的人情绪都很稳定 -->
+                <div class="topic-card good" data-category="good" data-title="发现极繁主义的人情绪都很稳定" data-product="生活方式探索">
+                    <div class="topic-rank">49</div>
+                    <div class="topic-header">
+                        <div class="topic-score good">68</div>
+                    </div>
+                    <div class="topic-title">发现极繁主义的人情绪都很稳定</div>
+                    <div class="topic-meta">
+                        <span class="meta-tag hot">热度 89116</span>
+                    </div>
+                    <div class="topic-scores">
+                        <div class="score-item">
+                            <div class="score-value">14</div>
+                            <div class="score-label">新颖性</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">13</div>
+                            <div class="score-label">情感共鸣</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">15</div>
+                            <div class="score-label">传播潜力</div>
+                        </div>
+                    </div>
+                    <div class="product-section">
+                        <div class="product-name">产品创意: 生活方式探索</div>
+                        <div class="product-item">
+                            <div class="product-item-label">核心功能</div>
+                            <div class="product-item-value">生活方式测试 · 装修风格推荐 · 极繁主义商品 · 用户分享社区</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">目标用户</div>
+                            <div class="product-item-value">装修人群、生活方式爱好者、年轻人、设计师</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">价值主张</div>
+                            <div class="product-item-value">探索不同的生活方式，找到让自己最舒适的居住环境</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Topic 18: 买房千万不要买临街的 -->
+                <div class="topic-card good" data-category="good" data-title="买房千万不要买临街的" data-product="购房避坑指南">
+                    <div class="topic-rank">44</div>
+                    <div class="topic-header">
+                        <div class="topic-score good">67</div>
+                    </div>
+                    <div class="topic-title">买房千万不要买临街的</div>
+                    <div class="topic-meta">
+                        <span class="meta-tag hot">热度 106129</span>
+                        <span class="meta-tag">热</span>
+                    </div>
+                    <div class="topic-scores">
+                        <div class="score-item">
+                            <div class="score-value">13</div>
+                            <div class="score-label">新颖性</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">14</div>
+                            <div class="score-label">情感共鸣</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">14</div>
+                            <div class="score-label">传播潜力</div>
+                        </div>
+                    </div>
+                    <div class="product-section">
+                        <div class="product-name">产品创意: 购房避坑指南</div>
+                        <div class="product-item">
+                            <div class="product-item-label">核心功能</div>
+                            <div class="product-item-value">房产环境评估 · 噪音检测工具 · 避坑知识库 · 专家咨询</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">目标用户</div>
+                            <div class="product-item-value">购房者、租房者、房产中介、开发商</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">价值主张</div>
+                            <div class="product-item-value">用数据和经验帮助购房者避开陷阱，买到好房子</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Topic 19: 一汽奥迪携千万用户共赴乾崑 -->
+                <div class="topic-card good" data-category="good" data-title="一汽奥迪携千万用户共赴乾崑" data-product="车友社区">
+                    <div class="topic-rank">07</div>
+                    <div class="topic-header">
+                        <div class="topic-score good">65</div>
+                    </div>
+                    <div class="topic-title">一汽奥迪携千万用户共赴乾崑</div>
+                    <div class="topic-meta">
+                        <span class="meta-tag hot">热度</span>
+                    </div>
+                    <div class="topic-scores">
+                        <div class="score-item">
+                            <div class="score-value">12</div>
+                            <div class="score-label">新颖性</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">13</div>
+                            <div class="score-label">情感共鸣</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">14</div>
+                            <div class="score-label">传播潜力</div>
+                        </div>
+                    </div>
+                    <div class="product-section">
+                        <div class="product-name">产品创意: 车友社区</div>
+                        <div class="product-item">
+                            <div class="product-item-label">核心功能</div>
+                            <div class="product-item-value">品牌车主社区 · 试驾活动组织 · 用车经验分享 · 专属优惠</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">目标用户</div>
+                            <div class="product-item-value">奥迪车主、豪华车用户、汽车爱好者、潜在购车者</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">价值主张</div>
+                            <div class="product-item-value">连接品牌与车主，打造专属的汽车生活社区</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Topic 20: HLE对战T1 -->
+                <div class="topic-card good" data-category="good" data-title="HLE对战T1" data-product="电竞赛事">
+                    <div class="topic-rank">50</div>
+                    <div class="topic-header">
+                        <div class="topic-score good">62</div>
+                    </div>
+                    <div class="topic-title">HLE对战T1</div>
+                    <div class="topic-meta">
+                        <span class="meta-tag hot">热度 89071</span>
+                        <span class="meta-tag new">新</span>
+                    </div>
+                    <div class="topic-scores">
+                        <div class="score-item">
+                            <div class="score-value">12</div>
+                            <div class="score-label">新颖性</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">13</div>
+                            <div class="score-label">情感共鸣</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-value">12</div>
+                            <div class="score-label">传播潜力</div>
+                        </div>
+                    </div>
+                    <div class="product-section">
+                        <div class="product-name">产品创意: 电竞赛事</div>
+                        <div class="product-item">
+                            <div class="product-item-label">核心功能</div>
+                            <div class="product-item-value">赛事直播聚合 · 数据分析 · 预测竞猜 · 粉丝互动</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">目标用户</div>
+                            <div class="product-item-value">电竞粉丝、游戏玩家、体育爱好者、年轻男性</div>
+                        </div>
+                        <div class="product-item">
+                            <div class="product-item-label">价值主张</div>
+                            <div class="product-item-value">一站式电竞观赛体验，让每一场比赛都更精彩</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-text">WEIBO TRENDS ANALYSIS · 2026</div>
+        </div>
+    </footer>
+
+    <script>
+        // Counter animation
+        function animateCounters() {
+            const counters = document.querySelectorAll('.stat-number[data-count]');
+            counters.forEach(counter => {
+                const target = parseInt(counter.getAttribute('data-count'));
+                const duration = 2000;
+                const start = performance.now();
+
+                function update(currentTime) {
+                    const elapsed = currentTime - start;
+                    const progress = Math.min(elapsed / duration, 1);
+                    const easeOut = 1 - Math.pow(1 - progress, 3);
+                    counter.textContent = Math.floor(target * easeOut);
+
+                    if (progress < 1) {
+                        requestAnimationFrame(update);
+                    } else {
+                        counter.textContent = target;
+                    }
+                }
+
+                requestAnimationFrame(update);
+            });
+        }
+
+        // Intersection Observer for counter animation
+        const statsSection = document.querySelector('.stats-section');
+        const statsObserver = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    animateCounters();
+                    statsObserver.unobserve(entry.target);
+                }
+            });
+        }, { threshold: 0.5 });
+
+        statsObserver.observe(statsSection);
+
+        // Filter functionality
+        const filterButtons = document.querySelectorAll('.filter-btn');
+        const topicCards = document.querySelectorAll('.topic-card');
+
+        filterButtons.forEach(button => {
+            button.addEventListener('click', () => {
+                // Update active state
+                filterButtons.forEach(btn => btn.classList.remove('active'));
+                button.classList.add('active');
+
+                const filter = button.getAttribute('data-filter');
+
+                topicCards.forEach(card => {
+                    if (filter === 'all') {
+                        card.style.display = 'block';
+                        card.style.animation = 'fadeInUp 0.6s ease forwards';
+                    } else if (card.getAttribute('data-category') === filter) {
+                        card.style.display = 'block';
+                        card.style.animation = 'fadeInUp 0.6s ease forwards';
+                    } else {
+                        card.style.display = 'none';
+                    }
+                });
+            });
+        });
+
+        // Search functionality
+        const searchInput = document.getElementById('searchInput');
+
+        searchInput.addEventListener('input', () => {
+            const searchTerm = searchInput.value.toLowerCase();
+
+            topicCards.forEach(card => {
+                const title = card.getAttribute('data-title').toLowerCase();
+                const product = card.getAttribute('data-product').toLowerCase();
+
+                if (title.includes(searchTerm) || product.includes(searchTerm)) {
+                    card.style.display = 'block';
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+
+            // Reset active filter button
+            if (searchTerm.length > 0) {
+                filterButtons.forEach(btn => btn.classList.remove('active'));
+            }
+        });
+
+        // Mouse tracking for card hover effect
+        topicCards.forEach(card => {
+            card.addEventListener('mousemove', (e) => {
+                const rect = card.getBoundingClientRect();
+                const x = ((e.clientX - rect.left) / rect.width) * 100;
+                const y = ((e.clientY - rect.top) / rect.height) * 100;
+                card.style.setProperty('--mouse-x', `${x}%`);
+                card.style.setProperty('--mouse-y', `${y}%`);
+            });
+        });
+
+        // Smooth scroll behavior
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+    </script>
+</body>
+</html>
