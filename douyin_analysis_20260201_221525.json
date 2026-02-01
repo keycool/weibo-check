@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "腊月农村美食总带着浓浓的暖意",
+    "scores": {
+      "novelty": 12,
+      "resonance": 18,
+      "viral": 15,
+      "entertainment": 16,
+      "practical": 6,
+      "market": 8
+    },
+    "total_score": 75,
+    "grade": "良好",
+    "product_idea": {
+      "name": "寻味·乡土年货盒子",
+      "features": "结合短视频话题，提供地道农村风味食材订阅包，附带手写暖意祝福卡片和传统食谱教学视频。",
+      "target_users": "城市年轻打工群体、追求怀旧美食体验的家庭。",
+      "value_proposition": "连接城市与乡村味蕾，通过食物传递腊月里的情感暖意与人间烟火气。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "国投白银LOF开市停牌1小时",
+    "scores": {
+      "novelty": 5,
+      "resonance": 5,
+      "viral": 3,
+      "entertainment": 2,
+      "practical": 8,
+      "market": 8
+    },
+    "total_score": 31,
+    "grade": "普通",
+    "product_idea": {
+      "name": "基金异动雷达Pro",
+      "features": "实时监控LOF基金停牌、折溢价率异常，推送突发公告解读与风险提示。",
+      "target_users": "LOF套利投资者、基金持有人。",
+      "value_proposition": "快人一步掌握停牌信息，规避交易风险，捕捉套利机会。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "春运在即“陆地航母”霸气上线",
+    "scores": {
+      "novelty": 17,
+      "resonance": 15,
+      "viral": 17,
+      "entertainment": 16,
+      "practical": 7,
+      "market": 8
+    },
+    "total_score": 80,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "大国重器·积木拼装模型系列",
+      "features": "以“陆地航母”（如高速综合检测列车）为原型的精密积木模型，配套AR扫描展示实车运行原理。",
+      "target_users": "铁路迷、亲子家庭、模型爱好者。",
+      "价值_proposition": "让硬核科技走进生活，通过拼装体验中国制造的震撼与自豪。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "U23球员：想拿回国足失去的尊严",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 5,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 48,
+    "grade": "普通",
+    "product_idea": {
+      "name": "热血训练·AI陪练App",
+      "features": "结合U23话题，提供足球专项体能训练计划，并利用AI分析用户射门、盘带动作，生成热血励志视频。",
+      "target_users": "青训球员、业余足球爱好者。",
+      "value_proposition": "技术支持梦想，用数据见证每一次为尊严付出的汗水。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "宁波男篮终结广东5连胜",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 12,
+      "practical": 3,
+      "market": 5
+    },
+    "total_score": 52,
+    "grade": "普通",
+    "product_idea": {
+      "name": "爆冷预测竞猜社区",
+      "features": "基于历史数据与球队状态分析，用户可发起或参与冷门比分预测，赢取球队周边优惠券。",
+      "target_users": "篮球赛事关注者、体育彩民。",
+      "value_proposition": "增强观赛悬念，让每一次“以下克上”都有回报。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "什么是商业不动产REITs",
+    "scores": {
+      "novelty": 6,
+      "resonance": 8,
+      "viral": 5,
+      "entertainment": 2,
+      "practical": 9,
+      "market": 9
+    },
+    "total_score": 39,
+    "grade": "普通",
+    "product_idea": {
+      "name": "小白理财·REITs科普卡片",
+      "features": "图文并茂的商业地产投资入门工具，展示商场、写字楼的分红逻辑，提供模拟投资盘。",
+      "target_users": "理财小白、希望被动收入的人群。",
+      "value_proposition": "降低专业投资门槛，让普通人也能看懂并参与商业地产的红利分配。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "名侦探柯南声明",
+    "scores": {
+      "novelty": 11,
+      "resonance": 15,
+      "viral": 15,
+      "entertainment": 12,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 59,
+    "grade": "普通",
+    "product_idea": {
+      "name": "真相还原·逻辑推理剧游盒",
+      "features": "受柯南声明事件启发，每月寄送微型线索证物，用户需梳理时间线还原事件真相（真相只有一个）。",
+      "target_users": "推理迷、二次元爱好者。",
+      "value_proposition": "在现实世界中体验侦探破案的乐趣，锻炼逻辑思维能力。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "于文文演唱会晕倒",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 16,
+      "entertainment": 8,
+      "practical": 6,
+      "market": 5
+    },
+    "total_score": 61,
+    "grade": "良好",
+    "product_idea": {
+      "name": "守护·歌手健康监测手环",
+      "features": "专为舞台演出设计，实时监测心率、体温和声带疲劳度，异常时向后台团队预警。",
+      "target_users": "职业歌手、演艺经纪公司。",
+      "value_proposition": "科技守护舞台梦，减少演出意外，保障艺人职业健康。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "粉碎涉铁路十大谣言",
+    "scores": {
+      "novelty": 4,
+      "resonance": 8,
+      "viral": 10,
+      "entertainment": 10,
+      "practical": 8,
+      "market": 4
+    },
+    "total_score": 44,
+    "grade": "普通",
+    "product_idea": {
+      "name": "谣言粉碎机·科普短剧",
+      "features": "将铁路谣言改编成幽默短剧，通过夸张演绎揭露真相，在高铁WiFi或车站大屏投放。",
+      "target_users": "广大旅客、铁路迷。",
+      "value_proposition": "寓教于乐，提升公众交通安全意识，维护铁路形象。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "皇马2:1巴列卡诺",
+    "scores": {
+      "novelty": 5,
+      "resonance": 14,
+      "viral": 12,
+      "entertainment": 11,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 50,
+    "grade": "普通",
+    "product_idea": {
+      "name": "战术板·AI解说助手",
+      "features": "针对皇马等豪门比赛，实时生成AI战术分析图与精彩集锦，支持用户语音解说互动。",
+      "target_users": "足球迷、体育博主。",
+      "value_proposition": "看懂豪门战术，让每一次进球都更有深度。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "EDG 0:2不敌XLG",
+    "scores": {
+      "novelty": 7,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 13,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 57,
+    "grade": "普通",
+    "product_idea": {
+      "name": "电竞心态·情绪急救包",
+      "features": "关注战队胜负波动，为主队输比赛提供心理疏导内容和粉丝互动社区，包含“退烧”文案和解压游戏。",
+      "target_users": "电竞粉丝、年轻玩家。",
+      "value_proposition": "游戏有输赢，热爱无止境，为粉丝提供情绪宣泄的健康出口。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "看年少有为笑麻了",
+    "scores": {
+      "novelty": 13,
+      "resonance": 15,
+      "viral": 16,
+      "entertainment": 18,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 68,
+    "grade": "良好",
+    "product_idea": {
+      "name": "反矫情·毒舌生成器",
+      "features": "输入“装X”文案，自动生成幽默调侃或打油诗，用于朋友间互损或朋友圈神回复。",
+      "target_users": "Z世代年轻人、社交媒体重度用户。",
+      "value_proposition": "用解构主义对抗焦虑，用幽默消解生活中的“年少有为”假象。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "全网都在唱雨过后的风景",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 17,
+      "entertainment": 15,
+      "practical": 4,
+      "market": 7
+    },
+    "total_score": 69,
+    "grade": "良好",
+    "product_idea": {
+      "name": "全民K歌·AI合唱挑战",
+      "features": "针对热点歌曲，用户上传干声，AI自动生成多声部和声与分屏MV，支持与网红或明星隔空对唱。",
+      "target_users": "唱歌爱好者、短视频用户。",
+      "value_proposition": "零门槛制作专业级合唱MV，让每个人都能成为“雨后风景”的主角。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "阿尔卡拉斯夺得澳网冠军",
+    "scores": {
+      "novelty": 8,
+      "resonance": 12,
+      "viral": 13,
+      "entertainment": 12,
+      "practical": 3,
+      "market": 5
+    },
+    "total_score": 53,
+    "grade": "普通",
+    "product_idea": {
+      "name": "新星追踪·冠军同款装备库",
+      "features": "实时更新夺冠选手使用的球拍、球鞋及穿搭，提供正品购买渠道和初级选拍指南。",
+      "target_users": "网球初学者、体育装备党。",
+      "value_proposition": "穿上冠军战靴，感受挥拍激情，激发运动热情。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "论雪景和谢却山的适配度",
+    "scores": {
+      "novelty": 14,
+      "resonance": 16,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 5,
+      "market": 8
+    },
+    "total_score": 73,
+    "grade": "良好",
+    "product_idea": {
+      "name": "古风雪景·AR滤镜一键游",
+      "features": "结合“谢却山”等古风意象，开发大雪纷飞的红梅/庭院AR滤镜，支持生成古诗词风格的雪景Vlog。",
+      "target_users": "古风爱好者、汉服圈、旅游博主。",
+      "value_proposition": "无需等待下雪，随时随地拍摄绝美古风雪景，定格中式浪漫。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "也没人告诉我洛阳这么出片呀",
+    "scores": {
+      "novelty": 12,
+      "resonance": 17,
+      "viral": 18,
+      "entertainment": 15,
+      "practical": 8,
+      "market": 9
+    },
+    "total_score": 79,
+    "grade": "良好",
+    "product_idea": {
+      "name": "神都·机位打卡地图小程序",
+      "features": "整合洛阳最佳拍照机位（汉服、夜景、遗址），提供实景对比图、时刻建议（如蓝调时刻）及网约直达服务。",
+      "target_users": "旅游特种兵、摄影爱好者、汉服体验者。",
+      "value_proposition": "解决“不知道哪里好看”的痛点，手把手教你拍出大片，引爆社交圈。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "魏大勋孙千共创了鸣雪he版结局",
+    "scores": {
+      "novelty": 13,
+      "resonance": 17,
+      "viral": 16,
+      "entertainment": 15,
+      "practical": 3,
+      "market": 6
+    },
+    "total_score": 70,
+    "grade": "良好",
+    "product_idea": {
+      "name": "遗愿清单·遗憾补救所",
+      "features": "针对影视剧遗憾结局（BE），利用AI或共创形式生成用户想要的“圆满结局”剧本或插画。",
+      "target_users": "剧粉、CP粉、原著党。",
+      "value_proposition": "在这个平行宇宙里，所有的遗憾都能圆满，治愈意难平。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "有罪之身三人组没一个孬的",
+    "scores": {
+      "novelty": 15,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 67,
+    "grade": "良好",
+    "product_idea": {
+      "name": "暗黑童话·反派角色手办",
+      "features": "聚焦热门剧中“亦正亦邪”的高魅力角色，设计带有罪罚元素的精致手办和周边。",
+      "target_users": "剧粉、暗黑风爱好者、潮玩收藏家。",
+      "value_proposition": "正义让人安心，但魅力让人着迷，收藏那份独特的“有罪之身”美学。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "ROSÉ发文告别BP巡演",
+    "scores": {
+      "novelty": 10,
+      "resonance": 18,
+      "viral": 17,
+      "entertainment": 13,
+      "practical": 3,
+      "market": 7
+    },
+    "total_score": 68,
+    "grade": "良好",
+    "product_idea": {
+      "name": "K-Pop·应援记忆相册",
+      "features": "自动抓取偶像社交媒体图文，生成精美的电子或实体应援日记，记录每一次巡演的高光时刻。",
+      "target_users": "K-Pop粉丝、追星族。",
+      "value_proposition": "不仅是追星，更是记录青春，永久珍藏与偶像共同走过的旅程。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "曝金宣虎涉嫌逃税",
+    "scores": {
+      "novelty": 9,
+      "resonance": 14,
+      "viral": 16,
+      "entertainment": 8,
+      "practical": 5,
+      "market": 4
+    },
+    "total_score": 56,
+    "grade": "普通",
+    "product_idea": {
+      "name": "爱豆避雷·信用查询台",
+      "features": "汇总艺人/网红的税务、法律纠纷及舆情记录，为粉丝选择偶像或品牌方选代言人提供风控参考。",
+      "target_users": "理智粉、品牌公关、经纪公司。",
+      "value_proposition": "追星先看人品，用数据降低塌房带来的情感或商业风险。"
+    }
+  }
+]
