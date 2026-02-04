@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "今日立春",
+    "scores": {
+      "novelty": 5,
+      "resonance": 15,
+      "viral": 10,
+      "entertainment": 5,
+      "practical": 5,
+      "market": 5
+    },
+    "total_score": 45,
+    "grade": "普通",
+    "product_idea": {
+      "name": "“咬春”节气盲盒",
+      "features": "结合立春吃春饼/萝卜的习俗，推出包含随机春菜种子或限定口味春饼酱料的盲盒。",
+      "target_users": "年轻猎奇消费者、养生人群",
+      "value_proposition": "将传统节气习俗转化为可体验的趣味产品，通过盲盒形式增加节日仪式感。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "过年氛围提前搞起来了",
+    "scores": {
+      "novelty": 8,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 15,
+      "practical": 6,
+      "market": 8
+    },
+    "total_score": 71,
+    "grade": "良好",
+    "product_idea": {
+      "name": "智能渐变春节氛围灯",
+      "features": "这是一款能通过手机APP远程控制，模拟除夕夜灯光秀的智能灯具，内置‘接财神’、‘放鞭炮’等声光同步特效。",
+      "target_users": "租房党、无法回家的打工人",
+      "value_proposition": "解决租房族装饰麻烦、复用率低的问题，用低成本营造高浓度的过年情感氛围。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "2025我国粮食总产单产均创新高",
+    "scores": {
+      "novelty": 5,
+      "resonance": 12,
+      "viral": 5,
+      "entertainment": 2,
+      "practical": 8,
+      "market": 5
+    },
+    "total_score": 37,
+    "grade": "普通",
+    "product_idea": {
+      "name": "助农IP衍生周边",
+      "features": "设计‘超级稻’等吉祥物公仔，或推出产地溯源包装的高端粮油礼盒。",
+      "target_users": "注重食品安全的家庭、礼品市场",
+      "value_proposition": "将宏大的农业成就转化为消费者可感知的品牌信任背书和爱国情怀载体。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "官方集体约谈精神类定点医疗机构",
+    "scores": {
+      "novelty": 10,
+      "resonance": 14,
+      "viral": 12,
+      "entertainment": 2,
+      "practical": 8,
+      "market": 4
+    },
+    "total_score": 50,
+    "grade": "普通",
+    "product_idea": {
+      "name": "医保合规透明账单助手",
+      "features": "为患者提供医疗费用合规性自查工具，实时对比定点医院收费合理性，一键举报异常。",
+      "target_users": "精神疾病患者家属、医保参保人群",
+      "value_proposition": "利用政策关注度，解决医疗消费不透明的痛点，提供安全感和监督工具。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "哈登被快船交易至骑士",
+    "scores": {
+      "novelty": 15,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 12,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 68,
+    "grade": "良好",
+    "product_idea": {
+      "name": "球星转会模拟经营游戏",
+      "features": "基于NBA真实数据的即时模拟策略游戏，玩家可根据突发新闻（如哈登转会）即时重组球队战术。",
+      "target_users": "NBA球迷、策略游戏玩家",
+      "value_proposition": "满足球迷‘假如我是经理’的意淫心理，快速结合热点提升游戏留存率。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "各地春节年俗地图",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 17,
+      "entertainment": 14,
+      "practical": 7,
+      "market": 9
+    },
+    "total_score": 71,
+    "grade": "良好",
+    "product_idea": {
+      "name": "民俗通·AR春节伴游",
+      "features": "LBS地理位置服务应用，到达特定城市解锁当地年俗AR滤镜和互动挑战（如电子接财神）。",
+      "target_users": "春节返乡人群、春节旅游者",
+      "value_proposition": "将枯燥的知识地图转化为沉浸式体验工具，促进春节旅游消费和文化传播。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "粉彩风和立春一起来了",
+    "scores": {
+      "novelty": 10,
+      "resonance": 14,
+      "viral": 14,
+      "entertainment": 12,
+      "practical": 6,
+      "market": 10
+    },
+    "total_score": 66,
+    "grade": "良好",
+    "product_idea": {
+      "name": "春日粉彩AI换装滤镜",
+      "features": "结合立春节点，生成樱花粉、嫩柳绿配色的汉服或新中式穿搭滤镜，支持一键生成头像。",
+      "target_users": "小红书/抖音女性用户、汉服爱好者",
+      "value_proposition": "利用季节性审美趋势，提供低成本的高颜值社交货币，激发UGC传播。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "第一口春味是家乡的年味",
+    "scores": {
+      "novelty": 6,
+      "resonance": 18,
+      "viral": 14,
+      "entertainment": 8,
+      "practical": 5,
+      "market": 8
+    },
+    "total_score": 59,
+    "grade": "普通",
+    "product_idea": {
+      "name": "乡味·预制春菜包",
+      "features": "按地域方言划分的家乡特色春菜（如荠菜、春笋）预制菜包，附带家乡话语音祝福卡片。",
+      "target_users": "在外打拼的游子、懒人经济群体",
+      "value_proposition": "用一口家乡味解决‘乡愁’和‘不想做饭’的冲突，情感营销与餐饮零售结合。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "这才是跨火盆的满分答案",
+    "scores": {
+      "novelty": 14,
+      "resonance": 15,
+      "viral": 16,
+      "entertainment": 16,
+      "practical": 3,
+      "market": 5
+    },
+    "total_score": 69,
+    "grade": "良好",
+    "product_idea": {
+      "name": "电子跨火盆AR特效",
+      "features": "利用AR技术生成安全的虚拟火盆，用户跨过时触发红红火火的视觉特效和吉祥话音效，适合无法烧火的城市环境。",
+      "target_users": "城市年轻人、追求新意拜年者",
+      "value_proposition": "保留传统仪式感，消除安全隐患和环保限制，让民俗在城市场景中复活。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "年夜饭菜单提前曝光了",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 9,
+      "market": 10
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "年夜饭·名厨复刻料理包",
+      "features": "根据热搜菜单中的‘硬菜’（如佛跳墙、八大碗），推出大厨调味、傻瓜式操作的年夜饭半成品套装。",
+      "target_users": "负责掌勺的家庭主妇/煮夫、预制菜接受人群",
+      "value_proposition": "解决‘想做不会做’、‘想吃得撑场面’的痛点，直接蹭热点菜单流量带货。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "金饰克价一夜涨超100元",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 5,
+      "practical": 8,
+      "market": 10
+    },
+    "total_score": 64,
+    "grade": "良好",
+    "product_idea": {
+      "name": "黄金价格追踪与金豆储蓄机",
+      "features": "APP实时监控金价，设置‘低吸’提醒；配合线下商场推出‘黄金扭蛋机’，每次存入固定金额抽取1克真金。",
+      "target_users": "年轻理财小白、‘淘金’一族",
+      "value_proposition": "利用涨价焦虑和‘攒金豆’的热潮，将投资行为游戏化、碎片化。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "山海经辟谣：重明鸟破健康谣言",
+    "scores": {
+      "novelty": 17,
+      "resonance": 12,
+      "viral": 16,
+      "entertainment": 15,
+      "practical": 7,
+      "market": 6
+    },
+    "total_score": 73,
+    "grade": "良好",
+    "product_idea": {
+      "name": "重明鸟·谣言粉碎机小程序",
+      "features": "利用AI驱动的‘神兽’IP形象，以趣味动画或科普漫画形式，粉碎朋友圈流传的伪养生谣言。",
+      "target_users": "中老年群体、关注健康的家庭",
+      "value_proposition": "用国潮IP包装严肃科普内容，降低阅读门槛，解决家庭群谣言泛滥的痛点。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "海克斯大乱斗新春版本",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 15,
+      "entertainment": 16,
+      "practical": 4,
+      "market": 8
+    },
+    "total_score": 69,
+    "grade": "良好",
+    "product_idea": {
+      "name": "新春版·健身大乱斗挑战",
+      "features": "结合游戏新春版本的数值变化，设计一套对应的现实健身挑战动作，将线上娱乐转化为线下燃脂。",
+      "target_users": "宅男玩家、久坐办公族",
+      "value_proposition": "利用游戏热度作为运动激励，解决‘想玩游戏但怕不健康’的心理冲突。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "美军击落伊朗无人机",
+    "scores": {
+      "novelty": 15,
+      "resonance": 10,
+      "viral": 12,
+      "entertainment": 5,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 46,
+    "grade": "普通",
+    "product_idea": {
+      "name": "硬核军工风收纳盒",
+      "features": "仿无人机碎片或隐身战机涂装设计的桌面/EDC收纳用品，满足军事迷的硬核审美。",
+      "target_users": "军事爱好者、男性用户",
+      "value_proposition": "借势国际热点新闻，满足亚文化群体的审美需求，小而美的周边产品。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "上海居民赴金门马祖旅游近期恢复",
+    "scores": {
+      "novelty": 14,
+      "resonance": 10,
+      "viral": 10,
+      "entertainment": 8,
+      "practical": 9,
+      "market": 8
+    },
+    "total_score": 59,
+    "grade": "普通",
+    "product_idea": {
+      "name": "小三通·两岸寻根手册",
+      "features": "包含金门马祖美食地图、族谱查询指南、方言翻译卡的一站式旅游助手（APP或实体书）。",
+      "target_users": "怀旧旅游者、探亲团",
+      "value_proposition": "抓住政策放开窗口期，提供深度的文化溯源旅游服务，区别于普通观光。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "跟着凌云探秘泉州百年狮阵",
+    "scores": {
+      "novelty": 14,
+      "resonance": 12,
+      "viral": 12,
+      "entertainment": 14,
+      "practical": 6,
+      "market": 8
+    },
+    "total_score": 66,
+    "grade": "良好",
+    "product_idea": {
+      "name": "功夫醒狮体感游戏套装",
+      "features": "结合非遗狮阵文化，体感设备识别用户舞狮动作，在家即可体验‘打狮阵’的功夫乐趣。",
+      "target_users": "亲子家庭、国风文化爱好者",
+      "价值_proposition": "让高门槛的非遗民俗数字化、居家化，锻炼身体的同时传承传统文化。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "恋与深空的古风小生来了",
+    "scores": {
+      "novelty": 12,
+      "resonance": 18,
+      "viral": 18,
+      "entertainment": 16,
+      "practical": 2,
+      "market": 9
+    },
+    "total_score": 75,
+    "grade": "良好",
+    "product_idea": {
+      "name": "乙女向·古风定制婚书",
+      "features": "用户上传与游戏角色的合影，AI生成精美的古风婚书、情书或新年祝福海报，满足嗑CP心理。",
+      "target_users": "女性玩家、同人创作者",
+      "价值_proposition": "利用虚拟角色的情感粘性，提供高情绪价值的虚拟定制纪念品。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "记录我的一半一半",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 12,
+      "practical": 4,
+      "market": 6
+    },
+    "total_score": 63,
+    "grade": "良好",
+    "product_idea": {
+      "name": "AB面·双面手账本",
+      "features": "设计专门记录‘一半一半’生活的手账或APP模板，一半记录工作（严肃），一半记录生活（松弛）。",
+      "target_users": "Work-Life Balance探索者、学生党",
+      "价值_proposition": "提供一种审视生活平衡的工具，迎合当代年轻人追求‘松弛感’的心理需求。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "央视春晚主持人阵容官宣",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 10,
+      "practical": 3,
+      "market": 7
+    },
+    "total_score": 58,
+    "grade": "普通",
+    "product_idea": {
+      "name": "春晚·同款口红色号",
+      "features": "快速分析当红主持人或当晚女明星的口红色号，推出‘春晚同款’即时美妆盲盒。",
+      "target_users": "女性观众、美妆爱好者",
+      "价值_proposition": "借势春晚最大流量入口，实现‘看播即种草’的快速商业转化。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "爱泼斯坦案“吃人”传闻是真的吗",
+    "scores": {
+      "novelty": 16,
+      "resonance": 12,
+      "viral": 15,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 57,
+    "grade": "普通",
+    "product_idea": {
+      "name": "侦探逻辑社·剧本杀订阅盒",
+      "features": "基于真实社会热点案件改编的推理解谜盒，每月一期，锻炼用户逻辑推理能力。",
+      "target_users": "悬疑爱好者、高知人群",
+      "价值_proposition": "满足大众对名人奇案的窥私欲和求知欲，将其转化为合规的智力娱乐产品。"
+    }
+  }
+]
