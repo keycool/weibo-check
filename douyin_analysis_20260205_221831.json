@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "我的刀盾",
+    "scores": {
+      "novelty": 15,
+      "resonance": 12,
+      "viral": 14,
+      "entertainment": 16,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 62.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "AR塔防战术眼镜",
+      "features": "结合现实场景的AR塔防游戏，用户可通过手机屏幕或AR眼镜召唤虚拟刀盾守卫自己的物理空间（如办公桌、卧室），防御看不见的“怪物入侵”。",
+      "target_users": "塔防游戏爱好者、喜欢AR互动的年轻群体",
+      "value_proposition": "打破次元壁，将虚拟防御塔具象化，提供沉浸式宅家保卫体验。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "加拿大6成受访者支持进口中国电车",
+    "scores": {
+      "novelty": 10,
+      "resonance": 8,
+      "viral": 9,
+      "entertainment": 2,
+      "practical": 6,
+      "market": 10
+    },
+    "total_score": 45.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球电车智选助手",
+      "features": "针对海外用户的集车型对比、跨国物流追踪、本地化合规政策查询及购买补贴计算的一站式APP。",
+      "target_users": "海外有购车意向的用户、跨境贸易商",
+      "value_proposition": "降低海外用户购买中国电车的信息门槛，解决跨境购买信任与流程痛点。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "中央一号文件里的乡村振兴密码",
+    "scores": {
+      "novelty": 8,
+      "resonance": 12,
+      "viral": 5,
+      "entertainment": 2,
+      "practical": 8,
+      "market": 9
+    },
+    "total_score": 44.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "乡村政策通AI解读",
+      "features": "利用AI将复杂的政策文件转化为通俗易懂的图文/视频，并提供补贴申领导航、成功案例匹配功能。",
+      "target_users": "基层村干部、返乡创业者、农民",
+      "value_proposition": "让国家红利“看得懂、拿得到”，助力乡村产业精准落地。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "官方回应男子从着火电车连救3人",
+    "scores": {
+      "novelty": 5,
+      "resonance": 18,
+      "viral": 17,
+      "entertainment": 2,
+      "practical": 8,
+      "market": 2
+    },
+    "total_score": 52.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "车载紧急破窗逃生器",
+      "features": "集成一键破窗、安全带割刀、高亮手电筒及SOS定位报警功能的紧凑型车载挂件。",
+      "target_users": "私家车主、网约车司机、家用车用户",
+      "value_proposition": "黄金30秒的救命神器，提升极端情况下的自救与互救生存率。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "苏翊鸣晋级大跳台决赛",
+    "scores": {
+      "novelty": 8,
+      "resonance": 15,
+      "viral": 13,
+      "entertainment": 12,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 56.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "偶像同款滑雪云镜",
+      "features": "第一视角记录滑雪轨迹，叠加AR仪表盘显示速度、跳跃高度，并可一键生成苏翊鸣同款高光视频。",
+      "target_users": "滑雪爱好者、运动Vlog博主",
+      "value_proposition": "像冠军一样滑雪，量化运动数据并快速产出社交酷炫内容。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "彩虹霉豆腐申请出战",
+    "scores": {
+      "novelty": 14,
+      "resonance": 10,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 5,
+      "market": 8
+    },
+    "total_score": 66.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "国潮新中式酱料礼盒",
+      "features": "将霉豆腐、辣酱等传统佐餐食品进行低糖化改良，采用国潮插画包装，搭配精致分装勺，主打‘一人食’场景。",
+      "target_users": "独居青年、国潮文化爱好者、上班族",
+      "value_proposition": "用高颜值唤醒传统味道，让‘下饭’变得时尚且社交化。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "辽宁安委会挂牌督办大连交通事故",
+    "scores": {
+      "novelty": 2,
+      "resonance": 8,
+      "viral": 6,
+      "entertainment": 0,
+      "practical": 5,
+      "market": 2
+    },
+    "total_score": 23.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "企业安全生产AI巡检系统",
+      "features": "利用视觉识别技术自动监测车辆违规驾驶、工人未佩戴防护装备等不安全行为，实时报警并生成整改报告。",
+      "target_users": "物流运输公司、大型工厂",
+      "value_proposition": "用AI技术弥补人工监管疏漏，降低重大安全事故风险。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "南京一恶势力集团长期脱离侦控",
+    "scores": {
+      "novelty": 5,
+      "resonance": 10,
+      "viral": 8,
+      "entertainment": 2,
+      "practical": 3,
+      "market": 2
+    },
+    "total_score": 30.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "社区治安联防小程序",
+      "features": "匿名线索上报、社区警情通报、紧急求助一键报警，构建警方与居民的数字化联防通道。",
+      "target_users": "社区居民、物业管理",
+      "value_proposition": "群防群治数字化，打通基层治理最后一步，增强居民安全感。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "立陶宛承认对中国犯了巨大错误",
+    "scores": {
+      "novelty": 10,
+      "resonance": 15,
+      "viral": 12,
+      "entertainment": 5,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 47.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "时政历史知识对战卡牌",
+      "features": "基于真实历史事件的卡牌策略游戏，玩家通过收集不同历史时期的决策卡，推演国家发展路径。",
+      "target_users": "策略游戏玩家、历史军事爱好者",
+      "value_proposition": "寓教于乐，在博弈中理解国际关系的复杂性与历史逻辑。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "非遗祈福百景图",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 13,
+      "entertainment": 12,
+      "practical": 4,
+      "market": 8
+    },
+    "total_score": 63.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "AR非遗祈福地图",
+      "features": "用户通过手机扫描特定地标或春节物件，触发AR非遗表演（如舞狮、剪纸），并可生成个性化祈福语音或视频灯笼发送给亲友。",
+      "target_users": "年轻一代、民俗文化爱好者",
+      "value_proposition": "科技激活传统，让‘祈福’这一古老习俗以数字化的方式在年轻群体中传承。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "这届精选创作者宠粉太全面了",
+    "scores": {
+      "novelty": 6,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 8,
+      "practical": 4,
+      "market": 9
+    },
+    "total_score": 49.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "粉丝权益交换集市",
+      "features": "一个聚合各平台创作者福利的聚合平台，粉丝可用互动积分兑换不同创作者提供的专属权益或周边。",
+      "target_users": "创作者核心粉丝、KOL",
+      "value_proposition": "打通粉丝经济的孤岛，最大化挖掘粉丝互动价值，增强粉丝粘性。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "冬日跑步装备大赏",
+    "scores": {
+      "novelty": 8,
+      "resonance": 10,
+      "viral": 9,
+      "entertainment": 10,
+      "practical": 9,
+      "market": 10
+    },
+    "total_score": 56.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "自发热智能马甲",
+      "features": "轻薄贴身，利用APP或身体自发电控制背部及腰部发热区域，同时兼具心率监测与跑姿纠错功能。",
+      "target_users": "冬季跑者、户外运动人群",
+      "value_proposition": "解决冬季运动‘穿衣臃肿’与‘容易着凉’的矛盾，畅跑无阻。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "“江西高速事故73人死亡”不实",
+    "scores": {
+      "novelty": 2,
+      "resonance": 5,
+      "viral": 5,
+      "entertainment": 0,
+      "practical": 7,
+      "market": 2
+    },
+    "total_score": 21.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "谣言粉碎机浏览器插件",
+      "features": "在浏览新闻时自动识别存疑内容，并链接至官方辟谣数据库或权威信源，用高亮提示风险。",
+      "target_users": "中老年网民、信息敏感度高的用户",
+      "value_proposition": "构建清朗网络空间，保护用户免受虚假信息焦虑。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "赵心童逆转塞尔比晋级8强",
+    "scores": {
+      "novelty": 9,
+      "resonance": 13,
+      "viral": 12,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 51.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "家用电子斯诺克训练器",
+      "features": "包含高精度传感器球杆和电子辅助球桌，可实时显示击球线路预测、发力分析及世界级选手的球局复盘模拟。",
+      "target_users": "台球迷、有志于专业训练的青少年",
+      "value_proposition": "将名师请回家，用数据量化击球动作，加速球技提升。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "长大了带父母来北京旅游圆梦",
+    "scores": {
+      "novelty": 7,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 8,
+      "practical": 9,
+      "market": 9
+    },
+    "total_score": 67.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "银龄舒心游陪伴手账",
+      "features": "定制化行程规划服务，标注如‘少爬坡’、‘每隔1小时洗手间’等适老化细节，并配备急救指南与博物馆语音导译。",
+      "target_users": "带父母旅游的独生子女一代",
+      "value_proposition": "不仅是旅游，更是尽孝。解决子女想带父母玩但父母身体吃不消的痛点。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "李佩仪目睹闺蜜自杀",
+    "scores": {
+      "novelty": 8,
+      "resonance": 14,
+      "viral": 15,
+      "entertainment": 6,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 49.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "心理健康互助树洞",
+      "features": "匿名情感倾诉社区，引入AI与人工志愿者双重监护机制，识别高危词汇并触发心理危机干预热线。",
+      "target_users": "有心理压力的年轻群体、剧粉共情者",
+      "value_proposition": "提供一个安全的宣泄出口，在悲剧发生前提供关怀与支持。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "和平精英小火人联动",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 16,
+      "entertainment": 18,
+      "practical": 3,
+      "market": 9
+    },
+    "total_score": 74.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "游戏主题实体对战夜灯",
+      "features": "可收纳的便携式LED阵营灯，支持蓝牙组队变色，线下聚会时摆放作为阵营标识，内置‘吃鸡’胜利音效。",
+      "target_users": "游戏玩家、电竞俱乐部、线下聚会组织者",
+      "value_proposition": "将线上游戏荣誉感延伸至线下社交场景，增强团队凝聚力与氛围感。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "多地漫展禁止cos名侦探柯南角色",
+    "scores": {
+      "novelty": 17,
+      "resonance": 14,
+      "viral": 18,
+      "entertainment": 16,
+      "practical": 2,
+      "market": 7
+    },
+    "total_score": 74.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "“死神来了”打卡挑战APP",
+      "features": "基于地理位置的解谜游戏，用户需前往现实中的安全区域进行‘探案’，完成安全知识问答来解锁虚拟道具，避免‘被封禁’。",
+      "target_users": "二次元爱好者、解谜游戏玩家",
+      "value_proposition": "利用‘禁止’梗进行反向营销，在娱乐中普及公共安全知识与版权意识。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "小米首次进入中国500强前十",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 4,
+      "practical": 6,
+      "market": 8
+    },
+    "total_score": 50.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "国货之光科技盲盒",
+      "features": "汇集小米链及周边优秀国货科技配件（如快充头、小风扇）的盲盒，每盒附带一张中国科技企业发展史卡片。",
+      "target_users": "数码爱好者、学生党、国货支持者",
+      "价值_proposition": "用低门槛体验中国制造的实力，满足收集乐趣与民族自豪感。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "中方回应长和集团将发起国际仲裁",
+    "scores": {
+      "novelty": 8,
+      "resonance": 8,
+      "viral": 7,
+      "entertainment": 2,
+      "practical": 5,
+      "market": 4
+    },
+    "total_score": 34.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "国际商务风险评估助手",
+      "features": "基于大数据的跨国商业环境监测工具，为企业提供地缘政治风险预警、仲裁案例检索及合规建议。",
+      "target_users": "跨国企业法务部门、出海企业",
+      "value_proposition": "为企业出海保驾护航，降低因国际规则变动带来的商业风险。"
+    }
+  }
+]
