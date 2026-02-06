@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "快递停运",
+    "scores": {
+      "novelty": 5,
+      "resonance": 18,
+      "viral": 15,
+      "entertainment": 2,
+      "practical": 10,
+      "market": 5
+    },
+    "total_score": 55,
+    "grade": "普通",
+    "product_idea": {
+      "name": "快递春运管家",
+      "features": "实时追踪各快递公司停运/复运时间表，提供最后下单倒计时提醒，并整合春节期间仍在运营的同城配送或驿站资源。",
+      "target_users": "春节期间有网购需求或送礼需求的大众用户",
+      "value_proposition": "解决春节期间物流信息不对称痛点，确保物资按时送达。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "多名领到千问免费奶茶网友发声",
+    "scores": {
+      "novelty": 14,
+      "resonance": 16,
+      "viral": 18,
+      "entertainment": 12,
+      "practical": 3,
+      "market": 6
+    },
+    "total_score": 69,
+    "grade": "良好",
+    "product_idea": {
+      "name": "AI请客·社交裂变雷达",
+      "features": "聚合全网AI大厂的免费福利活动（如免单、赠品），自动筛选并推送高成功率活动，同时提供一键生成分享文案功能。",
+      "target_users": "羊毛党、价格敏感型用户、AI技术尝鲜者",
+      "value_proposition": "利用AI营销活动的红利期，帮助用户低成本获取实际利益。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "冰雪春天",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 10,
+      "practical": 6,
+      "market": 8
+    },
+    "total_score": 56,
+    "grade": "普通",
+    "product_idea": {
+      "name": "反季冰雪游· VR体验馆",
+      "features": "结合VR技术与实体造景，在春季提供沉浸式冰雪运动体验（如滑雪模拟），并附带哈尔滨等冰雪城市的旅游预购服务。",
+      "target_users": "冰雪运动爱好者、无法在冬季前往北方的游客",
+      "value_proposition": "打破季节限制，延续冰雪经济的热度。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "微博之夜最强追星神器",
+    "scores": {
+      "novelty": 13,
+      "resonance": 15,
+      "viral": 14,
+      "entertainment": 13,
+      "practical": 6,
+      "market": 9
+    },
+    "total_score": 70,
+    "grade": "良好",
+    "product_idea": {
+      "name": "星动·应援众筹投票机",
+      "features": "整合粉丝打榜、应援周边购买、线下活动集结等功能，利用区块链技术确保资金透明，一键生成多平台安利素材。",
+      "target_users": "饭圈群体、粉丝后援会",
+      "value_proposition": "提升粉丝应援效率，降低组织成本，增强粉丝社群凝聚力。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "千问送奶茶背后有阳谋",
+    "scores": {
+      "novelty": 15,
+      "resonance": 13,
+      "viral": 16,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 64,
+    "grade": "良好",
+    "product_idea": {
+      "name": "商讯·营销案例拆解库",
+      "features": "每日深度拆解热门商业营销案例背后的逻辑、成本与ROI，为创业者提供可复用的营销策略模板。",
+      "target_users": "市场营销人员、创业者、自媒体运营者",
+      "value_proposition": "透过表象看本质，从热点事件中提取商业智慧。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "韩国运动员盒饭",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 13,
+      "entertainment": 11,
+      "practical": 6,
+      "market": 9
+    },
+    "total_score": 65,
+    "grade": "良好",
+    "product_idea": {
+      "name": "冠军·轻食订餐平台",
+      "features": "针对健身人群和上班族，提供经过营养师定制、参照运动员膳食标准（低脂高蛋白）的冷鲜便当订阅服务。",
+      "target_users": "健身减脂人群、追求健康的白领",
+      "value_proposition": "吃出运动员的健康体质，解决外卖不健康的痛点。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "快手被罚1.191亿元人民币",
+    "scores": {
+      "novelty": 8,
+      "resonance": 12,
+      "viral": 15,
+      "entertainment": 5,
+      "practical": 7,
+      "market": 4
+    },
+    "total_score": 51,
+    "grade": "普通",
+    "product_idea": {
+      "name": "合规宝·企业风控SaaS",
+      "features": "针对短视频和直播平台的内容合规性检测工具，实时更新法规库，自动扫描违规风险并给出整改建议。",
+      "target_users": "短视频MCN机构、中小型电商企业",
+      "value_proposition": "规避高额罚款风险，保障业务安全连续性。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "千问一分钱奶茶",
+    "scores": {
+      "novelty": 13,
+      "resonance": 17,
+      "viral": 19,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 7
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "惠赚·AI折扣猎人",
+      "features": "基于AI大模型（如千问、文心）的API接口，专门抓取各平台为推广AI而发放的'超低价福利'（如1分钱购），并自动化抢购。",
+      "target_users": "羊毛党、学生党、AI技术推广受众",
+      "value_proposition": "利用技术红利，享受科技巨头的补贴福利。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "觉得没情商的可以看看作者文案",
+    "scores": {
+      "novelty": 10,
+      "resonance": 14,
+      "viral": 12,
+      "entertainment": 11,
+      "practical": 5,
+      "market": 4
+    },
+    "total_score": 56,
+    "grade": "普通",
+    "product_idea": {
+      "name": "反转·文案辅助工具",
+      "features": "分析爆款文案的情绪逻辑，提供'高情商'改写建议和'神转折'模板，帮助创作者提升内容互动率。",
+      "target_users": "短视频博主、文案写手、社交媒体运营",
+      "value_proposition": "提升内容情商，避免公关灾难，增加用户粘性。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "余宇涵好大一声分手",
+    "scores": {
+      "novelty": 8,
+      "resonance": 15,
+      "viral": 16,
+      "entertainment": 12,
+      "practical": 1,
+      "market": 3
+    },
+    "total_score": 55,
+    "grade": "普通",
+    "product_idea": {
+      "name": "瓜田·明星八卦生成器",
+      "features": "通过娱乐新闻关键词生成趣味性的'吃瓜'海报或短视频脚本，提供Emoji拼接和讽刺文案模板。",
+      "target_users": "饭圈粉丝、娱乐评论博主",
+      "value_proposition": "将娱乐八卦转化为社交货币，快速产出吐槽内容。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "成何体统",
+    "scores": {
+      "novelty": 9,
+      "resonance": 13,
+      "viral": 11,
+      "entertainment": 10,
+      "practical": 4,
+      "market": 7
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "穿书·沉浸式阅读伴侣App",
+      "features": "为热门网文提供角色关系图谱、世界观百科，并包含'读者视角'的评论互动区和番外创作平台。",
+      "target_users": "网文读者、IP剧粉丝",
+      "value_proposition": "增强阅读体验，构建粉丝社群，挖掘IP长尾价值。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "印度3姐妹留遗书称韩国是我的命",
+    "scores": {
+      "novelty": 16,
+      "resonance": 10,
+      "viral": 17,
+      "entertainment": 8,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 56,
+    "grade": "普通",
+    "product_idea": {
+      "name": "梦游·跨文化心理疏导平台",
+      "features": "关注狂热追星与文化崇拜现象，提供心理咨询服务，并结合各国文化解读，建立理性兴趣社群。",
+      "target_users": "青少年群体、心理关注者、跨国文化交流者",
+      "value_proposition": "引导健康的兴趣爱好，预防非理性狂热行为。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "1岁宝宝被撞后截肢",
+    "scores": {
+      "novelty": 2,
+      "resonance": 19,
+      "viral": 16,
+      "entertainment": 0,
+      "practical": 8,
+      "market": 5
+    },
+    "total_score": 50,
+    "grade": "普通",
+    "product_idea": {
+      "name": "守护·儿童防撞预警系统",
+      "features": "结合智能穿戴设备和视觉识别技术，当孩子进入车辆盲区或危险区域时，向司机和家长手环发送高频震动警报。",
+      "target_users": "有车家庭、幼儿园、社区居民",
+      "value_proposition": "利用技术手段填补人眼盲区，保护儿童生命安全。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "陛下 How are you",
+    "scores": {
+      "novelty": 15,
+      "resonance": 14,
+      "viral": 14,
+      "entertainment": 16,
+      "practical": 2,
+      "market": 7
+    },
+    "total_score": 68,
+    "grade": "良好",
+    "product_idea": {
+      "name": "古风·皇家语C模拟器",
+      "features": "用户扮演皇帝或大臣，通过AI进行宫廷对话，体验'陛下How are you'等中西合璧的搞笑剧情，并支持UGC剧本上传。",
+      "target_users": "Z世代、语擦爱好者、古装剧粉丝",
+      "value_proposition": "提供解压的社交新玩法，满足角色扮演和创作欲望。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "特朗普转发李小龙武打视频",
+    "scores": {
+      "novelty": 14,
+      "resonance": 13,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 63,
+    "grade": "良好",
+    "product_idea": {
+      "name": "功夫·AI换脸挑战",
+      "features": "利用AI技术将用户动作与李小龙经典武打片段融合，生成'我也能打'的短视频，并可一键分享至社媒。",
+      "target_users": "动作片爱好者、短视频用户",
+      "value_proposition": "借助名人IP效应，满足用户的英雄模仿情结。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "用中国剪纸打开米兰冬奥",
+    "scores": {
+      "novelty": 17,
+      "resonance": 15,
+      "viral": 16,
+      "entertainment": 13,
+      "practical": 4,
+      "market": 9
+    },
+    "total_score": 74,
+    "grade": "良好",
+    "product_idea": {
+      "name": "非遗·国潮AR卡片",
+      "features": "将剪纸、皮影等非遗技艺与冬奥会结合，制作AR卡片，手机扫描即可看到立体的国风冰雪运动动画。",
+      "target_users": "冰雪运动迷、文创产品消费者、学生群体",
+      "value_proposition": "传播传统文化，科技赋能非遗，极具纪念和收藏价值。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "成何体统 雷霆特效",
+    "scores": {
+      "novelty": 12,
+      "resonance": 11,
+      "viral": 12,
+      "entertainment": 13,
+      "practical": 3,
+      "market": 6
+    },
+    "total_score": 57,
+    "grade": "普通",
+    "product_idea": {
+      "name": "掌上·仙侠特效滤镜App",
+      "features": "为短视频提供一键生成影视剧级别的'雷霆术法'、'法术攻击'等特效，支持实时面部追踪和手势触发。",
+      "target_users": "短剧创作者、COSER、短视频博主",
+      "value_proposition": "降低特效制作门槛，人人都能拍仙侠大片。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "小偷偷十几万刮刮乐刮完未中大奖",
+    "scores": {
+      "novelty": 19,
+      "resonance": 16,
+      "viral": 19,
+      "entertainment": 18,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 77,
+    "grade": "良好",
+    "product_idea": {
+      "name": "倒霉蛋·解压模拟游戏",
+      "features": "以该新闻为蓝本，开发一款模拟经营类游戏，玩家扮演'笨贼'体验各种偷鸡不成蚀把米的荒诞剧情，主打黑色幽默。",
+      "target_users": "休闲游戏玩家、梗文化爱好者",
+      "value_proposition": "在虚拟世界中体验荒诞剧情，释放现实生活压力。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "胡歌说杨紫开机前拘谨得像个兵",
+    "scores": {
+      "novelty": 10,
+      "resonance": 13,
+      "viral": 12,
+      "entertainment": 11,
+      "practical": 3,
+      "market": 5
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "星语·明星片场日记",
+      "features": "汇集明星在拍摄间隙的真实状态和趣事，以Vlog或语音日记形式呈现，拉近粉丝与偶像的距离。",
+      "target_users": "明星粉丝、娱乐新闻读者",
+      "value_proposition": "满足粉丝窥私欲，展现明星真实反差萌。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "爱泼斯坦前女友在牢房活动监控曝光",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 16,
+      "entertainment": 8,
+      "practical": 3,
+      "market": 2
+    },
+    "total_score": 55,
+    "grade": "普通",
+    "product_idea": {
+      "name": "真探·社会案件复述播客",
+      "features": "专注于全球重大社会案件、法律疑云的深度解析播客，结合公开资料进行逻辑推理和普法教育。",
+      "target_users": "悬疑爱好者、法学学生、关注社会热点人群",
+      "value_proposition": "满足大众猎奇心理，同时提供深度的社会观察视角。"
+    }
+  }
+]
