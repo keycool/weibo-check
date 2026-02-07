@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "回家过年 阖家团圆",
+    "scores": {
+      "novelty": 5,
+      "resonance": 19,
+      "viral": 15,
+      "entertainment": 5,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "「家族时光胶囊」小程序",
+      "features": "基于地理位置的家族任务打卡（如年夜饭合照）、家庭相册AI生成、亲戚关系智能图谱。",
+      "target_users": "返乡过年的年轻一代及长辈",
+      "value_proposition": "将传统的过年团圆转化为数字化的互动仪式，缓解过年尴尬，增强家族情感连接。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "120秒看米兰冬奥开幕式",
+    "scores": {
+      "novelty": 8,
+      "resonance": 12,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 1,
+      "market": 5
+    },
+    "total_score": 56,
+    "grade": "普通",
+    "product_idea": {
+      "name": "「Highlight速览」视频聚合插件",
+      "features": "自动识别长视频中的高光时刻（如开幕式点火、夺冠瞬间），生成120秒精华集锦，支持一键生成个性化分享卡片。",
+      "target_users": "没时间看直播的忙碌上班族",
+      "value_proposition": "以极低的时间成本获取大型赛事的核心谈资，满足社交需求。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "我国成功发射可重复使用试验航天器",
+    "scores": {
+      "novelty": 16,
+      "resonance": 15,
+      "viral": 14,
+      "entertainment": 5,
+      "practical": 4,
+      "market": 6
+    },
+    "total_score": 60,
+    "grade": "良好",
+    "product_idea": {
+      "name": "「星际领航」航天科普订阅盒",
+      "features": "结合最新发射任务的DIY航天器模型、AR观测 App（实时追踪过境卫星）、独家任务解密档案。",
+      "target_users": "航天爱好者、中小学生及家长",
+      "value_proposition": "将硬核科技新闻转化为可触摸的沉浸式教育体验，激发民族自豪感与科学兴趣。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "本周，我国多领域解锁新成就",
+    "scores": {
+      "novelty": 10,
+      "resonance": 14,
+      "viral": 10,
+      "entertainment": 3,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 42,
+    "grade": "普通",
+    "product_idea": {
+      "name": "「国潮周报」智能生成器",
+      "features": "AI自动抓取国内各领域突破性新闻，生成可视化数据海报和正能量短视频脚本，供自媒体使用。",
+      "target_users": "政务新媒体运营者、爱国博主",
+      "value_proposition": "大幅降低正能量内容的制作门槛，高效传递大国成就。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "2月25日起可预约办理年度个税汇算",
+    "scores": {
+      "novelty": 2,
+      "resonance": 18,
+      "viral": 12,
+      "entertainment": 2,
+      "practical": 10,
+      "market": 9
+    },
+    "total_score": 53,
+    "grade": "普通",
+    "product_idea": {
+      "name": "「退税智囊」个税规划助手",
+      "features": "多口径个税计算模拟器、专项附加扣除填报智能提醒、退税资金理财建议。",
+      "target_users": "工薪阶层、自由职业者",
+      "value_proposition": "确保用户合法享受最大税收优惠，将'退税款'转化为理财第一桶金。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "冬奥会2月7日看点",
+    "scores": {
+      "novelty": 5,
+      "resonance": 14,
+      "viral": 13,
+      "entertainment": 12,
+      "practical": 6,
+      "market": 7
+    },
+    "total_score": 57,
+    "grade": "普通",
+    "product_idea": {
+      "name": "「赛程摇一摇」提醒工具",
+      "features": "导入用户关注的运动员和项目，智能生成观赛日历，并在比赛前15分钟推送看点预告和直播链接。",
+      "target_users": "冬奥观众、体育迷",
+      "value_proposition": "解决信息过载，不错过任何一场心动比赛的夺金时刻。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "8部影片定档“史上最长春节档”",
+    "scores": {
+      "novelty": 6,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 15,
+      "practical": 7,
+      "market": 9
+    },
+    "total_score": 67,
+    "grade": "良好",
+    "product_idea": {
+      "name": "「春节档通票」拼场观影平台",
+      "features": "多人拼团购买影城全天通票、随机场次盲盒、映后线上线下交流社区。",
+      "target_users": "春节返乡观影人群、单身青年",
+      "value_proposition": "降低单人观影成本，增加观影的社交娱乐属性，解决春节档票难买、选择困难的问题。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "一政务大厅工作人员8年受贿1614万",
+    "scores": {
+      "novelty": 4,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 2,
+      "practical": 1,
+      "market": 1
+    },
+    "total_score": 39,
+    "grade": "普通",
+    "product_idea": {
+      "name": "「透明政务」服务评价系统",
+      "features": "办事流程区块链存证、匿名服务评价通道、窗口效率红黑榜公开。",
+      "target_users": "政务监管部门、办事群众",
+      "value_proposition": "利用舆论热点推动政务服务数字化透明化，重建公众信任。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "金晨交通肇事逃逸被罚1500元",
+    "scores": {
+      "novelty": 8,
+      "resonance": 14,
+      "viral": 16,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 52,
+    "grade": "普通",
+    "product_idea": {
+      "name": "「吃瓜警示录」法律科普号",
+      "features": "结合明星热点事件实时解析法律后果（如肇事逃逸的界定）、交通事故快速处理指南。",
+      "target_users": "娱乐八卦爱好者、新手司机",
+      "value_proposition": "以娱乐新闻为切入点普及法律常识，将吃瓜行为转化为法律知识学习。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "隋文静冬奥首秀摔倒 赛后采访落泪",
+    "scores": {
+      "novelty": 6,
+      "resonance": 18,
+      "viral": 15,
+      "entertainment": 8,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 53,
+    "grade": "普通",
+    "product_idea": {
+      "name": "「心晴」心理韧性训练 App",
+      "features": "结合运动员失利案例的心理韧性课程、压力释放冥想、情感宣泄树洞。",
+      "target_users": "竞技体育从业者、高压职场人群",
+      "value_proposition": "借助顶级运动员的抗挫折故事，教导用户如何面对失败，建立强大的内心。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "官方辟谣壶瓶山6名女大学生失踪",
+    "scores": {
+      "novelty": 5,
+      "resonance": 15,
+      "viral": 14,
+      "entertainment": 2,
+      "practical": 4,
+      "market": 2
+    },
+    "total_score": 42,
+    "grade": "普通",
+    "product_idea": {
+      "name": "「谣言粉碎机」浏览器插件",
+      "features": "自动识别浏览页面中的老旧谣言图和夸张标题，并展示官方辟谣来源和 timeline。",
+      "target_users": "中老年网民、信息接收者",
+      "value_proposition": "一键鉴伪，阻断陈年老梗在家族群中的二次传播。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "被欧盟认定存在上瘾式设计 TikTok回应",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 15,
+      "entertainment": 5,
+      "practical": 6,
+      "market": 7
+    },
+    "total_score": 59,
+    "grade": "普通",
+    "product_idea": {
+      "name": "「数字节食」锁机助手",
+      "features": "根据用户设定的\"成瘾阈值\"（如连续刷视频30分钟），强制开启灰屏模式或锁机，配合数据可视化展示时间消耗。",
+      "target_users": "学生、自控力差的成人",
+      "value_proposition": "反算法设计，帮助用户从被动沉迷中夺回注意力主权。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "印度飞饼师傅被认定为外籍专家",
+    "scores": {
+      "novelty": 18,
+      "resonance": 16,
+      "viral": 17,
+      "entertainment": 15,
+      "practical": 3,
+      "market": 5
+    },
+    "total_score": 74,
+    "grade": "良好",
+    "product_idea": {
+      "name": "「手艺荣耀」蓝领认证平台",
+      "features": "针对各国特色手艺（如飞饼、拉面、雕刻）的视频技能认证系统，打通全球高端劳务输出通道。",
+      "target_users": "拥有特殊技能的服务业从业者",
+      "value_proposition": "打破学历偏见，让'绝活'成为获得全球专家身份和高薪待遇的通行证。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "安徽省政协原副秘书长俞乃蕴逝世",
+    "scores": {
+      "novelty": 2,
+      "resonance": 5,
+      "viral": 4,
+      "entertainment": 0,
+      "practical": 1,
+      "market": 1
+    },
+    "total_score": 13,
+    "grade": "普通",
+    "product_idea": {
+      "name": "无显著创意",
+      "features": "",
+      "target_users": "",
+      "value_proposition": ""
+    }
+  },
+  {
+    "rank": 15,
+    "title": "29元炒蚌壳肉吃出珍珠 店家：免费拿走",
+    "scores": {
+      "novelty": 17,
+      "resonance": 14,
+      "viral": 18,
+      "entertainment": 16,
+      "practical": 4,
+      "market": 8
+    },
+    "total_score": 77,
+    "grade": "良好",
+    "product_idea": {
+      "name": "「寻宝餐桌」盲盒餐饮",
+      "features": "与特定餐厅合作，在部分菜品（如蚌壳、螃蟹、饮料）中随机植入高价值礼品（真珍珠、金戒指等），记录开箱视频即可免单。",
+      "target_users": "追求新鲜体验的Z世代、美食博主",
+      "value_proposition": "将单纯的餐饮消费转化为充满惊喜的赌博式娱乐体验，引爆社交媒体传播。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "外汇储备连续六月站上3.3万亿美元",
+    "scores": {
+      "novelty": 5,
+      "resonance": 8,
+      "viral": 5,
+      "entertainment": 1,
+      "practical": 5,
+      "market": 6
+    },
+    "total_score": 30,
+    "grade": "普通",
+    "product_idea": {
+      "name": "「宏观气象」投资风向标",
+      "features": "将宏观经济数据（如外汇储备）翻译成通俗易懂的个人投资建议（如增持/减持特定资产）。",
+      "target_users": "理财小白、初级投资者",
+      "value_proposition": "将枯燥的国家宏观经济数据与个人钱包挂钩，提供具备宏观视野的理财指引。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "首次发现！青藏高原有天然氢气重要来源",
+    "scores": {
+      "novelty": 15,
+      "resonance": 10,
+      "viral": 10,
+      "entertainment": 4,
+      "practical": 6,
+      "market": 8
+    },
+    "total_score": 53,
+    "grade": "普通",
+    "product_idea": {
+      "name": "「氢能前线」能源信息终端",
+      "features": "追踪全球氢能源勘探与开发进展，提供相关产业链股票分析、氢能科普知识。",
+      "target_users": "能源行业从业者、绿色能源投资者",
+      "value_proposition": "抢占能源革命信息高地，发现潜在的万亿级市场机会。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "首例不满16岁少年被拘 天津警方通报",
+    "scores": {
+      "novelty": 8,
+      "resonance": 14,
+      "viral": 13,
+      "entertainment": 2,
+      "practical": 5,
+      "market": 3
+    },
+    "total_score": 45,
+    "grade": "普通",
+    "product_idea": {
+      "name": "「少年法盾」青少年法律模拟器",
+      "features": "通过互动式剧情游戏（RPG）让青少年体验不同违规行为的法律后果，普及刑事责任年龄知识。",
+      "target_users": "中学生、家长、学校",
+      "value_proposition": "用游戏化的方式对青少年进行警示教育，弥补家庭和学校法治教育的枯燥短板。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "候补中央委员蓝晓，职务有调整",
+    "scores": {
+      "novelty": 2,
+      "resonance": 4,
+      "viral": 4,
+      "entertainment": 0,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 14,
+    "grade": "普通",
+    "product_idea": {
+      "name": "无显著创意",
+      "features": "",
+      "target_users": "",
+      "value_proposition": ""
+    }
+  },
+  {
+    "rank": 20,
+    "title": "上海孕妇超速撞闯红灯电瓶车致人死亡",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 16,
+      "entertainment": 2,
+      "practical": 5,
+      "market": 3
+    },
+    "total_score": 52,
+    "grade": "普通",
+    "product_idea": {
+      "name": "「守护准妈妈」驾驶辅助模式",
+      "features": "针对孕妇驾驶的导航APP模式，自动限制最高速、预警路口风险、一键关联紧急联系人。",
+      "target_users": "孕期女性",
+      "value_proposition": "关注特殊驾驶群体的安全需求，提供定制化的安全守护方案。"
+    }
+  }
+]
