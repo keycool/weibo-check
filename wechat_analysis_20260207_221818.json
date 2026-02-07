@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "习近平向全军老同志祝贺新春",
+    "scores": {
+      "novelty": 5,
+      "resonance": 15,
+      "viral": 5,
+      "entertainment": 0,
+      "practical": 5,
+      "market": 0
+    },
+    "total_score": 30,
+    "grade": "普通",
+    "product_idea": {
+      "name": "红色记忆电子贺卡生成器",
+      "features": "定制化生成拥军优属、致敬老兵的动态贺卡，融入军事历史元素。",
+      "target_users": "退役军人、军事爱好者、机关单位",
+      "value_proposition": "传递国家关怀，弘扬爱国主义精神，提供正式的节日祝福渠道。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "谷爱凌绝地逆袭 中国3人晋级坡障决赛",
+    "scores": {
+      "novelty": 10,
+      "resonance": 18,
+      "viral": 18,
+      "entertainment": 15,
+      "practical": 2,
+      "market": 10
+    },
+    "total_score": 73,
+    "grade": "良好",
+    "product_idea": {
+      "name": "冠军时刻同步跟练App",
+      "features": "结合赛事回放，分解滑雪动作，提供AR滑雪教学与体能训练计划。",
+      "target_users": "滑雪运动爱好者、青少年学员",
+      "value_proposition": "利用冠军效应带动全民冰雪热，提供专业且具趣味性的居家滑雪训练。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "美国航母已进入对伊打击“阵地”",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 5,
+      "practical": 5,
+      "market": 0
+    },
+    "total_score": 49,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球地缘态势追踪器",
+      "features": "实时新闻聚合，可视化全球军事动态与热点区域预警。",
+      "target_users": "国际关系关注者、投资者、军事迷",
+      "value_proposition": "打破信息差，提供宏观局势的即时分析与风险评估。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "绘图景显活力 特色发展促繁荣",
+    "scores": {
+      "novelty": 4,
+      "resonance": 5,
+      "viral": 3,
+      "entertainment": 2,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 18,
+    "grade": "普通",
+    "product_idea": {
+      "name": "乡村振兴风貌展示平台",
+      "features": "以图文、短视频形式展示各地特色产业与风景，助农带货。",
+      "target_users": "地方政府、乡村旅游游客、农产品消费者",
+      "value_proposition": "数字化赋能乡村宣传，促进文旅消费与特产销售。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "篮球赛出现斗殴，官方发声",
+    "scores": {
+      "novelty": 8,
+      "resonance": 12,
+      "viral": 14,
+      "entertainment": 8,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 47,
+    "grade": "普通",
+    "product_idea": {
+      "name": "赛场行为AI规范系统",
+      "features": "利用图像识别技术实时监测球场冲突，自动触发警报并保存证据。",
+      "target_users": "赛事主办方、体育场馆运营方",
+      "value_proposition": "维护赛场秩序，降低安保成本，保障参赛人员安全。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "米兰冬奥会首金诞生",
+    "scores": {
+      "novelty": 10,
+      "resonance": 15,
+      "viral": 14,
+      "entertainment": 12,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 61,
+    "grade": "良好",
+    "product_idea": {
+      "name": "冬奥奖牌预测竞猜社区",
+      "features": "结合数据分析与粉丝投票，预测奖牌归属，并提供赛事回顾。",
+      "target_users": "冰雪运动粉丝、体育竞猜爱好者",
+      "value_proposition": "增强观赛互动性，通过社交预测提升用户粘性。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "局长收370元礼品被免职 媒体评论",
+    "scores": {
+      "novelty": 12,
+      "resonance": 15,
+      "viral": 15,
+      "entertainment": 10,
+      "practical": 6,
+      "market": 2
+    },
+    "total_score": 60,
+    "grade": "良好",
+    "product_idea": {
+      "name": "职场合规与礼品价值助手",
+      "features": "查询礼品合规价值标准，职场人情往来风险评估，政策法规库。",
+      "target_users": "公务员、企业合规人员、国企员工",
+      "value_proposition": "避免无心之失导致职业风险，提供职场安全的合规边界指引。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "立场转变 加拿大对华最新表态",
+    "scores": {
+      "novelty": 8,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 2,
+      "practical": 6,
+      "market": 5
+    },
+    "total_score": 43,
+    "grade": "普通",
+    "product_idea": {
+      "name": "外贸政策风向标",
+      "features": "监控主要贸易国政策变动，对进出口业务的影响分析报告。",
+      "target_users": "外贸企业主、跨境卖家",
+      "value_proposition": "辅助企业快速应对国际关系变化，降低贸易风险。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "山东69岁“黑老大”段效灵被执行死刑",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 16,
+      "entertainment": 12,
+      "practical": 4,
+      "market": 2
+    },
+    "total_score": 60,
+    "grade": "良好",
+    "product_idea": {
+      "name": "真实罪案故事可视化平台",
+      "features": "以时间轴和地图形式还原重大社会案件始末，普及法律知识。",
+      "target_users": "法治栏目受众、悬疑故事爱好者",
+      "value_proposition": "满足公众知情欲与猎奇心理，同时起到法治警示教育作用。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "印度飞饼师傅被认定为外籍专家",
+    "scores": {
+      "novelty": 18,
+      "resonance": 16,
+      "viral": 18,
+      "entertainment": 16,
+      "practical": 4,
+      "market": 6
+    },
+    "total_score": 78,
+    "grade": "良好",
+    "product_idea": {
+      "name": "非遗手艺人人才库",
+      "features": "连接各行业特殊技能人才（如飞饼、雕刻）与需求方，提供技能认证。",
+      "target_users": "餐饮老板、特色技能求职者、职业教育机构",
+      "value_proposition": "打破学历壁垒，推崇技能为王，实现特殊人才的高效匹配。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "官方辟谣壶瓶山6名女大学生失踪",
+    "scores": {
+      "novelty": 6,
+      "resonance": 14,
+      "viral": 12,
+      "entertainment": 2,
+      "practical": 8,
+      "market": 2
+    },
+    "total_score": 44,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全民谣言粉碎机",
+      "features": "AI识别可疑谣言，一键查证官方通报，建立个人辟谣档案。",
+      "target_users": "中老年网民、社区工作者",
+      "value_proposition": "快速阻断虚假信息传播，保护家庭免受谣言诈骗困扰。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "以色列准备对伊朗发动大规模打击",
+    "scores": {
+      "novelty": 6,
+      "resonance": 14,
+      "viral": 14,
+      "entertainment": 2,
+      "practical": 6,
+      "market": 0
+    },
+    "total_score": 42,
+    "grade": "普通",
+    "product_idea": {
+      "name": "中东局势速读手册",
+      "features": "极简版战争历史与派系关系图谱，实时新闻推送。",
+      "target_users": "国际新闻读者",
+      "value_proposition": "降低复杂地缘政治的理解门槛，满足用户快速掌握局势的需求。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "东部战区，记者紧张得不关摄像机",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 15,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 57,
+    "grade": "普通",
+    "product_idea": {
+      "name": "战地新闻第一视角VR体验",
+      "features": "融合新闻素材，制作军演现场VR全景视频，增强临场感。",
+      "target_users": "军事发烧友、VR体验用户",
+      "value_proposition": "提供沉浸式国防教育体验，满足公众对军事实力展示的好奇心。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "被欧盟认定存在上瘾式设计 TikTok回应",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 4,
+      "practical": 8,
+      "market": 6
+    },
+    "total_score": 60,
+    "grade": "良好",
+    "product_idea": {
+      "name": "数字排毒与防沉迷锁",
+      "features": "强制设定APP使用时长，屏蔽无限下滑刷新机制，回归传统阅读模式。",
+      "target_users": "学生家长、自我管理困难者",
+      "value_proposition": "对抗算法成瘾设计，帮助用户夺回对时间的控制权。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "女子黄金手镯断裂 竟掉出2颗钢珠",
+    "scores": {
+      "novelty": 16,
+      "resonance": 18,
+      "viral": 19,
+      "entertainment": 16,
+      "practical": 8,
+      "market": 8
+    },
+    "total_score": 85,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "黄金真伪智能检测仪",
+      "features": "便携式高精度密度仪或光谱仪，连接手机APP一键生成检测报告。",
+      "target_users": "珠宝消费者、黄金投资者、家庭主妇",
+      "value_proposition": "提供大众化的黄金鉴定服务，避免买到“掺假”贵金属，维权有据。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "史上首次！母子共同征战冬奥",
+    "scores": {
+      "novelty": 16,
+      "resonance": 17,
+      "viral": 17,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 74,
+    "grade": "良好",
+    "product_idea": {
+      "name": "亲子冰雪运动挑战营",
+      "features": "组织亲子滑雪冬令营，设置同龄段竞技与协作任务。",
+      "target_users": "高净值家庭、注重亲子教育的家长",
+      "value_proposition": "打造家庭共同记忆，传承体育精神，提供高端的亲子互动场景。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "首例不满16岁少年被拘 天津警方通报",
+    "scores": {
+      "novelty": 12,
+      "resonance": 15,
+      "viral": 14,
+      "entertainment": 4,
+      "practical": 6,
+      "market": 2
+    },
+    "total_score": 53,
+    "grade": "普通",
+    "product_idea": {
+      "name": "青少年法律红线教育游戏",
+      "features": "模拟由于不良行为导致的法律后果，以第一人称体验拘留/庭审过程。",
+      "target_users": "初高中学生、学校德育处",
+      "value_proposition": "通过沉浸式体验让青少年敬畏法律，预防未成年人犯罪。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "郑钦文：带着热爱和勇气重新出发",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 12,
+      "entertainment": 8,
+      "practical": 4,
+      "market": 8
+    },
+    "total_score": 56,
+    "grade": "普通",
+    "product_idea": {
+      "name": "偶像同款运动周边电商平台",
+      "features": "快速上线郑钦文同款球衣、球拍及周边，结合比赛进度进行营销。",
+      "target_users": "网球迷、女性运动群体",
+      "value_proposition": "利用明星效应变现，激发女性参与网球运动的热情。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "俄前司法部副部长浴缸溺亡",
+    "scores": {
+      "novelty": 14,
+      "resonance": 15,
+      "viral": 16,
+      "entertainment": 12,
+      "practical": 0,
+      "market": 0
+    },
+    "total_score": 57,
+    "grade": "普通",
+    "product_idea": {
+      "name": "浴室安全监测系统",
+      "features": "检测浴室异常静默或滑倒动作，自动报警。",
+      "target_users": "独居老人、高血压患者家属",
+      "value_proposition": "预防浴室意外，为家庭成员提供生命安全保障。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "省委书记到春晚分会场调研",
+    "scores": {
+      "novelty": 4,
+      "resonance": 8,
+      "viral": 6,
+      "entertainment": 4,
+      "practical": 4,
+      "market": 4
+    },
+    "total_score": 30,
+    "grade": "普通",
+    "product_idea": {
+      "name": "文化活动筹备管理协同工具",
+      "features": "针对大型文艺演出的人员调度、流程审批、进度汇报。",
+      "target_users": "政府宣传部门、活动策划公司",
+      "value_proposition": "提升官方大型活动组织的数字化管理效率。"
+    }
+  }
+]

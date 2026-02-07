@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "苏翊鸣大跳台铜牌",
+    "scores": {
+      "novelty": 15,
+      "resonance": 18,
+      "viral": 17,
+      "entertainment": 16,
+      "practical": 1,
+      "market": 5
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "单板滑雪AI姿态矫正APP",
+      "features": "通过手机摄像头捕捉用户滑雪动作，利用AI对比冠军标准姿态，提供实时语音纠正反馈和动作拆解分析。",
+      "target_users": "单板滑雪爱好者、想要提升技术的初学者、苏翊鸣的粉丝群体。",
+      "value_proposition": "将顶级运动员的技术可视化，让普通爱好者也能获得“冠军教练”的指导，降低学习门槛，减少运动损伤。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "社火夜行祈福安康",
+    "scores": {
+      "novelty": 16,
+      "resonance": 17,
+      "viral": 16,
+      "entertainment": 15,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 74,
+    "grade": "良好",
+    "product_idea": {
+      "name": "AR非遗社火灯笼",
+      "features": "结合传统纸艺灯笼与AR技术，扫码即可在手机上看到3D社火角色（如踩高跷、划旱船）的虚拟游行，并附带祈福电子签名功能。",
+      "target_users": "追求年味的年轻家庭、传统文化爱好者、亲子用户。",
+      "value_proposition": "用现代科技赋能传统民俗，既保留了元宵祈福的仪式感，又增加了互动性和视觉奇观，适合作为新春文创礼品。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "冰雪“冷资源”活力“热引擎”",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 5,
+      "practical": 8,
+      "market": 9
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "冰雪旅游温泉组合票务通",
+      "features": "一站式解决“冷热交替”旅游需求，打包售卖滑雪场票券与周边温泉酒店住宿，提供专车接送服务。",
+      "target_users": "冬季旅游游客、南方去北方的‘避寒’游客、情侣及家庭游。",
+      "value_proposition": "挖掘冰雪经济的互补消费场景，解决用户行程规划复杂的痛点，提升冰雪旅游的综合消费体验。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "我的新年质感穿搭已就位",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 6,
+      "market": 9
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "AI新年战衣试衣镜",
+      "features": "用户上传正装照片或输入身材数据，AI自动生成符合“新中式/质感”风格的新年穿搭方案，并支持虚拟试穿和一键购买同款。",
+      "target_users": "春节走亲访友的年轻白领、对穿搭没有头绪的男性/女性、短视频用户。",
+      "value_proposition": "解决“过年穿什么”的社交焦虑，通过低成本（虚拟试穿）提供高颜值方案，直接导向电商变现。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "广州街头豫剧奶奶",
+    "scores": {
+      "novelty": 18,
+      "resonance": 19,
+      "viral": 19,
+      "entertainment": 17,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 79,
+    "grade": "良好",
+    "product_idea": {
+      "name": "街头LiveK歌·戏曲版",
+      "features": "基于LBS定位的街头才艺分享平台，用户可以定位身边的“街头艺术家”（如豫剧奶奶），进行打赏、点歌或线上合唱。",
+      "target_users": "路人观众、街头表演爱好者、戏曲文化爱好者。",
+      "value_proposition": "连接城市中的温暖瞬间，将线下的街头偶然相遇转化为线上的社群互动，挖掘银发网红的商业价值。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "南部战区位南海海域巡航",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 12,
+      "entertainment": 2,
+      "practical": 1,
+      "market": 1
+    },
+    "total_score": 42,
+    "grade": "普通",
+    "product_idea": {
+      "name": "时事军事新闻聚合简报",
+      "features": "针对国防军事爱好者，提供去中心化的即时新闻推送和深度分析文章，去除娱乐化内容。",
+      "target_users": "军事迷、爱国青年、时政关注者。",
+      "value_proposition": "满足用户对国家安全动态的知情需求，提供严肃、客观的信息流，建立高粘性的垂直社群。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "王楚钦为冬奥会打call",
+    "scores": {
+      "novelty": 8,
+      "resonance": 18,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 1,
+      "market": 6
+    },
+    "total_score": 62,
+    "grade": "良好",
+    "product_idea": {
+      "name": "奥运明星专属动态表情包键盘",
+      "features": "实时捕捉热门运动员（如王楚钦、谷爱凌）的高光时刻或可爱瞬间，制作成动态输入法皮肤和表情包。",
+      "target_users": "粉丝群体、社交网络重度用户、年轻人。",
+      "value_proposition": "利用粉丝经济，将体育明星的流量转化为社交工具的付费下载或广告变现，增强粉丝互动的趣味性。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "米兰冬奥最美队服盘点",
+    "scores": {
+      "novelty": 14,
+      "resonance": 15,
+      "viral": 16,
+      "entertainment": 16,
+      "practical": 4,
+      "market": 8
+    },
+    "total_score": 73,
+    "grade": "良好",
+    "product_idea": {
+      "name": "国家代表队OOTD种草清单",
+      "features": "图文/视频盘点各国队服设计，识别布料品牌，提供“同款材质”或“平替设计”的购买链接。",
+      "target_users": "时尚爱好者、滑雪爱好者、追求潮流的年轻人。",
+      "value_proposition": "借势大型赛事的流量窗口，将“专业运动装备”转化为“日常时尚潮流”，带货羽绒服、运动配饰等品类。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "农发行副行长徐一丁被查",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 0,
+      "practical": 2,
+      "market": 1
+    },
+    "total_score": 35,
+    "grade": "普通",
+    "product_idea": {
+      "name": "无（不建议作为消费类产品创意，适合新闻资讯类产品的基础内容供给）",
+      "features": "N/A",
+      "target_users": "N/A",
+      "value_proposition": "N/A"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "谷爱凌第二跳发挥出色晋级决赛",
+    "scores": {
+      "novelty": 12,
+      "resonance": 18,
+      "viral": 17,
+      "entertainment": 16,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 70,
+    "grade": "良好",
+    "product_idea": {
+      "name": "冠军饮食轻食订阅",
+      "features": "根据谷爱凌等运动员公开的饮食偏好，推出“冠军同款”健康低脂餐食，按周订阅配送。",
+      "target_users": "健身人群、身材管理党、粉丝群体。",
+      "value_proposition": "将“运动偶像”的生活方式具象化为日常餐饮，利用健康焦虑和粉丝心理双重驱动销售。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "三角洲新春红人杯开打",
+    "scores": {
+      "novelty": 12,
+      "resonance": 15,
+      "viral": 15,
+      "entertainment": 16,
+      "practical": 3,
+      "market": 9
+    },
+    "total_score": 70,
+    "grade": "良好",
+    "product_idea": {
+      "name": "战术模拟训练靶场",
+      "features": "结合FPS游戏数据，为电竞爱好者提供线下的实景模拟战术对抗训练，或线上的复盘分析工具。",
+      "target_users": "FPS游戏玩家、战术竞技爱好者、电竞青训营。",
+      "value_proposition": "打通虚拟电竞与实体运动的壁垒，提升玩家的战术素养，提供更硬核的电竞体验服务。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "本周谣言鉴别",
+    "scores": {
+      "novelty": 10,
+      "resonance": 14,
+      "viral": 13,
+      "entertainment": 5,
+      "practical": 9,
+      "market": 3
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "家庭群谣言粉碎机小程序",
+      "features": "针对中老年人常转发的伪科学、诈骗链接，生成一张带权威辟谣标识的“红头文件式”图片，方便子女转发回家庭群。",
+      "target_users": "年轻人的父母长辈、关心家庭健康的子女。",
+      "value_proposition": "用幽默且正式的方式解决家庭代际沟通难题，保护老年人免受虚假信息侵害，具有很强的社交属性。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "米兰冬奥首金产生",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 64,
+    "grade": "良好",
+    "product_idea": {
+      "name": "历史首金时刻NFT数字徽章",
+      "features": "将夺冠瞬间、官方海报制作成限量版数字藏品，用户可收藏并在个人主页展示，拥有唯一编号。",
+      "target_users": "收藏家、资深体育迷、数字货币玩家。",
+      "value_proposition": "将历史瞬间永久数字化，满足用户的收藏癖好和纪念意义，为赛事IP开辟新的数字化收入流。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "孙颖莎4:1陈熠",
+    "scores": {
+      "novelty": 8,
+      "resonance": 17,
+      "viral": 14,
+      "entertainment": 15,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 61,
+    "grade": "良好",
+    "product_idea": {
+      "name": "乒乓球发球机对战APP",
+      "features": "连接智能发球机，内置孙颖莎等名将的发球旋转和落点数据，用户可设定程序进行模拟对战。",
+      "target_users": "乒乓球爱好者、业余选手、体育训练机构。",
+      "value_proposition": "让业余爱好者在家也能体验到与国手对战的球路，提升训练的趣味性和专业度。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "星穹铁道4.0版本PV",
+    "scores": {
+      "novelty": 16,
+      "resonance": 18,
+      "viral": 18,
+      "entertainment": 19,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 81,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "游戏角色AI伴侣-星穹版",
+      "features": "提取游戏中人气角色的语音和性格特征，开发独立的AI聊天伴侣，提供早安问候、情感陪伴和剧情互动。",
+      "target_users": "二次元用户、游戏玩家、单身青年。",
+      "value_proposition": "将游戏IP的生命周期延伸至日常生活，满足粉丝对角色的情感投射，开启游戏IP的“情感订阅”付费模式。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "谷爱凌独自步行前往奥运赛场",
+    "scores": {
+      "novelty": 17,
+      "resonance": 16,
+      "viral": 18,
+      "entertainment": 15,
+      "practical": 3,
+      "market": 6
+    },
+    "total_score": 75,
+    "grade": "良好",
+    "product_idea": {
+      "name": "CityWalk奥运冠军路线地图",
+      "features": "挖掘谷爱凌同款步行路线，标注沿途风景点和打卡位，结合AR技术让用户仿佛与冠军“同路”。",
+      "target_users": "旅游爱好者、打卡达人、留学生及当地居民。",
+      "value_proposition": "满足粉丝的“追星”心理，同时推广城市慢旅行生活方式，将热点话题转化为城市文旅的引流工具。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "假装去参加冬奥开幕式",
+    "scores": {
+      "novelty": 19,
+      "resonance": 15,
+      "viral": 19,
+      "entertainment": 18,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 77,
+    "grade": "良好",
+    "product_idea": {
+      "name": "AI换脸虚拟开幕式参与者",
+      "features": "用户上传照片，利用AI技术将其面部无缝融合到冬奥开幕式的精彩集锦视频中，生成用户“亲临现场”的虚假视频。",
+      "target_users": "短视频创作者、恶搞达人、朋友圈活跃用户。",
+      "value_proposition": "利用用户的虚荣心和猎奇心理，提供低成本高娱乐内容的生成工具，极易在社交媒体形成病毒式传播。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "新年仪式感从非遗旗袍开始",
+    "scores": {
+      "novelty": 13,
+      "resonance": 15,
+      "viral": 14,
+      "entertainment": 12,
+      "practical": 5,
+      "market": 9
+    },
+    "total_score": 68,
+    "grade": "良好",
+    "product_idea": {
+      "name": "新中式旗袍模块化定制平台",
+      "features": "提供领口、袖口、盘扣、面料的DIY模块化选择，用户在线设计专属非遗旗袍，并支持上门量体。",
+      "target_users": "追求个性的都市女性、新中式文化爱好者、即将参加年会的职场人。",
+      "value_proposition": "解决传统旗袍购买渠道单一且款式老气的痛点，用模块化设计降低定制门槛，满足‘国潮’消费需求。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "海口警方通报3死1伤命案",
+    "scores": {
+      "novelty": 5,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 0,
+      "practical": 4,
+      "market": 1
+    },
+    "total_score": 32,
+    "grade": "普通",
+    "product_idea": {
+      "name": "社区紧急报警响应系统",
+      "features": "针对居住密集社区开发的快速报警小程序，一键联动物业保安和最近的警务站，包含视频实时上传功能。",
+      "target_users": "小区居民、物业管理者、独居女性。",
+      "value_proposition": "虽然话题沉重，但映射出对公共安全的担忧。通过技术缩短报警反应时间，提升社区安全感。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "米兰冬奥开幕式的意式美学",
+    "scores": {
+      "novelty": 15,
+      "resonance": 14,
+      "viral": 15,
+      "entertainment": 16,
+      "practical": 4,
+      "market": 7
+    },
+    "total_score": 71,
+    "grade": "良好",
+    "product_idea": {
+      "name": "意式美学家居灵感馆",
+      "features": "提取开幕式中的色彩、线条和光影设计，应用到家居软装推荐中，提供“把米兰带回家”的搭配方案。",
+      "target_users": "装修业主、家居设计从业者、艺术爱好者。",
+      "value_proposition": "借势顶级国际盛事的审美风向，将高雅艺术转化为具体的家居带货方案，提升家居产品的溢价能力。"
+    }
+  }
+]
