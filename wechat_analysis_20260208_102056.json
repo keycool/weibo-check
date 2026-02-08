@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "“小家”热气腾腾 “大家”蒸蒸日上",
+    "scores": {
+      "novelty": 5,
+      "resonance": 15,
+      "viral": 5,
+      "entertainment": 2,
+      "practical": 2,
+      "market": 1
+    },
+    "total_score": 30,
+    "grade": "普通",
+    "product_idea": {
+      "name": "家国情怀·电子烟花",
+      "features": "AR技术将‘小家’温馨照片与‘大家’盛世烟花结合，生成祝福视频。",
+      "target_users": "注重节日仪式感的中老年用户及爱国青年。",
+      "value_proposition": "用科技手段连接家庭温情与国家自豪，提供新型节日祝福社交货币。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "乒乓亚洲杯：张本智和决战王楚钦",
+    "scores": {
+      "novelty": 8,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 15,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 67,
+    "grade": "良好",
+    "product_idea": {
+      "name": "AI乒乓战术分析助手",
+      "features": "实时捕捉比赛视频，分析选手发球旋转、落点分布及战术博弈。",
+      "target_users": "乒乓球爱好者、专业教练及体育竞彩用户。",
+      "value_proposition": "从看热闹到看门道，提升观赛体验并提供数据支持。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "多家中小银行上调存款利率",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 12,
+      "entertainment": 2,
+      "practical": 10,
+      "market": 10
+    },
+    "total_score": 60,
+    "grade": "良好",
+    "product_idea": {
+      "name": "利率猎人·存款比价小程序",
+      "features": "实时监控各银行存款利率变动，智能计算利息收益，提供跨行存款指引。",
+      "target_users": "保守型理财投资者、家庭资产管理者。",
+      "value_proposition": "打破信息差，帮助用户在降息潮中找到高息存款洼地。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "备年货赏民俗 各地张灯结彩迎新春",
+    "scores": {
+      "novelty": 3,
+      "resonance": 12,
+      "viral": 8,
+      "entertainment": 5,
+      "practical": 6,
+      "market": 9
+    },
+    "total_score": 43,
+    "grade": "普通",
+    "product_idea": {
+      "name": "非遗民俗·年货地图",
+      "features": "LBS定位推荐当地特色年货市集及民俗表演，提供电子优惠券。",
+      "target_users": "春节期间返乡人群及年货采购者。",
+      "value_proposition": "解决‘年味变淡’痛点，通过线下打卡带动实体消费。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "体彩挤压福彩，2026年彩票继续分化",
+    "scores": {
+      "novelty": 6,
+      "resonance": 8,
+      "viral": 5,
+      "entertainment": 4,
+      "practical": 3,
+      "market": 5
+    },
+    "total_score": 31,
+    "grade": "普通",
+    "product_idea": {
+      "name": "公益彩票·捐赠追踪器",
+      "features": "可视化展示彩票公益金流向，用户购买后可查看支持的具体公益项目。",
+      "target_users": "有道德消费倾向的购彩者。",
+      "value_proposition": "提升购彩的道德满足感，通过透明度增加用户粘性。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "冬奥会第2日看点",
+    "scores": {
+      "novelty": 5,
+      "resonance": 14,
+      "viral": 10,
+      "entertainment": 12,
+      "practical": 5,
+      "market": 6
+    },
+    "total_score": 52,
+    "grade": "普通",
+    "product_idea": {
+      "name": "冰雪赛程·智能提醒插件",
+      "features": "根据用户关注的项目定制赛程提醒，并提供多路信号源观看入口。",
+      "target_users": "冰雪运动迷、上班族。",
+      "value_proposition": "不错过任何高光时刻，聚合分散的观赛渠道。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "阿根廷表态：不排除中国",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 5,
+      "practical": 4,
+      "market": 6
+    },
+    "total_score": 47,
+    "grade": "普通",
+    "product_idea": {
+      "name": "智汇外交·新闻摘要Bot",
+      "features": "利用LLM聚合分析地缘政治新闻，提供非情绪化的立场解读与商业影响评估。",
+      "target_users": "外贸从业者、国际关系爱好者。",
+      "value_proposition": "从繁杂的新闻中提取关键商业情报，辅助决策。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "李亚鹏透露董宇辉捐款金额远超200万",
+    "scores": {
+      "novelty": 8,
+      "resonance": 15,
+      "viral": 14,
+      "entertainment": 6,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 49,
+    "grade": "普通",
+    "product_idea": {
+      "name": "星光公益·捐赠排行榜",
+      "features": "爬取公开数据建立名人/网红捐赠影响力榜单，粉丝可进行‘跟捐’。",
+      "target_users": "饭圈群体、慈善关注者。",
+      "value_proposition": "利用粉丝经济放大公益效应，为捐赠行为提供社交展示窗口。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "老人喂5月龄宝宝喝酒 致肝脏损伤",
+    "scores": {
+      "novelty": 5,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 2,
+      "practical": 8,
+      "market": 3
+    },
+    "total_score": 52,
+    "grade": "普通",
+    "product_idea": {
+      "name": "育儿红线·辟谣百科",
+      "features": "针对老一辈陋习制作图文或短视频辟谣库，支持一键转发给长辈。",
+      "target_users": "新手父母、儿科医生。",
+      "value_proposition": "用权威科学知识武装年轻父母，有效化解家庭育儿矛盾。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "高市早苗闪电大选，到底在赌什么？",
+    "scores": {
+      "novelty": 6,
+      "resonance": 8,
+      "viral": 6,
+      "entertainment": 5,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 29,
+    "grade": "普通",
+    "product_idea": {
+      "name": "深度时政·极简解读",
+      "features": "将复杂的选举政治逻辑转化为‘利益交换图’或‘选情预测模型’。",
+      "target_users": "时政发烧友、高端商务人士。",
+      "value_proposition": "降低政治认知门槛，提供高净值人群关心的宏观趋势预判。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "做全麻手术，不需要卸妆和卸美甲?",
+    "scores": {
+      "novelty": 16,
+      "resonance": 14,
+      "viral": 15,
+      "entertainment": 8,
+      "practical": 8,
+      "market": 5
+    },
+    "total_score": 66,
+    "grade": "良好",
+    "product_idea": {
+      "name": "医美氧舱·术前友好美甲",
+      "features": "研发透气、透光或可快速拆卸的专用穿戴甲，配合透指式血氧监测指套。",
+      "target_users": "爱美女性、频繁接受医美/手术人群。",
+      "value_proposition": "解决医疗监测与爱美之心的冲突，填补‘手术美妆’细分市场空白。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "川大才女受贿4900万获刑8年",
+    "scores": {
+      "novelty": 8,
+      "resonance": 14,
+      "viral": 12,
+      "entertainment": 5,
+      "practical": 3,
+      "market": 2
+    },
+    "total_score": 44,
+    "grade": "普通",
+    "product_idea": {
+      "name": "职场护盾·合规风控课",
+      "features": "结合真实落马案例，为国企/高管提供合规红线情景模拟培训。",
+      "target_users": "企业高管、公职人员、合规岗位员工。",
+      "value_proposition": "以案说法，通过高压震慑提升企业风控培训的实效性。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "外卖小哥打翻32杯奶茶原地发愣",
+    "scores": {
+      "novelty": 12,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 12,
+      "practical": 5,
+      "market": 6
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "骑士守护·意外险池",
+      "features": "针对高风险易碎品（如奶茶、汤）推出的‘秒赔’保险，众包筹款模式。",
+      "target_users": "外卖骑手、点餐用户。",
+      "value_proposition": "降低骑手灾难性赔偿压力，平台提供小额增值服务。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "波士顿动力机器人完成侧手翻接后空翻",
+    "scores": {
+      "novelty": 18,
+      "resonance": 16,
+      "viral": 17,
+      "entertainment": 18,
+      "practical": 6,
+      "market": 8
+    },
+    "total_score": 83,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "人机共舞·AR体能教练",
+      "features": "利用机器人动作捕捉数据，在AR中生成虚拟教练带领用户做体操或瑜伽。",
+      "target_users": "居家健身人群、科幻爱好者。",
+      "value_proposition": "将顶尖机器人技术转化为有趣的居家健身互动体验。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "女子花15元智能洗车 百万豪车被洗坏",
+    "scores": {
+      "novelty": 10,
+      "resonance": 15,
+      "viral": 16,
+      "entertainment": 8,
+      "practical": 7,
+      "market": 8
+    },
+    "total_score": 64,
+    "grade": "良好",
+    "product_idea": {
+      "name": "豪车道·专属洗车服务",
+      "features": "仅针对高端车型的精洗预约平台，筛选具备特定资质的洗车店。",
+      "target_users": "豪车车主、高端车辆租赁公司。",
+      "value_proposition": "通过建立准入门槛，消除豪车车主在普通洗车行的焦虑感。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "司机高速体验智驾双手脱把，遭追尾",
+    "scores": {
+      "novelty": 9,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 8,
+      "practical": 8,
+      "market": 7
+    },
+    "total_score": 62,
+    "grade": "良好",
+    "product_idea": {
+      "name": "专注力·方向盘监测仪",
+      "features": "外接式硬件，检测双手是否脱离方向盘，脱把即发出强警报并通知亲友。",
+      "target_users": "长途货运司机、辅助驾驶依赖者。",
+      "value_proposition": "辅助安全的最后一道防线，防止滥用L2+级自动驾驶功能。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "山东男子开飞机带父返乡过年",
+    "scores": {
+      "novelty": 18,
+      "resonance": 17,
+      "viral": 18,
+      "entertainment": 16,
+      "practical": 4,
+      "market": 9
+    },
+    "total_score": 82,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "通航旅途·拼机返乡平台",
+      "features": "连接通航机场与私人飞机拥有者，提供‘春节短途包机’拼单服务。",
+      "target_users": "追求新奇特返乡体验的高端人群、通航机主。",
+      "value_proposition": "将奢侈的私人飞行‘网约车化’，打造面子十足的归途体验。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "4万元买副会长，学会协会成反腐重点",
+    "scores": {
+      "novelty": 8,
+      "resonance": 10,
+      "viral": 8,
+      "entertainment": 4,
+      "practical": 5,
+      "market": 3
+    },
+    "total_score": 38,
+    "grade": "普通",
+    "product_idea": {
+      "name": "协会查查·资质验真工具",
+      "features": "查询协会/学会合规性、官方背景及收费标准，曝光野鸡协会。",
+      "target_users": "企业公关人员、求职者、评职称人士。",
+      "value_proposition": "揭示行业潜规则，防止用户被山寨协会骗取会费。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "美国终于要还钱了",
+    "scores": {
+      "novelty": 8,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 6,
+      "practical": 6,
+      "market": 6
+    },
+    "total_score": 48,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球债权·动态追踪",
+      "features": "可视化展示各国债务关系与偿付进度，提供宏观经济分析报告。",
+      "target_users": "金融从业者、出国留学家庭。",
+      "value_proposition": "将枯燥的金融新闻转化为直观的动态数据，辅助汇率判断。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "湖人3连胜复仇勇士 詹姆斯遭格林挑衅",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 9
+    },
+    "total_score": 64,
+    "grade": "良好",
+    "product_idea": {
+      "name": "垃圾话·辩论对战卡",
+      "features": "将球员场上的垃圾话制作成NFT或电子卡牌，用户可收集并模拟‘互怼’。",
+      "target_users": "Z世代球迷、NBA卡牌收藏者。",
+      "value_proposition": "挖掘竞技体育的情绪价值，将球场冲突转化为有趣的社交游戏。"
+    }
+  }
+]

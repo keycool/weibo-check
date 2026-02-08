@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "中国军网点名张本智和",
+    "scores": {
+      "novelty": 18,
+      "resonance": 20,
+      "viral": 19,
+      "entertainment": 15,
+      "practical": 0,
+      "market": 2
+    },
+    "total_score": 74,
+    "grade": "良好",
+    "product_idea": {
+      "name": "红色荣耀·军事文创T恤",
+      "features": "将官方犀利点评文案结合国潮风格设计，并叠加乒乓球元素",
+      "target_users": "爱国球迷、国潮爱好者",
+      "value_proposition": "用潮流穿搭表达强硬立场，穿上'官方吐槽'的自信"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "35岁国企女掌门受贿4900万",
+    "scores": {
+      "novelty": 5,
+      "resonance": 12,
+      "viral": 8,
+      "entertainment": 5,
+      "practical": 2,
+      "market": 1
+    },
+    "total_score": 33,
+    "grade": "普通",
+    "product_idea": {
+      "name": "职场透明日记·小程序",
+      "features": "匿名合规举报平台与职场风险自测工具，提供法律咨询入口",
+      "target_users": "国企员工、职场合规人员",
+      "value_proposition": "让隐形的风险显性化，保护职场人远离红线"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "新一轮大范围雨雪天气来袭",
+    "scores": {
+      "novelty": 0,
+      "resonance": 15,
+      "viral": 5,
+      "entertainment": 2,
+      "practical": 10,
+      "market": 2
+    },
+    "total_score": 34,
+    "grade": "普通",
+    "product_idea": {
+      "name": "民生护航·延误险自动理赔服务",
+      "features": "基于天气数据自动触发航班/火车延误理赔，无需手动上传材料",
+      "target_users": "频繁出差人士、物流运输公司",
+      "value_proposition": "恶劣天气下的资金及时雨，让意外不再亏钱"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "苏翊鸣大跳台高燃上场时刻",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 18,
+      "practical": 1,
+      "market": 8
+    },
+    "total_score": 67,
+    "grade": "良好",
+    "product_idea": {
+      "name": "GoPro·AI一键高燃混剪工具",
+      "features": "自动识别运动轨迹中的高光时刻，同步激昂BGM生成大片视频",
+      "target_users": "滑雪爱好者、极限运动玩家",
+      "value_proposition": "不仅是记录，更是像冠军一样拍出电影级的高燃时刻"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "外卖小哥打翻32杯奶茶原地发愣",
+    "scores": {
+      "novelty": 12,
+      "resonance": 18,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 6,
+      "market": 6
+    },
+    "total_score": 71,
+    "grade": "良好",
+    "product_idea": {
+      "name": "骑士守护·外卖货损险",
+      "features": "针对高单价或易碎饮品的即时保险，一键赔付商家与骑手损失",
+      "target_users": "连锁奶茶店、外卖平台、外卖骑手",
+      "价值主张": "不仅是一杯奶茶，更是守护劳动成果与平台秩序的最后一公里"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "古茗回应外卖小哥打翻32杯奶茶",
+    "scores": {
+      "novelty": 14,
+      "resonance": 17,
+      "viral": 18,
+      "entertainment": 12,
+      "practical": 5,
+      "market": 7
+    },
+    "total_score": 73,
+    "grade": "良好",
+    "product_idea": {
+      "name": "暖心·品牌共担基金系统",
+      "features": "建立商家与骑手的风险共担池，发生意外时自动发起'暖心重做'或退款",
+      "target_users": "新茶饮品牌、物流配送平台",
+      "value_proposition": "化危机为转机，用温度化解意外，构建更有爱的商业生态"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "日本军国主义渗透文体领域",
+    "scores": {
+      "novelty": 8,
+      "resonance": 19,
+      "viral": 15,
+      "entertainment": 2,
+      "practical": 1,
+      "market": 2
+    },
+    "total_score": 47,
+    "grade": "普通",
+    "product_idea": {
+      "name": "文化鉴别·历史知识图谱APP",
+      "features": "扫描影视动漫服饰/符号，AI识别并讲解其背后的历史渊源与风险",
+      "target_users": "学生家长、文化审核从业者",
+      "value_proposition": "擦亮双眼，让文化渗透无所遁形"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "成何体统sos名场面",
+    "scores": {
+      "novelty": 10,
+      "resonance": 15,
+      "viral": 12,
+      "entertainment": 16,
+      "practical": 0,
+      "market": 5
+    },
+    "total_score": 58,
+    "grade": "普通",
+    "product_idea": {
+      "name": "追剧替身·AI表情包生成器",
+      "features": "截取影视名场面，一键将剧中人物脸部替换为用户照片生成动图",
+      "target_users": "Z世代、剧集粉丝",
+      "value_proposition": "不仅是看剧，更是让自己成为剧中的名场面主角"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "爸爸弯了一辈子的腰终于断了",
+    "scores": {
+      "novelty": 15,
+      "resonance": 20,
+      "viral": 16,
+      "entertainment": 5,
+      "practical": 5,
+      "market": 3
+    },
+    "total_score": 64,
+    "grade": "良好",
+    "product_idea": {
+      "name": "银发守护·智能脊柱矫正腰带",
+      "features": "实时监测体态，通过微电流提醒并辅助老年人维持正确坐站姿",
+      "target_users": "老年人家庭、久坐工作者",
+      "value_proposition": "科技的反哺，不让父母的脊梁再次弯曲"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "女子吐槽飞机餐仅一根青菜配米饭",
+    "scores": {
+      "novelty": 12,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 10,
+      "practical": 3,
+      "market": 4
+    },
+    "total_score": 63,
+    "grade": "良好",
+    "product_idea": {
+      "name": "应急·自热空乘料理包",
+      "features": "高端便携式自热食品，专为商旅人士设计，主打'机上米其林'体验",
+      "target_users": "商务差旅人士、精致穷游客",
+      "value_proposition": "拒绝吃草，在万米高空也能享受体面的热餐"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "教师岗要求运动会第1名被指萝卜岗",
+    "scores": {
+      "novelty": 8,
+      "resonance": 15,
+      "viral": 12,
+      "entertainment": 8,
+      "practical": 2,
+      "market": 1
+    },
+    "total_score": 46,
+    "grade": "普通",
+    "product_idea": {
+      "name": "职级避坑·招聘反套路雷达",
+      "features": "分析招聘JD中的奇葩条款，用大数据标注'萝卜坑'概率并给出建议",
+      "target_users": "求职者、考公考编党",
+      "value_proposition": "不仅看清岗位要求，更看清背后的招聘逻辑"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "牛奶炸鸡",
+    "scores": {
+      "novelty": 14,
+      "resonance": 8,
+      "viral": 10,
+      "entertainment": 12,
+      "practical": 6,
+      "market": 9
+    },
+    "total_score": 59,
+    "grade": "普通",
+    "product_idea": {
+      "name": "奶香酥脆·炸鸡裹粉预拌粉",
+      "features": "特制含乳风味炸粉，在家复刻网红口味，降低操作门槛",
+      "target_users": "宅家一族、轻烹饪爱好者",
+      "value_proposition": "这就是网红的味道，在家也能轻松复刻"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "演员醉驾撞死人赔偿家属达成谅解",
+    "scores": {
+      "novelty": 4,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 2,
+      "practical": 2,
+      "market": 1
+    },
+    "total_score": 31,
+    "grade": "普通",
+    "product_idea": {
+      "name": "代驾守护·酒精锁智能硬件",
+      "features": "车辆启动前检测驾驶员酒精浓度，超标自动锁定并呼叫代驾",
+      "target_users": "豪华车队、有饮酒习惯的车主",
+      "value_proposition": "物理杜绝侥幸心理，给生命加一把硬核的锁"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "千问",
+    "scores": {
+      "novelty": 8,
+      "resonance": 10,
+      "viral": 8,
+      "entertainment": 5,
+      "practical": 9,
+      "market": 10
+    },
+    "total_score": 50,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全能AI·个人知识库助理",
+      "features": "接入大模型能力的私有知识库，针对个人文档进行深度问答与总结",
+      "target_users": "知识工作者、学生",
+      "value_proposition": "把互联网装进脑子，打造你的第二大脑"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "成何体统 好看",
+    "scores": {
+      "novelty": 8,
+      "resonance": 14,
+      "viral": 12,
+      "entertainment": 14,
+      "practical": 0,
+      "market": 6
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "剧综伴侣·剧情讨论房",
+      "features": "视频同步观看与实时语音弹幕，边看边聊，匹配剧迷搭子",
+      "target_users": "剧粉、单身追剧党",
+      "value_proposition": "让看剧不再孤单，找到懂梗的同频人"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "一箱牛奶完成了串门的使命",
+    "scores": {
+      "novelty": 16,
+      "resonance": 17,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 67,
+    "grade": "良好",
+    "product_idea": {
+      "name": "流转心意·礼品流转平台",
+      "features": "合规的闲置礼品/礼品卡互换或流转社区，让不需要的礼物找到归宿",
+      "target_users": "家庭主妇、礼节性繁重的人群",
+      "value_proposition": "让情意不再过期，把尴尬的库存变成实惠的惊喜"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "减肥误食了一顿麻辣烫",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 12,
+      "entertainment": 12,
+      "practical": 5,
+      "market": 6
+    },
+    "total_score": 61,
+    "grade": "良好",
+    "product_idea": {
+      "name": "罪恶补救·高热量阻断餐包",
+      "features": "餐后服用的膳食纤维与阻断剂组合，主打心理安慰与辅助代谢",
+      "target_users": "减肥党、美食爱好者",
+      "value_proposition": "吃完这顿再减肥，给你放纵后的安全感"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "四川地震",
+    "scores": {
+      "novelty": 0,
+      "resonance": 10,
+      "viral": 5,
+      "entertainment": 0,
+      "practical": 10,
+      "market": 2
+    },
+    "total_score": 27,
+    "grade": "普通",
+    "product_idea": {
+      "name": "守护胶囊·家用地震应急包",
+      "features": "集求生哨、压缩水、急救包于一体的超轻量设计，随处摆放",
+      "target_users": "地震带居民、家庭用户",
+      "value_proposition": "平时看不见，震时它是救命稻草"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "爱泼斯坦在巴黎红房间拍下女孩跳舞",
+    "scores": {
+      "novelty": 12,
+      "resonance": 8,
+      "viral": 10,
+      "entertainment": 5,
+      "practical": 0,
+      "market": 2
+    },
+    "total_score": 37,
+    "grade": "普通",
+    "product_idea": {
+      "name": "暗网揭秘·真实罪案播客",
+      "features": "深度剖析国际著名案件，提供理性分析与法律科普",
+      "target_users": "悬疑爱好者、法学学生",
+      "价值主张": "在黑暗中看见光明，用理性审视罪恶"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "春晚彩排",
+    "scores": {
+      "novelty": 5,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 8,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 42,
+    "grade": "普通",
+    "product_idea": {
+      "name": "预测家·春晚 bingo 游戏",
+      "features": "根据彩排信息生成预测卡片，春晚直播时进行线上互动开奖",
+      "target_users": "全年龄段观众、年轻人",
+      "value_proposition": "让吐槽变成游戏，把春晚变成全网的大型互动现场"
+    }
+  }
+]
