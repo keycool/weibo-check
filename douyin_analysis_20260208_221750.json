@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "赵心童世界大奖赛夺冠",
+    "scores": {
+      "novelty": 15,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 73,
+    "grade": "良好",
+    "product_idea": {
+      "name": "Q- 台球明星周边与互动社区",
+      "features": "明星同款球杆定制、夺冠精彩集锦回放、台球技巧付费课程",
+      "target_users": "台球爱好者、赵心童粉丝",
+      "value_proposition": "连接顶尖球星与粉丝，提供专业装备与技能提升"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "亚洲杯孙颖莎4:3王曼昱夺冠",
+    "scores": {
+      "novelty": 14,
+      "resonance": 19,
+      "viral": 17,
+      "entertainment": 16,
+      "practical": 2,
+      "market": 9
+    },
+    "total_score": 77,
+    "grade": "良好",
+    "product_idea": {
+      "name": "国乒·巅峰对决观赛互动包",
+      "features": "多视角观赛回放、实时数据可视化、冠军签名装备抽奖",
+      "target_users": "乒乓球球迷、体育迷",
+      "value_proposition": "沉浸式体验国乒激战，获取独家周边与数据"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "年货快递春节不停",
+    "scores": {
+      "novelty": 10,
+      "resonance": 18,
+      "viral": 12,
+      "entertainment": 5,
+      "practical": 10,
+      "market": 8
+    },
+    "total_score": 63,
+    "grade": "良好",
+    "product_idea": {
+      "name": "春节不打烊·物流追踪助手",
+      "features": "支持多家快递整合查询、春节期间营业网点地图、预计延迟预警",
+      "target_users": "网购消费者、电商卖家",
+      "value_proposition": "解决春节购物物流焦虑，提供确定性服务信息"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "亚洲杯王楚钦夺冠",
+    "scores": {
+      "novelty": 14,
+      "resonance": 18,
+      "viral": 17,
+      "entertainment": 15,
+      "practical": 2,
+      "market": 9
+    },
+    "total_score": 75,
+    "grade": "良好",
+    "product_idea": {
+      "name": "大头智汇·球迷专属空间",
+      "features": "王楚钦专属壁纸/表情包、球迷社区讨论、赛事高清图集",
+      "target_users": "王楚钦粉丝、Z世代女性用户",
+      "value_proposition": "满足粉丝情感投射，提供高颜值互动素材"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "新年流光贵女妆",
+    "scores": {
+      "novelty": 16,
+      "resonance": 15,
+      "viral": 17,
+      "entertainment": 16,
+      "practical": 5,
+      "market": 9
+    },
+    "total_score": 78,
+    "grade": "良好",
+    "product_idea": {
+      "name": "流光贵女·AR新年试妆镜",
+      "features": "面部追踪AR试妆、一键生成新年氛围感大片、同款化妆品直达购买",
+      "target_users": "年轻女性、化妆初学者",
+      "value_proposition": "低成本体验高难度新年妆容，解锁新年社交新形象"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "IEM克拉科夫半决赛",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 14,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 7
+    },
+    "total_score": 63,
+    "grade": "良好",
+    "product_idea": {
+      "name": "CS战术复盘与赛事陪伴",
+      "features": "专业赛事解说流、战术板分析工具、开黑语音匹配",
+      "target_users": "CS玩家、电竞爱好者",
+      "value_proposition": "提升玩家游戏理解，增强赛事观看沉浸感"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "新年马“甲”变装挑战",
+    "scores": {
+      "novelty": 18,
+      "resonance": 15,
+      "viral": 18,
+      "entertainment": 17,
+      "practical": 3,
+      "market": 7
+    },
+    "total_score": 78,
+    "grade": "良好",
+    "product_idea": {
+      "name": "马甲变装·春节特效包",
+      "features": "AI一键生成趣味马甲穿搭、马年元素贴纸、合拍挑战模板",
+      "target_users": "短视频用户、创意达人",
+      "value_proposition": "降低创作门槛，利用反差萌打造春节爆款视频"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "中国黄金调整回购规则",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 5,
+      "practical": 10,
+      "market": 9
+    },
+    "total_score": 67,
+    "grade": "良好",
+    "product_idea": {
+      "name": "金管家·贵金属投资计算器",
+      "features": "实时金价监控、各大品牌回购政策对比、买卖收益模拟计算",
+      "target_users": "理财人群、家庭主妇",
+      "value_proposition": "透明化黄金交易规则，规避投资陷阱，辅助决策"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "日本执政联盟已获众议院过半议席",
+    "scores": {
+      "novelty": 10,
+      "resonance": 8,
+      "viral": 10,
+      "entertainment": 2,
+      "practical": 6,
+      "market": 2
+    },
+    "total_score": 38,
+    "grade": "普通",
+    "product_idea": {
+      "name": "环球时讯·简报推送",
+      "features": "国际局势摘要解读、关键事件时间轴、相关历史背景知识库",
+      "target_users": "时政关注者、留学生",
+      "value_proposition": "快速获取核心时政信息，建立宏观认知"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "中式台球的风吹到了斯诺克",
+    "scores": {
+      "novelty": 16,
+      "resonance": 14,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 3,
+      "market": 7
+    },
+    "total_score": 69,
+    "grade": "良好",
+    "product_idea": {
+      "name": "跨界·台球文化融合馆",
+      "features": "中式八球与斯诺克技法对比教学、跨项目明星挑战赛、国潮球杆设计",
+      "target_users": "台球深度玩家、体育文化爱好者",
+      "value_proposition": "探索台球文化多样性，推动中式台球潮流化"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "CBA杯赛上海112:83山东",
+    "scores": {
+      "novelty": 8,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 48,
+    "grade": "普通",
+    "product_idea": {
+      "name": "篮球迷·赛事高光集",
+      "features": "自动生成个人球队精彩进球混剪、球迷社群讨论、积分竞猜",
+      "target_users": "CBA球队粉丝",
+      "value_proposition": "汇聚球队荣耀时刻，增强粉丝归属感"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "“重庆民政局招聘”系谣言",
+    "scores": {
+      "novelty": 8,
+      "resonance": 14,
+      "viral": 12,
+      "entertainment": 4,
+      "practical": 8,
+      "market": 3
+    },
+    "total_score": 49,
+    "grade": "普通",
+    "product_idea": {
+      "name": "辟谣助手·职场安全卫士",
+      "features": "招聘信息真伪扫描、官方招聘渠道聚合、职场诈骗案例库",
+      "target_users": "求职者、应届毕业生",
+      "value_proposition": "保障求职安全，防止虚假招聘信息诈骗"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "吴克群用视频为普通人“写诗”",
+    "scores": {
+      "novelty": 17,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 15,
+      "practical": 4,
+      "market": 6
+    },
+    "total_score": 76,
+    "grade": "良好",
+    "product_idea": {
+      "name": "生活诗人·AI视频随笔",
+      "features": "上传生活片段自动匹配文案与BGM、生成电影感Vlog、定制“诗歌”标签",
+      "target_users": "文艺青年、内容创作者",
+      "value_proposition": "用艺术视角重构日常碎片，赋予平凡生活浪漫意义"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "巴基斯坦宣布逮捕爆炸案主谋",
+    "scores": {
+      "novelty": 10,
+      "resonance": 10,
+      "viral": 12,
+      "entertainment": 2,
+      "practical": 4,
+      "market": 2
+    },
+    "total_score": 40,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球安全动态·预警地图",
+      "features": "海外安全事件标注、风险等级评估、出行建议",
+      "target_users": "出国务工人员、国际 travelers",
+      "value_proposition": "提供关键安全情报，保障海外出行安全"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "外交部回应巴基斯坦爆炸事件",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 2,
+      "practical": 4,
+      "market": 2
+    },
+    "total_score": 40,
+    "grade": "普通",
+    "product_idea": {
+      "name": "外交之声·政策解读",
+      "features": "外交部发布会摘要、海外保护政策查询、紧急求助指南",
+      "target_users": "涉外工作者、关注时政大众",
+      "value_proposition": "快速理解国家立场，获取权威保护信息"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "苏翊鸣发文感谢家人教练",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 12,
+      "practical": 2,
+      "market": 7
+    },
+    "total_score": 63,
+    "grade": "良好",
+    "product_idea": {
+      "name": "偶像养成·感恩日记",
+      "features": "明星同款感谢模板、亲情/师恩互动话题、云端寄语卡片",
+      "target_users": "粉丝群体、青少年",
+      "value_proposition": "借势偶像影响力，传递正向价值观与感恩教育"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "三角洲凌霄戍卫10日登场",
+    "scores": {
+      "novelty": 14,
+      "resonance": 15,
+      "viral": 16,
+      "entertainment": 16,
+      "practical": 3,
+      "market": 9
+    },
+    "total_score": 73,
+    "grade": "良好",
+    "product_idea": {
+      "name": "战术模拟·特训手游",
+      "features": "新版本预约、战术模拟演练、战队组队开黑工具",
+      "target_users": "FPS玩家、军事迷",
+      "value_proposition": "提前体验新内容，满足硬核军事竞技需求"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "每一片雪花都喊着回家回家",
+    "scores": {
+      "novelty": 17,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 14,
+      "practical": 3,
+      "market": 7
+    },
+    "total_score": 78,
+    "grade": "良好",
+    "product_idea": {
+      "name": "归途·春运情感电台",
+      "features": "用户回家的故事分享、音乐情感陪伴、家乡天气与路况推送",
+      "target_users": "游子、春运返乡人群",
+      "value_proposition": "用情感共鸣温暖漫漫回家路，治愈春运焦虑"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "跟着抖音颜值天团新年美出圈",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 16,
+      "entertainment": 16,
+      "practical": 6,
+      "market": 9
+    },
+    "total_score": 73,
+    "grade": "良好",
+    "product_idea": {
+      "name": "颜究院·新年变造指南",
+      "features": "网红颜值博主同款滤镜算法、新年服饰搭配推荐、美妆直播带货",
+      "target_users": "爱美人士、时尚跟随者",
+      "value_proposition": "紧跟平台流行趋势，打造标准化的新年形象"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "丁真劝向佐退出娱乐圈",
+    "scores": {
+      "novelty": 19,
+      "resonance": 18,
+      "viral": 19,
+      "entertainment": 19,
+      "practical": 1,
+      "market": 6
+    },
+    "total_score": 82,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "梗百科·跨界吃瓜模拟器",
+      "features": "AI生成跨界对话脑洞、热门事件梗图生成器、娱乐话题投票站",
+      "target_users": "吃瓜群众、Z世代网络用户",
+      "value_proposition": "将荒诞娱乐热点转化为创意内容，释放大众情绪压力"
+    }
+  }
+]

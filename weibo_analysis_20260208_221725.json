@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "中国军网点名张本智和",
+    "scores": {
+      "novelty": 18,
+      "resonance": 19,
+      "viral": 19,
+      "entertainment": 16,
+      "practical": 2,
+      "market": 1
+    },
+    "total_score": 75,
+    "grade": "良好",
+    "product_idea": {
+      "name": "军事竞技科普互动平台",
+      "features": "结合真实体育赛事与军事素养科普，提供竞技背后的战术分析，并具备全民‘云点名’为运动健儿助威的功能。",
+      "target_users": "体育迷、军事爱好者、爱国青年",
+      "value_proposition": "将体育竞技的紧张感与爱国情怀深度融合，通过官方背书增强内容的权威性与趣味性。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "苏翊鸣谷爱凌对失利的同一种回答",
+    "scores": {
+      "novelty": 14,
+      "resonance": 18,
+      "viral": 17,
+      "entertainment": 15,
+      "practical": 4,
+      "market": 5
+    },
+    "total_score": 73,
+    "grade": "良好",
+    "product_idea": {
+      "name": "冠军心态情绪日记",
+      "features": "提取顶尖运动员面对挫折时的金句与心态，引导用户记录每日情绪挑战，并生成‘冠军同款’心理复盘报告。",
+      "target_users": "青少年、竞技体育从业者、心理抗压需求人群",
+      "value_proposition": "利用明星效应将‘失败教育’常态化，帮助用户建立积极的心理防御机制。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "12306已发售春运期间车票超1.5亿张",
+    "scores": {
+      "novelty": 5,
+      "resonance": 15,
+      "viral": 8,
+      "entertainment": 2,
+      "practical": 9,
+      "market": 6
+    },
+    "total_score": 45,
+    "grade": "普通",
+    "product_idea": {
+      "name": "春运拼团出行助手",
+      "features": "针对售罄线路，基于用户目的地进行拼团候补推荐，提供‘曲线回家’的多式联运方案及共享包车服务。",
+      "target_users": "春运返乡困难群体、大学生、务工人员",
+      "value_proposition": "解决单一票务渠道售罄后的出行痛点，挖掘剩余运力的商业价值。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "宋威龙的礼物应该送给谁",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 17,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 60,
+    "grade": "良好",
+    "product_idea": {
+      "name": "明星礼物流向打榜小程序",
+      "features": "粉丝对明星收到的礼物进行‘云分配’投票，并结合电商链接推出‘同款礼物’送给粉丝自己的亲友。",
+      "target_users": "粉丝群体、综艺观众",
+      "value_proposition": "将八卦围观转化为社交互动，通过情感投射实现带货转化。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "21岁国际名模在新家猝然离世",
+    "scores": {
+      "novelty": 12,
+      "resonance": 10,
+      "viral": 14,
+      "entertainment": 0,
+      "practical": 5,
+      "market": 2
+    },
+    "total_score": 43,
+    "grade": "普通",
+    "product_idea": {
+      "name": "独居安全守护SOS",
+      "features": "基于居住环境的智能安防监测，针对装修或新房入住场景，提供空气监测与异常倒地感应的紧急报警服务。",
+      "target_users": "独居青年、频繁出差人群",
+      "value_proposition": "针对社会新闻引发的独居恐惧，提供具体的安全感解决方案。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "王楚钦夺冠后指向王皓",
+    "scores": {
+      "novelty": 12,
+      "resonance": 17,
+      "viral": 16,
+      "entertainment": 15,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 66,
+    "grade": "良好",
+    "product_idea": {
+      "name": "师徒情缘时刻剪辑",
+      "features": "AI识别比赛或视频中的互动瞬间（如拥抱、指向），自动生成配乐混剪视频，突出团队关系。",
+      "target_users": "体育迷、CP粉、视频创作者",
+      "value_proposition": "捕捉竞技体育中的人性光辉，满足粉丝对情感叙事的二次创作需求。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "医生提醒5个体检项目千万别不做",
+    "scores": {
+      "novelty": 6,
+      "resonance": 14,
+      "viral": 16,
+      "entertainment": 5,
+      "practical": 10,
+      "market": 8
+    },
+    "total_score": 59,
+    "grade": "普通",
+    "product_idea": {
+      "name": "必查项体检定制包",
+      "features": "根据年龄、性别及家族病史，自动匹配‘医生推荐必做项目’套餐，并提供私立医院团购服务。",
+      "target_users": "健康焦虑人群、中年群体、体检小白",
+      "value_proposition": "降低医疗信息不对称，简化复杂的体检决策过程，实现精准健康管理。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "父亲去世试管婴儿获工亡抚恤金",
+    "scores": {
+      "novelty": 15,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 2,
+      "practical": 6,
+      "market": 4
+    },
+    "total_score": 58,
+    "grade": "普通",
+    "product_idea": {
+      "name": "法律权益守护与咨询",
+      "features": "聚焦特殊家庭结构（如试管、代孕相关法律灰色地带）的权益保障计算器，提供案例检索与律师匹配。",
+      "target_users": "辅助生殖家庭、法律需求者",
+      "value_proposition": "针对新兴生育技术带来的法律空白，提供专业的权益维护工具。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "花样滑冰团体决赛",
+    "scores": {
+      "novelty": 8,
+      "resonance": 13,
+      "viral": 12,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "花滑动作AI评分教练",
+      "features": "用户上传滑行视频，AI通过骨骼识别对比标准动作，进行打分并生成改进建议。",
+      "target_users": "滑冰爱好者、体育生",
+      "value_proposition": "利用专业赛事热度，通过AI技术将专业的评分标准大众化、娱乐化。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "与人相处能落落大方的秘诀",
+    "scores": {
+      "novelty": 8,
+      "resonance": 18,
+      "viral": 15,
+      "entertainment": 10,
+      "practical": 8,
+      "market": 7
+    },
+    "total_score": 66,
+    "grade": "良好",
+    "product_idea": {
+      "name": "社恐救急AR眼镜",
+      "features": "在社交场景中实时提示对方话题点、情绪状态，并推荐高情商回复话术，通过耳机提示。",
+      "target_users": "社交恐惧症患者、职场新人",
+      "value_proposition": "用科技手段消除社交焦虑，帮助用户建立自信的社交形象。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "王皓说张本智和拉不死王楚钦",
+    "scores": {
+      "novelty": 16,
+      "resonance": 15,
+      "viral": 17,
+      "entertainment": 16,
+      "practical": 1,
+      "market": 2
+    },
+    "total_score": 67,
+    "grade": "良好",
+    "product_idea": {
+      "name": "毒舌解说包生成器",
+      "features": "输入比赛视频，自动生成带有‘解说嘉宾风格’（如王皓式硬气）的AI解说音轨，增强观赛趣味。",
+      "target_users": "视频二创博主、体育观众",
+      "value_proposition": "将教练或名宿的个性化语言转化为IP，为普通赛事增加娱乐附加值。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "爱泼斯坦案无码版本不允许拍摄",
+    "scores": {
+      "novelty": 14,
+      "resonance": 12,
+      "viral": 18,
+      "entertainment": 5,
+      "practical": 1,
+      "market": 1
+    },
+    "total_score": 51,
+    "grade": "普通",
+    "product_idea": {
+      "name": "隐私信息粉碎机",
+      "features": "针对互联网流传的敏感文档或图片，提供一键本地加密/粉碎处理，防止数据外泄。",
+      "target_users": "商务人士、注重隐私的用户",
+      "value_proposition": "在重大隐私泄露新闻背景下，迎合用户对数据安全的极端焦虑。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "自从你出道很少看内娱营销富二代人设",
+    "scores": {
+      "novelty": 10,
+      "resonance": 17,
+      "viral": 14,
+      "entertainment": 12,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 58,
+    "grade": "普通",
+    "product_idea": {
+      "name": "人设崩塌风险预警",
+      "features": "分析明星过往言论与当前行为的逻辑一致性，为品牌方提供‘人设真实性’评分，规避代言风险。",
+      "target_users": "品牌方、公关公司、理智粉",
+      "value_proposition": "用数据视角解构娱乐圈人设营销，提供商业决策辅助工具。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "法官回应订婚强奸案男方被判3年",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 15,
+      "entertainment": 2,
+      "practical": 6,
+      "market": 3
+    },
+    "total_score": 52,
+    "grade": "普通",
+    "product_idea": {
+      "name": "两性关系法律AI顾问",
+      "features": "针对同居、订婚等非婚姻关系提供法律知识图谱，模拟纠纷场景并给出法律判例参考。",
+      "target_users": "适婚青年、法律科普需求者",
+      "value_proposition": "填补两性关系中的法律认知盲区，预防因无知导致的法律风险。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "王楚钦vs张本智和",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 63,
+    "grade": "良好",
+    "product_idea": {
+      "name": "赛事高光时刻竞猜",
+      "features": "在直播过程中，对下一球结果、发球方式等进行微竞猜，获胜者获得体育品牌优惠券。",
+      "target_users": "体育观众、体育品牌消费者",
+      "value_proposition": "提升观赛时的专注度与互动性，为体育品牌导流。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "孙颖莎合照给王曼昱挪位置",
+    "scores": {
+      "novelty": 9,
+      "resonance": 15,
+      "viral": 16,
+      "entertainment": 12,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 57,
+    "grade": "普通",
+    "product_idea": {
+      "name": "合影C位礼仪助手",
+      "features": "AR合影指引功能，识别人脸并在屏幕上标注‘礼仪最佳站位’，指导用户拍出高情商合照。",
+      "target_users": "社交媒体用户、公关活动参与者",
+      "value_proposition": "将社交礼仪具象化，解决合影尴尬，提升社交形象。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "亲哥去世员工请假奔丧被辞",
+    "scores": {
+      "novelty": 6,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 0,
+      "practical": 8,
+      "market": 4
+    },
+    "total_score": 55,
+    "grade": "普通",
+    "product_idea": {
+      "name": "合规请假智能生成",
+      "features": "根据当地法律法规，生成标准合规的请假条及法律依据提示，并在发生劳动争议时提供仲裁指引。",
+      "target_users": "劳动者、HR、企业法务",
+      "value_proposition": "保障劳动者合法权益，降低企业在假期管理上的法律风险。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "孙颖莎金牌",
+    "scores": {
+      "novelty": 5,
+      "resonance": 18,
+      "viral": 17,
+      "entertainment": 13,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 63,
+    "grade": "良好",
+    "product_idea": {
+      "name": "冠军数字藏品",
+      "features": "实时捕捉夺冠瞬间，生成唯一的数字动态海报或NFT，供粉丝收藏与炫耀。",
+      "target_users": "体育迷、收藏爱好者",
+      "value_proposition": "将荣誉时刻数字化、资产化，满足粉丝的纪念与炫耀心理。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "孙颖莎王曼昱争议球",
+    "scores": {
+      "novelty": 10,
+      "resonance": 14,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 3,
+      "market": 4
+    },
+    "total_score": 61,
+    "grade": "良好",
+    "product_idea": {
+      "name": "鹰眼回放互动社区",
+      "features": "提供比赛争议画面的多角度慢放、逐帧解析工具，用户可进行技术投票和裁判模拟。",
+      "target_users": "硬核体育迷",
+      "value_proposition": "将争议转化为技术讨论的深度内容，提升用户粘性。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "陈浚铭从baby到daddy只需要一个月",
+    "scores": {
+      "novelty": 15,
+      "resonance": 13,
+      "viral": 17,
+      "entertainment": 16,
+      "practical": 1,
+      "market": 2
+    },
+    "total_score": 64,
+    "grade": "良好",
+    "product_idea": {
+      "name": "反转剧短视频生成器",
+      "features": "用户上传两张反差极大的照片，AI自动补全中间的变化过程视频，配以搞笑剧情。",
+      "target_users": "短视频用户、搞笑博主",
+      "value_proposition": "利用反差萌的梗文化，降低创意视频的制作门槛。"
+    }
+  }
+]
