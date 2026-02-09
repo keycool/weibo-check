@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "南博文物事件24人被处理",
+    "scores": {
+      "novelty": 5,
+      "resonance": 15,
+      "viral": 10,
+      "entertainment": 2,
+      "practical": 2,
+      "market": 0
+    },
+    "total_score": 34,
+    "grade": "普通",
+    "product_idea": {
+      "name": "文保监督通",
+      "features": "文物受损实时通报与数字化档案追踪平台",
+      "target_users": "历史爱好者、文博行业从业者、普通公众",
+      "value_proposition": "用透明化监督推动文化遗产保护，留住历史记忆"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "开始推理吧4",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 17,
+      "entertainment": 18,
+      "practical": 2,
+      "market": 15
+    },
+    "total_score": 80,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "全城剧本杀：迷雾街区",
+      "features": "LBS实景推理游戏APP，结合城市地标与AR技术还原案件现场",
+      "target_users": "剧本杀爱好者、综艺粉丝、Z世代玩家",
+      "value_proposition": "打破屏幕次元壁，将悬疑剧情搬入真实街道，实现沉浸式推理体验"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "冰上版速度与激情观看指南",
+    "scores": {
+      "novelty": 14,
+      "resonance": 12,
+      "viral": 13,
+      "entertainment": 16,
+      "practical": 6,
+      "market": 8
+    },
+    "total_score": 69,
+    "grade": "良好",
+    "product_idea": {
+      "name": "冰途管家",
+      "features": "冰雪赛事AI多机位解说与精彩瞬间自动剪辑工具",
+      "target_users": "冰雪运动迷、赛事观众",
+      "value_proposition": "看不懂技术动作？AI助你秒懂冰雪赛事的每一个高燃时刻"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "问界M9星光之夜阵容夯爆了",
+    "scores": {
+      "novelty": 8,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 10,
+      "practical": 4,
+      "market": 16
+    },
+    "total_score": 60,
+    "grade": "良好",
+    "product_idea": {
+      "name": "智驾Live秀",
+      "features": "车载系统同步线下活动直播，车内氛围灯随演出节奏律动",
+      "target_users": "新能源车主、科技关注者",
+      "value_proposition": "将车变成移动的VIP包厢，重新定义出行娱乐体验"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "车厘子价格崩了口感也崩了",
+    "scores": {
+      "novelty": 10,
+      "resonance": 18,
+      "viral": 14,
+      "entertainment": 10,
+      "practical": 12,
+      "market": 14
+    },
+    "total_score": 78,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "鲜味侦探",
+      "features": "基于用户评价大数据的水果口感与价格实时追踪地图",
+      "target_users": "家庭采购者、水果爱好者",
+      "value_proposition": "避开刺客与次果，只买当季性价比最高的那一口甜"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "南京博物院事件最新通报",
+    "scores": {
+      "novelty": 4,
+      "resonance": 14,
+      "viral": 8,
+      "entertainment": 0,
+      "practical": 4,
+      "market": 0
+    },
+    "total_score": 30,
+    "grade": "普通",
+    "product_idea": {
+      "name": "云博卫士",
+      "features": "AR导览中集成文物状态反馈通道，游客可随手报修或举报不文明行为",
+      "target_users": "博物馆游客、志愿者",
+      "value_proposition": "人人都是国宝守护人，共创文明参观环境"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "瓦窑沟墓地M1墓主或为商代鬼方之王",
+    "scores": {
+      "novelty": 16,
+      "resonance": 10,
+      "viral": 8,
+      "entertainment": 6,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 50,
+    "grade": "普通",
+    "product_idea": {
+      "name": "探墓笔记",
+      "features": "考古发现可视化互动百科，还原墓葬结构与文物分布",
+      "target_users": "历史学生、考古爱好者",
+      "value_proposition": "把严肃的考古报告变成生动的地下宫殿探索之旅"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "春节返乡要稳不要快",
+    "scores": {
+      "novelty": 6,
+      "resonance": 16,
+      "viral": 10,
+      "entertainment": 2,
+      "practical": 14,
+      "market": 8
+    },
+    "total_score": 56,
+    "grade": "普通",
+    "product_idea": {
+      "name": "归途管家",
+      "features": "返乡路况安全评估与疲劳驾驶预警助手",
+      "target_users": "春节返乡人群、自驾车主",
+      "value_proposition": "平安是回家最近的路，为你规划最稳的返乡路线"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "谷爱凌回应米兰冬奥银牌",
+    "scores": {
+      "novelty": 8,
+      "resonance": 14,
+      "viral": 12,
+      "entertainment": 8,
+      "practical": 2,
+      "market": 12
+    },
+    "total_score": 56,
+    "grade": "普通",
+    "product_idea": {
+      "name": "冠军心态",
+      "features": "体育明星心理素质训练课程与冥想引导",
+      "target_users": "青少年运动员、学生群体",
+      "价值_proposition": "向冠军学习逆商，在压力下保持最佳竞技状态"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "小马糕",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 12,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 10
+    },
+    "total_score": 56,
+    "grade": "普通",
+    "product_idea": {
+      "name": "岁糕集",
+      "features": "生肖定制化传统糕点DIY礼盒，结合AR拜年祝福",
+      "target_users": "年轻送礼群体、家庭用户",
+      "value_proposition": "吃掉专属生肖年味，开启你的好运年"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "陈飞宇 阿瑟帅回宫了",
+    "scores": {
+      "novelty": 6,
+      "resonance": 12,
+      "viral": 12,
+      "entertainment": 14,
+      "practical": 0,
+      "market": 8
+    },
+    "total_score": 52,
+    "grade": "普通",
+    "product_idea": {
+      "name": "星妆镜",
+      "features": "影视剧同款妆容AR一键试妆与购买指南",
+      "target_users": "追剧女生、美妆用户",
+      "value_proposition": "get明星同款颜值，秒变剧中主角"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "山东招远一金矿发生坠罐事故致7死",
+    "scores": {
+      "novelty": 0,
+      "resonance": 8,
+      "viral": 6,
+      "entertainment": 0,
+      "practical": 4,
+      "market": 0
+    },
+    "total_score": 18,
+    "grade": "普通",
+    "product_idea": {
+      "name": "井下哨兵",
+      "features": "矿业作业环境物联网安全监测系统",
+      "target_users": "矿业企业、安全监管部门",
+      "value_proposition": "用物联网技术守护井下生命，防患于未然"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "女子孕期被疑出轨公公转650万安抚",
+    "scores": {
+      "novelty": 16,
+      "resonance": 16,
+      "viral": 18,
+      "entertainment": 12,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 66,
+    "grade": "良好",
+    "product_idea": {
+      "name": "家事公证人",
+      "features": "家庭大额资金流向追踪与法律咨询APP",
+      "target_users": "已婚女性、家庭理财者",
+      "value_proposition": "理清家庭财产糊涂账，守护你的婚姻资产安全"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "爱泼斯坦被爆可能没死",
+    "scores": {
+      "novelty": 18,
+      "resonance": 14,
+      "viral": 16,
+      "entertainment": 10,
+      "practical": 0,
+      "market": 2
+    },
+    "total_score": 60,
+    "grade": "良好",
+    "product_idea": {
+      "name": "迷雾档案",
+      "features": "全球未解之谜与重大事件时间线复盘工具",
+      "target_users": "阴谋论爱好者、悬疑迷",
+      "value_proposition": "抽丝剥茧，在信息碎片中寻找接近真相的蛛丝马迹"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "保姆按要求分房睡老人离世成被告",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 10,
+      "entertainment": 4,
+      "practical": 8,
+      "market": 6
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "照护无忧",
+      "features": "居家养老智能监护与法律责任留痕系统",
+      "target_users": "保姆从业者、有老人的家庭",
+      "value_proposition": "让服务有据可查，既保护老人权益也护保姆周全"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "受害者第1次见爱泼斯坦被带进红房间",
+    "scores": {
+      "novelty": 12,
+      "resonance": 10,
+      "viral": 12,
+      "entertainment": 2,
+      "practical": 0,
+      "market": 0
+    },
+    "total_score": 36,
+    "grade": "普通",
+    "product_idea": {
+      "name": "安全圈",
+      "features": "基于地理位置的危险区域预警与紧急求助社区",
+      "target_users": "独自旅行者、女性群体",
+      "value_proposition": "警惕潜在危险环境，共建互助安全网络"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "金晨风波后现身澳门",
+    "scores": {
+      "novelty": 6,
+      "resonance": 10,
+      "viral": 10,
+      "entertainment": 8,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 44,
+    "grade": "普通",
+    "product_idea": {
+      "name": "星途打卡",
+      "features": "明星同款旅行路线规划与穿搭推荐",
+      "target_users": "追星族、旅游达人",
+      "value_proposition": "跟着爱豆去旅行，拍出朋友圈高赞大片"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "生命树",
+    "scores": {
+      "novelty": 8,
+      "resonance": 8,
+      "viral": 8,
+      "entertainment": 8,
+      "practical": 2,
+      "market": 10
+    },
+    "total_score": 44,
+    "grade": "普通",
+    "product_idea": {
+      "name": "生命树APP",
+      "features": "影视剧情播客与IP衍生品众筹平台",
+      "target_users": "剧集粉丝、文创消费者",
+      "value_proposition": "深度解读剧集内核，把喜欢的IP带回家"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "男子在女厕所偷拍摔倒被当场抓获",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 14,
+      "entertainment": 10,
+      "practical": 6,
+      "market": 2
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "隐形盾",
+      "features": "便携式反偷拍检测设备，自动连接手机APP报警",
+      "target_users": "女性用户、商旅人士",
+      "value_proposition": "拒绝隐形镜头，维护个人隐私尊严"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "男子让6个月孩子看电视女友劝阻后被打",
+    "scores": {
+      "novelty": 8,
+      "resonance": 14,
+      "viral": 12,
+      "entertainment": 2,
+      "practical": 4,
+      "market": 2
+    },
+    "total_score": 42,
+    "grade": "普通",
+    "product_idea": {
+      "name": "育儿帮",
+      "features": "科学育儿知识库与家庭矛盾调解语音机器人",
+      "target_users": "新手父母、准父母",
+      "value_proposition": "用科学标准化解育儿分歧，守护孩子健康成长"
+    }
+  }
+]
