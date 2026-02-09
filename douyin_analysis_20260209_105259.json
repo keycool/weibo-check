@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "大连地震",
+    "scores": {
+      "novelty": 5,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 0,
+      "practical": 8,
+      "market": 1
+    },
+    "total_score": 51.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全民地震互助守护平台",
+      "features": "基于LBS的实时震感上报与平安打卡功能；家庭一键集结与紧急联络包；断网环境下的卫星短报文通信对接。",
+      "target_users": "地震带居民、异地子女、应急管理爱好者",
+      "value_proposition": "在灾难发生的黄金时刻，通过最简洁的交互确认亲友安全，并提供实时避险路径，连接分散的个体形成互助网络。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "谷爱凌携手队友冲击中国首金",
+    "scores": {
+      "novelty": 8,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 15,
+      "practical": 2,
+      "market": 9
+    },
+    "total_score": 71.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "滑雪冠军AR跟练镜",
+      "features": "将谷爱凌的夺冠动作分解为AR全息投影，叠加在用户滑雪视野中；实时对比用户姿态与标准动作的生物力学差异。",
+      "target_users": "滑雪进阶爱好者、体育院校学生、青少年滑雪训练营",
+      "value_proposition": "让专业滑雪训练触手可及，利用世界冠军的数字化动作模型，帮助爱好者突破技术瓶颈，降低运动损伤风险。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "新春走基层一线vlog",
+    "scores": {
+      "novelty": 5,
+      "resonance": 15,
+      "viral": 10,
+      "entertainment": 8,
+      "practical": 3,
+      "market": 2
+    },
+    "total_score": 43.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "“我在家乡”短视频创作套件",
+      "features": "提供一键生成专业的新闻纪实风格剪辑模板；内置语音转字幕和方言自动识别功能；支持多机位云端协同剪辑。",
+      "target_users": "融媒体记者、基层工作者、视频博主",
+      "value_proposition": "降低高质量纪实类视频的生产门槛，帮助创作者快速产出具有时代温度和新闻价值的优质内容。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "2026超级碗中场秀",
+    "scores": {
+      "novelty": 15,
+      "resonance": 12,
+      "viral": 16,
+      "entertainment": 18,
+      "practical": 1,
+      "market": 7
+    },
+    "total_score": 69.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "沉浸式第二现场派对策划盒",
+      "features": "根据中场秀节奏同步提供家庭灯光律动方案；提供美式复古零食盲盒订阅；多地区流媒体延迟同步观看技术。",
+      "target_users": "美式运动迷、聚会组织者、都市年轻人",
+      "value_proposition": "为无法亲临现场的粉丝提供标准化的“超级碗”观赛派对解决方案，复刻现场的视听盛宴与社交氛围。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "小年文案",
+    "scores": {
+      "novelty": 2,
+      "resonance": 14,
+      "viral": 12,
+      "entertainment": 5,
+      "practical": 6,
+      "market": 3
+    },
+    "total_score": 42.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "东方节日美学文案生成器",
+      "features": "针对不同节日（如小年）自动生成古诗词风、朋友圈搞笑风、商务风等多种文案；搭配一键生成的国风配图。",
+      "target_users": "职场人士、自媒体运营、普通社交用户",
+      "价值主张": "解决节日社交礼仪的表达焦虑，快速生成高质量、有温度且不落俗套的节日祝福内容。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "回家是最好的礼物",
+    "scores": {
+      "novelty": 4,
+      "resonance": 20,
+      "viral": 16,
+      "entertainment": 8,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 56.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "归途旅途关怀订阅包",
+      "features": "春节期间为长途回家的亲友预订火车/飞机上的Wi-Fi流量、健康餐食及接机专车服务；实时行程共享与关怀提醒。",
+      "target_users": "异地打拼子女、关爱长辈的子女",
+      "value_proposition": "将抽象的“回家”转化为具体的服务体验，缓解旅途疲惫，让归家的路途本身成为一种温暖的享受。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "百大厨神年夜饭菜谱发布",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 9,
+      "market": 8
+    },
+    "total_score": 74.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "名厨复刻·半成品年夜饭盲盒",
+      "features": "联名百大厨神，推出其招牌菜的预处理豪华版礼盒；附带AR扫描步骤图，视频手把手教摆盘。",
+      "target_users": "不想点外卖但厨艺有限的家庭、追求仪式感的中产阶级",
+      "value_proposition": "用米其林级的水准解决“做年夜饭太难”的痛点，让普通家庭在家也能轻松还原顶级大厨的年夜宴席。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "外交部回应日本自民党胜选",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 2,
+      "practical": 4,
+      "market": 1
+    },
+    "total_score": 39.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "时政关键信息聚合与解读卡",
+      "features": "从外交部发言中智能提取核心立场与外交信号；生成可视化的外交关系变化图谱；去除情绪化信息，保留干货。",
+      "target_users": "投资者、国际关系研究者、关注时事的理性用户",
+      "value_proposition": "在信息噪音巨大的互联网中，为专业用户提供中立、精准的国际时政情报分析服务。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "开春穿搭思路",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 17,
+      "entertainment": 12,
+      "practical": 8,
+      "market": 9
+    },
+    "total_score": 70.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "AI胶囊衣橱智能搭配师",
+      "features": "拍摄用户现有衣物自动生成数字化衣橱；根据输入的“开春”场景（通勤/郊游）自动生成高利用率穿搭方案；一键链接缺饰单品购买。",
+      "target_users": "年轻女性、职场新人、穿搭小白",
+      "value_proposition": "利用AI技术解决“换季不知道穿什么”和“衣服多却觉得没衣服穿”的矛盾，提升现有衣物的利用率。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "解锁腊味的多种做法",
+    "scores": {
+      "novelty": 8,
+      "resonance": 15,
+      "viral": 14,
+      "entertainment": 12,
+      "practical": 9,
+      "market": 8
+    },
+    "total_score": 66.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "地方风味腊味创意料理包",
+      "features": "提供除了清蒸/炒饭以外的创意食谱（如腊味提拉米苏、腊味瑞士卷）；附带精准克数的腊味小包装试吃装。",
+      "target_users": "家庭主妇、猎奇美食爱好者、烘焙玩家",
+      "value_proposition": "打破传统腊味食用场景的局限，通过猎奇且美味的创意食谱，挖掘传统年货在现代饮食文化中的新价值。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "驻村期满背起行囊",
+    "scores": {
+      "novelty": 6,
+      "resonance": 18,
+      "viral": 13,
+      "entertainment": 4,
+      "practical": 3,
+      "market": 2
+    },
+    "total_score": 46.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "乡村记忆·数字化志服务",
+      "features": "为驻村期满的干部提供一键生成工作纪录片的服务；整合驻村期间的影像数据，形成可永久保存的电子纪念册。",
+      "target_users": "驻村帮扶干部、基层公务员组织部门",
+      "value_proposition": "将抽象的扶贫经历具象化为可回溯的个人与集体数字资产，为乡村振兴历程留下有温度的历史注脚。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "多家快递公司辟谣春节停运",
+    "scores": {
+      "novelty": 4,
+      "resonance": 14,
+      "viral": 10,
+      "entertainment": 2,
+      "practical": 10,
+      "market": 6
+    },
+    "total_score": 46.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "春节物流时效动态查询助手",
+      "features": "聚合各大快递公司春节运营公告；根据收发地址预测春节期间的物流时效波动；提供‘不打烊’网点地图。",
+      "target_users": "电商卖家、春节期间有寄递需求的个人",
+      "value_proposition": "消除春节期间物流信息的不确定性，帮助用户精准规划寄递时间，避免因谣传造成的业务或生活困扰。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "2026超级碗海鹰夺队史第2冠",
+    "scores": {
+      "novelty": 16,
+      "resonance": 10,
+      "viral": 15,
+      "entertainment": 16,
+      "practical": 1,
+      "market": 7
+    },
+    "total_score": 65.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "夺冠瞬间·NFT数字票根收藏",
+      "features": "将2026超级碗夺冠的精彩回放集锦生成限量版NFT数字藏品；附带球队专属的元宇宙虚拟穿戴装备。",
+      "target_users": "海鹰队死忠粉、NFT收藏家、体育迷",
+      "value_proposition": "将历史性的夺冠时刻永久封存在区块链上，为球迷提供可永久拥有的数字荣耀凭证和新型社交资本。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "孙颖莎回应决胜局争议球",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 17,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 61.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "裁判鹰眼·乒乓战术分析复盘App",
+      "features": "利用AI视频识别技术，自动标记比赛中的争议球与关键分；生成战术执行热力图与心理波动曲线分析。",
+      "target_users": "专业乒乓球教练、球类运动深度爱好者",
+      "value_proposition": "从情绪化的围观转向专业化的复盘，帮助用户看懂高手博弈背后的战术意图与心理博弈，提升观赛深度。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "有你的恋歌2收官",
+    "scores": {
+      "novelty": 8,
+      "resonance": 17,
+      "viral": 15,
+      "entertainment": 16,
+      "practical": 2,
+      "market": 7
+    },
+    "total_score": 65.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "恋综同款·声音交友小程序",
+      "features": "主打不看脸的语音速配；还原节目中的‘听音识人’游戏机制；提供综艺同款约会场景的线下优惠券。",
+      "target_users": "综艺粉丝、单身青年、声控人群",
+      "value_proposition": "将综艺节目的高甜互动转化为现实中的社交产品，利用‘声音’这一媒介为年轻人提供更有想象力的恋爱破冰方式。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "电影镖人预售开启",
+    "scores": {
+      "novelty": 14,
+      "resonance": 10,
+      "viral": 13,
+      "entertainment": 12,
+      "practical": 3,
+      "market": 8
+    },
+    "total_score": 60.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "国漫硬核美学·沉浸式周边盲盒",
+      "features": "结合电影《镖人》的西域江湖风格，推出‘行走江湖’功能性周边（如可做帐篷的披风、多功能生存手环）。",
+      "target_users": "国漫粉丝、户外爱好者、武侠迷",
+      "value_proposition": "不局限于传统的摆件周边，将电影的硬核美学融入实用装备，让粉丝在现实生活中也能体验‘侠客’精神。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "俄外长向欧洲发出警告",
+    "scores": {
+      "novelty": 11,
+      "resonance": 10,
+      "viral": 8,
+      "entertainment": 1,
+      "practical": 5,
+      "market": 2
+    },
+    "total_score": 37.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "地缘风险评估与资产避险助手",
+      "features": "针对国际局势变化（如俄欧关系）对特定行业（能源、外贸）的影响进行预警；提供企业出海风险评级报告。",
+      "target_users": "外贸从业者、跨国企业主、宏观经济研究者",
+      "value_proposition": "将晦涩的国际政治新闻转化为具体的商业风险评估，帮助用户在动荡的国际局势中提前做好资产布局。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "武汉又下雪了",
+    "scores": {
+      "novelty": 6,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 10,
+      "practical": 3,
+      "market": 4
+    },
+    "total_score": 53.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "城市气象·情绪播报胶囊",
+      "features": "不仅播报天气，更结合当地特色（如武汉雪景）推送对应的歌单、拍摄点位推荐及热饮优惠券。",
+      "target_users": "本地居民、旅游打卡者、生活记录者",
+      "value_proposition": "将天气信息与城市生活方式深度绑定，把每一次特殊的天气变化都转化为一场小型的城市狂欢与消费契机。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "谷爱凌：决赛是完全不同的动作",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 17,
+      "entertainment": 13,
+      "practical": 3,
+      "market": 8
+    },
+    "total_score": 69.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "极限挑战·心理韧性训练课程",
+      "features": "以谷爱凌“决赛放大招”为案例，结合运动心理学，开发一套面向普通人的压力应对与突破舒适区的在线训练课程。",
+      "target_users": "职场高压人群、学生、体育爱好者",
+      "value_proposition": "将顶级运动员的大心脏智慧转化为可复用的心理工具，帮助用户在人生的关键时刻敢于亮出“不同的动作”。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "重点液态食品散装运输应取得准运证",
+    "scores": {
+      "novelty": 10,
+      "resonance": 5,
+      "viral": 4,
+      "entertainment": 1,
+      "practical": 8,
+      "market": 7
+    },
+    "total_score": 35.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "食品运输合规数字化SaaS平台",
+      "features": "为液态食品运输企业提供电子准运证申请与管理功能；利用GPS+IoT监控运输途中的温度、密封性等合规指标。",
+      "target_users": "食品物流企业、乳制品/食用油厂商、监管部门",
+      "价值主张": "通过数字化手段解决政策合规痛点，降低违规运输风险，保障食品安全，实现物流全流程的可追溯化管理。"
+    }
+  }
+]
