@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "男子为避酒店春节涨价花1万多租房",
+    "scores": {
+      "novelty": 14,
+      "resonance": 18,
+      "viral": 17,
+      "entertainment": 12,
+      "practical": 8,
+      "market": 9
+    },
+    "total_score": 78,
+    "grade": "良好",
+    "product_idea": {
+      "name": "“春节回城管家”反向租赁App",
+      "features": "针对春节返乡人群的城市房屋短期托管与租赁交换平台；提供‘房屋托管’换取‘异地住宿’的匹配服务；春节特需房源自动比价与避险提醒。",
+      "target_users": "在大城市工作的返乡青年、春节期间有短租需求的租客、春节期闲置房屋的业主。",
+      "value_proposition": "解决春节期间‘回家贵、住不起’的痛点，通过盘活城市空置房源，提供高性价比的短租替代方案，打破传统酒店垄断。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "付费假装上班被要求不迟到不玩手机",
+    "scores": {
+      "novelty": 19,
+      "resonance": 16,
+      "viral": 18,
+      "entertainment": 18,
+      "practical": 6,
+      "market": 8
+    },
+    "total_score": 85,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "模拟职场·沉浸式自习空间",
+      "features": "提供‘公司’场景的付费自习室（含打卡机、工位、甚至虚构的KPI）；专业的‘职业督导’提供模拟工作反馈和职场心理陪护；‘摸鱼惩罚’机制强制番茄钟专注。",
+      "target_users": "自由职业者、备考学生、离职空窗期焦虑人群、寻求工作氛围的创业者。",
+      "value_proposition": "将‘假装上班’的情感需求转化为具体的自律与空间服务产品，治愈‘空窗期焦虑’，重建秩序感与社交连接。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "中国无人机大山里运腊肠",
+    "scores": {
+      "novelty": 16,
+      "resonance": 15,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 9,
+      "market": 7
+    },
+    "total_score": 77,
+    "grade": "良好",
+    "product_idea": {
+      "name": "“乡运通”低空物流调度平台",
+      "features": "专注于‘进城特产’与‘下乡快递’的中短途重载无人机调度服务；整合乡村闲置机场（降落点）资源；提供‘年货直达’的专线物流订阅。",
+      "target_users": "有寄送家乡特产需求的返乡人群、偏远地区电商农户、追求极致物流体验的高端用户。",
+      "value_proposition": "利用无人机技术解决‘最后一公里’物流难题，让家乡味道‘朝发夕至’，打通城乡物资流通的空中走廊。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "天猫年货节最后冲刺24小时",
+    "scores": {
+      "novelty": 5,
+      "resonance": 8,
+      "viral": 10,
+      "entertainment": 5,
+      "practical": 7,
+      "market": 6
+    },
+    "total_score": 41,
+    "grade": "普通",
+    "product_idea": {
+      "name": "年货AI智能选购助手",
+      "features": "基于用户画像和家庭结构的年货清单一键生成；‘降价倒数’提醒功能；跨平台比价与凑单计算器。",
+      "target_users": "春节忙碌的年轻上班族、选择困难症消费者。",
+      "value_proposition": "消除大促期间的决策疲劳，通过AI定制化推荐，用最少的时间买到性价比最高的年货，提升购物效率。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "中国跳台滑雪再创历史",
+    "scores": {
+      "novelty": 12,
+      "resonance": 18,
+      "viral": 15,
+      "entertainment": 10,
+      "practical": 4,
+      "market": 6
+    },
+    "total_score": 65,
+    "grade": "良好",
+    "product_idea": {
+      "name": "冰雪荣耀·AR互动纪念册",
+      "features": "结合AR技术还原历史性跳跃瞬间；用户的虚拟形象与冠军同台合影；集卡式收集国家队纪念勋章。",
+      "target_users": "冰雪运动爱好者、国潮收藏者、Z世代体育迷。",
+      "value_proposition": "将爱国热情与体育荣誉转化为可交互的数字资产，增强用户对冰雪项目的参与感和记忆点。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "海外已夸爆Seedance2.0",
+    "scores": {
+      "novelty": 15,
+      "resonance": 8,
+      "viral": 12,
+      "entertainment": 13,
+      "practical": 5,
+      "market": 7
+    },
+    "total_score": 60,
+    "grade": "良好",
+    "product_idea": {
+      "name": "AIGC舞蹈创意工坊",
+      "features": "允许用户输入音乐生成个性化舞蹈动作；结合元宇宙场景进行虚拟编舞；一键生成风格化的音乐短视频。",
+      "target_users": "短视频创作者、舞者、AI极客。",
+      "value_proposition": "降低舞蹈创作门槛，利用AIGC技术让普通人也能生成高质量的舞蹈内容，引领短视频创作新潮流。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "短道队多人为孙龙发声",
+    "scores": {
+      "novelty": 8,
+      "resonance": 14,
+      "viral": 13,
+      "entertainment": 6,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 46,
+    "grade": "普通",
+    "product_idea": {
+      "name": "体育争议话题辩论社区",
+      "features": "针对体育赛事争议的实时辩论场；基于立场的战队积分系统；专业战术与规则的科普板块。",
+      "target_users": "体育迷、竞技游戏玩家。",
+      "value_proposition": "将体育赛事的争议性转化为社区活跃度，通过理性辩论与科普，增强用户粘性，打造体育迷的聚集地。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "韩媒质问这还是体育吗",
+    "scores": {
+      "novelty": 6,
+      "resonance": 14,
+      "viral": 12,
+      "entertainment": 10,
+      "practical": 1,
+      "market": 2
+    },
+    "total_score": 45,
+    "grade": "普通",
+    "product_idea": {
+      "name": "体育事件智能抓取与辟谣插件",
+      "features": "实时监控国际体育舆论；自动识别并翻译争议性言论；提供背景数据对比以辅助用户理性判断。",
+      "target_users": "关注国际体育赛事的网民、自媒体创作者。",
+      "value_proposition": "在复杂的国际舆论环境中，为用户提供客观的数据支持和快速的事实核查，提升信息获取质量。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "金博洋短节目86.55分",
+    "scores": {
+      "novelty": 8,
+      "resonance": 15,
+      "viral": 12,
+      "entertainment": 11,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 52,
+    "grade": "普通",
+    "product_idea": {
+      "name": "花样滑冰动作AI分析App",
+      "features": "上传视频自动识别跳跃与旋转动作；对比专业选手的落冰线条与轴心；提供AI教练打分与纠错建议。",
+      "target_users": "花样滑冰学员、业余爱好者、学员家长。",
+      "value_proposition": "利用计算机视觉技术将专业赛事与日常训练连接，让爱好者能像冠军一样分析动作，提升训练效率。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "德云社封箱",
+    "scores": {
+      "novelty": 5,
+      "resonance": 16,
+      "viral": 13,
+      "entertainment": 14,
+      "practical": 3,
+      "market": 6
+    },
+    "total_score": 57,
+    "grade": "普通",
+    "product_idea": {
+      "name": "云端茶馆·沉浸式相声Live",
+      "features": "高清多角度直播相声演出；边看边弹幕互动‘捧哏’；虚拟瓜子礼物打赏系统；线上票务黄牛预警。",
+      "target_users": "德云社粉丝、相声爱好者、难以线下购票的用户。",
+      "value_proposition": "打破线下演出的地域与票务限制，通过高质量的互动直播体验，让传统文化娱乐触达更广泛的受众。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "成毅两京十五日杀青",
+    "scores": {
+      "novelty": 5,
+      "resonance": 15,
+      "viral": 14,
+      "entertainment": 8,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 49,
+    "grade": "普通",
+    "product_idea": {
+      "name": "影视剧组探班VOD平台",
+      "features": "付费订阅剧组专属幕后花絮流；主演杀青日记与直播互动；片场周边直供与众筹。",
+      "target_users": "核心粉丝群体、影视行业关注者。",
+      "value_proposition": "通过独家、深度的幕后内容挖掘，将粉丝对演员的喜爱转化为对内容的付费订阅，实现IP价值的深度开发。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "肖战",
+    "scores": {
+      "novelty": 2,
+      "resonance": 20,
+      "viral": 16,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 7
+    },
+    "total_score": 57,
+    "grade": "普通",
+    "product_idea": {
+      "name": "明星同源AI情感伴侣",
+      "features": "基于明星授权的语音包与性格特征训练的AI聊天机器人；定制化明星早安晚安叫醒服务；专属情感树洞。",
+      "target_users": "庞大的粉丝群体、寻求情感慰藉的年轻人。",
+      "value_proposition": "通过合规的IP授权与AI技术，将粉丝对偶像的向往转化为日常可互动的情感陪伴产品，提供高私密性的情绪价值。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "李谷一回应缺席马年春晚",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 13,
+      "entertainment": 5,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 47,
+    "grade": "普通",
+    "product_idea": {
+      "name": "时光留声机·个人传记服务",
+      "features": "为老年人提供口述历史录制服务；结合经典BGM生成个人回忆录视频；数字家谱区块链存证。",
+      "target_users": "关注家族传承的子女、怀旧的中老年群体。",
+      "value_proposition": "捕捉珍贵的时代记忆与家族故事，将‘怀旧’转化为具体的数字资产，服务春节家庭团聚的情感需求。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "射雕英雄传侠之大者金像奖0提",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 13,
+      "entertainment": 6,
+      "practical": 3,
+      "market": 4
+    },
+    "total_score": 48,
+    "grade": "普通",
+    "product_idea": {
+      "name": "口碑预测AI分析师",
+      "features": "基于剧本、阵容、宣发数据预测电影奖项与票房走势；为影迷提供‘遗珠’推荐与评分偏离度分析。",
+      "target_users": "电影投资人、资深影迷、博彩爱好者。",
+      "value_proposition": "利用大数据分析打破专业奖项的信息不对称，为行业投资和大众观影提供数据驱动的决策参考。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "74岁肥猫被医生建议注射药物镇痛",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 2,
+      "practical": 7,
+      "market": 6
+    },
+    "total_score": 53,
+    "grade": "普通",
+    "product_idea": {
+      "name": "银发关怀·疼痛管理智能穿戴",
+      "features": "针对老年人慢性疼痛的智能TENS理疗腰带/护具；子女端App可远程查看父母疼痛指数与用药提醒；跌倒检测与一键呼叫。",
+      "target_users": "患有关节炎/慢性病的老年人、及其远程照料子女。",
+      "value_proposition": "关注老年人隐性疼痛需求，结合医疗科技与远程监护，让子女即使不在身边也能参与父母的健康管理。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "爱泼斯坦别墅内老虎标本栩栩如生",
+    "scores": {
+      "novelty": 16,
+      "resonance": 14,
+      "viral": 17,
+      "entertainment": 12,
+      "practical": 1,
+      "market": 2
+    },
+    "total_score": 62,
+    "grade": "良好",
+    "product_idea": {
+      "name": "名侦探案件解谜互动书",
+      "features": "基于真实社会新闻改编的剧本杀/解谜游戏；提供证据链梳理工具；用户互动推理分析社区。",
+      "target_users": "悬疑推理爱好者、真实案件关注者。",
+      "value_proposition": "满足大众对猎奇新闻的深度探索欲，将新闻事件转化为逻辑推理游戏，寓教于乐，引发深度思考。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "印度大一男生求婚遭拒将女生枪杀",
+    "scores": {
+      "novelty": 4,
+      "resonance": 12,
+      "viral": 14,
+      "entertainment": 2,
+      "practical": 3,
+      "market": 2
+    },
+    "total_score": 37,
+    "grade": "普通",
+    "product_idea": {
+      "name": "社交安全风险评估SOS小程序",
+      "features": "基于陌生交往模式的潜在风险AI提示；紧急情况下的静音报警与位置实时共享；校园安全路线规划。",
+      "target_users": "大学生、年轻女性社交群体。",
+      "value_proposition": "针对极端个案引发的恐慌情绪，提供实用的预防性安全工具，通过技术手段构建社交安全护城河。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "陈星旭 情商",
+    "scores": {
+      "novelty": 5,
+      "resonance": 12,
+      "viral": 13,
+      "entertainment": 8,
+      "practical": 4,
+      "market": 5
+    },
+    "total_score": 47,
+    "grade": "普通",
+    "product_idea": {
+      "name": "职场与社交模拟演练App",
+      "features": "基于明星情商案例的互动式剧情游戏；多分支选择对人际关系的影响模拟；专家点评与沟通技巧教学。",
+      "target_users": "职场新人、追星族、社交达人。",
+      "value_proposition": "将娱乐八卦转化为社交技能学习素材，通过沉浸式体验帮助用户在现实中避免低情商错误，提升软实力。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "王曼昱决胜局擦边球尊重裁判",
+    "scores": {
+      "novelty": 8,
+      "resonance": 15,
+      "viral": 12,
+      "entertainment": 10,
+      "practical": 5,
+      "market": 6
+    },
+    "total_score": 56,
+    "grade": "普通",
+    "product_idea": {
+      "name": "儿童体育精神AR课程",
+      "features": "结合世界名将风采的AR互动课程；模拟争议判罚场景教导孩子如何面对不公与失利；颁发‘精神品格’数字勋章。",
+      "target_users": "少儿体育培训机构、学生家长。",
+      "价值_proposition": "竞技体育不仅是技能比拼，更是人格教育。通过冠军榜样，培养孩子的规则意识、抗压能力与公正精神。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "郑则仕因不想终生注射药物开始跑步",
+    "scores": {
+      "novelty": 12,
+      "resonance": 15,
+      "viral": 14,
+      "entertainment": 6,
+      "practical": 9,
+      "market": 7
+    },
+    "total_score": 63,
+    "grade": "良好",
+    "product_idea": {
+      "name": "医体结合·慢性病运动处方平台",
+      "features": "对接用户体检数据，生成‘医生+教练’双认证的运动干预计划；针对糖尿病、高血压等疾病的特定运动直播课；健康指标逆转打卡挑战。",
+      "target_users": "慢性病初诊人群、中老年亚健康群体、体重管理困难户。",
+      "value_proposition": "用‘运动是良医’的理念，提供可量化的非药物治疗方案，通过数据可视化激励用户改变生活方式，减少药物依赖。"
+    }
+  }
+]
