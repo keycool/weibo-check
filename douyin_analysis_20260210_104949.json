@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "今天是北方小年",
+    "scores": {
+      "novelty": 5,
+      "resonance": 18,
+      "viral": 15,
+      "entertainment": 8,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 51,
+    "grade": "普通",
+    "product_idea": {
+      "name": "南北小年差异地图H5",
+      "features": "展示中国不同地区小年日期、习俗（如吃糖瓜、扫尘）差异的互动地图，支持用户上传家乡习俗。",
+      "target_users": "民俗爱好者、返乡过节的年轻人",
+      "value_proposition": "解决南北方情侣/朋友关于小天日期的争论，增强传统文化认知与互动趣味。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "反诈同心 网信同行",
+    "scores": {
+      "novelty": 5,
+      "resonance": 8,
+      "viral": 5,
+      "entertainment": 2,
+      "practical": 8,
+      "market": 2
+    },
+    "total_score": 30,
+    "grade": "普通",
+    "product_idea": {
+      "name": "反诈剧本杀杀毒软件",
+      "features": "将真实的诈骗案例改编成互动式剧本杀小游戏，用户在通关过程中学习反诈知识，并集成紧急阻断功能。",
+      "target_users": "中老年群体、大学生",
+      "value_proposition": "通过沉浸式娱乐体验替代枯燥的说教，提高用户对电信诈骗的识别能力和警惕性。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "2026春节档电影预售开启",
+    "scores": {
+      "novelty": 10,
+      "resonance": 15,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 8,
+      "market": 10
+    },
+    "total_score": 73,
+    "grade": "良好",
+    "product_idea": {
+      "name": "春节档观影拼团助手",
+      "features": "基于地理位置的影院拼场功能，支持异地亲友“云观影”同步聊天，以及抢票失败自动候补匹配。",
+      "target_users": "春节返乡年轻人、情侣、家庭用户",
+      "value_proposition": "解决春节期间影院人多票难抢、社交需求旺盛但档期难凑的痛点，提升观影社交体验。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "冬奥短道速滑今日开战",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 16,
+      "practical": 3,
+      "market": 6
+    },
+    "total_score": 68,
+    "grade": "良好",
+    "product_idea": {
+      "name": "实况赛场第二屏",
+      "features": "提供多机位视角切换、实时运动员心率数据（模拟或授权）、战术AI复盘解说及观众竞猜互动。",
+      "target_users": "冰雪运动迷、体育竞猜爱好者",
+      "value_proposition": "为专业观众提供比电视转播更深度的数据视角和参与感，打造沉浸式观赛体验。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "用一篇长文记录我的春节",
+    "scores": {
+      "novelty": 10,
+      "resonance": 18,
+      "viral": 14,
+      "entertainment": 8,
+      "practical": 5,
+      "market": 4
+    },
+    "total_score": 59,
+    "grade": "普通",
+    "product_idea": {
+      "name": "家族记忆胶囊",
+      "features": "引导用户通过语音转文字、图片上传记录春节见闻，并在每年春节自动生成“时光对比”电子书或视频。",
+      "target_users": "重视家庭记录的用户、在外游子",
+      "value_proposition": "低门槛的记录工具，将碎片化的春节记忆转化为可传承的家族数字资产。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "糕糕兴兴过大年",
+    "scores": {
+      "novelty": 14,
+      "resonance": 15,
+      "viral": 16,
+      "entertainment": 13,
+      "practical": 5,
+      "market": 8
+    },
+    "total_score": 71,
+    "grade": "良好",
+    "product_idea": {
+      "name": "好运糕点盲盒",
+      "features": "联合老字号推出创意造型糕点，内置签文或好运手办，包装支持AR扫描播放舞狮/烟花特效。",
+      "target_users": "追求年味的Z世代、送礼人群",
+      "value_proposition": "将传统糕点与现代盲盒玩法结合，满足味蕾的同时提供社交货币和情绪价值。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "年味穿搭穿出高级感",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 16,
+      "entertainment": 12,
+      "practical": 6,
+      "market": 9
+    },
+    "total_score": 69,
+    "grade": "良好",
+    "product_idea": {
+      "name": "新中式AI穿搭顾问",
+      "features": "用户上传脸部或身材数据，AI生成专属的“新中式”春节穿搭方案，并提供直接购买链接。",
+      "target_users": "参加春节聚会/相亲的年轻女性",
+      "value_proposition": "解决用户想穿红色传统服饰又怕显土气的烦恼，提供个性化的审美解决方案。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "浙江省委原书记易炼红被查",
+    "scores": {
+      "novelty": 15,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 0,
+      "practical": 2,
+      "market": 0
+    },
+    "total_score": 39,
+    "grade": "普通",
+    "product_idea": {
+      "name": "时政新闻摘要助手",
+      "features": "自动抓取权威源新闻，去除情绪化表述，生成每日政务简报，支持关键词检索历史事件。",
+      "target_users": "投资者、公职人员、时事关注者",
+      "value_proposition": "在信息过载的时代，提供高效、客观、纯净的时政信息获取渠道。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "外交部回应高市涉华言论",
+    "scores": {
+      "novelty": 12,
+      "resonance": 10,
+      "viral": 8,
+      "entertainment": 0,
+      "practical": 2,
+      "market": 0
+    },
+    "total_score": 32,
+    "grade": "普通",
+    "product_idea": {
+      "name": "外交辞令解码器",
+      "features": "解析外交部发言人常用辞令的潜在含义和背景知识，以通俗语言或图文形式呈现。",
+      "target_users": "国际政治爱好者、大学生",
+      "value_proposition": "降低国际时事的认知门槛，帮助公众理解复杂的外交表态背后的逻辑。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "活塞黄蜂爆发大规模冲突",
+    "scores": {
+      "novelty": 8,
+      "resonance": 10,
+      "viral": 14,
+      "entertainment": 16,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "体育冲突高光集",
+      "features": "快速剪辑比赛中的冲突、对飙及逆转瞬间，生成具有冲击力的短视频片段，支持二次创作配乐。",
+      "target_users": "体育迷、短视频用户",
+      "value_proposition": "满足用户“吃瓜”心理和对竞技体育激烈对抗的感官刺激需求。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "薛珍麒38:75不敌叶建宁",
+    "scores": {
+      "novelty": 6,
+      "resonance": 5,
+      "viral": 5,
+      "entertainment": 8,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 28,
+    "grade": "普通",
+    "product_idea": {
+      "name": "垂直赛事数据通",
+      "features": "专注于冷门或小众赛事的实时数据推送、历史战绩查询及专业分析。",
+      "target_users": "深度体育迷、博彩爱好者",
+      "value_proposition": "填补主流媒体对小众赛事报道的空白，为硬核粉丝提供数据支持。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "00后不懂的春运执念有答案了",
+    "scores": {
+      "novelty": 16,
+      "resonance": 19,
+      "viral": 17,
+      "entertainment": 12,
+      "practical": 4,
+      "market": 5
+    },
+    "total_score": 73,
+    "grade": "良好",
+    "product_idea": {
+      "name": "归乡路故事采集车",
+      "features": "结合直播与播客，采访火车/汽车上的归乡人，记录不同年代春运故事，支持连线互动。",
+      "target_users": "游子、情感类内容受众",
+      "value_proposition": "挖掘春运背后的情感羁绊，代际沟通，提供春节特有的情绪宣泄出口。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "大连一海域4.0级地震系谣言",
+    "scores": {
+      "novelty": 8,
+      "resonance": 8,
+      "viral": 10,
+      "entertainment": 2,
+      "practical": 10,
+      "market": 2
+    },
+    "total_score": 40,
+    "grade": "普通",
+    "product_idea": {
+      "name": "谣言粉碎机小程序",
+      "features": "对接权威部门数据，用户输入关键词即可验证热点事件真伪，并提供举报入口。",
+      "target_users": "普通大众、中老年人",
+      "value_proposition": "在恐慌事件中快速提供确定性，遏制谣言传播，维护社会信任。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "骑士逆转掘金",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 12,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "绝杀时刻模拟器",
+      "features": "提取经典逆转时刻，开发成简单的H5投篮或战术执行游戏，还原最后几分钟的紧张感。",
+      "target_users": "NBA球迷、小游戏用户",
+      "value_proposition": "让用户从旁观者变成参与者，体验比赛逆转时的极度紧张与成就感。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "新春战袍福气穿搭",
+    "scores": {
+      "novelty": 11,
+      "resonance": 15,
+      "viral": 15,
+      "entertainment": 12,
+      "practical": 6,
+      "market": 9
+    },
+    "total_score": 68,
+    "grade": "良好",
+    "product_idea": {
+      "name": "DIY新春祈福卫衣定制",
+      "features": "提供盘扣、刺绣、祥云等中式元素模块化定制服务，用户可在线设计自己的“新年战袍”。",
+      "target_users": "追求个性的年轻人",
+      "value_proposition": "满足年轻人既想要喜庆氛围又拒绝撞衫的个性化需求。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "人形机器人创业者的未来狂想",
+    "scores": {
+      "novelty": 18,
+      "resonance": 12,
+      "viral": 14,
+      "entertainment": 15,
+      "practical": 6,
+      "market": 9
+    },
+    "total_score": 74,
+    "grade": "良好",
+    "product_idea": {
+      "name": "全息伴侣应用",
+      "features": "基于AI人形机器人技术，开发一款提供情感陪伴、日程管理、家庭监控的虚拟/实体结合服务。",
+      "target_users": "科技极客、独居青年",
+      "value_proposition": "从炫酷的技术概念落地为情感陪伴类产品，缓解现代社会的孤独感。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "带爸妈看到世界的更多面",
+    "scores": {
+      "novelty": 12,
+      "resonance": 19,
+      "viral": 16,
+      "entertainment": 10,
+      "practical": 7,
+      "market": 6
+    },
+    "total_score": 70,
+    "grade": "良好",
+    "product_idea": {
+      "name": "银发探索VR眼镜",
+      "features": "专为长辈设计的简易操作VR设备，内置名胜古迹、年轻生活场景（如Livehouse、电竞馆）体验。",
+      "target_users": "老年群体、子女",
+      "value_proposition": "帮助腿脚不便或认知固化的老年人低成本体验新事物，增加两代人聊天话题。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "浙江人的年味精髓是海鲜",
+    "scores": {
+      "novelty": 14,
+      "resonance": 16,
+      "viral": 17,
+      "entertainment": 13,
+      "practical": 5,
+      "market": 8
+    },
+    "total_score": 73,
+    "grade": "良好",
+    "product_idea": {
+      "name": "地道年味社区团购",
+      "features": "主打“原产地直发”，按地域特色划分年货专区（如浙江海鲜、川渝腊味），解决异地年货购买难题。",
+      "target_users": "异乡打工人、家庭主妇",
+      "value_proposition": "让身处异地的人能轻松买到正宗家乡年味，唤起乡愁共鸣。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "急急如律令",
+    "scores": {
+      "novelty": 15,
+      "resonance": 10,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 3,
+      "market": 5
+    },
+    "total_score": 62,
+    "grade": "良好",
+    "product_idea": {
+      "name": "赛博祈福转运符",
+      "features": "结合电磁学原理和道教符咒文化设计的数码配件（如防辐射贴、手机信号增强贴），包装设计极具国潮风。",
+      "target_users": "玄学爱好者、年轻网民",
+      "value_proposition": "将传统玄学心理暗示与现代科技产品结合，提供情绪安抚和社交谈资。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "赶在年前组了一个路灯局",
+    "scores": {
+      "novelty": 16,
+      "resonance": 17,
+      "viral": 18,
+      "entertainment": 15,
+      "practical": 6,
+      "market": 7
+    },
+    "total_score": 79,
+    "grade": "良好",
+    "product_idea": {
+      "name": "“微光”路灯野营套装",
+      "features": "包含便携式LED模拟路灯氛围灯、折叠桌椅，支持APP组队寻找附近的“路灯局”或安全夜跑路线。",
+      "target_users": "城市露营爱好者、夜游族",
+      "value_proposition": "挖掘“路灯下聚会”这一低成本、高氛围感的社交场景，提供标准化装备支持。"
+    }
+  }
+]
