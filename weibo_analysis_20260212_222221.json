@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "孙龙银牌",
+    "scores": {
+      "novelty": 5,
+      "resonance": 18,
+      "viral": 12,
+      "entertainment": 8,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 51,
+    "grade": "普通",
+    "product_idea": {
+      "name": "迷妹助威打榜小程序",
+      "features": "赛事实时比分追踪、粉丝积分打榜、偶像表情包生成、观赛弹幕互动。",
+      "target_users": "体育迷、明星粉丝、年轻用户群体。",
+      "value_proposition": "将观赛体验与粉丝经济结合，为用户提供沉浸式偶像应援体验。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "孙龙",
+    "scores": {
+      "novelty": 5,
+      "resonance": 17,
+      "viral": 12,
+      "entertainment": 7,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 49,
+    "grade": "普通",
+    "product_idea": {
+      "name": "运动员专属数字藏品",
+      "features": "比赛高光时刻NFT、运动员亲笔签名数字卡牌、稀有皮肤兑换。",
+      "target_users": "收藏爱好者、核心体育迷。",
+      "value_proposition": "利用区块链技术保存经典瞬间，满足粉丝的收藏与炫耀心理。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "我家的C位年货",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 18,
+      "entertainment": 10,
+      "practical": 6,
+      "market": 18
+    },
+    "total_score": 80,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "年种草C位甄选平台",
+      "features": "家庭年货大赏投票、地域特色年货地图、开箱视频流、智能礼单生成。",
+      "target_users": "家庭采购者、返乡人群、礼品消费者。",
+      "value_proposition": "通过社交分享发现最具话题感和品质的年货，解决春节送礼选择困难。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "任子威 黄大宪成功淘汰",
+    "scores": {
+      "novelty": 8,
+      "resonance": 15,
+      "viral": 14,
+      "entertainment": 10,
+      "practical": 1,
+      "market": 4
+    },
+    "total_score": 52,
+    "grade": "普通",
+    "product_idea": {
+      "name": "赛事剧情解说生成器",
+      "features": "AI自动抓取比赛冲突点、生成趣味解说文案、自动剪辑高光/争议视频。",
+      "target_users": "短视频博主、体育解说员、吃瓜群众。",
+      "value_proposition": "快速提取体育赛事中的戏剧性冲突，降低内容创作门槛。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "林孝埈无缘男子1000米半决赛",
+    "scores": {
+      "novelty": 5,
+      "resonance": 14,
+      "viral": 10,
+      "entertainment": 5,
+      "practical": 1,
+      "market": 4
+    },
+    "total_score": 39,
+    "grade": "普通",
+    "product_idea": {
+      "name": "体育赛事情绪安抚助手",
+      "features": "粉丝树洞社区、即时安慰语录生成、败者暖心视频剪辑。",
+      "target_users": "情绪激动的体育粉丝。",
+      "value_proposition": "提供情绪价值，缓解粉丝主队失利后的负面情绪。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "Deepseek被指变冷淡了",
+    "scores": {
+      "novelty": 16,
+      "resonance": 17,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 5,
+      "market": 8
+    },
+    "total_score": 75,
+    "grade": "良好",
+    "product_idea": {
+      "name": "AI性格捏造插件",
+      "features": "自定义AI回复语气（傲娇/冷漠/热情）、情绪温度调节滑块、角色扮演模式。",
+      "target_users": "AI重度用户、二次元群体、孤独人群。",
+      "value_proposition": "满足用户对AI情感交互的个性化需求，增加使用的趣味性。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "22岁主播每天焊妆两次确诊肺炎",
+    "scores": {
+      "novelty": 14,
+      "resonance": 10,
+      "viral": 13,
+      "entertainment": 5,
+      "practical": 7,
+      "market": 5
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "美妆从业者健康监测手环",
+      "features": "监测有害气体/粉尘浓度、环境通风提醒、肺部健康风险预警、职业病百科。",
+      "target_users": "美妆博主、美甲师、油漆工等粉尘/气味接触者。",
+      "value_proposition": "关注特定职业群体的呼吸健康，提供物理环境监测的保障。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "刘少昂1000米无缘决赛",
+    "scores": {
+      "novelty": 4,
+      "resonance": 11,
+      "viral": 8,
+      "entertainment": 5,
+      "practical": 1,
+      "market": 3
+    },
+    "total_score": 32,
+    "grade": "普通",
+    "product_idea": {
+      "name": "赛事遗憾回顾相册",
+      "features": "记录经典失利瞬间、图文复盘、励志语录生成。",
+      "target_users": "体育迷、需要励志的用户。",
+      "value_proposition": "将失败转化为励志内容，传递体育精神。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "8岁小孩姐徒步117公里回老家",
+    "scores": {
+      "novelty": 18,
+      "resonance": 12,
+      "viral": 15,
+      "entertainment": 8,
+      "practical": 6,
+      "market": 7
+    },
+    "total_score": 66,
+    "grade": "良好",
+    "product_idea": {
+      "name": "小小勇士亲子户外挑战赛",
+      "features": "分级徒步路线规划、勋章成就体系、家庭组队GPS定位、安全围栏服务。",
+      "target_users": "注重素质教育的家庭、户外爱好者。",
+      "value_proposition": "将极限挑战转化为安全的亲子教育产品，培养儿童毅力。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "短道速滑",
+    "scores": {
+      "novelty": 5,
+      "resonance": 14,
+      "viral": 10,
+      "entertainment": 8,
+      "practical": 3,
+      "market": 9
+    },
+    "total_score": 49,
+    "grade": "普通",
+    "product_idea": {
+      "name": "沉浸式滑冰模拟训练游戏",
+      "features": "体感操控模拟过弯、战术策略复盘、运动员虚拟代言。",
+      "target_users": "滑冰爱好者、游戏玩家。",
+      "value_proposition": "通过低成本的游戏体验普及冰雪运动技巧与规则。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "虞书欣衣帽间",
+    "scores": {
+      "novelty": 10,
+      "resonance": 15,
+      "viral": 14,
+      "entertainment": 12,
+      "practical": 5,
+      "market": 16
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "明星衣橱AI同款导购",
+      "features": "视频画面自动识别同款衣物、全网比价、虚拟试衣、搭配一键购买。",
+      "target_users": "追星女孩、时尚穿搭爱好者。",
+      "value_proposition": "连接娱乐内容与电商消费，一键get明星同款生活方式。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "10岁女生校内晕倒称遭多名男生殴打",
+    "scores": {
+      "novelty": 2,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 0,
+      "practical": 8,
+      "market": 2
+    },
+    "total_score": 49,
+    "grade": "普通",
+    "product_idea": {
+      "name": "校园安全守护SOS徽章",
+      "features": "一键无声报警、录音取证、GPS定位追踪、联动家长与校警。",
+      "target_users": "小学生、中学生家长。",
+      "value_proposition": "通过科技手段为未成年人在校园内的安全提供最后一道防线。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "律师解读杨幂新增60件告黑案",
+    "scores": {
+      "novelty": 8,
+      "resonance": 14,
+      "viral": 13,
+      "entertainment": 7,
+      "practical": 6,
+      "market": 7
+    },
+    "total_score": 55,
+    "grade": "普通",
+    "product_idea": {
+      "name": "个人名誉权法律顾问App",
+      "features": "网络侵权证据自动抓取存证、一键律师函生成、法律咨询服务。",
+      "target_users": "公众人物、网络暴力受害者。",
+      "value_proposition": "降低普通人维护名誉权的门槛，提供便捷的法律自助工具。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "心疼范可新",
+    "scores": {
+      "novelty": 5,
+      "resonance": 16,
+      "viral": 12,
+      "entertainment": 5,
+      "practical": 1,
+      "market": 4
+    },
+    "total_score": 43,
+    "grade": "普通",
+    "product_idea": {
+      "name": "老将退役纪念众筹平台",
+      "features": "运动员职业生涯回顾、定制纪念周边众筹、粉丝留言聚合。",
+      "target_users": "体育迷、退役运动员。",
+      "value_proposition": "为退役运动员提供转型资金支持，为粉丝提供情感寄托载体。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "冬奥短道速滑男子1000米",
+    "scores": {
+      "novelty": 5,
+      "resonance": 13,
+      "viral": 10,
+      "entertainment": 8,
+      "practical": 3,
+      "market": 8
+    },
+    "total_score": 47,
+    "grade": "普通",
+    "product_idea": {
+      "name": "多视角观赛VR应用",
+      "features": "运动员第一视角回放、裁判视角、战术分析视角切换。",
+      "target_users": "专业观众、VR用户。",
+      "value_proposition": "提供超越传统转播的沉浸式观赛体验。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "六国联名反对欧盟加大对华限制",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 2,
+      "practical": 5,
+      "market": 6
+    },
+    "total_score": 45,
+    "grade": "普通",
+    "product_idea": {
+      "name": "国际经贸政策早知道",
+      "features": "政策变动实时推送、对企业影响分析报告、出海合规建议。",
+      "target_users": "外贸从业者、跨境商家。",
+      "value_proposition": "帮助企业快速响应国际贸易环境变化，规避风险。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "冬奥短道速滑女子500米",
+    "scores": {
+      "novelty": 5,
+      "resonance": 13,
+      "viral": 10,
+      "entertainment": 8,
+      "practical": 3,
+      "market": 8
+    },
+    "total_score": 47,
+    "grade": "普通",
+    "product_idea": {
+      "name": "女子力量激励社区",
+      "features": "女性运动员专访、运动课程推荐、女性用户打卡挑战。",
+      "target_users": "女性运动爱好者。",
+      "value_proposition": "弘扬女性体育精神，激励女性参与运动。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "孙龙激动落泪",
+    "scores": {
+      "novelty": 6,
+      "resonance": 14,
+      "viral": 11,
+      "entertainment": 7,
+      "practical": 1,
+      "market": 4
+    },
+    "total_score": 43,
+    "grade": "普通",
+    "product_idea": {
+      "name": "表情包工坊",
+      "features": "自动截取视频动图、添加表情文字、一键分享至社交平台。",
+      "target_users": "追星族、社交媒体用户。",
+      "value_proposition": "捕捉偶像真实情感瞬间，丰富社交聊天素材。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "刘少昂好稳",
+    "scores": {
+      "novelty": 6,
+      "resonance": 11,
+      "viral": 9,
+      "entertainment": 6,
+      "practical": 1,
+      "market": 4
+    },
+    "total_score": 37,
+    "grade": "普通",
+    "product_idea": {
+      "name": "体育神句弹幕生成器",
+      "features": "根据比赛情境自动生成赞美/吐槽弹幕、发送至大屏幕。",
+      "target_users": "观赛用户。",
+      "value_proposition": "降低观众参与互动的门槛，增强观赛氛围。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "母亲花6万为智力残障儿子娶外籍妻子",
+    "scores": {
+      "novelty": 17,
+      "resonance": 18,
+      "viral": 19,
+      "entertainment": 3,
+      "practical": 4,
+      "market": 4
+    },
+    "total_score": 65,
+    "grade": "良好",
+    "product_idea": {
+      "name": "特殊家庭婚姻法律与社工咨询平台",
+      "features": "婚姻风险法律评估、跨国婚姻合规性审查、特殊家庭帮扶资源对接。",
+      "target_users": "有残障子女的家庭、涉外婚姻需求者。",
+      "value_proposition": "为边缘化家庭提供合规的婚恋咨询与社会保障指导，避免法律风险。"
+    }
+  }
+]

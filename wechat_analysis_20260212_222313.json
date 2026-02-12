@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "习近平总书记同我们共赶新春市集",
+    "scores": {
+      "novelty": 10,
+      "resonance": 18,
+      "viral": 15,
+      "entertainment": 5,
+      "practical": 5,
+      "market": 2
+    },
+    "total_score": 55.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "红色文化云上博览馆",
+      "features": "通过VR/AR技术还原重要历史场景与市集文化，提供沉浸式党史学习体验。",
+      "target_users": "学生群体、党建工作者、对红色文化感兴趣的普通大众。",
+      "value_proposition": "打破时空限制，让红色教育更加生动、直观和具有互动性。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "冬奥会短道速滑男子1000米 孙龙亚军！",
+    "scores": {
+      "novelty": 5,
+      "resonance": 16,
+      "viral": 12,
+      "entertainment": 15,
+      "practical": 3,
+      "market": 8
+    },
+    "total_score": 59.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "运动员表现AI分析师",
+      "features": "利用AI视频分析技术捕捉运动瞬间，为业余爱好者提供姿态纠正与战术分析。",
+      "target_users": "速滑爱好者、体育教练、专业运动员。",
+      "value_proposition": "将顶尖运动员的技术数据化，帮助普通用户提升专业运动技能。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "贵州小伙骑行1700公里跨4省返乡",
+    "scores": {
+      "novelty": 12,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 12,
+      "practical": 6,
+      "market": 10
+    },
+    "total_score": 77.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "硬核返乡路书App",
+      "features": "专为摩托车/自行车返乡设计，提供补给点导航、车友互助社群、沿途天气预警及路况分享。",
+      "target_users": "摩托返乡大军、长途骑行爱好者、穷游背包客。",
+      "value_proposition": "解决长途返乡中的信息不对称问题，为返乡之旅提供安全保障与社交乐趣。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "震撼“合体”！复兴号跑出春运“加速度”",
+    "scores": {
+      "novelty": 12,
+      "resonance": 10,
+      "viral": 10,
+      "entertainment": 5,
+      "practical": 8,
+      "market": 5
+    },
+    "total_score": 50.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "高铁模拟驾驶体验舱",
+      "features": "高仿真高铁驾驶模拟器，提供复兴号等车型的驾驶体验与线路模拟。",
+      "target_users": "火车迷、亲子家庭、科技馆游客。",
+      "value_proposition": "满足大众对大国重器的好奇心，提供沉浸式操控体验。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "女子将整羊放车顶从宁夏拉回黑龙江",
+    "scores": {
+      "novelty": 18,
+      "resonance": 15,
+      "viral": 19,
+      "entertainment": 18,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 77.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "乡土特产物流助手",
+      "features": "针对大件、异形（如整羊、整箱酒）返乡特产的物流匹配与代打包服务。",
+      "target_users": "异地务工人员、有年货寄递需求的人群。",
+      "value_proposition": "“让爱轻装上阵”，解决返乡路上携带大件土特产的尴尬与不便。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "宁忠岩填补中国冬奥空白点",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 10,
+      "entertainment": 8,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 49.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "冠军同款装备推荐",
+      "features": "基于赛事数据快速聚合运动员使用的运动装备、护具及训练周边。",
+      "target_users": "冰雪运动初学者、粉丝群体。",
+      "value_proposition": "借助赛事热点，为大众提供专业、可信赖的运动装备选购指南。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "土耳其议会爆发激烈肢体冲突",
+    "scores": {
+      "novelty": 10,
+      "resonance": 8,
+      "viral": 15,
+      "entertainment": 16,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 53.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球局势可视化沙盘",
+      "features": "以3D沙盘形式展示国际冲突事件的时间线、地缘关系与各方势力分布。",
+      "target_users": "时政爱好者、国际关系专业学生、研究人员。",
+      "value_proposition": "将复杂的国际新闻转化为直观的视觉图谱，降低信息理解门槛。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "弟弟过年见姐夫第一面愣了：没想到！",
+    "scores": {
+      "novelty": 14,
+      "resonance": 17,
+      "viral": 19,
+      "entertainment": 18,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 73.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "家庭聚会搞怪相机",
+      "features": "AR贴纸与特效滤镜，专门针对家庭聚会、相亲见面的尴尬场景进行趣味化处理。",
+      "target_users": "年轻群体、家庭用户、短视频创作者。",
+      "value_proposition": "用幽默化解家庭聚会中的社死瞬间，增强节日娱乐氛围。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "欧洲对美国火力全开：秩序正遭摧毁",
+    "scores": {
+      "novelty": 10,
+      "resonance": 10,
+      "viral": 12,
+      "entertainment": 5,
+      "practical": 5,
+      "market": 3
+    },
+    "total_score": 45.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "观点聚合辩论社区",
+      "features": "针对国际热点话题，自动聚合正反方观点，并提供逻辑结构化展示。",
+      "target_users": "新闻关注者、辩论爱好者。",
+      "value_proposition": "跳出信息茧房，帮助用户看到同一事件的多元视角。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "12家第三方火车票网络销售平台被约谈",
+    "scores": {
+      "novelty": 5,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 2,
+      "practical": 8,
+      "market": 5
+    },
+    "total_score": 42.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "购票避坑助手小程序",
+      "features": "识别火车票购票插件与诱导消费陷阱，提供官方直连购票通道及费用比对。",
+      "target_users": "不熟悉智能手机的中老年用户、返乡务工人员。",
+      "value_proposition": "净化购票环境，确保用户以最低成本买到官方合规车票。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "新交付F-35没雷达，用配重块代替？",
+    "scores": {
+      "novelty": 16,
+      "resonance": 8,
+      "viral": 12,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 51.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "硬核军武盲盒",
+      "features": "包含F-35等著名军事装备的拼装模型或“缺陷版”趣味手办。",
+      "target_users": "军迷、模型收藏者。",
+      "value_proposition": "结合热点新闻进行军事科普，满足受众的收藏与猎奇心理。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "“恭喜！都知道你把李婷娶回家了”",
+    "scores": {
+      "novelty": 13,
+      "resonance": 12,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 61.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "婚俗话题社交卡牌",
+      "features": "基于各地彩礼、婚礼奇葩经历话题的聚会卡牌游戏，引发讨论与吐槽。",
+      "target_users": "适婚青年、聚会玩家。",
+      "value_proposition": "以游戏的方式解构婚恋压力，提供情绪宣泄出口与社交话题。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "韩国IT巨头Kakao与谷歌达成合作",
+    "scores": {
+      "novelty": 5,
+      "resonance": 3,
+      "viral": 5,
+      "entertainment": 2,
+      "practical": 5,
+      "market": 8
+    },
+    "total_score": 28.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "跨境出海情报局",
+      "features": "监控并分析韩国互联网巨头动态，为中国出海企业提供市场准入参考。",
+      "target_users": "跨境电商从业者、互联网产品经理。",
+      "value_proposition": "提供一手海外互联网生态情报，助力企业决策。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "中国购买委内瑞拉石油？外交部回应",
+    "scores": {
+      "novelty": 5,
+      "resonance": 6,
+      "viral": 8,
+      "entertainment": 2,
+      "practical": 5,
+      "market": 4
+    },
+    "total_score": 30.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "能源行情速递",
+      "features": "解读国际油价波动与进口政策，提供相关行业的投资与业务参考。",
+      "target_users": "能源行业从业者、投资者。",
+      "value_proposition": "深度剖析政治新闻背后的经济逻辑，提供行业垂直资讯。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "重大突破！我国攻克核光钟核心瓶颈",
+    "scores": {
+      "novelty": 16,
+      "resonance": 10,
+      "viral": 8,
+      "entertainment": 3,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 41.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "硬核科普胶囊",
+      "features": "用60秒短视频通俗讲解“核光钟”等前沿科技的概念及应用前景。",
+      "target_users": "泛科普受众、学生。",
+      "value_proposition": "让高冷的黑科技变得通俗易懂，提升公众的科学素养。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "冬奥会短道速滑判罚申诉需现场缴费？",
+    "scores": {
+      "novelty": 14,
+      "resonance": 12,
+      "viral": 14,
+      "entertainment": 10,
+      "practical": 4,
+      "market": 3
+    },
+    "total_score": 57.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "规则吐槽弹幕Bot",
+      "features": "在体育赛事直播中，自动识别争议判罚并生成梗图或吐槽弹幕。",
+      "target_users": "体育观众、网友。",
+      "value_proposition": "增强观赛的互动性和趣味性，释放观众的情绪价值。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "两艘美海军舰艇在南美洲附近相撞",
+    "scores": {
+      "novelty": 12,
+      "resonance": 8,
+      "viral": 12,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 46.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "突发新闻警报器",
+      "features": "针对全球突发事件提供极简推送，附带背景知识卡片。",
+      "target_users": "新闻极客、投资者。",
+      "value_proposition": "在最短时间内获取全球突发动态及其潜在影响。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "被骗104万后 85岁赵奶奶投身反诈",
+    "scores": {
+      "novelty": 10,
+      "resonance": 18,
+      "viral": 18,
+      "entertainment": 5,
+      "practical": 9,
+      "market": 6
+    },
+    "total_score": 66.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "银发反诈宣传队",
+      "features": "由受骗老人现身说法的社区反诈课程及模拟诈骗电话体验工具。",
+      "target_users": "中老年群体、社区街道。",
+      "value_proposition": "用同龄人的真实案例提高警惕性，比传统说教更有效。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "i茅台月活破1500万，市场化改革见效",
+    "scores": {
+      "novelty": 5,
+      "resonance": 8,
+      "viral": 5,
+      "entertainment": 2,
+      "practical": 6,
+      "market": 10
+    },
+    "total_score": 36.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "高端消费品抢购助手",
+      "features": "整合各品牌限量款产品的发售信息，提供一键预约与抢购提醒。",
+      "target_users": "高端白酒收藏者、礼品市场人群。",
+      "value_proposition": "解决信息分散问题，提高高端消费品的抢购成功率。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "人民币升破6.9，汇率创年内新高",
+    "scores": {
+      "novelty": 5,
+      "resonance": 6,
+      "viral": 5,
+      "entertainment": 1,
+      "practical": 8,
+      "market": 8
+    },
+    "total_score": 36.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "汇率触发提醒器",
+      "features": "用户设定目标汇率，到达即自动提醒，支持换汇计算与历史趋势分析。",
+      "target_users": "海淘用户、留学生、外贸从业者。",
+      "value_proposition": "帮助用户在汇率波动中捕捉最佳换汇时机，节省成本。"
+    }
+  }
+]
