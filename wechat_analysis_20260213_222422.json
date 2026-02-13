@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "蒸蒸日上的年景，欣欣向荣的家国",
+    "scores": {
+      "novelty": 5,
+      "resonance": 10,
+      "viral": 5,
+      "entertainment": 5,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 32,
+    "grade": "普通",
+    "product_idea": {
+      "name": "家国荣耀·数字烟花",
+      "features": "基于地理位置的AR烟花秀，用户可燃放定制烟花，解锁家国成就勋章。",
+      "target_users": "春节期间寻求节日氛围的年轻用户",
+      "value_proposition": "将宏大的家国叙事转化为个体可参与的数字庆典，增强节日自豪感。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "国台办：抗拒统一的图谋都是痴心妄想",
+    "scores": {
+      "novelty": 5,
+      "resonance": 15,
+      "viral": 5,
+      "entertainment": 0,
+      "practical": 5,
+      "market": 0
+    },
+    "total_score": 30,
+    "grade": "普通",
+    "product_idea": {
+      "name": "时事通·热点聚合器",
+      "features": "专注于时政新闻的深度解析与_timeline梳理，去除情绪化评论，提供背景知识库。",
+      "target_users": "关注时政的高知群体",
+      "value_proposition": "在信息喧嚣中提供理性、客观的深度分析，满足用户对权威信息的整理需求。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "央行确定21家系统重要性银行",
+    "scores": {
+      "novelty": 5,
+      "resonance": 5,
+      "viral": 2,
+      "entertainment": 0,
+      "practical": 8,
+      "market": 5
+    },
+    "total_score": 25,
+    "grade": "普通",
+    "product_idea": {
+      "name": "财商小白·银行稳定性透视镜",
+      "features": "可视化展示银行系统重要性评级，辅助用户进行储蓄和理财决策。",
+      "target_users": "有存款理财需求的保守型投资者",
+      "value_proposition": "帮助普通用户理解金融政策，降低选择银行的信息不对称风险。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "“流动中国”背后的硬实力",
+    "scores": {
+      "novelty": 10,
+      "resonance": 15,
+      "viral": 5,
+      "entertainment": 5,
+      "practical": 6,
+      "market": 4
+    },
+    "total_score": 45,
+    "grade": "普通",
+    "product_idea": {
+      "name": "春运迁徙·大数据可视化屏保",
+      "features": "实时展示全国交通枢纽客流数据及基础设施建设成就的动态屏保。",
+      "target_users": "交通爱好者、出差人群",
+      "value_proposition": "将枯燥的交通数据转化为视觉震撼的流动之美，展示国家基建实力。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "王毅在慕尼黑中方驻地会见鲁比奥",
+    "scores": {
+      "novelty": 5,
+      "resonance": 10,
+      "viral": 5,
+      "entertainment": 0,
+      "practical": 5,
+      "market": 0
+    },
+    "total_score": 25,
+    "grade": "普通",
+    "product_idea": {
+      "name": "外交风云·人物关系图谱",
+      "features": "动态更新的国际外交人物关系库，追踪会见记录与历史渊源。",
+      "target_users": "国际关系研究者、时事关注者",
+      "value_proposition": "梳理复杂的外交关系网，提供清晰的背景参考。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "国际奥委会主席考文垂向中国人民拜年",
+    "scores": {
+      "novelty": 5,
+      "resonance": 15,
+      "viral": 10,
+      "entertainment": 5,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 39,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球贺岁·名人祝福合成器",
+      "features": "利用AI技术让用户与各国名人/官方发言人合成拜年视频。",
+      "target_users": "追求新鲜感的社交媒体用户",
+      "value_proposition": "满足用户与全球热点人物互动的娱乐心理，制造社交谈资。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "2026卫视春晚：宋小宝换赛道了",
+    "scores": {
+      "novelty": 12,
+      "resonance": 15,
+      "viral": 15,
+      "entertainment": 16,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 68,
+    "grade": "良好",
+    "product_idea": {
+      "name": "艺设·明星转型预测与竞猜",
+      "features": "基于艺人过往数据和话题热度，让用户竞猜明星的跨界转型方向与成败。",
+      "target_users": "综艺观众、娱乐粉丝",
+      "value_proposition": "将娱乐八卦转化为互动游戏，增加观众对春晚及演艺圈的关注粘性。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "中戏掀反腐风暴！两月内3人主动投案",
+    "scores": {
+      "novelty": 15,
+      "resonance": 18,
+      "viral": 18,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 0
+    },
+    "total_score": 63,
+    "grade": "良好",
+    "product_idea": {
+      "name": "透明考学·艺术院校查查",
+      "features": "提供各大艺术院校合规历史、导师评价与招生透明度指数查询。",
+      "target_users": "艺考生及其家长",
+      "value_proposition": "在行业内公信力受损时，为考生家庭提供择校避坑的信息透明化工具。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "刘诗雯当选广州市乒协新任会长",
+    "scores": {
+      "novelty": 8,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 5,
+      "practical": 5,
+      "market": 6
+    },
+    "total_score": 46,
+    "grade": "普通",
+    "product_idea": {
+      "name": "星友·名人体育社交",
+      "features": "由知名退役运动员牵头的球友约战与技能指导平台。",
+      "target_users": "乒乓球爱好者、业余球友",
+      "value_proposition": "利用名人效应带动业余体育交流，提升运动社群的活跃度与专业度。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "商务部回应荷公布安世半导体案裁决",
+    "scores": {
+      "novelty": 5,
+      "resonance": 10,
+      "viral": 5,
+      "entertainment": 0,
+      "practical": 6,
+      "market": 2
+    },
+    "total_score": 28,
+    "grade": "普通",
+    "product_idea": {
+      "name": "芯事·半导体产业情报站",
+      "features": "追踪全球半导体企业并购、制裁与政策变化的垂直资讯应用。",
+      "target_users": "电子行业从业者、科技投资者",
+      "value_proposition": "提供精准的产业链动态，帮助从业者在复杂的国际环境中做决策。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "今日辟谣（2026年2月13日）",
+    "scores": {
+      "novelty": 5,
+      "resonance": 10,
+      "viral": 10,
+      "entertainment": 5,
+      "practical": 9,
+      "market": 3
+    },
+    "total_score": 42,
+    "grade": "普通",
+    "product_idea": {
+      "name": "真探·AI谣言粉碎机",
+      "features": "用户转发疑似谣言文章至应用，AI自动检索权威信源并生成辟谣报告。",
+      "target_users": "中老年网民、微信群管理者",
+      "value_proposition": "解决家族群谣言困扰，利用AI技术快速鉴别信息真伪。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "31省份消费排名出炉：哪个地方最能花钱",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 8,
+      "practical": 7,
+      "market": 6
+    },
+    "total_score": 59,
+    "grade": "普通",
+    "product_idea": {
+      "name": "财气·地域消费大PK",
+      "features": "基于消费数据的匿名地域对比与消费水平测试小游戏。",
+      "target_users": "关注生活品质的年轻人",
+      "value_proposition": "满足用户的攀比好奇心与地域归属感，辅助制定个人消费计划。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "妻子摔碎2400元马年茅台 当场愣在原地",
+    "scores": {
+      "novelty": 12,
+      "resonance": 18,
+      "viral": 19,
+      "entertainment": 18,
+      "practical": 6,
+      "market": 8
+    },
+    "total_score": 81,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "碎碎安·贵重物品智能管理",
+      "features": "家财盘点与估值系统，附带易碎品防损预警与高价值物品保险推荐。",
+      "target_users": "收藏爱好者、中产家庭",
+      "value_proposition": "通过数字化管理家庭隐形资产，降低因意外损坏导致的心理与经济损失。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "史上最贵车祸！半挂车追尾1亿元直升机",
+    "scores": {
+      "novelty": 18,
+      "resonance": 18,
+      "viral": 20,
+      "entertainment": 19,
+      "practical": 4,
+      "market": 4
+    },
+    "total_score": 83,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "昂贵现场·高端事故分析",
+      "features": "针对豪车、私人飞机等高端设备事故的3D复现与责任判定科普。",
+      "target_users": "汽车爱好者、保险理赔员",
+      "value_proposition": "满足猎奇心理，同时普及高端特种设备的安全知识与保险常识。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "节前某行业爆单：加价近100%也约不上",
+    "scores": {
+      "novelty": 10,
+      "resonance": 15,
+      "viral": 15,
+      "entertainment": 5,
+      "practical": 8,
+      "market": 12
+    },
+    "total_score": 65,
+    "grade": "良好",
+    "product_idea": {
+      "name": "抢手单·节日服务溢价行情榜",
+      "features": "实时监测家政、维修、美业等节日紧缺服务的价格波动与预约排队。",
+      "target_users": "家政用户、急需维修的人群",
+      "value_proposition": "解决节日服务供需不平衡痛点，帮助用户合理安排时间与预算。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "公安部部署严打涉烟犯罪",
+    "scores": {
+      "novelty": 5,
+      "resonance": 8,
+      "viral": 5,
+      "entertainment": 2,
+      "practical": 6,
+      "market": 2
+    },
+    "total_score": 28,
+    "grade": "普通",
+    "product_idea": {
+      "name": "正品查·烟草防伪溯源",
+      "features": "扫描商品条码识别烟草真伪，并提供举报非法售卖的直通渠道。",
+      "target_users": "烟草零售商、消费者",
+      "value_proposition": "保障消费者权益，维护市场秩序，提供便捷的真伪鉴别服务。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "海关查获老鼠肉干 旅客：用来吃的",
+    "scores": {
+      "novelty": 16,
+      "resonance": 12,
+      "viral": 18,
+      "entertainment": 14,
+      "practical": 7,
+      "market": 5
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "出入境·违禁品识图宝典",
+      "features": "通过拍照识别常见动植物制品，判断是否属于出入境违禁品及风险等级。",
+      "target_users": "出境游客、海外代购",
+      "value_proposition": "避免因无知触犯法律，提供即时的违禁品自查与替代建议。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "日本正在迈出“危险的三步”",
+    "scores": {
+      "novelty": 8,
+      "resonance": 15,
+      "viral": 12,
+      "entertainment": 5,
+      "practical": 5,
+      "market": 2
+    },
+    "total_score": 47,
+    "grade": "普通",
+    "product_idea": {
+      "name": "地缘·国家安全解读",
+      "features": "深入解读周边安全局势与战略动态的专栏应用。",
+      "target_users": "军事迷、时政关注者",
+      "value_proposition": "提供专业视角的地缘政治分析，满足用户对国家安全议题的深度认知需求。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "女子打顺风车打到大货车？当事人回应",
+    "scores": {
+      "novelty": 14,
+      "resonance": 16,
+      "viral": 18,
+      "entertainment": 17,
+      "practical": 6,
+      "market": 8
+    },
+    "total_score": 79,
+    "grade": "良好",
+    "product_idea": {
+      "name": "搭对·顺风车车型严选",
+      "features": "顺风车服务中增加车型过滤与个性化匹配功能，支持“仅接受轿车”等选项。",
+      "target_users": "对乘坐体验敏感的顺风车用户",
+      "value_proposition": "解决顺风车车型参差不齐的痛点，提供更精准、更有安全感的出行匹配服务。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "保姆连偷老人7块金条：是送我的",
+    "scores": {
+      "novelty": 15,
+      "resonance": 16,
+      "viral": 19,
+      "entertainment": 16,
+      "practical": 7,
+      "market": 8
+    },
+    "total_score": 81,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "孝信·家庭远程看护风控",
+      "features": "通过AI分析保姆言行异常（如频繁索要财物、推销产品）并预警。",
+      "target_users": "雇佣家政的子女、独居老人家庭",
+      "value_proposition": "填补家政行业监管空白，利用技术手段保障老人财产与精神安全。"
+    }
+  }
+]

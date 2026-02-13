@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "王毅与美国务卿鲁比奥会谈",
+    "scores": {
+      "novelty": 12,
+      "resonance": 18,
+      "viral": 15,
+      "entertainment": 5,
+      "practical": 5,
+      "market": 2
+    },
+    "total_score": 57,
+    "grade": "普通",
+    "product_idea": {
+      "name": "地缘热点通",
+      "features": "提供专业的国际关系新闻解读与实时资讯简报功能。",
+      "target_users": "关注时政新闻的用户",
+      "value_proposition": "第一时间获取权威的国际局势深度分析，满足资讯焦虑。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "抖音非遗联欢会好戏登场了",
+    "scores": {
+      "novelty": 15,
+      "resonance": 16,
+      "viral": 17,
+      "entertainment": 18,
+      "practical": 6,
+      "market": 8
+    },
+    "total_score": 80,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "云上文博AR滤镜",
+      "features": "扫描传统工艺品或特定场景生成非遗文化AR动态展示及讲解。",
+      "target_users": "国潮爱好者、年轻用户群体",
+      "value_proposition": "将传统非遗以数字化趣味方式呈现，增强文化自信与传播。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "一起了解火车票“捡漏”技巧",
+    "scores": {
+      "novelty": 5,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 5,
+      "practical": 9,
+      "market": 4
+    },
+    "total_score": 57,
+    "grade": "普通",
+    "product_idea": {
+      "name": "智行捡漏助手",
+      "features": "基于大数据监控余票波动，自动提示候补成功率及最佳捡漏时机。",
+      "target_users": "春节返乡及日常出行人群",
+      "value_proposition": "解决春运及节假日一票难求的痛点，提高出行成功率。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "全国年味巡游开始啦",
+    "scores": {
+      "novelty": 8,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 16,
+      "practical": 3,
+      "market": 5
+    },
+    "total_score": 69,
+    "grade": "良好",
+    "product_idea": {
+      "name": "年味地图",
+      "features": "基于LBS的各地年俗活动打卡与直播聚合服务。",
+      "target_users": "旅游爱好者、本地生活用户",
+      "value_proposition": "发现身边的独特年俗，不错过任何一场热闹。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "南北方年夜饭谁才是年味顶流",
+    "scores": {
+      "novelty": 5,
+      "resonance": 20,
+      "viral": 19,
+      "entertainment": 15,
+      "practical": 6,
+      "market": 7
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "南北年夜饭对对碰",
+      "features": "南北年夜饭菜谱PK与线上投票互动小程序。",
+      "target_users": "家庭主妇、美食爱好者",
+      "价值主张": "通过趣味PK激发用户参与，促进预制菜及调味品销售。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "“中国风”吹到了米兰冬奥会",
+    "scores": {
+      "novelty": 16,
+      "resonance": 17,
+      "viral": 17,
+      "entertainment": 14,
+      "practical": 3,
+      "market": 8
+    },
+    "total_score": 75,
+    "grade": "良好",
+    "product_idea": {
+      "name": "国潮运动定制",
+      "features": "结合中国元素的个性化运动装备定制平台。",
+      "target_users": "冰雪运动爱好者、时尚人群",
+      "value_proposition": "满足用户在国际赛事期间展示民族自豪感与个性化审美的需求。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "今年的班就上到这里了",
+    "scores": {
+      "novelty": 8,
+      "resonance": 20,
+      "viral": 19,
+      "entertainment": 12,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 64,
+    "grade": "良好",
+    "product_idea": {
+      "name": "职场关机仪式生成器",
+      "features": "生成趣味化的“下班/放假”告别海报，附带情绪宣泄文案。",
+      "target_users": "职场打工人",
+      "value_proposition": "提供职场情绪价值，通过仪式感增强用户粘性与分享欲。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "当灯光师回村过年be like",
+    "scores": {
+      "novelty": 18,
+      "resonance": 16,
+      "viral": 19,
+      "entertainment": 19,
+      "practical": 4,
+      "market": 6
+    },
+    "total_score": 82,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "乡村场景氛围APP",
+      "features": "低成本利用手机灯光和家居物品打造专业级光影效果的教程工具。",
+      "target_users": "回村青年、短视频创作者",
+      "value_proposition": "利用反差感，帮助用户在乡村环境下拍出高质量大片。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "外交部回应日本扣押中国渔船",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 2,
+      "practical": 2,
+      "market": 1
+    },
+    "total_score": 43,
+    "grade": "普通",
+    "product_idea": {
+      "name": "时事简报Bot",
+      "features": "自动抓取并总结外交热点新闻，生成极简日报。",
+      "target_users": "关心国家大事的用户",
+      "value_proposition": "节省阅读时间，快速了解核心外交动态。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "第一届年菜选美大赛有序开赛",
+    "scores": {
+      "novelty": 14,
+      "resonance": 15,
+      "viral": 16,
+      "entertainment": 16,
+      "practical": 7,
+      "market": 9
+    },
+    "total_score": 77,
+    "grade": "良好",
+    "product_idea": {
+      "name": "家乡年菜榜单",
+      "features": "用户上传家乡年夜饭菜品进行评选，并关联预制菜购买链接。",
+      "target_users": "美食家、预制菜消费者",
+      "value_proposition": "挖掘地方特色美食，为餐饮品牌提供C端口碑发酵渠道。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "春节迷上在抖音看视频播客了",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 13,
+      "entertainment": 15,
+      "practical": 6,
+      "market": 7
+    },
+    "total_score": 67,
+    "grade": "良好",
+    "product_idea": {
+      "name": "伴随式短视频流",
+      "features": "精选播客类音频内容，配以放松画面的视频流播放功能。",
+      "target_users": "春节期间需要放松kill time的用户",
+      "value_proposition": "提供轻度娱乐内容，填补春节期间的碎片化时间。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "科目二要增加考试项目系谣言",
+    "scores": {
+      "novelty": 5,
+      "resonance": 15,
+      "viral": 16,
+      "entertainment": 5,
+      "practical": 9,
+      "market": 4
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "驾考辟谣宝典",
+      "features": "聚合官方驾考政策发布，提供真题库与模拟考试功能。",
+      "target_users": "驾校学员",
+      "value_proposition": "消除信息不对称，提供权威、安心的驾考备考服务。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "认真生活的人本就闪亮",
+    "scores": {
+      "novelty": 5,
+      "resonance": 18,
+      "viral": 14,
+      "entertainment": 8,
+      "practical": 4,
+      "market": 5
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "闪光日记",
+      "features": "鼓励用户记录并分享生活中微小成就的匿名社区。",
+      "target_users": "寻求情感支持与正能量的用户",
+      "value_proposition": "通过正向反馈激励用户热爱生活，打造温暖社区氛围。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "春晚好友味新手小白也能做年夜饭",
+    "scores": {
+      "novelty": 8,
+      "resonance": 15,
+      "viral": 14,
+      "entertainment": 12,
+      "practical": 9,
+      "market": 9
+    },
+    "total_score": 67,
+    "grade": "良好",
+    "product_idea": {
+      "name": "小白年夜饭预制菜包",
+      "features": "提供半成品年夜饭套餐，附带保姆级视频烹饪教程。",
+      "target_users": "做饭新手、年轻家庭",
+      "value_proposition": "降低做饭门槛，让新手也能轻松搞定一顿体面的年夜饭。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "过年在家当秀场主理人",
+    "scores": {
+      "novelty": 16,
+      "resonance": 14,
+      "viral": 16,
+      "entertainment": 17,
+      "practical": 5,
+      "market": 8
+    },
+    "total_score": 76,
+    "grade": "良好",
+    "product_idea": {
+      "name": "家庭秀场直播工具",
+      "features": "提供家庭场景的美颜滤镜、一键字幕与多机位切换功能。",
+      "target_users": "喜欢分享家庭生活的用户",
+      "value_proposition": "将家庭聚会转化为可分享的视听盛宴，增强互动趣味。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "日本释放被捕的中国渔船船长",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 2,
+      "practical": 2,
+      "market": 1
+    },
+    "total_score": 46,
+    "grade": "普通",
+    "product_idea": {
+      "name": "突发事件速递",
+      "features": "聚合社会热点事件的进展跟踪时间轴。",
+      "target_users": "关注社会动态的用户",
+      "value_proposition": "清晰呈现事件脉络，满足公众知情权。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "春运绿皮火车翻红",
+    "scores": {
+      "novelty": 15,
+      "resonance": 16,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 5,
+      "market": 6
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "慢旅社交",
+      "features": "专门针对绿皮火车的拼车/拼桌社交与旅途故事分享平台。",
+      "target_users": "穷游党、怀旧旅行者",
+      "value_proposition": "挖掘慢旅行的社交魅力与人文情怀，打造独特的旅行体验。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "中国首次在海上打捞回收火箭",
+    "scores": {
+      "novelty": 19,
+      "resonance": 17,
+      "viral": 17,
+      "entertainment": 13,
+      "practical": 4,
+      "market": 5
+    },
+    "total_score": 75,
+    "grade": "良好",
+    "product_idea": {
+      "name": "航天科普模拟器",
+      "features": "模拟火箭发射与海上回收全过程的互动游戏。",
+      "target_users": "青少年、航天爱好者",
+      "value_proposition": "以趣味方式普及硬核科技知识，激发科学探索兴趣。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "刘少昂：希望团队可以一直这么好",
+    "scores": {
+      "novelty": 6,
+      "resonance": 12,
+      "viral": 12,
+      "entertainment": 8,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 44,
+    "grade": "普通",
+    "product_idea": {
+      "name": "体育明星互动社区",
+      "features": "运动员动态发布与粉丝应援打榜功能。",
+      "target_users": "体育粉丝",
+      "value_proposition": "拉近粉丝与偶像距离，增强粉丝粘性。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "媒体谈速滑退役的尽头是什么",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 8,
+      "practical": 5,
+      "market": 4
+    },
+    "total_score": 49,
+    "grade": "普通",
+    "product_idea": {
+      "name": "运动员职业转型规划",
+      "features": "为退役运动员提供职业规划咨询与技能培训对接。",
+      "target_users": "退役运动员、体育行业从业者",
+      "value_proposition": "解决退役后的迷茫，助力运动员实现职业转型。"
+    }
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "情人节",
+    "scores": {
+      "novelty": 2,
+      "resonance": 18,
+      "viral": 15,
+      "entertainment": 5,
+      "practical": 2,
+      "market": 10
+    },
+    "total_score": 52,
+    "grade": "普通",
+    "product_idea": {
+      "name": "“情绪盲盒”社交盲盒",
+      "features": "不仅限于表白，用户在地图上投放“情绪胶囊”（如吐槽、祝福、寻找搭子），路人可随机拾取并回复，结合LBS定位功能。",
+      "target_users": "年轻单身群体及寻求新鲜感的情侣",
+      "value_proposition": "打破情人节只能秀恩爱的单一叙事，将节日转化为全社会的社交狂欢，解决过节落单的孤独感。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "黄冈通报产检正常娃出生却先天畸形",
+    "scores": {
+      "novelty": 5,
+      "resonance": 15,
+      "viral": 18,
+      "entertainment": 0,
+      "practical": 8,
+      "market": 5
+    },
+    "total_score": 51,
+    "grade": "普通",
+    "product_idea": {
+      "name": "孕期全流程AI影像辅助与存证平台",
+      "features": "基于AI的B超影像二次分析识别系统，提供第三方数字化存证服务，一旦发生医疗纠纷，可提供不可篡改的影像证据链。",
+      "target_users": "准父母、家庭",
+      "value_proposition": "解决医患信息不对称问题，通过技术手段为孕妇提供额外的安全保障和心理防线。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "回家路上随手拍",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 17,
+      "entertainment": 12,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 60,
+    "grade": "良好",
+    "product_idea": {
+      "name": "“归途”动态足迹地图",
+      "features": "用户上传随手拍照片，系统自动基于时间和地理位置生成一条带有情绪标签的“回家光影视频”，并可一键生成春运/节日归乡大数据报告。",
+      "target_users": "春运返乡人群、摄影爱好者",
+      "value_proposition": "将平凡的回家路转化为可视化的情感记忆，满足公众在节日季的表达欲和记录欲。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "金博洋自由滑142.53分",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 52,
+    "grade": "普通",
+    "product_idea": {
+      "name": "专业运动表现AR回放APP",
+      "features": "结合赛事直播画面，提供AR技术动作分解、速度轨迹追踪，让用户能像教练一样分析选手的每一个跳跃和旋转细节。",
+      "target_users": "冰雪运动迷、体育培训学员",
+      "value_proposition": "提升观赛体验，将单纯的看热闹转化为专业的技术分析欣赏。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "女子幽门螺杆菌阳性3年后查出胃癌",
+    "scores": {
+      "novelty": 5,
+      "resonance": 15,
+      "viral": 15,
+      "entertainment": 0,
+      "practical": 9,
+      "market": 8
+    },
+    "total_score": 52,
+    "grade": "普通",
+    "product_idea": {
+      "name": "家庭幽门螺杆菌分级防控管理系统",
+      "features": "提供家庭公筷管理、分餐习惯打卡、及就医复查提醒服务，并连接家用检测试剂盒，生成家庭健康风险报告。",
+      "target_users": "家庭用户、胃病关注者",
+      "value_proposition": "解决家庭内部感染难防的痛点，通过工具化管理降低家庭成员交叉感染风险。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "乌运动员因头盔被取消冬奥资格",
+    "scores": {
+      "novelty": 15,
+      "resonance": 8,
+      "viral": 15,
+      "entertainment": 5,
+      "practical": 5,
+      "market": 3
+    },
+    "total_score": 51,
+    "grade": "普通",
+    "product_idea": {
+      "name": "专业赛事合规装备库SaaS",
+      "features": "为职业运动员和教练提供实时更新的国际赛事装备合规数据库查询App，支持拍照扫描识别装备是否符合最新规则。",
+      "target_users": "职业运动员、器材供应商",
+      "value_proposition": "避免因装备细节违规导致职业生涯重大遗憾，提供专业的合规风控服务。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "2026NBA全明星",
+    "scores": {
+      "novelty": 10,
+      "resonance": 10,
+      "viral": 8,
+      "entertainment": 8,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 46,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全明星观赛虚拟聚会房",
+      "features": "支持多人同步观看直播的虚拟房间，内置实时互动竞猜、球衣虚拟试穿及限量版数字藏品抢购功能。",
+      "target_users": "NBA球迷、虚拟社交用户",
+      "value_proposition": "还原线下看球的热闹氛围，提升远程观赛的社交互动体验。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "三亚通报8499元订民宿被临时毁约",
+    "scores": {
+      "novelty": 8,
+      "resonance": 18,
+      "viral": 18,
+      "entertainment": 2,
+      "practical": 8,
+      "market": 8
+    },
+    "total_score": 62,
+    "grade": "良好",
+    "product_idea": {
+      "name": "“无忧住”旅行订单履约保险平台",
+      "features": "针对酒店民宿毁约问题，提供“先行赔付”服务及24小时免费紧急置换住宿服务，一旦触发毁约机制，系统自动扣款并安排新住宿。",
+      "target_users": "高端旅行者、节假日出行人群",
+      "value_proposition": "消灭“旺季毁约”的焦虑，将住宿履约风险通过金融产品彻底解决，提升旅行确定感。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "宜昌一精神病院患者自杀情况属实",
+    "scores": {
+      "novelty": 5,
+      "resonance": 10,
+      "viral": 10,
+      "entertainment": 0,
+      "practical": 8,
+      "market": 5
+    },
+    "total_score": 38,
+    "grade": "普通",
+    "product_idea": {
+      "name": "精神卫生机构智能看护手环",
+      "features": "具备生命体征监测、姿态异常检测（如长时间静止、异常高度变化）及防拆卸功能的穿戴设备，联动护士站预警系统。",
+      "target_users": "精神病院、康复中心",
+      "value_proposition": "利用物联网技术填补人工看护盲区，降低高风险患者意外事故的发生率。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "豆包红包",
+    "scores": {
+      "novelty": 12,
+      "resonance": 10,
+      "viral": 12,
+      "entertainment": 10,
+      "practical": 5,
+      "market": 10
+    },
+    "total_score": 59,
+    "grade": "普通",
+    "product_idea": {
+      "name": "AI语音定制拜年红包",
+      "features": "用户输入祝福文字，由AI（如豆包）生成特定风格（方言、搞笑、深情）的语音祝福，并配合现金/优惠券红包发送。",
+      "target_users": "微信用户、年轻群体",
+      "value_proposition": "解决发红包文案枯燥的问题，增加社交互动的趣味性和个性化，促进红包流转。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "市民吐槽百果园一根甘蔗卖87元",
+    "scores": {
+      "novelty": 10,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 10,
+      "practical": 6,
+      "market": 6
+    },
+    "total_score": 66,
+    "grade": "良好",
+    "product_idea": {
+      "name": "生鲜商品“透明秤”比价小程序",
+      "features": "扫描生鲜商品条码或拍照识别，立即显示该商品在各平台及线下店的实时价格区间、历史价格走势及品质评级，支持差价举报。",
+      "target_users": "家庭采购者、价格敏感型消费者",
+      "value_proposition": "消除生鲜市场的“价格刺客”现象，通过数据透明化保护消费者权益。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "新娘称婚宴4000一桌被亲友说最难吃",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 16,
+      "entertainment": 12,
+      "practical": 8,
+      "market": 8
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "婚宴餐饮“试吃与评分”严选平台",
+      "features": "提供婚宴菜品真实试吃测评（非推销），包含盲测视频、真实过往宾客评价，并设立“婚宴翻车险”，保障用餐体验。",
+      "target_users": "备婚情侣",
+      "value_proposition": "解决婚宴行业信息不透明和价格虚高问题，帮助新人避坑，保障大喜之日不被吐槽。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "民警厕所打人受害人被打致小便失禁",
+    "scores": {
+      "novelty": 5,
+      "resonance": 12,
+      "viral": 15,
+      "entertainment": 0,
+      "practical": 5,
+      "market": 2
+    },
+    "total_score": 39,
+    "grade": "普通",
+    "product_idea": {
+      "name": "执法记录仪云端存储与公众监督平台",
+      "features": "执法记录仪数据实时上链存证，在涉及重大投诉时，经授权后可向第三方机构或法律援助方开放不可篡改的数据访问。",
+      "target_users": "法律监管部门、维权机构",
+      "value_proposition": "利用技术保障执法透明，规范执法行为，为弱势群体提供客观的维权证据支持。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "瑶一瑶小肉包近30天掉粉6万",
+    "scores": {
+      "novelty": 8,
+      "resonance": 10,
+      "viral": 10,
+      "entertainment": 5,
+      "practical": 5,
+      "market": 8
+    },
+    "total_score": 46,
+    "grade": "普通",
+    "product_idea": {
+      "name": "网红账号舆情与粉丝健康度监测工具",
+      "features": "专为MCN机构设计，分析网红内容的受众反馈趋势，预测“审美疲劳”点，提供内容转型建议。",
+      "target_users": "MCN机构、内容创作者",
+      "value_proposition": "防止童星或网红因过度曝光导致粉丝流失，延长账号商业生命周期。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "男子卖前女友送的银镯子竟是银包金",
+    "scores": {
+      "novelty": 14,
+      "resonance": 14,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 6,
+      "market": 6
+    },
+    "total_score": 70,
+    "grade": "良好",
+    "product_idea": {
+      "name": "闲置奢侈品回收与情绪价值交换社区",
+      "features": "提供“前任礼物”回收或置换服务，主打“去油腻”、“去晦气”概念，将物品回收过程转化为一种情感释怀的仪式感。",
+      "target_users": "失恋人群、二手交易用户",
+      "value_proposition": "不仅处理旧物，更处理旧情绪，通过物理上的断舍离带来心理上的新生。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "瑶一瑶藏剪刀被安检发现",
+    "scores": {
+      "novelty": 8,
+      "resonance": 8,
+      "viral": 10,
+      "entertainment": 10,
+      "practical": 3,
+      "market": 4
+    },
+    "total_score": 43,
+    "grade": "普通",
+    "product_idea": {
+      "name": "儿童危险行为AR教育绘本",
+      "features": "通过AR技术将剪刀、插座等危险物品“具象化”为小怪兽，当孩子手持物体靠近摄像头时，实时语音提示危险等级。",
+      "target_users": "幼儿家长",
+      "value_proposition": "用孩子听得懂的方式教育安全常识，比单纯的说教更有效。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "主动投案的王鑫是易烊千玺等人老师",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 14,
+      "entertainment": 5,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 48,
+    "grade": "普通",
+    "product_idea": {
+      "name": "艺考师资背景深度查询小程序",
+      "features": "专注于艺术培训领域的师资背景调查工具，涵盖学术资质、行业口碑及法律风险，家长可一键扫码查老师。",
+      "target_users": "艺考学生家长",
+      "value_proposition": "填补艺术教育领域的师资信息空白，保障学生权益及学费安全。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "21岁孙子97岁奶奶都觉得对方很好带",
+    "scores": {
+      "novelty": 15,
+      "resonance": 18,
+      "viral": 18,
+      "entertainment": 18,
+      "practical": 3,
+      "market": 5
+    },
+    "total_score": 77,
+    "grade": "良好",
+    "product_idea": {
+      "name": "“老友童行”代际互助养老社区",
+      "features": "将幼儿园建在养老院旁，或建立祖孙配对互助系统，鼓励年轻人通过陪伴老人来抵扣房租或换取带娃服务。",
+      "target_users": "双职工家庭、独居老人",
+      "value_proposition": "解决年轻人的带娃压力和老人的孤独问题，利用年龄互补实现情感与劳务的双重交换。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "谁给迪丽热巴买的手机壳",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 4,
+      "market": 10
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "明星同款C2M反向定制商城",
+      "features": "当明星使用特定小物（如手机壳）上热搜后，平台迅速连接工厂提供同款定制，并附带“扒同款”的AI图像识别功能。",
+      "target_users": "粉丝群体、追星族",
+      "value_proposition": "缩短热点与消费的距离，满足粉丝群体“爱豆同款”的即时消费需求。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "微博之夜 二刷",
+    "scores": {
+      "novelty": 8,
+      "resonance": 15,
+      "viral": 12,
+      "entertainment": 15,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 60,
+    "grade": "良好",
+    "product_idea": {
+      "name": "盛典红毯AI换脸与二创剪辑工具",
+      "features": "提供盛典素材库，用户可使用AI将自己或偶像“合成”进红毯合影，或一键生成名为“我来颁奖”的趣味短视频。",
+      "target_users": "娱乐八卦爱好者、短视频用户",
+      "value_proposition": "将单纯的观众转化为内容创作者，利用官方素材进行二次创作，提升平台活跃度。"
+    }
+  }
+]
