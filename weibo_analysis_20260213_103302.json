@@ -1,0 +1,142 @@
+[
+  {
+    "rank": 1,
+    "title": "杭州大哥开1人公司靠AI月入200万",
+    "scores": {
+      "novelty": 18,
+      "resonance": 18,
+      "viral": 19,
+      "entertainment": 17,
+      "practical": 9,
+      "market": 10
+    },
+    "total_score": 91,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "超级个体AI加速器",
+      "features": "提供AI技术与变现案例的课程、自动化营销工具包及一人公司注册税务指南",
+      "target_users": "自由职业者、程序员、寻找副业的职场人",
+      "value_proposition": "降低AI创业门槛，通过工具与培训赋能个人实现高收入"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "13年后天娱又签了选秀冠军",
+    "scores": {
+      "novelty": 15,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 16,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "时光回溯选秀投票器",
+      "features": "历年选秀选手资料库、虚拟跨时代对战投票、选手发展追踪",
+      "target_users": "选秀节目老粉、娱乐追星族",
+      "value_proposition": "唤醒青春记忆，通过怀旧情感增强用户参与度"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "父母花了几十万装修的房子",
+    "scores": {
+      "novelty": 12,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 6,
+      "market": 7
+    },
+    "total_score": 73,
+    "grade": "良好",
+    "product_idea": {
+      "name": "两代人审美AR调和眼镜",
+      "features": "AR预览装修效果、父母审美与年轻审美风格转换滤镜、软装一键替换建议",
+      "target_users": "正在装修的年轻子女、父母长辈",
+      "value_proposition": "解决家庭装修审美冲突，用技术实现视觉妥协与和解"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "华为内部反腐通报",
+    "scores": {
+      "novelty": 14,
+      "resonance": 15,
+      "viral": 16,
+      "entertainment": 8,
+      "practical": 5,
+      "market": 3
+    },
+    "total_score": 61,
+    "grade": "良好",
+    "product_idea": {
+      "name": "企业合规风险雷达",
+      "features": "基于企业公开数据的合规性扫描、内部风控流程自测工具",
+      "target_users": "中小企业主、公司管理层",
+      "value_proposition": "以大厂案例为警示，帮助中小企业低成本建立合规意识"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "公司利润2.7亿拿1.8亿发年终奖",
+    "scores": {
+      "novelty": 17,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 15,
+      "practical": 4,
+      "market": 2
+    },
+    "total_score": 75,
+    "grade": "良好",
+    "product_idea": {
+      "name": "神仙公司打工人地图",
+      "features": "汇集高福利/高年终奖公司评价、薪资爆料专区、求职避坑指南",
+      "target_users": "求职者、跳槽者、职场摸鱼党",
+      "value_proposition": "打破信息差，帮助打工人发现并瞄准高回报企业"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "前女友送的40克银镯子内含30克黄金",
+    "scores": {
+      "novelty": 16,
+      "resonance": 12,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 8,
+      "market": 7
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "情感礼物X光机",
+      "features": "贵金属成分检测工具、礼物估值系统、情感故事与实物价值匹配度分析",
+      "target_users": "恋爱中人群、珠宝饰品购买者",
+      "value_proposition": "透视礼物背后的真实价值与情感含量，规避消费陷阱"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "除夕来京东抽1折机器人",
+    "scores": {
+      "novelty": 10,
+      "resonance": 10,
+      "viral": 12,
+      "entertainment": 5,
+      "practical": 6,
+      "market": 9
+    },
+    "total_score": 52,
+    "grade": "普通",
+    "product_idea": {
+      "name": "节日电商AR寻宝",
+      "features": "结合AR技术与春节元素的线上寻宝赢折扣活动、家庭组团互动",
+      "target_users": "春节期间网购用户、家庭群体",
+      "value_proposition": "将枯燥的促销游戏化，增加节日购物娱乐性"
+    }
+  }
+]

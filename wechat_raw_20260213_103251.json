@@ -1,360 +1,367 @@
 {
-  "fetch_time": "2026-02-12T22:21:57.567647",
-  "source": "douyin",
+  "fetch_time": "2026-02-13T10:32:51.489206",
+  "source": "wechat",
   "api_code": 200,
   "api_message": "success",
   "topics": [
     {
       "rank": 1,
-      "title": "孙龙1000米摘银",
+      "title": "跟着总书记感受“年味儿”",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 2,
-      "title": "林孝埈无缘半决赛",
+      "title": "中央领导同志看望老同志",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 3,
-      "title": "我国科学家在3D打印领域有新突破",
+      "title": "孙龙回应摘银",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 4,
-      "title": "范可新无缘决赛",
+      "title": "乡土乡韵新活力 多地举办“村晚”贺新春",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 5,
-      "title": "CBA杯上海战胜山西夺冠",
+      "title": "1月份70城房价出炉",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 6,
-      "title": "豆包即梦上线视频模型Seedance2.0",
+      "title": "冬奥看点：中国冰壶男女队硬仗连场",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 7,
-      "title": "我们总能在逆境中重生千千万万次",
+      "title": "中戏掀反腐风暴！两月内3人主动投案",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 8,
-      "title": "春节灯会好去处",
+      "title": "男子售前女友送的银镯 发现是银包金",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 9,
-      "title": "永远会被老一辈的爱情感动",
+      "title": "公安部部署严打涉烟犯罪",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 10,
-      "title": "12306新增一等座提醒",
+      "title": "“欢迎夏总回家过年”为什么火了",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 11,
-      "title": "我年少你飘渺",
+      "title": "今日辟谣（2026年2月13日）",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 12,
-      "title": "“重庆轨道交通跑熄火”不实",
+      "title": "首次！中国海中捞起火箭",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 13,
-      "title": "为什么美国人说中国人是精灵族",
+      "title": "海关查获老鼠肉干 旅客：用来吃的",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 14,
-      "title": "两艘美国海军舰艇发生碰撞",
+      "title": "5年前买2700克金条 卖出后净赚近196万",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 15,
-      "title": "王者小火人新春联动",
+      "title": "李小年任温州肯恩大学校长",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 16,
-      "title": "认真生活的人本就闪亮",
+      "title": "尾号777777手机号18万起拍 成交价51万",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 17,
-      "title": "春节迷上在抖音看视频播客了",
+      "title": "中戏表演系主任王鑫，主动投案",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 18,
-      "title": "我已经想好约会怎么搭了",
+      "title": "起底菲律宾海警的“南海生意经”",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 19,
-      "title": "这都被你发现我家孩子得奖状啦",
+      "title": "春节前，银行又在“抢存款”",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 20,
-      "title": "去一个年味拉满的城市过年",
+      "title": "范可新摔倒坚持完赛：我不是悲情英雄",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 21,
-      "title": "过年在家当秀场主理人",
+      "title": "女老板连续10多年包火车送员工返乡",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 22,
-      "title": "在抖音读上名家春节作文选了",
+      "title": "春节自驾海南岛 游客：排队超八小时",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 23,
-      "title": "炸年货安排上了",
+      "title": "女子送母亲绑钱气球 千元现金飞走",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 24,
-      "title": "河南春晚复刻樊楼飞天舞",
+      "title": "宁波大学全球招聘3名院长",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 25,
-      "title": "吴京回应网友喊话多拍武侠片",
+      "title": "黄如任国家发改委副主任（兼职）",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 26,
-      "title": "杨幂惊蛰无声身份不详穿搭超强",
+      "title": "餐馆老板寻找5年点2000次外卖老顾客",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 27,
-      "title": "丁程鑫贺峻霖误闯时家的日常",
+      "title": "泰山脚下买“石头”遭快递“拒收”",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 28,
-      "title": "你只管走幸福随处可见",
+      "title": "春节潮汕旅游火热，酒店需求激增",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 29,
-      "title": "王玉雯敖瑞鹏在和平精英搞抽象",
+      "title": "男子年会喝酒倒地，同事跪求救命",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 30,
-      "title": "刘佳宇出院报平安",
+      "title": "高校招标项目被投诉 官方回应",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 31,
-      "title": "把第五人格搬进现实",
+      "title": "保姆连偷老人7块金条：是送我的",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 32,
-      "title": "央行将开展10000亿逆回购操作",
+      "title": "版本更新后“变冷淡”？DeepSeek回应",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 33,
-      "title": "郭晶晶霍启刚粤语送新春祝福",
+      "title": "节后A股如何演绎？券商：值得期待",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 34,
-      "title": "郑钦文惜败莱巴金娜",
+      "title": "年轻人涌向量贩零食店买年货",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 35,
-      "title": "中方回应特朗普或将4月访华",
+      "title": "确认是假货！涉及多个大牌",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 36,
-      "title": "蔡徐坤MV纪录片Colder",
+      "title": "卖公众人物AI拜年视频 部分账号被处置",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 37,
-      "title": "飞驰3当年的叶经理又回来了",
+      "title": "蒙古：支持、赞赏、感谢中方",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 38,
-      "title": "太平年主角团只剩下了钱俶",
+      "title": "跨省赶大集，火了",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 39,
-      "title": "李佩仪萧怀瑾终于亲上了",
+      "title": "高速路边发现小狮子 民警：首次遇见",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 40,
-      "title": "邓超向范志毅借粉借到体育界",
+      "title": "《互联网平台反垄断合规指引》发布",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 41,
-      "title": "蔡雪桐武绍桐无缘前三",
+      "title": "女子打顺风车打到大货车？当事人回应",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 42,
-      "title": "廉子文与文内马斯碰撞",
+      "title": "飞天茅台逼近1800元 创近一个月新高",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 43,
-      "title": "吴克群田间红毯大片致敬农民",
+      "title": "外交部发言人系红领带送祝福：马年大吉",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 44,
-      "title": "严浩翔日常过了小年就是年",
+      "title": "多地要求外卖平台停止“内卷式”竞争",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 45,
-      "title": "年味都藏在了美味里",
+      "title": "中国光伏的太空梦卡在哪了？",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 46,
-      "title": "海底捞大红三角洲行动",
+      "title": "金与正：韩国应确保不再侵犯朝鲜主权",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 47,
-      "title": "德云社成员亮相三十周年发布会",
+      "title": "谢锋：美国游客“投诉”意犹未尽",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 48,
-      "title": "马达加斯加宣布进入国家灾难状态",
+      "title": "中越六区省市党委书记齐聚 有新面孔",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 49,
-      "title": "镖人剧组全员武术直拍夯爆了",
+      "title": "跨山海、越四季 这些特殊年货让人心暖暖",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     },
     {
       "rank": 50,
-      "title": "幻想女婿进门的我",
+      "title": "证监会严肃查处天风证券违法违规",
+      "hot_value": "N/A",
+      "url": "",
+      "description": ""
+    },
+    {
+      "rank": 51,
+      "title": "春运坐飞机返乡，这份安全锦囊请收好",
       "hot_value": "N/A",
       "url": "",
       "description": ""
     }
   ],
-  "total_count": 50,
-  "timestamp": "20260212_222157"
+  "total_count": 51,
+  "timestamp": "20260213_103251"
 }
