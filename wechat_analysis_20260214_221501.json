@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "家和万事兴！总书记牵挂万家灯火",
+    "scores": {
+      "novelty": 5,
+      "resonance": 18,
+      "viral": 10,
+      "entertainment": 2,
+      "practical": 2,
+      "market": 1
+    },
+    "total_score": 38,
+    "grade": "普通",
+    "product_idea": {
+      "name": "“家国同兴”数字家书馆",
+      "features": "结合传统家书与现代AR技术，用户录制视频家书，系统生成带有国风元素的互动贺卡。",
+      "target_users": "海外华人、归乡游子、注重传统文化教育的家庭。",
+      "value_proposition": "利用情感共鸣，将宏大叙事转化为家庭互动的数字资产，增强节日仪式感。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "王毅就中日关系重申严正立场",
+    "scores": {
+      "novelty": 5,
+      "resonance": 12,
+      "viral": 8,
+      "entertainment": 1,
+      "practical": 5,
+      "market": 2
+    },
+    "total_score": 33,
+    "grade": "普通",
+    "product_idea": {
+      "name": "时政要闻·极简解读卡片",
+      "features": "AI驱动的国际关系新闻摘要工具，将复杂外交辞令转化为结构化思维导图和背景知识库。",
+      "target_users": "关注时事的商务人士、考研学生、新闻从业者。",
+      "value_proposition": "降低理解门槛，帮助用户快速掌握外交动态背后的逻辑与影响。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "钓鱼岛、黄岩岛、仁爱礁充满中国年味",
+    "scores": {
+      "novelty": 12,
+      "resonance": 15,
+      "viral": 14,
+      "entertainment": 5,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 50,
+    "grade": "普通",
+    "product_idea": {
+      "name": "“锦绣河山”3D实景拼图",
+      "features": "以争议海域和边境地标为主题的高精度3D拼图或数字收藏品，附带地理历史科普语音。",
+      "target_users": "爱国主义教育受众、拼图游戏爱好者、文创产品消费者。",
+      "value_proposition": "通过娱乐化互动产品强化国家领土认知，寓教于乐。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "2月14日全国铁路预计发送旅客1535万人",
+    "scores": {
+      "novelty": 2,
+      "resonance": 10,
+      "viral": 5,
+      "entertainment": 1,
+      "practical": 8,
+      "market": 4
+    },
+    "total_score": 30,
+    "grade": "普通",
+    "product_idea": {
+      "name": "春运人流错峰出行助手",
+      "features": "基于历史数据和实时客流预测，提供最佳的出行时间建议和备选路线规划。",
+      "target_users": "春节返乡旅客、春节假期计划出行者。",
+      "value_proposition": "解决拥堵焦虑，提供科学避峰方案，提升出行体验。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "浙江一村连续8年组织村民拍全村福",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 8,
+      "practical": 4,
+      "market": 6
+    },
+    "total_score": 57,
+    "grade": "普通",
+    "product_idea": {
+      "name": "“全村福”智能合影合成App",
+      "features": "支持多人在线上传照片，利用AI算法合成一张逼真的超高像素“大合影”，并支持寻找特定人脸互动。",
+      "target_users": "返乡青年、村委会、大型社群组织。",
+      "value_proposition": "即使人不到场也能“云合影”，满足春节团圆的社交心理需求。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "双人雪上技巧杨丫创中国队最好成绩",
+    "scores": {
+      "novelty": 10,
+      "resonance": 14,
+      "viral": 12,
+      "entertainment": 10,
+      "practical": 3,
+      "market": 8
+    },
+    "total_score": 57,
+    "grade": "普通",
+    "product_idea": {
+      "name": "冠军同款·VR滑雪训练器",
+      "features": "结合运动员动作捕捉数据的家用VR滑雪模拟游戏，提供专业动作纠错和关卡挑战。",
+      "target_users": "滑雪爱好者、体感游戏玩家、体育培训学员。",
+      "value_proposition": "将专业竞技体育降维娱乐化，让用户在家体验冬奥项目乐趣。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "河南春晚：佟丽娅领舞宛若牡丹绽放",
+    "scores": {
+      "novelty": 8,
+      "resonance": 15,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 3,
+      "market": 7
+    },
+    "total_score": 63,
+    "grade": "良好",
+    "product_idea": {
+      "name": "国风舞姿·AI动作镜",
+      "features": "用户通过摄像头模仿春晚名场面舞蹈，AI实时打分并生成特效视频，支持与明星“同台”合成。",
+      "target_users": "短视频用户、舞蹈爱好者、粉丝群体。",
+      "value_proposition": "借势顶级晚会IP，利用动作捕捉技术满足用户的模仿与分享欲。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "中国将对53个非洲国家实施零关税",
+    "scores": {
+      "novelty": 6,
+      "resonance": 8,
+      "viral": 6,
+      "entertainment": 1,
+      "practical": 9,
+      "market": 9
+    },
+    "total_score": 39,
+    "grade": "普通",
+    "product_idea": {
+      "name": "中非优选·B2B跨境采购通",
+      "features": "聚焦于零关税清单商品的垂直跨境电商平台，提供政策解读、物流清关一体化服务。",
+      "target_users": "跨境电商卖家、进口食品分销商、制造业采购商。",
+      "value_proposition": "精准抓住政策红利，降低贸易门槛，连接中国买家与非洲供应商。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "铁路部门建议短途旅客不要“买长乘短”",
+    "scores": {
+      "novelty": 8,
+      "resonance": 15,
+      "viral": 12,
+      "entertainment": 3,
+      "practical": 7,
+      "market": 4
+    },
+    "total_score": 49,
+    "grade": "普通",
+    "product_idea": {
+      "name": "智能火车票拼接助手",
+      "features": "自动监测长途票的余票情况，若长途票无票但有短途票，自动推荐“买长乘短”或“买短乘长”的性价比最优解。",
+      "target_users": "春运抢票人群、价格敏感型旅客。",
+      "value_proposition": "解决运力分配不均带来的信息差，提供灵活的购票策略建议。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "以色列，又要打一场仗？",
+    "scores": {
+      "novelty": 5,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 2,
+      "practical": 6,
+      "market": 3
+    },
+    "total_score": 38,
+    "grade": "普通",
+    "product_idea": {
+      "name": "地缘冲突·避险地图仪",
+      "features": "为有涉外业务或旅行需求的人群提供实时安全预警和行程规避建议。",
+      "target_users": "外贸从业者、国际导游、留学生。",
+      "value_proposition": "提供基于地缘政治数据的出行安全评估服务，降低意外风险。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "2026年马年是‘无春年’不宜婚嫁系谣言",
+    "scores": {
+      "novelty": 4,
+      "resonance": 14,
+      "viral": 12,
+      "entertainment": 5,
+      "practical": 5,
+      "market": 4
+    },
+    "total_score": 44,
+    "grade": "普通",
+    "product_idea": {
+      "name": "民俗百科·老皇历粉碎机",
+      "features": "针对民间迷信和流言提供科学解读的百科小程序，结合农历算法提供吉日推荐。",
+      "target_users": "准备结婚的情侣、关注运势的中老年群体。",
+      "value_proposition": "破除封建迷信，用科学方式缓解大众的择吉焦虑。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "孙龙回应摘银",
+    "scores": {
+      "novelty": 5,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 6,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 40,
+    "grade": "普通",
+    "product_idea": {
+      "name": "健儿心声·表情包生成器",
+      "features": "将运动员采访金句和表情快速制作成社交表情包或海报。",
+      "target_users": "体育粉丝、社交媒体活跃用户。",
+      "value_proposition": "利用赛事热点情绪，促进体育迷在社交圈的互动传播。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "土耳其一航班飞行途中发生大规模斗殴",
+    "scores": {
+      "novelty": 12,
+      "resonance": 8,
+      "viral": 15,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 49,
+    "grade": "普通",
+    "product_idea": {
+      "name": "空乘防御·情景模拟VR培训",
+      "features": "针对机舱冲突处理的高仿真VR培训系统，提升空乘人员的应急反应和心理素质。",
+      "target_users": "航空公司培训部门、空乘人员。",
+      "value_proposition": "通过极端案例模拟，填补航空安全服务培训中的实战演练空白。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "17省份居民收入增速跑赢GDP",
+    "scores": {
+      "novelty": 3,
+      "resonance": 10,
+      "viral": 6,
+      "entertainment": 1,
+      "practical": 8,
+      "market": 6
+    },
+    "total_score": 34,
+    "grade": "普通",
+    "product_idea": {
+      "name": "城市迁徙·薪酬对标计算器",
+      "features": "结合各省份收入增速与GDP数据，为用户提供跨城市发展建议和薪资谈判参考。",
+      "target_users": "求职者、跳槽白领、职业规划顾问。",
+      "value_proposition": "数据辅助职业决策，帮助用户识别具备高增长潜力的城市。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "小伙开飞机回乡 3小时路程花50分钟",
+    "scores": {
+      "novelty": 18,
+      "resonance": 16,
+      "viral": 19,
+      "entertainment": 15,
+      "practical": 4,
+      "market": 7
+    },
+    "total_score": 79,
+    "grade": "良好",
+    "product_idea": {
+      "name": "共享私飞·高端拼机平台",
+      "features": "整合通航机场资源，提供高净值人群的短途通勤拼机服务或体验式飞行预约。",
+      "target_users": "高净值商务人士、追求新奇的返乡年轻人。",
+      "value_proposition": "将“炫富”场景转化为可复用的高端出行服务，填补通用航空消费市场空白。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "节前宠物挤进门店做美容，店员回应",
+    "scores": {
+      "novelty": 8,
+      "resonance": 14,
+      "viral": 13,
+      "entertainment": 10,
+      "practical": 6,
+      "market": 9
+    },
+    "total_score": 60,
+    "grade": "良好",
+    "product_idea": {
+      "name": "爱宠焕新·上门洗护车",
+      "features": "提供节日期间预约制的移动宠物洗护服务，解决门店排队痛点，自带水电和清洁设备。",
+      "target_users": "忙碌的宠物主、春节返乡需寄养宠物的人群。",
+      "value_proposition": "解决旺季服务拥堵痛点，提供更便捷、低应激的宠物护理解决方案。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "顾客点2000单外卖后消失 老板全网寻人",
+    "scores": {
+      "novelty": 16,
+      "resonance": 12,
+      "viral": 18,
+      "entertainment": 16,
+      "practical": 5,
+      "market": 6
+    },
+    "total_score": 73,
+    "grade": "良好",
+    "product_idea": {
+      "name": "无忧订餐·大额单风控系统",
+      "features": "为餐饮商家提供异常订单自动识别和担保支付服务，设置分阶段交付确认机制。",
+      "target_users": "外卖商家、团餐订购企业。",
+      "value_proposition": "通过技术手段规避恶意订单或乌龙事件带来的商业风险。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "本周，我国科技领域实现硬核突破",
+    "scores": {
+      "novelty": 10,
+      "resonance": 14,
+      "viral": 10,
+      "entertainment": 5,
+      "practical": 6,
+      "market": 8
+    },
+    "total_score": 53,
+    "grade": "普通",
+    "product_idea": {
+      "name": "硬核科技·儿童STEM订阅盒",
+      "features": "根据每周科技热点推出对应的DIY科学实验套装，配以专业视频讲解。",
+      "target_users": "中小学生家长、科技教育机构。",
+      "value_proposition": "将抽象的科技新闻转化为可动手实践的教育产品，保持时效性与趣味性。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "春节后人民币汇率会出现拐点吗？",
+    "scores": {
+      "novelty": 4,
+      "resonance": 10,
+      "viral": 6,
+      "entertainment": 2,
+      "practical": 10,
+      "market": 9
+    },
+    "total_score": 41,
+    "grade": "普通",
+    "product_idea": {
+      "name": "汇率风向·结汇提醒小程序",
+      "features": "结合专家预测曲线，为有换汇需求的用户（如留学生家长、外贸商）设置目标价位提醒。",
+      "target_users": "外贸从业者、海外资产持有者。",
+      "value_proposition": "降低金融信息门槛，帮助用户在汇率波动中抓住最佳结汇时机。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "潜逃16年逃犯赴冬奥看球被抓",
+    "scores": {
+      "novelty": 15,
+      "resonance": 14,
+      "viral": 17,
+      "entertainment": 14,
+      "practical": 3,
+      "market": 4
+    },
+    "total_score": 67,
+    "grade": "良好",
+    "product_idea": {
+      "name": "真容识破·动态人核验SDK",
+      "features": "利用面部识别技术配合时间维度变化的算法，专门用于长期身份比对和防伪。",
+      "target_users": "安防公司、大型赛事安保系统、政务检查点。",
+      "value_proposition": "利用“容颜随时间变化”的数据点，提升针对潜逃人员的动态识别能力。"
+    }
+  }
+]
