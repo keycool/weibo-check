@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "习近平：在二〇二六年春节团拜会上的讲话",
+    "scores": {
+      "novelty": 15,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 2,
+      "practical": 5,
+      "market": 0
+    },
+    "total_score": 56.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "政务要点AI助手",
+      "features": "自动提取讲话核心要点，生成思维导图与政策解读",
+      "target_users": "公务员、国企员工、新闻从业者",
+      "value_proposition": "快速掌握国家大政方针，提升政务学习效率"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "2026春节团拜会举行 习近平发表讲话",
+    "scores": {
+      "novelty": 14,
+      "resonance": 17,
+      "viral": 15,
+      "entertainment": 2,
+      "practical": 5,
+      "market": 0
+    },
+    "total_score": 53.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "政务要点AI助手",
+      "features": "自动提取讲话核心要点，生成思维导图与政策解读",
+      "target_users": "公务员、国企员工、新闻从业者",
+      "value_proposition": "快速掌握国家大政方针，提升政务学习效率"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "多国政要向中国人民致以新春祝福",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 5,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 49.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球节日祝福贺卡工坊",
+      "features": "定制多国语言风格的电子贺卡，融合各国政要或地标元素",
+      "target_users": "外贸从业者、留学生、跨国企业",
+      "value_proposition": "传递国际化祝福，增强跨文化交流情感"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "一周“靓”数",
+    "scores": {
+      "novelty": 12,
+      "resonance": 8,
+      "viral": 10,
+      "entertainment": 5,
+      "practical": 6,
+      "market": 4
+    },
+    "total_score": 45.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "个人周报生成器",
+      "features": "连接运动、消费、社交数据，自动生成每周精彩数据回顾海报",
+      "target_users": "健身爱好者、理财用户、社交达人",
+      "value_proposition": "可视化个人成长轨迹，便于社交分享"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "王毅会见美国国务卿鲁比奥",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 2,
+      "practical": 4,
+      "market": 1
+    },
+    "total_score": 50.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "国际关系动态追踪器",
+      "features": "实时追踪重要外交人物会晤与言论，提供事件脉络分析",
+      "target_users": "国际政治关注者、投资分析师",
+      "value_proposition": "从外交动态中捕捉宏观经济与市场信号"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "冬奥看点：中国短道速滑继续冲金",
+    "scores": {
+      "novelty": 8,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 15,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 67.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "体坛高光时刻打榜App",
+      "features": "赛事实时提醒，精彩瞬间短视频剪辑与投票打榜",
+      "target_users": "冰雪运动迷、体育彩票用户",
+      "value_proposition": "不错过任何夺金时刻，增强观赛互动乐趣"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "2026卫视春晚：孙悦再唱欢乐中国年",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 1,
+      "market": 3
+    },
+    "total_score": 59.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "金曲回忆录",
+      "features": "识别春晚背景音乐，一键跳转至经典曲目流媒体，生成年代听歌报告",
+      "target_users": "80/90后怀旧人群、音乐爱好者",
+      "value_proposition": "重温春晚记忆，激活经典音乐版权价值"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "美股轮动：黄仁勋跌出全球十大富翁",
+    "scores": {
+      "novelty": 14,
+      "resonance": 12,
+      "viral": 15,
+      "entertainment": 8,
+      "practical": 6,
+      "market": 5
+    },
+    "total_score": 60.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "富豪资产跟随模拟盘",
+      "features": "追踪顶级富豪资产变动，用户可进行模拟跟投或反向操作",
+      "target_users": "散户投资者、金融科技爱好者",
+      "value_proposition": "借力顶级大佬投资视野，降低决策门槛"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "特朗普：伊朗政权更迭是最好结果",
+    "scores": {
+      "novelty": 14,
+      "resonance": 15,
+      "viral": 16,
+      "entertainment": 2,
+      "practical": 4,
+      "market": 2
+    },
+    "total_score": 53.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "地缘政治危机预警板",
+      "features": "监控关键地区冲突言论指数，提供对能源、黄金市场的潜在影响分析",
+      "target_users": "期货交易员、外贸企业主",
+      "value_proposition": "从政治言论中提前嗅探市场风险"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "中国将对53个非洲国家实施零关税",
+    "scores": {
+      "novelty": 16,
+      "resonance": 10,
+      "viral": 12,
+      "entertainment": 2,
+      "practical": 8,
+      "market": 9
+    },
+    "total_score": 57.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "中非商机B2B匹配平台",
+      "features": "聚焦零关税商品目录，提供供应商匹配与跨境物流一键报价",
+      "target_users": "跨境电商卖家、外贸采购商",
+      "value_proposition": "抓住政策红利，低成本拓展新兴市场"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "2026年马年是‘无春年’不宜婚嫁系谣言",
+    "scores": {
+      "novelty": 5,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 5,
+      "practical": 7,
+      "market": 3
+    },
+    "total_score": 42.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "科学婚俗择日助手",
+      "features": "结合黄历与科学辟谣，提供良辰吉日查询与传统习俗科普",
+      "target_users": "备婚情侣、婚庆策划公司",
+      "value_proposition": "用科学态度传承文化，消除婚嫁焦虑"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "最特殊都市圈，三条“动脉”要打通了",
+    "scores": {
+      "novelty": 12,
+      "resonance": 8,
+      "viral": 8,
+      "entertainment": 2,
+      "practical": 7,
+      "market": 7
+    },
+    "total_score": 44.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "都市圈通勤置业顾问",
+      "features": "基于交通动脉开通进度，重新计算通勤时间与房产升值潜力",
+      "target_users": "跨城通勤族、房地产投资者",
+      "value_proposition": "把握城市规划红利，优化通勤与资产配置"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "37岁韩国选手参加4届冬奥会终摘银",
+    "scores": {
+      "novelty": 10,
+      "resonance": 18,
+      "viral": 17,
+      "entertainment": 10,
+      "practical": 4,
+      "market": 3
+    },
+    "total_score": 62.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "老将精神激励社区",
+      "features": "记录大龄运动员与普通人的运动历程，提供同龄段科学训练建议",
+      "target_users": "中年运动人群、体育爱好者",
+      "value_proposition": "打破年龄焦虑，通过体育精神重塑生活信心"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "男子称台球厅输260万被诈骗，警方介入",
+    "scores": {
+      "novelty": 18,
+      "resonance": 14,
+      "viral": 18,
+      "entertainment": 15,
+      "practical": 6,
+      "market": 4
+    },
+    "total_score": 75.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "娱乐场所风控监测镜",
+      "features": "针对高消费娱乐场所的AI行为分析，识别异常高额下注或诈骗团伙特征",
+      "target_users": "公安机关、场所经营者",
+      "value_proposition": "利用AI技术识别赌博诈骗苗头，净化娱乐场所环境"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "顾客点2000单外卖后消失 老板全网寻人",
+    "scores": {
+      "novelty": 18,
+      "resonance": 17,
+      "viral": 19,
+      "entertainment": 18,
+      "practical": 5,
+      "market": 6
+    },
+    "total_score": 83.0,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "防薅羊毛智能预付系统",
+      "features": "大数据分析异常大额订单，提供风险评分与定金分阶段解锁功能",
+      "target_users": "餐饮商家、外卖平台运营商",
+      "value_proposition": "防止恶意订单跑单，保障商家资金安全"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "春晚赞助商变化见证中国经济变迁",
+    "scores": {
+      "novelty": 14,
+      "resonance": 10,
+      "viral": 12,
+      "entertainment": 6,
+      "practical": 5,
+      "market": 6
+    },
+    "total_score": 53.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "品牌发展史AR博物馆",
+      "features": "扫描历年春晚赞助商Logo，AR展示品牌兴衰史与经济背景",
+      "target_users": "商学院学生、品牌营销人员",
+      "value_proposition": "以微观品牌视角透视宏观经济发展"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "百果园一根甘蔗87元，市民吐槽太贵",
+    "scores": {
+      "novelty": 16,
+      "resonance": 18,
+      "viral": 19,
+      "entertainment": 12,
+      "practical": 8,
+      "market": 6
+    },
+    "total_score": 79.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "生鲜比价雷达",
+      "features": "扫描生鲜商品条码，实时对比线上线下价格并生成溢价智商税报告",
+      "target_users": "家庭主妇、价格敏感型消费者",
+      "value_proposition": "拒绝生鲜刺客，每一分钱都花在刀刃上"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "日本最大核电站再出故障，居民不安",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 15,
+      "entertainment": 2,
+      "practical": 7,
+      "market": 3
+    },
+    "total_score": 53.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "环境辐射监测地图",
+      "features": "基于公开数据的周边环境辐射值实时监控与异常推送",
+      "target_users": "沿海居民、关注健康安全的人群",
+      "value_proposition": "透明化环境数据，缓解公众安全焦虑"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
+    "scores": {
+      "novelty": 16,
+      "resonance": 18,
+      "viral": 19,
+      "entertainment": 18,
+      "practical": 6,
+      "market": 8
+    },
+    "total_score": 85.0,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "AI性格养成记插件",
+      "features": "允许用户自定义AI的性格设定（如傲娇、温柔、毒舌），并提供情感化交互反馈",
+      "target_users": "Z世代用户、二次元爱好者、AI重度用户",
+      "value_proposition": "不仅要有用，更要有趣；满足用户的情感陪伴需求"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "乌拉圭总统：一个中国原则无可争议",
+    "scores": {
+      "novelty": 8,
+      "resonance": 12,
+      "viral": 12,
+      "entertainment": 2,
+      "practical": 3,
+      "market": 2
+    },
+    "total_score": 39.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "外交知识图谱卡牌",
+      "features": "收集各国建交与立场表态，制作外交关系互动学习卡牌",
+      "target_users": "学生群体时政爱好者",
+      "value_proposition": "寓教于乐，轻松了解复杂的国际关系网"
+    }
+  }
+]

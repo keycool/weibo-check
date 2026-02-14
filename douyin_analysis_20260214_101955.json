@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "独牙九球大师赛决赛",
+    "scores": {
+      "novelty": 12,
+      "resonance": 15,
+      "viral": 14,
+      "entertainment": 16,
+      "practical": 3,
+      "market": 8
+    },
+    "total_score": 68,
+    "grade": "良好",
+    "product_idea": {
+      "name": "台球神算AR对战App",
+      "features": "集成AR技术的辅助瞄准与实时赛事互动竞猜功能，结合AI球技分析。",
+      "target_users": "台球爱好者、体育竞猜用户",
+      "value_proposition": "将线下观赛体验转化为线上互动，提供沉浸式竞技与娱乐体验。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "刘少昂孙龙林孝埈1500米冲金",
+    "scores": {
+      "novelty": 10,
+      "resonance": 18,
+      "viral": 17,
+      "entertainment": 15,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 68,
+    "grade": "良好",
+    "product_idea": {
+      "name": "速滑荣耀：数字藏品盲盒",
+      "features": "结合夺冠瞬间推出的动态数字藏品与专属粉丝勋章，解锁赛事回放特权。",
+      "target_users": "体育粉丝、收藏玩家",
+      "value_proposition": "通过数字资产形式永久珍藏夺冠荣耀，满足粉丝的情感寄托与收藏欲。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "无人机表演背后的“造梦人”",
+    "scores": {
+      "novelty": 16,
+      "resonance": 14,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 5,
+      "market": 8
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "星空筑梦师-编程创客套件",
+      "features": "简化版无人机编程编队模拟软件，支持DIY编队设计并在虚拟社区展示。",
+      "target_users": "科技爱好者、青少年STEAM教育市场",
+      "value_proposition": "降低编队编程门槛，让用户体验科技创造艺术的乐趣，培养创新思维。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "商务部回应安世半导体案裁决结果",
+    "scores": {
+      "novelty": 8,
+      "resonance": 10,
+      "viral": 8,
+      "entertainment": 2,
+      "practical": 6,
+      "market": 4
+    },
+    "total_score": 38,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球贸易合规智库",
+      "features": "基于AI的跨国贸易政策实时解读与风险评估工具。",
+      "target_users": "进出口企业老板、外贸从业者",
+      "value_proposition": "精准解读政策变化，助力企业规避跨国贸易法律风险。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "马里宁自由滑重大失误无缘领奖台",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 16,
+      "entertainment": 12,
+      "practical": 1,
+      "market": 4
+    },
+    "total_score": 59,
+    "grade": "普通",
+    "product_idea": {
+      "name": "运动心理韧性VR训练",
+      "features": "模拟高压赛场环境与失误场景，进行心理抗压与专注力训练。",
+      "target_users": "职业运动员、竞技体育青训学员",
+      "value_proposition": "通过虚拟现实暴露疗法，帮助运动员克服失误阴影，提升关键时刻心理素质。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "藏在春节里的劳动节",
+    "scores": {
+      "novelty": 14,
+      "resonance": 16,
+      "viral": 13,
+      "entertainment": 10,
+      "practical": 4,
+      "market": 5
+    },
+    "total_score": 62,
+    "grade": "良好",
+    "product_idea": {
+      "name": "“春节不打烊”零工市场",
+      "features": "针对春节期间的短期用工匹配平台，提供节日薪酬加倍与权益保障专区。",
+      "target_users": "春节期间空闲的兼职者、急需用工的服务业",
+      "value_proposition": "灵活匹配春节假期劳动力供需，让假日付出获得合理且温暖的回报。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "萨多洛夫花滑男单夺金",
+    "scores": {
+      "novelty": 10,
+      "resonance": 14,
+      "viral": 14,
+      "entertainment": 16,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 61,
+    "grade": "良好",
+    "product_idea": {
+      "name": "AI花滑编舞助手",
+      "features": "根据用户上传的音乐和动作习惯，利用AI生成个性化花滑训练节目方案。",
+      "target_users": "花样滑冰教练、学员",
+      "value_proposition": "利用科技辅助艺术创作，提供专业级训练参考，提升训练效率。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "杨瀚森NBA新秀赛10分2篮板",
+    "scores": {
+      "novelty": 13,
+      "resonance": 16,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 7
+    },
+    "total_score": 68,
+    "grade": "良好",
+    "product_idea": {
+      "name": "未来球星追踪卡",
+      "features": "基于新秀实时数据更新的数字球星卡，具备数据联动变化特性。",
+      "target_users": "篮球迷、卡牌收藏投资者",
+      "value_proposition": "随着球员现实表现波动的卡牌价值，增强用户的参与感与投资乐趣。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "回到老家后的10元买菜威力",
+    "scores": {
+      "novelty": 15,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 15,
+      "practical": 7,
+      "market": 9
+    },
+    "total_score": 83,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "城乡物价PK与助农电商",
+      "features": "展示城乡物价差异的互动社区，并直链源头农户进行“年货包”直邮。",
+      "target_users": "返乡过年人群、注重性价比的家庭用户",
+      "value_proposition": "利用巨大的物价反差制造话题，同时转化为高性价比农产品的销售渠道。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "马年表情包",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 18,
+      "entertainment": 17,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 67,
+    "grade": "良好",
+    "product_idea": {
+      "name": "AI生肖运势头像生成器",
+      "features": "根据用户生肖和运势生成专属的年度社交头像，内置祝福彩蛋。",
+      "target_users": "年轻社交媒体用户、微信活跃人群",
+      "value_proposition": "提供低门槛的春节社交货币，帮助用户在拜年活动中彰显个性。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "保罗正式宣布退役",
+    "scores": {
+      "novelty": 12,
+      "resonance": 18,
+      "viral": 17,
+      "entertainment": 13,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 70,
+    "grade": "良好",
+    "product_idea": {
+      "name": "传奇体育生涯回忆录",
+      "features": "AI驱动的球星职业生涯高光混剪生成工具，一键制作致敬视频。",
+      "target_users": "NBA球迷、内容创作者",
+      "value_proposition": "让粉丝通过简单工具表达对偶像的致敬，降低UGC视频制作门槛。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "本周谣言鉴别",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 12,
+      "entertainment": 8,
+      "practical": 9,
+      "market": 6
+    },
+    "total_score": 57,
+    "grade": "普通",
+    "product_idea": {
+      "name": "辟谣小助手小程序",
+      "features": "基于搜索热点的自动辟谣插件，支持链接一键转发并展示权威来源。",
+      "target_users": "中老年微信群群主、关注时事的大众",
+      "value_proposition": "快速识别并粉碎家族群谣言，维护健康的社交网络环境。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "杨瀚森晃晕克林根",
+    "scores": {
+      "novelty": 16,
+      "resonance": 17,
+      "viral": 18,
+      "entertainment": 17,
+      "practical": 2,
+      "market": 7
+    },
+    "total_score": 77,
+    "grade": "良好",
+    "product_idea": {
+      "name": "赛场高光集锦剪辑Bot",
+      "features": "自动捕捉体育直播中的精彩过人/进球瞬间，生成短视频并分发。",
+      "target_users": "自媒体博主、体育短视频观众",
+      "value_proposition": "自动化捕捉流量爆点，解决内容创作者素材筛选与剪辑的痛点。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "日本释放被捕的中国渔船船长",
+    "scores": {
+      "novelty": 6,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 2,
+      "practical": 3,
+      "market": 2
+    },
+    "total_score": 35,
+    "grade": "普通",
+    "product_idea": {
+      "name": "海事安全实时通讯终端",
+      "features": "具备一键报警、海界偏离预警的便携式通讯设备。",
+      "target_users": "沿海渔民、海事作业人员",
+      "value_proposition": "保障海上作业人员的人身安全，提供紧急避险支持。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "镜头里的年味儿",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 13,
+      "practical": 5,
+      "market": 8
+    },
+    "total_score": 66,
+    "grade": "良好",
+    "product_idea": {
+      "name": "家乡影像云相册",
+      "features": "支持家庭成员共同上传春节照片，AI自动生成“村味”Vlog的协作App。",
+      "target_users": "返乡探亲的家庭、摄影爱好者",
+      "value_proposition": "用影像记录家族春节记忆，促进家庭成员间的情感连接与分享。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "中方将对53个非洲建交国实施零关税",
+    "scores": {
+      "novelty": 12,
+      "resonance": 10,
+      "viral": 8,
+      "entertainment": 3,
+      "practical": 9,
+      "market": 10
+    },
+    "total_score": 52,
+    "grade": "普通",
+    "product_idea": {
+      "name": "中非优选跨境电商平台",
+      "features": "专注于零关税名单商品的B2B/B2C交易撮合平台，提供供应链物流服务。",
+      "target_users": "进出口贸易商、非洲商品采购商",
+      "value_proposition": "利用政策红利，直接对接非洲优质产地资源，降低采购成本。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "电影东北恋哥3上线",
+    "scores": {
+      "novelty": 8,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 14,
+      "practical": 3,
+      "market": 8
+    },
+    "total_score": 55,
+    "grade": "普通",
+    "product_idea": {
+      "name": "方言影视点播与周边商城",
+      "features": "聚合地方特色影视内容的流媒体，并销售剧中同款地域特色商品。",
+      "target_users": "方言文化爱好者、东北电影受众",
+      "value_proposition": "强化地域文化圈层，通过影视内容带动地域特色商品消费。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "2026温暖中国年",
+    "scores": {
+      "novelty": 8,
+      "resonance": 14,
+      "viral": 10,
+      "entertainment": 10,
+      "practical": 4,
+      "market": 6
+    },
+    "total_score": 52,
+    "grade": "普通",
+    "product_idea": {
+      "name": "AR春节年俗地图",
+      "features": "基于LBS的AR实景寻找年俗活动，集福字换实体年货礼品。",
+      "target_users": "全年龄段大众用户",
+      "value_proposition": "结合线上互动与线下消费，重振春节线下商圈活力。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "官方回应湛江海滩现疑似儒艮尸体",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 15,
+      "entertainment": 6,
+      "practical": 6,
+      "market": 5
+    },
+    "total_score": 58,
+    "grade": "普通",
+    "product_idea": {
+      "name": "濒危物种守护AR科普",
+      "features": "通过AR还原儒艮等濒危物种的形态与生存环境，提供科普知识与保护捐赠通道。",
+      "target_users": "学生、环保主义者、亲子家庭",
+      "value_proposition": "借助热点事件进行自然科普，激发公众的生态保护意识与行动。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "央媒点赞Seedance2.0",
+    "scores": {
+      "novelty": 14,
+      "resonance": 12,
+      "viral": 14,
+      "entertainment": 15,
+      "practical": 7,
+      "market": 9
+    },
+    "total_score": 71,
+    "grade": "良好",
+    "product_idea": {
+      "name": "AI国风编舞社区",
+      "features": "结合Seedance2.0技术，允许用户上传国风音乐，AI生成适合传播的短视频编舞教程。",
+      "target_users": "短视频创作者、国风舞蹈爱好者",
+      "value_proposition": "利用AI降低国风舞蹈创作门槛，促进优质文化内容的传播与推广。"
+    }
+  }
+]
