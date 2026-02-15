@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "米兰冬奥会第九个比赛日赛程",
+    "scores": {
+      "novelty": 12,
+      "resonance": 15,
+      "viral": 10,
+      "entertainment": 14,
+      "practical": 8,
+      "market": 4
+    },
+    "total_score": 63,
+    "grade": "良好",
+    "product_idea": {
+      "name": "看赛管家",
+      "features": "订阅特定项目/运动员提醒，智能生成赛程时间表（含时区转换），热门比赛高光集锦自动剪辑。",
+      "target_users": "冰雪运动爱好者、由于时差无法熬夜看比赛的上班族。",
+      "value_proposition": "不错过任何夺金时刻，让你高效掌握冬奥赛程。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "抖音年味争霸巅峰赛",
+    "scores": {
+      "novelty": 14,
+      "resonance": 16,
+      "viral": 18,
+      "entertainment": 16,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "家族年味PK榜",
+      "features": "家庭组队上传年夜饭或年俗视频，AI生成趣味战报图，一键生成专属家族年味BGM视频。",
+      "target_users": "热衷拍摄短视频的家庭用户、年轻一代。",
+      "value_proposition": "用比拼的形式点燃过年热情，留住家族专属的数字记忆。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "各位游子 一路平安",
+    "scores": {
+      "novelty": 5,
+      "resonance": 19,
+      "viral": 10,
+      "entertainment": 5,
+      "practical": 5,
+      "market": 3
+    },
+    "total_score": 47,
+    "grade": "普通",
+    "product_idea": {
+      "name": "归家平安灯",
+      "features": "行程同步给家人，实时展示路况与预计到达时间，紧急情况一键报警求助。",
+      "target_users": "春运自驾或搭乘公共交通返乡的人群、在守候的父母。",
+      "value_proposition": "让牵挂可视化，缩短游子与家的心理距离。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "除夕悄悄许个愿吧",
+    "scores": {
+      "novelty": 10,
+      "resonance": 18,
+      "viral": 15,
+      "entertainment": 12,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 61,
+    "grade": "良好",
+    "product_idea": {
+      "name": "时光心愿胶囊",
+      "features": "用户录制或写下除夕愿望，设定来年除夕开启，可选择是否匿名公开，达成愿望后点亮徽章。",
+      "target_users": "年轻用户、对新年有期许的人群。",
+      "value_proposition": "给未来的自己寄送一份新年礼物，见证这一年的成长与变化。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "骏马贺新春电子贺卡",
+    "scores": {
+      "novelty": 8,
+      "resonance": 12,
+      "viral": 16,
+      "entertainment": 13,
+      "practical": 6,
+      "market": 7
+    },
+    "total_score": 62,
+    "grade": "良好",
+    "product_idea": {
+      "name": "AI拜年贴纸生成器",
+      "features": "上传照片即可生成身穿年服骑马/舞龙等动作的高清拜年视频，支持个性化文案语音合成。",
+      "target_users": "需要发送节日祝福的中青年群体。",
+      "value_proposition": "拒绝群发复制粘贴，用更有创意的AI视频送出独一无二的新春祝福。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "中方对加拿大英国免签",
+    "scores": {
+      "novelty": 18,
+      "resonance": 14,
+      "viral": 16,
+      "entertainment": 5,
+      "practical": 10,
+      "market": 9
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "说走就走助手",
+      "features": "免签国政策实时推送，小众免签目的地挖掘攻略，一键生成7天轻旅行计划。",
+      "target_users": "有出境游意向的白领、旅行爱好者。",
+      "value_proposition": "抓住免签政策红利，最低决策成本规划你的下一次出境旅行。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "凯沙德约翰逊扣篮大赛冠军",
+    "scores": {
+      "novelty": 15,
+      "resonance": 10,
+      "viral": 16,
+      "entertainment": 18,
+      "practical": 1,
+      "market": 4
+    },
+    "total_score": 64,
+    "grade": "良好",
+    "product_idea": {
+      "name": "球星高光时刻卡",
+      "features": "将精彩扣篮瞬间一键制作成3D特效集锦卡，支持单抽和集卡玩法，卡面可定制用户ID。",
+      "target_users": "NBA球迷、体育迷。",
+      "value_proposition": "将稍纵即逝的赛场激动瞬间变成你的永久数字收藏。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "利拉德三分大赛三冠王",
+    "scores": {
+      "novelty": 14,
+      "resonance": 12,
+      "viral": 14,
+      "entertainment": 16,
+      "practical": 1,
+      "market": 4
+    },
+    "total_score": 61,
+    "grade": "良好",
+    "product_idea": {
+      "name": "神射手AI分析",
+      "features": "上传投篮视频，AI对比职业球星动作（如利拉德），生成投篮姿势修正建议和训练计划。",
+      "target_users": "篮球爱好者、野球场球员。",
+      "value_proposition": "像利拉德一样投篮，利用AI技术矫正你的投篮姿势。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "晒出你回村后的穿搭",
+    "scores": {
+      "novelty": 16,
+      "resonance": 19,
+      "viral": 19,
+      "entertainment": 18,
+      "practical": 4,
+      "market": 6
+    },
+    "total_score": 82,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "反差感穿搭挑战",
+      "features": "智能识别视频中的城市与乡村场景，生成“都市丽人vs村口二丫”的对比图和鬼畜视频模板。",
+      "target_users": "返乡过年的年轻人、时尚博主。",
+      "value_proposition": "利用城乡反差制造社交货币，让每一次回村都成为一场秀。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "各凭本事要红包的时刻到了",
+    "scores": {
+      "novelty": 12,
+      "resonance": 17,
+      "viral": 17,
+      "entertainment": 16,
+      "practical": 3,
+      "market": 5
+    },
+    "total_score": 70,
+    "grade": "良好",
+    "product_idea": {
+      "name": "讨口彩红包生成器",
+      "features": "根据发送对象（如老板、长辈、暗恋对象）生成不同风格的讨红包话术和趣味海报。",
+      "target_users": "春节需要社交互动的年轻人。",
+      "value_proposition": "既要面子又要红包，用幽默和创意让你的拜年更有回报。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "回村过年vlog",
+    "scores": {
+      "novelty": 10,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 15,
+      "practical": 4,
+      "market": 5
+    },
+    "total_score": 68,
+    "grade": "良好",
+    "product_idea": {
+      "name": "村事记录仪",
+      "features": "提供春节Vlog智能分镜脚本（如：年夜饭、放鞭炮、搓麻将），一键混剪成片，配乐自动卡点。",
+      "target_users": "短视频创作者、普通记录者。",
+      "value_proposition": "不需要专业剪辑技巧，也能拍出电影级的春节返乡纪录片。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "2026广东卫视春晚节目单",
+    "scores": {
+      "novelty": 5,
+      "resonance": 10,
+      "viral": 8,
+      "entertainment": 12,
+      "practical": 8,
+      "market": 5
+    },
+    "total_score": 48,
+    "grade": "普通",
+    "product_idea": {
+      "name": "春晚追更助手",
+      "features": "聚合各大卫视春晚节目单，支持标记感兴趣的节目（如特定明星/语言类节目），到点自动弹窗提醒。",
+      "target_users": "春晚观众、特定明星粉丝。",
+      "value_proposition": "在茫茫节目海中精准捕捉你的最爱，拒绝遥控器战争。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "江西南城县辟谣桥下挖到金子",
+    "scores": {
+      "novelty": 16,
+      "resonance": 15,
+      "viral": 18,
+      "entertainment": 12,
+      "practical": 6,
+      "market": 3
+    },
+    "total_score": 70,
+    "grade": "良好",
+    "product_idea": {
+      "name": "谣言粉碎机",
+      "features": "针对突发热点事件，利用AI搜索全网信源并生成时间线分析图，快速辨别真伪。",
+      "target_users": "信息敏感度高的网民、中老年群体。",
+      "value_proposition": "在信息过载的时代，做你的私人事实核查员，拒绝被收割流量。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "春节小型客车上高速连续9天免费",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 5,
+      "practical": 10,
+      "market": 8
+    },
+    "total_score": 62,
+    "grade": "良好",
+    "product_idea": {
+      "name": "错峰避堵导航",
+      "features": "基于免费通行政策，结合大数据预测拥堵时段，推荐最佳出发时间（如凌晨或免费期中间段），提供沿途充电桩/油站预热。",
+      "target_users": "春节自驾车主。",
+      "value_proposition": "享受政策红利的同时，利用数据智慧规避高速拥堵，省时更省心。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "孙龙膝盖受伤疑似流血",
+    "scores": {
+      "novelty": 8,
+      "resonance": 14,
+      "viral": 12,
+      "entertainment": 5,
+      "practical": 3,
+      "market": 2
+    },
+    "total_score": 44,
+    "grade": "普通",
+    "product_idea": {
+      "name": "运动康复百科",
+      "features": "针对运动损伤提供急救常识科普，连接附近运动康复诊所，提供损伤预防训练视频。",
+      "target_users": "运动爱好者、退役运动员。",
+      "value_proposition": "普及运动急救知识，连接专业康复资源，为运动健康保驾护航。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "家人团圆才是过年的意义",
+    "scores": {
+      "novelty": 2,
+      "resonance": 19,
+      "viral": 13,
+      "entertainment": 5,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 43,
+    "grade": "普通",
+    "product_idea": {
+      "name": "云团圆相册",
+      "features": "家庭成员共同上传春节照片，AI自动整理生成电子家书，支持多人在线语音备注。",
+      "target_users": "异地家庭、无法回家的游子。",
+      "value_proposition": "物理距离无法阻隔亲情，用科技构建云端团圆的温暖角落。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "生命树大结局",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 15,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 63,
+    "grade": "良好",
+    "product_idea": {
+      "name": "剧透雷达",
+      "features": "针对热门剧集结局，提供多维度结局解析视频，以及“如果结局是这样”的AI改写功能。",
+      "target_users": "剧粉、意难平观众。",
+      "value_proposition": "结局太虐？用AI改写你心中的完美结局，治愈你的意难平。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "辽宁卫视春晚节目单",
+    "scores": {
+      "novelty": 5,
+      "resonance": 10,
+      "viral": 8,
+      "entertainment": 12,
+      "practical": 8,
+      "market": 5
+    },
+    "total_score": 48,
+    "grade": "普通",
+    "product_idea": {
+      "name": "春晚锦集收割机",
+      "features": "跨台抓取所有春晚高光片段（语言类、魔术等），按热度排序，跳过无聊环节。",
+      "target_users": "只想看精华的年轻观众。",
+      "value_proposition": "把8小时春晚浓缩成20分钟爆笑集锦，不看废话只看精华。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "马年春晚倒计时1天",
+    "scores": {
+      "novelty": 5,
+      "resonance": 15,
+      "viral": 12,
+      "entertainment": 10,
+      "practical": 4,
+      "market": 4
+    },
+    "total_score": 50,
+    "grade": "普通",
+    "product_idea": {
+      "name": "春节倒数日历",
+      "features": "显示距离春节的精准倒计时，每日解锁一个春节冷知识或互动小游戏（如写福字、扫尘）。",
+      "target_users": "期待过年的全年龄段用户。",
+      "value_proposition": "拉长春节期待感，用倒数仪式感迎接新年的到来。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "谷爱凌第2名晋级大跳台决赛",
+    "scores": {
+      "novelty": 12,
+      "resonance": 17,
+      "viral": 16,
+      "entertainment": 16,
+      "practical": 2,
+      "market": 7
+    },
+    "total_score": 70,
+    "grade": "良好",
+    "product_idea": {
+      "name": "爱凌穿搭指南",
+      "features": "识别比赛直播中谷爱凌的服装装备，提供同款购买链接及平替推荐，分析滑雪装备参数。",
+      "target_users": "滑雪运动者、粉丝群体、时尚爱好者。",
+      "value_proposition": "从竞技场到秀场，紧跟冠军的时尚与专业步伐，一站式滑雪装备导购。"
+    }
+  }
+]
