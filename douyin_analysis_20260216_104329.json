@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "央视马年春晚节目单公布",
+    "scores": {
+      "novelty": 5,
+      "resonance": 15,
+      "viral": 10,
+      "entertainment": 12,
+      "practical": 8,
+      "market": 5
+    },
+    "total_score": 55,
+    "grade": "普通",
+    "product_idea": {
+      "name": "春晚全攻略小程序",
+      "features": "提供节目单实时查询、精彩看点划重点、一键吐槽互动功能。",
+      "target_users": "春晚观众及参与社交媒体讨论的用户。",
+      "value_proposition": "提供一份可以边看边互动的数字节目单，让看春晚不再枯燥。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "央视马年春晚",
+    "scores": {
+      "novelty": 2,
+      "resonance": 18,
+      "viral": 15,
+      "entertainment": 15,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 56,
+    "grade": "普通",
+    "product_idea": {
+      "name": "春晚吐槽弹幕神器",
+      "features": "视频同步弹幕、神吐槽生成器、话题热度实时榜。",
+      "target_users": "喜爱互动的年轻观众。",
+      "value_proposition": "把一个人的孤单看春晚，变成千万人的狂欢吐槽派对。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "过春节这些防火细节请注意",
+    "scores": {
+      "novelty": 5,
+      "resonance": 10,
+      "viral": 10,
+      "entertainment": 2,
+      "practical": 10,
+      "market": 5
+    },
+    "total_score": 42,
+    "grade": "普通",
+    "product_idea": {
+      "name": "家庭安全卫士AR",
+      "features": "手机扫描房间识别隐患（如插座过载）、春节安全知识闯关游戏。",
+      "target_users": "注重家庭安全的户主。",
+      "value_proposition": "用科技手段将枯燥的安全知识可视化，确保节日平安。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "抖音新春联欢会",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 16,
+      "entertainment": 16,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 66,
+    "grade": "良好",
+    "product_idea": {
+      "name": "同框看春晚滤镜",
+      "features": "与直播主播或明星虚拟同框、实时合拍视频生成。",
+      "target_users": "短视频重度用户。",
+      "value_proposition": "打破屏幕界限，让用户从观众变成新春联欢会的参与者。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "今年的春节祝福这样说",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 16,
+      "entertainment": 12,
+      "practical": 8,
+      "market": 6
+    },
+    "total_score": 66,
+    "grade": "良好",
+    "product_idea": {
+      "name": "AI 个性化拜年语音生成器",
+      "features": "输入关键词生成专属吉祥话、定制明星/方言语音拜年。",
+      "target_users": "需要发送大量祝福的年轻人。",
+      "value_proposition": "拒绝复制粘贴的群发祝福，用AI生成独一无二的拜年话术。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "终于轮到我晒年夜饭了",
+    "scores": {
+      "novelty": 10,
+      "resonance": 18,
+      "viral": 18,
+      "entertainment": 14,
+      "practical": 4,
+      "market": 5
+    },
+    "total_score": 69,
+    "grade": "良好",
+    "product_idea": {
+      "name": "舌尖上的春节相册",
+      "features": "自动识别菜品并修图、生成家族美食地图、一键生成年夜饭视频。",
+      "target_users": "美食爱好者及家庭主理人。",
+      "value_proposition": "不仅晒出美味，更记录家族传承的味道与温情。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "今日除夕",
+    "scores": {
+      "novelty": 0,
+      "resonance": 20,
+      "viral": 12,
+      "entertainment": 5,
+      "practical": 5,
+      "market": 2
+    },
+    "total_score": 44,
+    "grade": "普通",
+    "product_idea": {
+      "name": "除夕时刻提醒器",
+      "features": "精准提醒交子时刻、各地新年倒计时直播流。",
+      "target_users": "注重仪式感的用户。",
+      "value_proposition": "不错过新旧交替的每一个重要时刻，守候新年第一秒。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "我家的除夕氛围组已上线",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 17,
+      "entertainment": 16,
+      "practical": 4,
+      "market": 6
+    },
+    "total_score": 71,
+    "grade": "良好",
+    "product_idea": {
+      "name": "智能氛围DIY套件",
+      "features": "声控烟花灯效、手机同步节日光影、根据音乐律动的装饰灯。",
+      "target_users": "喜欢节日装饰和家居布置的年轻人。",
+      "value_proposition": "低成本打造电影级的新年氛围，拍照出片神器。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "家庭春节联欢晚会",
+    "scores": {
+      "novelty": 14,
+      "resonance": 15,
+      "viral": 15,
+      "entertainment": 17,
+      "practical": 4,
+      "market": 7
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "家庭云春晚策划App",
+      "features": "提供家庭节目脚本、AI机位指导、一键生成家庭春晚精彩集锦。",
+      "target_users": "大家庭聚会群体。",
+      "value_proposition": "把家庭聚会变成专业的综艺节目，留下珍贵的高质量家庭影像。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "我的新年心愿",
+    "scores": {
+      "novelty": 6,
+      "resonance": 14,
+      "viral": 10,
+      "entertainment": 8,
+      "practical": 5,
+      "market": 6
+    },
+    "total_score": 49,
+    "grade": "普通",
+    "product_idea": {
+      "name": "新年心愿时光胶囊",
+      "features": "写下心愿并封存、设定明年今日开启、陌生人心愿交换。",
+      "target_users": "有计划习惯或情感寄托需求的用户。",
+      "value_proposition": "给未来的自己写一封信，让新年心愿不仅仅是许愿，更是成长的见证。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "林孝埈孙龙刘少昂男子500米预赛",
+    "scores": {
+      "novelty": 10,
+      "resonance": 14,
+      "viral": 14,
+      "entertainment": 12,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 58,
+    "grade": "普通",
+    "product_idea": {
+      "name": "赛事高光剪辑助手",
+      "features": "AI自动识别比赛精彩瞬间、一键生成球星集锦、添加解说特效。",
+      "target_users": "体育迷及二次创作者。",
+      "value_proposition": "让普通观众也能快速制作专业级的赛事精彩回顾视频。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "烟花一开年味就来",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 16,
+      "entertainment": 16,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 67,
+    "grade": "良好",
+    "product_idea": {
+      "name": "AR元宇宙烟花秀",
+      "features": "在现实场景中叠加虚拟烟花、沉浸式燃放体验、环保无污染。",
+      "target_users": "禁放地区用户及烟花爱好者。",
+      "value_proposition": "随时随地想放就放，用科技弥补无法燃放烟花的遗憾。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "“太原出现了疫情”系谣言",
+    "scores": {
+      "novelty": 4,
+      "resonance": 10,
+      "viral": 8,
+      "entertainment": 0,
+      "practical": 9,
+      "market": 2
+    },
+    "total_score": 33,
+    "grade": "普通",
+    "product_idea": {
+      "name": "辟谣助手小程序",
+      "features": "即时辟谣新闻推送、谣言特征扫描。",
+      "target_users": "关注时事的中老年群体。",
+      "value_proposition": "在信息过载的时代，做用户身边最权威的信息过滤器。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "一代人有一代人的年夜饭",
+    "scores": {
+      "novelty": 15,
+      "resonance": 16,
+      "viral": 17,
+      "entertainment": 14,
+      "practical": 5,
+      "market": 7
+    },
+    "total_score": 74,
+    "grade": "良好",
+    "product_idea": {
+      "name": "时光味道食谱",
+      "features": "复古美食复刻教程、年代菜系生成器、祖传菜谱数字化保存。",
+      "target_users": "传承家庭饮食文化的年轻人。",
+      "value_proposition": "复刻记忆中的味道，让年夜饭成为连接代际沟通的桥梁。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "杨瀚森记录首次全明星之旅",
+    "scores": {
+      "novelty": 8,
+      "resonance": 10,
+      "viral": 10,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 44,
+    "grade": "普通",
+    "product_idea": {
+      "name": "球星卡数字化管家",
+      "features": "球星卡AR展示、赛事数据联动、虚拟卡片交换。",
+      "target_users": "Z世代体育迷及收藏家。",
+      "value_proposition": "实体球星卡的数字孪生，让收藏和炫耀更便捷。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "谷爱凌出战自由式滑雪大跳台",
+    "scores": {
+      "novelty": 12,
+      "resonance": 15,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 66,
+    "grade": "良好",
+    "product_idea": {
+      "name": "冠军同款滑雪挑战",
+      "features": "AI分析用户滑雪动作、对比明星动作、生成运动Vlog。",
+      "target_users": "滑雪爱好者及运动时尚人群。",
+      "value_proposition": "借助明星效应，带动大众参与滑雪运动，同时推广专业装备。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "隋文静韩聪晋级双人自由滑",
+    "scores": {
+      "novelty": 10,
+      "resonance": 13,
+      "viral": 13,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 7
+    },
+    "total_score": 59,
+    "grade": "普通",
+    "product_idea": {
+      "name": "花样滑冰动作学习库",
+      "features": "专业动作3D拆解、训练计划定制、AI姿态纠正。",
+      "target_users": "花样滑冰初学者及爱好者。",
+      "value_proposition": "将竞技体育的高难度动作转化为大众可学习的健身课程。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "定格新年的绚烂瞬间",
+    "scores": {
+      "novelty": 8,
+      "resonance": 14,
+      "viral": 14,
+      "entertainment": 10,
+      "practical": 4,
+      "market": 5
+    },
+    "total_score": 55,
+    "grade": "普通",
+    "product_idea": {
+      "name": "春节大片拍摄模板库",
+      "features": "运镜教学、电影感滤镜、烟花人像模式预设。",
+      "target_users": "摄影爱好者及普通游客。",
+      "value_proposition": "无需专业技能，用手机也能拍出电影质感的春节大片。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "詹姆斯祝福中国球迷新年快乐",
+    "scores": {
+      "novelty": 14,
+      "resonance": 16,
+      "viral": 16,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 9
+    },
+    "total_score": 67,
+    "grade": "良好",
+    "product_idea": {
+      "name": "巨星拜年生成器",
+      "features": "利用AI换脸或TTS技术，生成用户喜爱的体育明星给自己拜年的视频。",
+      "target_users": "体育粉丝群体。",
+      "value_proposition": "满足粉丝与偶像互动的幻想，制造极具传播力的个性化祝福。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "库里表示明年将参加三分球大赛",
+    "scores": {
+      "novelty": 16,
+      "resonance": 14,
+      "viral": 16,
+      "entertainment": 12,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 68,
+    "grade": "良好",
+    "product_idea": {
+      "name": "模拟三分大赛主场",
+      "features": "线下AR投篮投射区、数据实时排名、挑战赢取周边。",
+      "target_users": "篮球迷及商场消费者。",
+      "value_proposition": "将线上热点话题转化为线下的互动娱乐体验，实现商业引流。"
+    }
+  }
+]
