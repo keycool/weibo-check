@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "春晚机器人厉害在哪里",
+    "scores": {
+      "novelty": 18,
+      "resonance": 16,
+      "viral": 19,
+      "entertainment": 18,
+      "practical": 7,
+      "market": 9
+    },
+    "total_score": 87,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "机器人技术透视：AR科普应用",
+      "features": "识别春晚机器人视频，利用AR技术展示其内部结构、运动算法原理及硬件参数，将高深科技可视化。",
+      "target_users": "科技爱好者、学生家长、极客人群",
+      "value_proposition": "满足大众对黑科技的好奇心，提供寓教于乐的科普新体验，打破信息差。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "春节里的传统文化含量拉满了",
+    "scores": {
+      "novelty": 14,
+      "resonance": 19,
+      "viral": 17,
+      "entertainment": 15,
+      "practical": 6,
+      "market": 8
+    },
+    "total_score": 79,
+    "grade": "良好",
+    "product_idea": {
+      "name": "国潮风尚：传统纹饰AI生成器",
+      "features": "基于春节热门的传统元素，AI辅助设计具有国风特色的壁纸、头像或包装图案。",
+      "target_users": "年轻用户、设计师、国风爱好者",
+      "value_proposition": "让传统文化触手可及，满足用户春节期间在社交媒体展示个性与审美需求。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "春节档电影总票房破10亿",
+    "scores": {
+      "novelty": 10,
+      "resonance": 15,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 8,
+      "market": 9
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "票房预测与观影决策助手",
+      "features": "整合实时票房数据与观众口碑，分析电影热度趋势，推荐高性价比观影场次。",
+      "target_users": "电影观众、投资者",
+      "value_proposition": "利用大数据解决春节档选片难、排队久的问题，优化观影体验与投资决策。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "手机游戏性能大横评",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 15,
+      "entertainment": 16,
+      "practical": 9,
+      "market": 8
+    },
+    "total_score": 74,
+    "grade": "良好",
+    "product_idea": {
+      "name": "云测机：手机性能实测聚合平台",
+      "features": "提供众包模式的真实手机游戏帧率、发热及耗电数据，而非实验室数据。",
+      "target_users": "手游玩家、购机用户",
+      "value_proposition": "通过真实玩家数据建立最权威的手机游戏性能排行榜，辅助购机决策。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "校园人的春节联欢会",
+    "scores": {
+      "novelty": 16,
+      "resonance": 17,
+      "viral": 16,
+      "entertainment": 17,
+      "practical": 5,
+      "market": 6
+    },
+    "total_score": 77,
+    "grade": "良好",
+    "product_idea": {
+      "name": "校友云春晚：线上才艺秀场",
+      "features": "按学校或班级划分的线上直播间，支持弹幕互动、节目投票与云端合拍。",
+      "target_users": "在校学生、毕业校友",
+      "value_proposition": "打破地域限制，增强校友凝聚力，打造专属校园回忆的社交货币。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "春晚粉彩风配色神来之笔",
+    "scores": {
+      "novelty": 13,
+      "resonance": 14,
+      "viral": 17,
+      "entertainment": 14,
+      "practical": 7,
+      "market": 8
+    },
+    "total_score": 73,
+    "grade": "良好",
+    "product_idea": {
+      "name": "同色 vibes：春晚同款配色提取工具",
+      "features": "截取春晚画面色彩，生成对应的设计色卡，并提供穿搭、美妆或家居配色建议。",
+      "target_users": "美妆博主、穿搭达人、设计师",
+      "value_proposition": "借势顶级舞台的审美，为用户提供即时可用的美学解决方案。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "中国速滑男团历史性夺铜",
+    "scores": {
+      "novelty": 14,
+      "resonance": 19,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 4,
+      "market": 7
+    },
+    "total_score": 74,
+    "grade": "良好",
+    "product_idea": {
+      "name": "荣耀时刻：赛事高光集锦NFT",
+      "features": "将夺铜瞬间制作成数字藏品或动态海报，供粉丝收藏和分享。",
+      "target_users": "体育迷、粉丝群体",
+      "value_proposition": "纪念历史性突破，将爱国情感转化为可永久保存的数字资产。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "上春晚也不忘推荐家乡美食",
+    "scores": {
+      "novelty": 15,
+      "resonance": 16,
+      "viral": 18,
+      "entertainment": 15,
+      "practical": 6,
+      "market": 8
+    },
+    "total_score": 78,
+    "grade": "良好",
+    "product_idea": {
+      "name": "星选家乡：名人种草美食地图",
+      "features": "基于明星在春晚上提到的家乡美食，生成美食地图及购买渠道。",
+      "target_users": "吃货、追星族、外地游客",
+      "value_proposition": "利用明星效应带动地方特产销售，满足粉丝同款消费心理。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "徐梦桃齐广璞比赛延期",
+    "scores": {
+      "novelty": 8,
+      "resonance": 12,
+      "viral": 12,
+      "entertainment": 10,
+      "practical": 6,
+      "market": 5
+    },
+    "total_score": 53,
+    "grade": "普通",
+    "product_idea": {
+      "name": "赛况追踪：智能赛事日历",
+      "features": "实时同步体育赛事变动（延期、加场），并自动推送提醒到用户日历。",
+      "target_users": "体育迷、购票观众",
+      "value_proposition": "解决赛事变动导致的信息不对称，避免用户错过重要比赛。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "谷爱凌：拥有5块奥运奖牌很开心",
+    "scores": {
+      "novelty": 10,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 13,
+      "practical": 5,
+      "market": 8
+    },
+    "total_score": 70,
+    "grade": "良好",
+    "product_idea": {
+      "name": "冠军课：明星运动员专属健身APP",
+      "features": "由谷爱凌等冠军开设视频课程，包含日常训练与心态调整。",
+      "target_users": "健身人群、青少年学生",
+      "value_proposition": "利用顶级运动员的个人品牌效应，提供专业且励志的运动指导。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "霍尔木兹海峡部分区域将关闭数小时",
+    "scores": {
+      "novelty": 12,
+      "resonance": 10,
+      "viral": 13,
+      "entertainment": 5,
+      "practical": 8,
+      "market": 6
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球通：时事影响预警工具",
+      "features": "分析国际地缘政治事件对物流、油价及跨境电商的潜在影响。",
+      "target_users": "跨境贸易商、物流从业者、投资者",
+      "value_proposition": "将宏观新闻转化为具体的行业风险预警与操作建议。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "编造绿皮车超员谣言 多人被罚",
+    "scores": {
+      "novelty": 8,
+      "resonance": 13,
+      "viral": 12,
+      "entertainment": 8,
+      "practical": 6,
+      "market": 4
+    },
+    "total_score": 51,
+    "grade": "普通",
+    "product_idea": {
+      "name": "真探：辟谣新闻核查插件",
+      "features": "针对热搜话题自动检索官方通报，标记谣言或未经证实的信息。",
+      "target_users": "网民、新媒体运营者",
+      "value_proposition": "对抗虚假信息，提供快速核实渠道，维护清朗网络空间。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "林剑分享春晚机器人武术视频",
+    "scores": {
+      "novelty": 15,
+      "resonance": 15,
+      "viral": 17,
+      "entertainment": 16,
+      "practical": 6,
+      "market": 7
+    },
+    "total_score": 76,
+    "grade": "良好",
+    "product_idea": {
+      "name": "功夫Bot：AI动作对齐挑战",
+      "features": "用户拍摄视频模仿春晚机器人动作，AI打分并生成趣味对比视频。",
+      "target_users": "短视频用户、体育爱好者",
+      "value_proposition": "结合科技热点与互动挑战，极易引发UGC传播和参与。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "2026天津春晚",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 13,
+      "entertainment": 10,
+      "practical": 5,
+      "market": 6
+    },
+    "total_score": 56,
+    "grade": "普通",
+    "product_idea": {
+      "name": "城市心愿单：市民节目投票平台",
+      "features": "让市民投票选出想看的节目形式或艺人，为春晚筹备提供数据支持。",
+      "target_users": "天津市民、节目组",
+      "value_proposition": "增加春晚筹备的互动性，让内容更贴近观众喜好。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "人形机器人会有失控风险吗",
+    "scores": {
+      "novelty": 17,
+      "resonance": 16,
+      "viral": 18,
+      "entertainment": 15,
+      "practical": 7,
+      "market": 8
+    },
+    "total_score": 81,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "智械纪元：AI伦理讨论社区",
+      "features": "专注于AI安全、伦理及未来风险的深度讨论与科普内容平台。",
+      "target_users": "科技从业者、科幻迷、思考者",
+      "value_proposition": "捕捉公众对AI技术的焦虑与好奇，提供高质量的知识交流空间。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "春晚机器人齐聚抖音",
+    "scores": {
+      "novelty": 14,
+      "resonance": 15,
+      "viral": 16,
+      "entertainment": 15,
+      "practical": 6,
+      "market": 7
+    },
+    "total_score": 73,
+    "grade": "良好",
+    "product_idea": {
+      "name": "机甲朋友圈：虚拟机器人互动",
+      "features": "在抖音平台开发虚拟宠物类机器人，可进行对话、跳舞合拍等互动。",
+      "target_users": "Z世代、二次元用户",
+      "value_proposition": "将春晚硬核科技软化为可爱的数字伴侣，增加用户粘性。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "苹果春季发布会落地上海",
+    "scores": {
+      "novelty": 12,
+      "resonance": 15,
+      "viral": 16,
+      "entertainment": 13,
+      "practical": 8,
+      "market": 9
+    },
+    "total_score": 73,
+    "grade": "良好",
+    "product_idea": {
+      "name": "果粉汇：发布会线下聚会助手",
+      "features": "组织发布会线下观看派对，提供同声传译、周边交换及设备体验功能。",
+      "target_users": "苹果用户、科技博主",
+      "value_proposition": "强化科技信仰社交圈，提升新品发布的线下参与感与热度。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "谷爱凌祝大家新春快乐",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 12,
+      "practical": 4,
+      "market": 7
+    },
+    "total_score": 61,
+    "grade": "良好",
+    "product_idea": {
+      "name": "明星拜年管家：定制祝福视频",
+      "features": "利用数字人技术合成明星口型的拜年视频，用户可输入定制文案。",
+      "target_users": "广泛大众",
+      "value_proposition": "利用名人效应满足用户寻求好运和社交展示的心理。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "海来阿木梦底纯享版来了",
+    "scores": {
+      "novelty": 10,
+      "resonance": 14,
+      "viral": 13,
+      "entertainment": 15,
+      "practical": 5,
+      "market": 7
+    },
+    "total_score": 64,
+    "grade": "良好",
+    "product_idea": {
+      "name": "回声：音乐人现场直拍平台",
+      "features": "专注于上传和分享高质量的无修音现场表演（纯享版）。",
+      "target_users": "音乐发烧友、粉丝",
+      "value_proposition": "回归音乐本质，满足听众对真实唱功和沉浸式听感的追求。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "马年春晚大锁管乐小品又来了",
+    "scores": {
+      "novelty": 11,
+      "resonance": 13,
+      "viral": 14,
+      "entertainment": 16,
+      "practical": 5,
+      "market": 7
+    },
+    "total_score": 66,
+    "grade": "良好",
+    "product_idea": {
+      "name": "戏精附体：台词对拍挑战",
+      "features": "提取小品经典台词，发起分角色配音和对拍挑战。",
+      "target_users": "短视频用户、喜剧爱好者",
+      "价值_proposition": "利用热门IP内容激发用户创作欲望，形成病毒式传播链。"
+    }
+  }
+]

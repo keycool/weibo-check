@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "B站春晚 夯",
+    "scores": {
+      "novelty": 18,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 19,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 84,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "B站IPO 认购模拟器",
+      "features": "基于‘土味’审美的股票交易模拟游戏，用户可以使用‘夯’等黑话进行情绪化操盘，并在社区内晒出‘抽象’收益单。",
+      "target_users": "Z世代股民、鬼畜区爱好者、模拟游戏玩家",
+      "value_proposition": "用解构和恶搞的方式消解严肃金融话题，提供高情绪价值的社交货币。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "中国速滑男团铜牌",
+    "scores": {
+      "novelty": 12,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 3,
+      "market": 7
+    },
+    "total_score": 70,
+    "grade": "良好",
+    "product_idea": {
+      "name": "冠军同款 影音级冲刺体验馆",
+      "features": "结合 VR 和 动感平台，模拟速滑比赛的风阻和冰面触感，让用户在安全环境下体验奥运冲刺速度。",
+      "target_users": "运动爱好者、亲子家庭、团建客户",
+      "value_proposition": "打破冰雪运动地理和器材限制，提供低成本、高仿真的竞技体育快感。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "2026新春走基层",
+    "scores": {
+      "novelty": 5,
+      "resonance": 10,
+      "viral": 5,
+      "entertainment": 5,
+      "practical": 5,
+      "market": 3
+    },
+    "total_score": 33,
+    "grade": "普通",
+    "product_idea": {
+      "name": "基层故事 播客自动化剪辑工具",
+      "features": "自动抓取各地基层民生新闻素材，利用AI生成符合主流调性的短视频脚本和配音。",
+      "target_users": "融媒体中心记者、政务新媒体运营",
+      "value_proposition": "提升正能量内容的生产效率，降低选题策划成本。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "过年上淘宝闪购抢电影奶茶免单",
+    "scores": {
+      "novelty": 10,
+      "resonance": 15,
+      "viral": 16,
+      "entertainment": 12,
+      "practical": 9,
+      "market": 10
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "闲时福利 捡漏助手",
+      "features": "LBS定位推送附近商圈的‘临期/尾货’高折扣闪购信息，包含影院退票、奶茶闭店前买一送一等。",
+      "target_users": "价格敏感型消费者、大学生、灵活就业人员",
+      "value_proposition": "利用闲时资源错配，为用户提供极致性价比的本地生活服务。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "宋小宝 小品翻车",
+    "scores": {
+      "novelty": 15,
+      "resonance": 17,
+      "viral": 19,
+      "entertainment": 18,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 75,
+    "grade": "良好",
+    "product_idea": {
+      "name": "尬点捕捉 显眼包吐槽弹幕",
+      "features": "针对春晚或综艺直播，提供AI识别‘冷场’瞬间，并自动生成讽刺性弹幕或表情包供用户发送。",
+      "target_users": "吐槽向观众、弹幕文化爱好者",
+      "value_proposition": "将观看枯燥节目的痛苦转化为吐槽狂欢的乐趣，增强社交互动。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "都穿亮片裙不告诉王玉雯",
+    "scores": {
+      "novelty": 14,
+      "resonance": 15,
+      "viral": 17,
+      "entertainment": 16,
+      "practical": 3,
+      "market": 5
+    },
+    "total_score": 70,
+    "grade": "良好",
+    "product_idea": {
+      "name": "闺蜜默契大作战 换装挑战",
+      "features": "好友间通过App约定穿搭主题（如全员亮片），只有到聚会现场揭晓‘谁穿错了’或‘全员克隆’，并拍照打卡。",
+      "target_users": "年轻女性、社交达人、闺蜜群体",
+      "value_proposition": "将线下的恶作剧转化为线上的社交挑战游戏，增强好友间的互动乐趣。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "B站语言类节目 赢麻了",
+    "scores": {
+      "novelty": 16,
+      "resonance": 17,
+      "viral": 16,
+      "entertainment": 17,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 74,
+    "grade": "良好",
+    "product_idea": {
+      "name": "梗语翻译官",
+      "features": "专门针对年轻人‘黑话’和缩写（如yyds、赢麻了）的解释与造句生成器，帮助‘前浪’理解‘后浪’语言。",
+      "target_users": "中老年群体、品牌营销人员、代沟严重人群",
+      "value_proposition": "打破代际沟通壁垒，降低网络流行语的认知门槛。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "很火但难吃的小吃",
+    "scores": {
+      "novelty": 14,
+      "resonance": 18,
+      "viral": 18,
+      "entertainment": 15,
+      "practical": 7,
+      "market": 6
+    },
+    "total_score": 78,
+    "grade": "良好",
+    "product_idea": {
+      "name": "避雷吃货 地图",
+      "features": "基于用户真实评价，专门标注‘网红店刺客’，提供‘难吃指数’排行和真实的替代推荐。",
+      "target_users": "追求性价比的食客、外地游客",
+      "value_proposition": "反消费主义陷阱，为用户提供真实的美食决策参考，拒绝被营销忽悠。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "三文鱼其实是海底大肥猪",
+    "scores": {
+      "novelty": 19,
+      "resonance": 16,
+      "viral": 18,
+      "entertainment": 17,
+      "practical": 4,
+      "market": 5
+    },
+    "total_score": 79,
+    "grade": "良好",
+    "product_idea": {
+      "name": "卡路里猎手 AR扫描",
+      "features": "扫描食物（如三文鱼），用夸张的动物形象（如大肥猪）可视化展示其脂肪含量和热量，提供健康警示。",
+      "target_users": "减肥人群、健身人士、健康饮食者",
+      "value_proposition": "用直观且趣味的方式科普饮食成分，辅助健康决策。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "张瑞阳灵魂发问为啥没上60分",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 4,
+      "market": 3
+    },
+    "total_score": 62,
+    "grade": "良好",
+    "product_idea": {
+      "name": "哄哄AI 心理树洞",
+      "features": "针对学生党考砸或职场受挫场景，提供高情商的安慰话术和情绪疏导，甚至生成‘求老师/老板原谅’的攻略。",
+      "target_users": "学生、初入职场新人",
+      "value_proposition": "提供低成本的情绪价值，缓解评分焦虑和压力。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "凌晨4点起床吃年夜饭是什么体验",
+    "scores": {
+      "novelty": 13,
+      "resonance": 14,
+      "viral": 14,
+      "entertainment": 12,
+      "practical": 4,
+      "market": 5
+    },
+    "total_score": 62,
+    "grade": "良好",
+    "product_idea": {
+      "name": "早C晚A（早起吃大餐）社群",
+      "features": "组织非主流时间的聚会活动（如凌晨4点早午餐），满足小众作息人群的社交需求。",
+      "target_users": "夜猫子、倒班人群、猎奇体验者",
+      "value_proposition": "打破常规社交时间限制，聚集‘时差党’寻找同类。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "今年所有法定假日全与周末重合",
+    "scores": {
+      "novelty": 12,
+      "resonance": 20,
+      "viral": 17,
+      "entertainment": 10,
+      "practical": 6,
+      "market": 4
+    },
+    "total_score": 69,
+    "grade": "良好",
+    "product_idea": {
+      "name": "拼假大师 旅行规划器",
+      "features": "针对‘调休凑假’痛点，自动计算最优年假拼连休方案，并推荐此时段性价比最高的错峰旅游路线。",
+      "target_users": "职场人、旅游爱好者",
+      "value_proposition": "最大化利用有限的假期，避开人潮，提升旅行质量。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "王菲化妆师改口问就是AI",
+    "scores": {
+      "novelty": 18,
+      "resonance": 15,
+      "viral": 19,
+      "entertainment": 16,
+      "practical": 3,
+      "market": 8
+    },
+    "total_score": 79,
+    "grade": "良好",
+    "product_idea": {
+      "name": "AI 换脸/美颜 鉴定显微镜",
+      "features": "上传图片，通过像素级分析识别是否存在AI痕迹、过度美颜或换脸技术，还原真实容貌。",
+      "target_users": "网友冲浪党、相亲者、图片审核方",
+      "value_proposition": "在AI泛滥时代，满足公众对‘眼见为实’的探究欲和求真需求。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "肖战好漂亮",
+    "scores": {
+      "novelty": 5,
+      "resonance": 18,
+      "viral": 14,
+      "entertainment": 12,
+      "practical": 2,
+      "market": 9
+    },
+    "total_score": 60,
+    "grade": "良好",
+    "product_idea": {
+      "name": "爱豆同款 妆造相机",
+      "features": "通过面部关键点识别，一键复刻明星（如肖战）的妆容、发型和滤镜。",
+      "target_users": "粉丝群体、美妆爱好者",
+      "value_proposition": "满足粉丝对偶像的模仿与追随需求，带货能力强。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "千万别贪便宜买监控",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 16,
+      "entertainment": 8,
+      "practical": 9,
+      "market": 6
+    },
+    "total_score": 65,
+    "grade": "良好",
+    "product_idea": {
+      "name": "家庭安防 排雷清单",
+      "features": "聚合IoT设备安全测评，专门筛选并揭露低质量监控、摄像头的数据泄露风险和云服务扣费陷阱。",
+      "target_users": "房主、独居女性、注重隐私人群",
+      "value_proposition": "在碎片化的硬件市场中提供专业的安全选购指南。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "冬奥会露内衣品牌女选手引来广告商",
+    "scores": {
+      "novelty": 16,
+      "resonance": 14,
+      "viral": 17,
+      "entertainment": 13,
+      "practical": 3,
+      "market": 8
+    },
+    "total_score": 71,
+    "grade": "良好",
+    "product_idea": {
+      "name": "运动副线 自有品牌孵化平台",
+      "features": "帮助小众设计师品牌对接体育赛事赞助机会，利用‘露脸’瞬间进行场景化营销。",
+      "target_users": "新锐国潮品牌、赛事经纪公司、运动KOL",
+      "value_proposition": "挖掘体育赛事中非主赞助商的长尾流量价值，实现精准曝光。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "比艺人还帅的韩国花滑天才",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 3,
+      "market": 7
+    },
+    "total_score": 65,
+    "grade": "良好",
+    "product_idea": {
+      "name": "花滑男子 时尚偶像企划",
+      "features": "围绕高颜值运动员打造时尚IP，推出训练服、周边及花滑主题的变装视频教程。",
+      "target_users": "颜粉、滑冰学习者、体育时尚迷",
+      "价值_proposition": "体育与娱乐时尚跨界，挖掘‘颜性恋’经济潜力。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "全国初二回娘家的女婿belike",
+    "scores": {
+      "novelty": 14,
+      "resonance": 18,
+      "viral": 17,
+      "entertainment": 16,
+      "practical": 3,
+      "market": 4
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "女婿生存指南 表情包生成器",
+      "features": "针对春节回门、干活、被盘问等场景，一键生成卑微或机智的回应表情包/文案。",
+      "target_users": "已婚男性、女婿群体",
+      "value_proposition": "用幽默化解春节社交压力，提供群体认同感。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "B站小品 笑力竭了",
+    "scores": {
+      "novelty": 13,
+      "resonance": 15,
+      "viral": 15,
+      "entertainment": 16,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 66,
+    "grade": "良好",
+    "product_idea": {
+      "name": "笑点评估 笑声采样器",
+      "features": "分析喜剧视频的分镜节奏，采集观众真实的笑声波形，辅助创作者判断哪个包袱真的响。",
+      "target_users": "UP主、脱口秀演员、视频剪辑师",
+      "value_proposition": "用数据驱动内容创作，量化‘好笑’的程度。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "镖人 真的好看",
+    "scores": {
+      "novelty": 12,
+      "resonance": 13,
+      "viral": 13,
+      "entertainment": 14,
+      "practical": 4,
+      "market": 6
+    },
+    "total_score": 62,
+    "grade": "良好",
+    "product_idea": {
+      "name": "硬核武侠 漫改IP数据库",
+      "features": "专门收录高口碑冷门国漫，并提供可视化的人物关系图和势力分析，降低阅读门槛。",
+      "target_users": "国漫爱好者、影视改编方",
+      "价值_proposition": "挖掘优质国漫IP长尾价值，服务核心粉丝圈层。"
+    }
+  }
+]
