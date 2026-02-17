@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "总书记的新春家国情｜万家灯火话年俗",
+    "scores": {
+      "novelty": 5,
+      "resonance": 18,
+      "viral": 5,
+      "entertainment": 2,
+      "practical": 1,
+      "market": 0
+    },
+    "total_score": 31,
+    "grade": "普通",
+    "product_idea": {
+      "name": "万家灯火·数字家史馆",
+      "features": "基于地理位置的家族年俗数字化记录与传承工具，支持生成新春家国情海报。",
+      "target_users": "政府宣传部门、文化教育机构、注重家庭传统的用户。",
+      "value_proposition": "将宏大的家国情怀与个人家族故事结合，提供可交互的数字化文化传承体验。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "2026马年央视春晚必看名场面",
+    "scores": {
+      "novelty": 10,
+      "resonance": 15,
+      "viral": 14,
+      "entertainment": 16,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 60,
+    "grade": "良好",
+    "product_idea": {
+      "name": "春晚预测家",
+      "features": "用户针对未来春晚节目单进行竞猜、预测以及创建虚拟“观演团”的互动游戏。",
+      "target_users": "年轻社交用户、综艺爱好者。",
+      "value_proposition": "利用“预测未来”的趣味性，提前锁定用户的关注度和社交讨论话题。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "大国重器，来拜年啦！",
+    "scores": {
+      "novelty": 14,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 66,
+    "grade": "良好",
+    "product_idea": {
+      "name": "重器拜年AR特效包",
+      "features": "将国产航母、航天器等模型制作成高精度AR拜年特效与滤镜。",
+      "target_users": "泛爱国主义用户、青少年。",
+      "value_proposition": "满足用户对国家科技的自信感，提供硬核且有趣的社交表达方式。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "最中国的浪漫：过年就是团圆",
+    "scores": {
+      "novelty": 5,
+      "resonance": 18,
+      "viral": 10,
+      "entertainment": 5,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 42,
+    "grade": "普通",
+    "product_idea": {
+      "name": "云团圆·远程家宴",
+      "features": "高质量音视频连线，支持异地家庭成员“同屏”吃年夜饭，增加虚拟碰杯功能。",
+      "target_users": "异乡打工人、留学生。",
+      "value_proposition": "用技术弥合物理距离，还原最具中国味的团圆场景，缓解思乡之情。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "冬奥：速度滑冰能否再创历史？",
+    "scores": {
+      "novelty": 12,
+      "resonance": 15,
+      "viral": 13,
+      "entertainment": 14,
+      "practical": 3,
+      "market": 5
+    },
+    "total_score": 62,
+    "grade": "良好",
+    "product_idea": {
+      "name": "赛场预言家",
+      "features": "体育赛事竞猜互动社区，结合实时数据直播与历史成绩分析。",
+      "target_users": "体育迷、竞彩爱好者。",
+      "value_proposition": "通过数据洞察增加观赛参与感，将观赛体验从被动接收转为主动预测。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "北京台春晚，你的过年搭子",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 12,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 53,
+    "grade": "普通",
+    "product_idea": {
+      "name": "搭子配对TV",
+      "features": "基于电视节目内容兴趣图谱的实时聊天室与弹幕互动功能。",
+      "target_users": "独自观看晚会的人群。",
+      "value_proposition": "解决独自看剧的孤独感，通过内容将陌生人转化为临时的情感陪伴。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "编造春运绿皮车超员谣言 多人被罚",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 13,
+      "entertainment": 5,
+      "practical": 8,
+      "market": 2
+    },
+    "total_score": 50,
+    "grade": "普通",
+    "product_idea": {
+      "name": "谣言粉碎机·春运版",
+      "features": "春运信息辟谣专用小程序，整合官方权威数据并提供AI识图辨伪功能。",
+      "target_users": "春运旅客、信息焦虑者。",
+      "value_proposition": "在信息混乱的春运期间，提供一手真实资讯，降低用户因谣言导致的恐慌。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "春节前夕 解放军位南海战备警巡",
+    "scores": {
+      "novelty": 8,
+      "resonance": 15,
+      "viral": 10,
+      "entertainment": 5,
+      "practical": 3,
+      "market": 1
+    },
+    "total_score": 42,
+    "grade": "普通",
+    "product_idea": {
+      "name": "国防日报AR",
+      "features": "将军事新闻转化为增强现实资讯，展示装备模型与巡防路径。",
+      "target_users": "军迷、青少年。",
+      "value_proposition": "以硬核科技感呈现军事资讯，满足用户的探索欲与爱国情感。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "泽连斯基：遭袭击越多越难达成协议",
+    "scores": {
+      "novelty": 8,
+      "resonance": 10,
+      "viral": 12,
+      "entertainment": 2,
+      "practical": 5,
+      "market": 2
+    },
+    "total_score": 39,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球局势推演沙盘",
+      "features": "基于国际新闻的轻量化策略模拟工具，帮助用户理解地缘政治博弈逻辑。",
+      "target_users": "国际关系爱好者、高知人群。",
+      "value_proposition": "将复杂的国际新闻转化为可视化的逻辑博弈，提升用户的认知深度。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "预制菜为何被端上年夜饭餐桌",
+    "scores": {
+      "novelty": 12,
+      "resonance": 18,
+      "viral": 15,
+      "entertainment": 5,
+      "practical": 8,
+      "market": 9
+    },
+    "total_score": 67,
+    "grade": "良好",
+    "product_idea": {
+      "name": "真材实料·预制菜透明溯源",
+      "features": "预制菜AI扫描识别配料表及营养价值，并提供“去料理化”还原度评分。",
+      "target_users": "家庭主厨、健康饮食关注者。",
+      "value_proposition": "解决用户对预制菜健康与口感的信任危机，赋能消费者知情权。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "跨年熬夜会伤肝，要吃护肝片“护肝”？",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 12,
+      "entertainment": 5,
+      "practical": 9,
+      "market": 8
+    },
+    "total_score": 58,
+    "grade": "普通",
+    "product_idea": {
+      "name": "熬夜救护车·智能健康管家",
+      "features": "根据熬夜时长与身体状况推荐物理恢复方案（如食谱、作息调整），弱化药物依赖。",
+      "target_users": "年轻熬夜党、亚健康人群。",
+      "value_proposition": "提供科学、非药物的补救方案，缓解用户的健康焦虑感。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "王兴兴回应春晚宇树机器人摔倒",
+    "scores": {
+      "novelty": 16,
+      "resonance": 15,
+      "viral": 18,
+      "entertainment": 18,
+      "practical": 3,
+      "market": 4
+    },
+    "total_score": 74,
+    "grade": "良好",
+    "product_idea": {
+      "name": "Robo-Fail·尴尬集锦社区",
+      "features": "专注分享科技产品翻车、机器人测试失败画面的趣味社区，结合技术科普。",
+      "target_users": "科技爱好者、乐子人。",
+      "value_proposition": "将“翻车”转化为科技产品的亲民化传播点，消解技术的冰冷感。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "马英九、蒋万安亲题的春联曝光",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 13,
+      "entertainment": 8,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 52,
+    "grade": "普通",
+    "product_idea": {
+      "name": "墨宝生成器",
+      "features": "模仿名人或书法家字迹的个性化春联生成工具。",
+      "target_users": "书法爱好者、普通大众。",
+      "value_proposition": "低门槛满足用户对名家字迹的喜爱，提供个性化的节日装饰物。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "印度AI峰会开幕，外媒评价很直白",
+    "scores": {
+      "novelty": 10,
+      "resonance": 10,
+      "viral": 10,
+      "entertainment": 8,
+      "practical": 4,
+      "market": 3
+    },
+    "total_score": 45,
+    "grade": "普通",
+    "product_idea": {
+      "name": "AI资讯观察局",
+      "features": "聚合全球AI行业新闻并翻译外媒犀利点评的垂直资讯App。",
+      "target_users": "AI从业者、科技投资者。",
+      "value_proposition": "打破信息差，提供更客观、多视角的国际AI行业动态。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "95后女生上门做年夜饭 月入4万多",
+    "scores": {
+      "novelty": 16,
+      "resonance": 18,
+      "viral": 17,
+      "entertainment": 10,
+      "practical": 9,
+      "market": 10
+    },
+    "total_score": 80,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "私厨上门",
+      "features": "提供严选认证厨师上门代厨服务的平台，主打年夜饭及家宴场景，包含食材代购。",
+      "target_users": "中产家庭、不想做饭但想在家吃饭的家庭。",
+      "价值_proposition": "解放双手的同时享受家庭聚会氛围，将专业餐饮服务家庭化，具有极高商业价值。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "东北霸总给员工发40亿年终奖",
+    "scores": {
+      "novelty": 18,
+      "resonance": 17,
+      "viral": 18,
+      "entertainment": 17,
+      "practical": 3,
+      "market": 2
+    },
+    "total_score": 75,
+    "grade": "良好",
+    "product_idea": {
+      "name": "霸总模拟器",
+      "features": "以东北企业为背景的模拟经营游戏，体验发年终奖、管理员工的爽感。",
+      "target_users": "年轻打工族、休闲游戏玩家。",
+      "value_proposition": "将热点话题转化为游戏体验，满足打工人的逆向心理代偿与解压需求。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "大年初一国防部发布短片：时刻准备着",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 12,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "军迷壁纸库",
+      "features": "高清军武短片下载与壁纸生成工具，支持定制手机与电脑桌面。",
+      "target_users": "军迷、爱国主义青年。",
+      "value_proposition": "将官方宣传素材转化为用户可高频使用的个性化数字资产。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "克里姆林宫驳斥欧洲五国指控",
+    "scores": {
+      "novelty": 8,
+      "resonance": 10,
+      "viral": 10,
+      "entertainment": 2,
+      "practical": 4,
+      "market": 2
+    },
+    "total_score": 36,
+    "grade": "普通",
+    "product_idea": {
+      "name": "国际要闻简报",
+      "features": "AI提炼复杂国际争端的核心观点与时间轴，生成每日一图。",
+      "target_users": "商务人士、时政关注者。",
+      "value_proposition": "降低国际新闻的理解门槛，帮助用户快速掌握复杂局势。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "抢占AI制高点！中国工业第一城出手",
+    "scores": {
+      "novelty": 12,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 5,
+      "practical": 6,
+      "market": 6
+    },
+    "total_score": 51,
+    "grade": "普通",
+    "product_idea": {
+      "name": "产业智投顾问",
+      "features": "基于城市产业政策的AI投资与就业机会分析工具。",
+      "target_users": "求职者、投资者。",
+      "value_proposition": "将宏大的产业政策转化为个人的职业或投资发展指引。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "讽刺拉满的春晚小品，尺度不小",
+    "scores": {
+      "novelty": 16,
+      "resonance": 18,
+      "viral": 18,
+      "entertainment": 18,
+      "practical": 3,
+      "market": 4
+    },
+    "total_score": 77,
+    "grade": "良好",
+    "product_idea": {
+      "name": "段子手弹幕神器",
+      "features": "视频播放器插件，自动聚合讽刺类段子和神吐槽，并在视频对应时间点展示。",
+      "target_users": "视频网站用户、二次元群体。",
+      "value_proposition": "通过AI聚合观众智慧，增加观看讽刺类节目的趣味性和互动深度。"
+    }
+  }
+]
