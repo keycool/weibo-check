@@ -1,0 +1,182 @@
+[
+  {
+    "rank": 1,
+    "title": "徐梦桃金牌",
+    "scores": {
+      "novelty": 12,
+      "resonance": 20,
+      "viral": 18,
+      "entertainment": 15,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 75,
+    "grade": "良好",
+    "product_idea": {
+      "name": "冠军同款「热血」定制礼盒",
+      "features": "包含庆祝特效的数字奖牌、个性化冠军语录生成、赛事精彩瞬间回放剪辑功能。",
+      "target_users": "冰雪运动爱好者、徐梦桃粉丝、情感宣泄需求强烈的年轻人。",
+      "value_proposition": "通过高光时刻的情感投射，提供强烈的成就感和参与感，转化为社交资本。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "苏翊鸣金牌",
+    "scores": {
+      "novelty": 15,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 16,
+      "practical": 2,
+      "market": 9
+    },
+    "total_score": 79,
+    "grade": "良好",
+    "product_idea": {
+      "name": "苏翊鸣「单板少年」成长追踪器",
+      "features": "结合单板滑雪技巧的AR教学、模拟苏翊鸣训练路线的体感游戏、职业规划路径图。",
+      "target_users": "青少年滑雪初学者、关注体育教育的家长、极限运动玩家。",
+      "value_proposition": "将偶像光环转化为实际技能提升的动力，满足用户对“酷”文化的追求。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "2026春节消费市场红火开场",
+    "scores": {
+      "novelty": 5,
+      "resonance": 10,
+      "viral": 8,
+      "entertainment": 2,
+      "practical": 8,
+      "market": 10
+    },
+    "total_score": 43,
+    "grade": "普通",
+    "product_idea": {
+      "name": "春节消费趋势大数据看板",
+      "features": "实时展示各品类消费热度、提供商家经营策略建议、消费者偏好预测。",
+      "target_users": "市场分析师、电商运营者、实体店店主。",
+      "value_proposition": "从宏观热度中挖掘微观商机，辅助商家进行精准的春节库存和营销布局。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "过年上淘宝闪购抢电影奶茶免单",
+    "scores": {
+      "novelty": 14,
+      "resonance": 16,
+      "viral": 18,
+      "entertainment": 14,
+      "practical": 9,
+      "market": 10
+    },
+    "total_score": 81,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "春节「拼手气」本地生活聚合器",
+      "features": "基于地理位置的限时秒杀、影院奶茶套餐一键解锁、多人组队抢免单玩法。",
+      "target_users": "春节返乡青年、情侣、追求性价比的家庭用户。",
+      "value_proposition": "解决春节假期“去哪玩”和“太贵”的痛点，用博弈心理增加用户粘性。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "初三一定记得睡懒觉",
+    "scores": {
+      "novelty": 16,
+      "resonance": 18,
+      "viral": 17,
+      "entertainment": 15,
+      "practical": 6,
+      "market": 5
+    },
+    "total_score": 77,
+    "grade": "良好",
+    "product_idea": {
+      "name": "「反内卷」春节作息管理助手",
+      "features": "智能识别并屏蔽拜年骚扰电话、生成“正在补觉”的个性化拒绝话术、根据睡眠周期推荐闹钟。",
+      "target_users": "承受过年社交压力的打工人、急需休息的上班族。",
+      "value_proposition": "主打心理疗愈和社交防御，将“睡懒觉”合理化为一种春节新习俗。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "曝邓超怒怼项目方维护孙俪",
+    "scores": {
+      "novelty": 10,
+      "resonance": 14,
+      "viral": 17,
+      "entertainment": 16,
+      "practical": 1,
+      "market": 5
+    },
+    "total_score": 63,
+    "grade": "良好",
+    "product_idea": {
+      "name": "娱乐圈「护短」话术生成器",
+      "features": "输入争议事件，自动生成高情商、霸气或幽默的“怼人/护短”文案模板，支持社交媒体一键发布。",
+      "target_users": "吃瓜群众、情感博主、需要应对人际纠纷的年轻人。",
+      "value_proposition": "利用明星话题的娱乐性，提供社交表达工具，增强用户的互动参与感。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "李健 媚眼抛给瞎子看",
+    "scores": {
+      "novelty": 17,
+      "resonance": 12,
+      "viral": 16,
+      "entertainment": 18,
+      "practical": 1,
+      "market": 4
+    },
+    "total_score": 68,
+    "grade": "良好",
+    "product_idea": {
+      "name": "「冷幽默」文学翻译与创作机",
+      "features": "基于李健语录风格的AI文案创作、将通俗语句转化为“知识分子式”幽默表达。",
+      "target_users": "文艺青年、内容创作者、李健粉丝。",
+      "value_proposition": "提供独特的语言风格工具，满足用户在社交网络展示独特品味的需求。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "谁把郭富城鞋踩掉了",
+    "scores": {
+      "novelty": 18,
+      "resonance": 10,
+      "viral": 19,
+      "entertainment": 19,
+      "practical": 0,
+      "market": 3
+    },
+    "total_score": 69,
+    "grade": "良好",
+    "product_idea": {
+      "name": "晚会「突发状况」模拟互动游戏",
+      "features": "以晚会舞台事故为背景的找茬或解谜游戏，玩家需在限定时间内找出导致意外（如掉鞋）的元凶。",
+      "target_users": "娱乐八卦爱好者、休闲游戏玩家。",
+      "value_proposition": "将尴尬的舞台瞬间转化为游戏化体验，利用猎奇心理吸引流量。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "CCTV6 三女休夫",
+    "scores": {
+      "novelty": 15,
+      "resonance": 12,
+      "viral": 14,
+      "entertainment": 13,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 61,
+    "grade": "良好",
+    "product_idea": {
+      "name": "女性情感向「觉醒」剧本杀/观影会",
+      "features": "围绕女性独立主题的剧本内容精选、线上匿名情感倾诉空间、热点话题讨论圈。",
+      "target_users": "都市女性、关注性别议题的群体。",
+      "value_proposition": "抓住话题中的情绪价值，构建情感共鸣的私密社区或内容产品。"
+    }
+  }
+]
