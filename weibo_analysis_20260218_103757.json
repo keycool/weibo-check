@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "镖人",
+    "scores": {
+      "novelty": 18,
+      "resonance": 19,
+      "viral": 17,
+      "entertainment": 18,
+      "practical": 3,
+      "market": 8
+    },
+    "total_score": 83,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "\"镖人\"硬核武侠模拟器",
+      "features": "结合高自由度动作与西部荒野生存元素的RPG手游，主打\"刀口舔血\"的硬核战斗体验和赤裸的人性抉择。",
+      "target_users": "动作游戏爱好者、国漫原著粉、年轻男性用户。",
+      "value_proposition": "在二次元画风泛滥的市场中，重塑中国硬派武侠的筋骨，提供极具视觉冲击力和情感深度的沉浸式江湖体验。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "谷爱凌大跳台决赛第三跳前眼神",
+    "scores": {
+      "novelty": 16,
+      "resonance": 19,
+      "viral": 19,
+      "entertainment": 15,
+      "practical": 4,
+      "market": 6
+    },
+    "total_score": 79,
+    "grade": "良好",
+    "product_idea": {
+      "name": "冠军心态：运动员专注力训练App",
+      "features": "利用AI面部识别技术分析用户专注度，结合顶尖运动员的\"决胜时刻\"冥想音频和视觉引导课程，帮助用户进入心流状态。",
+      "target_users": "竞技体育运动员、考试学生、高压职场人群。",
+      "value_proposition": "将世界冠军的决胜心态转化为可复用的心理训练工具，帮助用户在关键时刻战胜压力，发挥最佳水平。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "AI眼中的二十四节气",
+    "scores": {
+      "novelty": 17,
+      "resonance": 14,
+      "viral": 16,
+      "entertainment": 16,
+      "practical": 4,
+      "market": 5
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "时序·AI节气艺术生成器",
+      "features": "用户输入当下的心情或状态，AIGC根据对应的节气文化内涵（如惊蛰、大寒）生成专属的融合现代与传统美学的数字艺术画作。",
+      "target_users": "社交媒体活跃用户、国潮文化爱好者、文艺青年。",
+      "value_proposition": "用前沿技术重新诠释传统文化，让每个人都能拥有独一无二的节气文化符号，满足社交分享的审美需求。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "奥迪抽奖送车除夕福利返场",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 18,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 65,
+    "grade": "良好",
+    "product_idea": {
+      "name": "品牌福利聚合抽奖平台",
+      "features": "聚合各大品牌节日福利信息，提供一键参与抽奖的功能，并追踪中奖结果，同时通过游戏化方式增加未中奖者的参与感。",
+      "target_users": "价格敏感型消费者、羊毛党群体、幸运心态用户。",
+      "value_proposition": "解决品牌分散、用户参与门槛高的问题，打造一个集中式的品牌福利分发与用户互动中心。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "龙洋主持完春晚哭了",
+    "scores": {
+      "novelty": 12,
+      "resonance": 15,
+      "viral": 16,
+      "entertainment": 12,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 60,
+    "grade": "良好",
+    "product_idea": {
+      "name": "真情流露：高情商情绪记录仪",
+      "features": "一款私密日记App，鼓励用户记录高强度工作或重大时刻后的情绪释放，提供AI心理疏导建议和压力释放渠道。",
+      "target_users": "高压职业人群（主播、公关、职员）、情绪敏感人群。",
+      "value_proposition": "拥抱脆弱也是一种力量，为精英人群提供安全的情绪宣泄出口和心理复盘工具。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "孩子存1000比你存20万利息高",
+    "scores": {
+      "novelty": 19,
+      "resonance": 17,
+      "viral": 18,
+      "entertainment": 10,
+      "practical": 8,
+      "market": 9
+    },
+    "total_score": 81,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "代际财富对抗模拟器",
+      "features": "输入两代人的存款金额、理财产品和时间跨度，直观展示复利效应与通胀影响的差异，提供家庭资产配置的优化建议。",
+      "target_users": "家庭理财用户、保险从业者、年轻父母。",
+      "value_proposition": "通过极具冲击力的数据对比，唤醒家庭的长期理财意识，科学规划子女教育与养老金储备。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "徐梦桃第一跳89.29分",
+    "scores": {
+      "novelty": 11,
+      "resonance": 14,
+      "viral": 14,
+      "entertainment": 13,
+      "practical": 3,
+      "market": 4
+    },
+    "total_score": 59,
+    "grade": "普通",
+    "product_idea": {
+      "name": "专业运动姿态分析镜",
+      "features": "利用手机摄像头捕捉用户滑雪或跳绳等运动的姿态，对比专业运动员标准动作，给出实时纠正建议和训练计划。",
+      "target_users": "运动爱好者、滑雪发烧友、体育生。",
+      "value_proposition": "把金牌教练装进手机，让普通用户也能享受到专业的技术动作分析，提升运动表现并减少受伤风险。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "马年第一条微博",
+    "scores": {
+      "novelty": 10,
+      "resonance": 18,
+      "viral": 15,
+      "entertainment": 8,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 56,
+    "grade": "普通",
+    "product_idea": {
+      "name": "年度时光胶囊",
+      "features": "用户在年初写下目标或心情，定时在一年后或特定节点推送给本人，形成年度心理对比，支持多人共同开启胶囊。",
+      "target_users": "全年龄段微博用户、喜欢记录生活的人群。",
+      "value_proposition": "将碎片化的社交动态转化为具有时间跨度的记忆资产，帮助用户回顾成长，强化社交连接。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "贡菜是莴笋",
+    "scores": {
+      "novelty": 16,
+      "resonance": 14,
+      "viral": 17,
+      "entertainment": 14,
+      "practical": 6,
+      "market": 6
+    },
+    "total_score": 73,
+    "grade": "良好",
+    "product_idea": {
+      "name": "食材真相百科 AR扫描",
+      "features": "扫描食材即可显示其植物学来源、营养价值、加工过程及\"冷知识\"（如贡菜=莴笋），并推荐相关食谱。",
+      "target_users": "家庭烹饪者、美食爱好者、好奇宝宝。",
+      "value_proposition": "揭开餐桌上的伪装，让消费者吃得明白，满足对食品安全和食材溯源的深度求知欲。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "16个月宝宝拜年收红包当场验货",
+    "scores": {
+      "novelty": 15,
+      "resonance": 16,
+      "viral": 19,
+      "entertainment": 19,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 74,
+    "grade": "良好",
+    "product_idea": {
+      "name": "萌宝行为图鉴短视频平台",
+      "features": "专注于捕捉和分享婴幼儿趣味行为的垂直社区，提供AI剪辑和特效添加功能，将家庭录像转化为爆款短视频。",
+      "target_users": "宝爸宝妈、长辈亲属、萌宠萌娃爱好者。",
+      "value_proposition": "记录不可复制的成长瞬间，通过趣味化包装让家庭记录具备社交货币属性，满足父母的炫耀心理。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "诗幂",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 64,
+    "grade": "良好",
+    "product_idea": {
+      "name": "饭圈CP联名定制生成器",
+      "features": "允许用户上传照片，生成热门CP风格的虚拟合影或海报，支持电影质感滤镜，一键生成应援物料。",
+      "target_users": "追星女孩、CP粉、社交网络活跃用户。",
+      "value_proposition": "低成本满足粉丝对CP的幻想需求，提供高颜值的社交分享素材，增强粉丝粘性和话题度。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "镖人 武侠不死",
+    "scores": {
+      "novelty": 16,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 16,
+      "practical": 3,
+      "market": 7
+    },
+    "total_score": 76,
+    "grade": "良好",
+    "product_idea": {
+      "name": "水墨武魂：国漫IP联动NFT",
+      "features": "将经典国产武侠漫画的高光时刻制作成区块链数字藏品，并附带独家周边兑换权益和社区身份标识。",
+      "target_users": "国漫死忠粉、收藏家、Z世代潮流玩家。",
+      "value_proposition": "为经典情怀赋予数字资产价值，打造永久珍藏的文化符号，构建高净值的垂直粉丝社群。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "写族谱发现祖上是正二品",
+    "scores": {
+      "novelty": 15,
+      "resonance": 13,
+      "viral": 14,
+      "entertainment": 12,
+      "practical": 7,
+      "market": 6
+    },
+    "total_score": 67,
+    "grade": "良好",
+    "product_idea": {
+      "name": "云端数字宗祠",
+      "features": "在线协作编撰族谱，AI辅助修复老旧照片，建立家族虚拟纪念馆，支持VR全景祭扫和家族故事口述记录。",
+      "target_users": "宗族长老、海外华侨、重视家族传承的人群。",
+      "value_proposition": "数字化保存家族记忆，打破时空限制连接海内外亲属，让寻根问祖变得现代化、便捷化。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "黄景瑜关晓彤发小变对象",
+    "scores": {
+      "novelty": 13,
+      "resonance": 16,
+      "viral": 16,
+      "entertainment": 15,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 67,
+    "grade": "良好",
+    "product_idea": {
+      "name": "青梅竹马回忆录相册",
+      "features": "专为青梅竹马情侣设计的应用，通过大数据抓取两人同年的历史事件、流行歌曲和新闻，生成共同成长的专属时间轴。",
+      "target_users": "恋爱中的情侣、校园恋人、怀旧主题爱好者。",
+      "value_proposition": "强调\"共同经历\"的珍贵性，将平凡的爱情上升到宿命论的高度，提供极具杀伤力的情感礼物。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "党员干部春节期间打麻将违规吗",
+    "scores": {
+      "novelty": 14,
+      "resonance": 12,
+      "viral": 13,
+      "entertainment": 8,
+      "practical": 9,
+      "market": 4
+    },
+    "total_score": 60,
+    "grade": "良好",
+    "product_idea": {
+      "name": "职场红线合规助手",
+      "features": "针对特定职业（如公职人员、医生、教师）的合规自查小程序，通过问答形式判断特定行为是否触碰职业红线。",
+      "target_users": "体制内人员、国企员工、高合规要求职业从业者。",
+      "value_proposition": "消除灰色地带的模糊认知，提供即时的合规风险预警，保护职业生涯安全，做口袋里的廉洁顾问。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "看完惊蛰无声想掏垃圾桶",
+    "scores": {
+      "novelty": 17,
+      "resonance": 12,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 3,
+      "market": 4
+    },
+    "total_score": 65,
+    "grade": "良好",
+    "product_idea": {
+      "name": "情绪宣泄解压影院",
+      "features": "专门收集引发极端情绪（极度悲伤、愤怒、恐惧）的影视片段，提供安全的虚拟宣泄环境或治愈系后续内容平复心情。",
+      "target_users": "压力巨大的都市人、情绪释放需求者、影视发烧友。",
+      "value_proposition": "承认负面情绪的合理性，通过影像疗法实现\"以毒攻毒\"的情绪调节，提供独特的心理按摩体验。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "俩人谈恋爱四个人烧脑",
+    "scores": {
+      "novelty": 13,
+      "resonance": 15,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 3,
+      "market": 5
+    },
+    "total_score": 65,
+    "grade": "良好",
+    "product_idea": {
+      "name": "情感剧本杀推理社交",
+      "features": "用户上传真实的情感纠纷或困惑（匿名），社区其他人通过多视角推理还原真相或提供建议，化身为恋爱侦探。",
+      "target_users": "单身青年、八卦爱好者、情感困惑人群。",
+      "value_proposition": "将复杂的情感关系游戏化、推理化，在旁观者清的过程中满足窥私欲和推理欲，同时获得情感参考。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "演出后台卫生巾",
+    "scores": {
+      "novelty": 18,
+      "resonance": 17,
+      "viral": 18,
+      "entertainment": 8,
+      "practical": 5,
+      "market": 7
+    },
+    "total_score": 73,
+    "grade": "良好",
+    "product_idea": {
+      "name": "女性应急关怀共享站",
+      "features": "在演唱会、厕所等公共场所设置智能互助货柜，除了提供卫生巾，还包含止痛药、换洗衣物等急需用品，支持扫码免费或低价取用。",
+      "target_users": "经期女性、演出场馆经营者、公共场所管理者。",
+      "value_proposition": "解决女性突发尴尬，打破月经羞耻，通过商业与公益结合的方式，体现场所的人文关怀温度。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "过年不要一直穿睡衣",
+    "scores": {
+      "novelty": 11,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 10,
+      "practical": 6,
+      "market": 8
+    },
+    "total_score": 65,
+    "grade": "良好",
+    "product_idea": {
+      "name": "新中式家居\"轻礼服\"",
+      "features": "兼具睡衣舒适度与待客正装礼仪感的改良汉服或新中式服装，适合过年居家接待亲友，既不松垮也不拘束。",
+      "target_users": "讲究生活品质的家庭主妇/主夫、返乡青年、新中式文化爱好者。",
+      "value_proposition": "填补家居服与正装之间的空白，解决过年\"放松\"与\"体面\"的冲突，打造走亲访友的体面新形象。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "特朗普女儿伊万卡中文拜年",
+    "scores": {
+      "novelty": 14,
+      "resonance": 13,
+      "viral": 15,
+      "entertainment": 12,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 60,
+    "grade": "良好",
+    "product_idea": {
+      "name": "名人口型生成外语拜年视频",
+      "features": "利用AI技术，让名人形象（或用户指定形象）流利地说出各种语言的拜年吉祥话，生成趣味拜年视频。",
+      "target_users": "追求新潮的年轻人、营销人员、跨境业务从业者。",
+      "value_proposition": "打破语言和身份的限制，用名人效应或趣味反差制造节日笑点，降低跨文化拜年的门槛。"
+    }
+  }
+]
