@@ -1,11 +1,11 @@
 ---
 name: hotsearch-analyzer-patterns
 description: Multi-platform hot search analysis patterns with robust error handling
-version: 2.0.0
+version: 2.1.0
 source: local-git-analysis
-analyzed_commits: 5
+analyzed_commits: 6
 repository: 微博热搜分析的Skills
-last_updated: 2026-01-31
+last_updated: 2026-02-18
 ---
 
 # Hot Search Analyzer Patterns
@@ -55,7 +55,8 @@ This project uses **Chinese conventional commits** with the `feat:` prefix:
 │   ├── analyze_trends.py    # Claude-powered analysis
 │   ├── analyze_with_claude.py # Alternative Claude analyzer
 │   ├── config_loader.py     # Configuration management
-│   └── path_utils.py        # Cross-platform path handling
+│   ├── path_utils.py        # Cross-platform path handling
+│   └── generate_index.py    # GitHub Pages index generator
 ├── requirements.txt
 ├── SKILL.md               # This file - extracted patterns
 └── version.txt
@@ -284,6 +285,46 @@ ANTHROPIC_BASE_URL   # API基础URL（可选）
 2. Add the required secrets
 3. Enable GitHub Pages from gh-pages branch
 4. Workflow runs automatically or manually trigger
+
+### GitHub Pages Index Generation
+
+The project includes an automatic index page generator for GitHub Pages:
+
+**Generator File**: `src/generate_index.py`
+
+**Functionality:**
+- Scans `data/` directory for all HTML reports
+- Groups reports by platform (weibo, douyin, wechat)
+- Displays only the **latest report** per platform
+- Generates `data/index.html` for GitHub Pages
+
+**How it works:**
+1. Finds all `*_analysis_*.html` files in data directory
+2. Parses filename to extract platform and timestamp
+3. Sorts by timestamp (newest first)
+4. For each platform, keeps only the most recent report
+5. Generates responsive HTML with platform sections
+
+**Usage:**
+```bash
+# Run locally
+python src/generate_index.py
+
+# Output: data/index.html
+```
+
+**Key Features:**
+- Each platform shows only the latest report (configurable via `reports[:n]` slice)
+- Responsive grid layout
+- Platform icons and section headers
+- File size display
+- Automatic timestamp parsing from filenames
+
+**File Naming Convention:**
+```
+{platform}_analysis_{YYYYMMDD_HHMMSS}.html
+Example: weibo_analysis_20260116_195949.html
+```
 
 ### Adding Support for a New Platform
 
