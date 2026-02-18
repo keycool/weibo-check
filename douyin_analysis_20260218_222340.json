@@ -1,0 +1,142 @@
+[
+  {
+    "rank": 1,
+    "title": "中国队两小时连夺两金",
+    "scores": {
+      "novelty": 15,
+      "resonance": 20,
+      "viral": 18,
+      "entertainment": 16,
+      "practical": 0,
+      "market": 10
+    },
+    "total_score": 79,
+    "grade": "良好",
+    "product_idea": {
+      "name": "「夺金时刻」AR实时庆祝滤镜",
+      "features": "当监测到用户正在观看夺冠画面或听到特定欢呼声时，自动触发AR金雨、金牌贴纸及国旗特效，并支持一键录制庆祝短视频。",
+      "target_users": "冰雪运动迷、年轻观赛群体、短视频活跃用户",
+      "value_proposition": "让用户在观看直播时通过沉浸式视觉特效获得身临其境的参与感，增强爱国自豪感的表达与分享。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "春晚机器人幕后花絮大放送",
+    "scores": {
+      "novelty": 18,
+      "resonance": 15,
+      "viral": 16,
+      "entertainment": 17,
+      "practical": 4,
+      "market": 8
+    },
+    "total_score": 78,
+    "grade": "良好",
+    "product_idea": {
+      "name": "仿生四足机器人编程体验课（DIY版）",
+      "features": "简化版仿生机器人拼装套件，配套APP提供春晚同款动作编程教学，让用户在家也能复刻机器人的舞蹈动作。",
+      "target_users": "科技发烧友、青少年家长、STEM教育用户",
+      "value_proposition": "将高科技舞台奇观转化为可触摸的家庭教育娱乐产品，满足用户对黑科技的好奇心与动手能力培养。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "徐梦桃：我怎么跳这么漂亮",
+    "scores": {
+      "novelty": 18,
+      "resonance": 19,
+      "viral": 19,
+      "entertainment": 19,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 82,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "自信夸夸AI语音助手",
+      "features": "基于徐梦桃的自信语录训练的AI语音助手，在用户完成运动、学习或工作任务打卡时，用高能量、个性化的语音夸赞用户（如：‘你怎么这么优秀’），并生成金句海报。",
+      "target_users": "缺乏自信的年轻群体、健身人群、学生党",
+      "value_proposition": "利用顶级运动员的‘高能量’情绪价值，为用户提供心理暗示和情绪激励，缓解焦虑，提升自我效能感。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "“春节聚餐喝酒能暖身”系谣言",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 10,
+      "practical": 9,
+      "market": 8
+    },
+    "total_score": 70,
+    "grade": "良好",
+    "product_idea": {
+      "name": "健康辟谣年夜饭菜单生成器",
+      "features": "用户输入家族成员健康状况和传统菜谱，AI自动分析其中的健康误区（如喝酒暖身、隔夜菜等），并提供改良版的低脂低糖食谱及营养搭配建议。",
+      "target_users": "家庭主厨、关注健康的年轻人、有老人的家庭",
+      "value_proposition": "在保留节日氛围的同时，用科学数据优化节日饮食结构，解决‘想吃好’与‘怕长胖/不健康’的矛盾。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "宋小宝小品“翻车”",
+    "scores": {
+      "novelty": 16,
+      "resonance": 17,
+      "viral": 18,
+      "entertainment": 18,
+      "practical": 1,
+      "market": 5
+    },
+    "total_score": 75,
+    "grade": "良好",
+    "product_idea": {
+      "name": "综艺名场面/翻车现场UGC二创工具",
+      "features": "提供针对春晚/热门综艺片段的快速剪辑、鬼畜素材库、AI配音和特效模版，降低用户制作‘吐槽’或‘恶搞’视频的门槛。",
+      "target_users": "短视频创作者、搞笑内容爱好者、吃瓜群众",
+      "value_proposition": "借势热门娱乐话题的流量，为用户提供便捷的创作工具，通过幽默吐槽释放压力并获取社交关注。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "今年的年货爆改指南来了",
+    "scores": {
+      "novelty": 14,
+      "resonance": 14,
+      "viral": 15,
+      "entertainment": 12,
+      "practical": 8,
+      "market": 9
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "国潮年货DIY定制礼盒服务",
+      "features": "提供传统的瓜子、糖果、坚果等基础年货，配套3D打印的个性化包装封套、趣味贴纸和DIY手绘礼盒工具，让用户定制独一无二的‘爆改’年货。",
+      "target_users": "Z世代春节送礼人群、追求仪式感的消费者",
+      "value_proposition": "将传统年货产品与现代DIY文化结合，打破春节礼物的‘土气’刻板印象，增加送礼的社交属性和趣味性。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "洛邑古城财神宠粉界天花板",
+    "scores": {
+      "novelty": 16,
+      "resonance": 15,
+      "viral": 17,
+      "entertainment": 16,
+      "practical": 5,
+      "market": 9
+    },
+    "total_score": 78,
+    "grade": "良好",
+    "product_idea": {
+      "name": "线上线下联动的‘接财’祈福盲盒",
+      "features": "线上抽取数字运势签，线下在合作景区（如洛邑古城）或指定门店通过NFC/AR技术实景‘接财’，并兑换实体寓意小商品或优惠券。",
+      "target_users": "春节游客、年轻求财心切群体、国风文化爱好者",
+      "value_proposition": "结合当下流行的玄学热与文旅热点，通过O2O互动形式，将单纯的景点游览转化为更有趣的寻宝消费体验。"
+    }
+  }
+]
