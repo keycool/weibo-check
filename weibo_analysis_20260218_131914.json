@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "苏翊鸣单板滑雪坡障技巧决赛",
+    "scores": {
+      "novelty": 15,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 18,
+      "practical": 2,
+      "market": 10
+    },
+    "total_score": 82,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "「翊鸣惊人」第一视角极限VR体验",
+      "features": "通过VR设备复刻苏翊鸣夺冠赛道，提供第一视角的沉浸式滑雪体验，内置实时解说的专业动作拆解。",
+      "target_users": "滑雪爱好者、青少年体育迷、科技潮玩人群",
+      "value_proposition": "让用户在家也能身临其境感受冬奥冠军的赛道视角与荣耀时刻，激发运动热情。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "苏翊鸣金牌",
+    "scores": {
+      "novelty": 16,
+      "resonance": 20,
+      "viral": 20,
+      "entertainment": 19,
+      "practical": 1,
+      "market": 10
+    },
+    "total_score": 86,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "冠军时刻数字藏品NFT",
+      "features": "将苏翊鸣夺金瞬间及身披国旗的呐喊生成动态数字徽章，支持好友间赠送与展示。",
+      "target_users": "粉丝群体、收藏投资者、Z世代用户",
+      "value_proposition": "永久珍藏国家荣誉的高光时刻，具备社交展示属性与情感纪念价值。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "2026春节消费市场红火开场",
+    "scores": {
+      "novelty": 5,
+      "resonance": 8,
+      "viral": 5,
+      "entertainment": 2,
+      "practical": 8,
+      "market": 9
+    },
+    "total_score": 37,
+    "grade": "普通",
+    "product_idea": {
+      "name": "新春消费趋势雷达APP",
+      "features": "基于实时热搜数据生成各地年货消费热力图，提供避开拥堵的购物路线与高性价比年货推荐。",
+      "target_users": "春节采购人群、实体店商家",
+      "value_proposition": "解决春节采购“买什么、去哪买”的信息差问题，提升消费效率。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "奥迪抽奖送车除夕福利返场",
+    "scores": {
+      "novelty": 10,
+      "resonance": 15,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 6,
+      "market": 9
+    },
+    "total_score": 70,
+    "grade": "良好",
+    "product_idea": {
+      "name": "「全民锦鲤」节日营销SaaS工具",
+      "features": "一键生成品牌抽奖活动页面，支持裂变海报、风控防刷及中奖后的社交分享功能。",
+      "target_users": "中小企业品牌主、电商运营",
+      "value_proposition": "低成本复刻大品牌的节日营销玩法，利用高价值奖品诱饵实现私域流量暴涨。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "中国队米兰冬奥首金",
+    "scores": {
+      "novelty": 12,
+      "resonance": 18,
+      "viral": 17,
+      "entertainment": 16,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 73,
+    "grade": "良好",
+    "product_idea": {
+      "name": "中国军团夺金纪念盲盒",
+      "features": "结合中国冰雪健儿的形象设计的可动公仔，首金款作为隐藏款，附带夺冠精彩瞬间卡片。",
+      "target_users": "奥运收藏者、学生群体",
+      "value_proposition": "实体化承载爱国情怀，利用盲盒机制增加收集乐趣与复购率。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "自由式滑雪女子空中技巧决赛",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 15,
+      "practical": 3,
+      "market": 6
+    },
+    "total_score": 66,
+    "grade": "良好",
+    "product_idea": {
+      "name": "云打call：赛场氛围直播伴侣",
+      "features": "在看直播时同步释放虚拟烟花与弹幕护体，根据赛事节奏自动生成加油视频剪辑。",
+      "target_users": "观赛网友",
+      "value_proposition": "增强独自观赛时的仪式感与参与感，让呐喊声被全网听到。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "苏翊鸣成中国单板滑雪首位双金王",
+    "scores": {
+      "novelty": 18,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 17,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 82,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "双王之路：少年苏翊鸣传记绘本",
+      "features": "讲述苏翊鸣从童星到奥运冠军的成长故事，重点描绘“双金”背后的挑战与坚持。",
+      "target_users": "青少年儿童、家长",
+      "value_proposition": "传递榜样力量，激励孩子追求梦想，适合作为春节礼物。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "施华蔻让李一桐爸妈美回当年",
+    "scores": {
+      "novelty": 11,
+      "resonance": 14,
+      "viral": 12,
+      "entertainment": 10,
+      "practical": 5,
+      "market": 9
+    },
+    "total_score": 61,
+    "grade": "良好",
+    "product_idea": {
+      "name": "「时光逆旅」AI老妆修复滤镜",
+      "features": "用户上传父母照片，AI自动生成年轻时的专业造型方案（发型/妆容），并推荐对应染发产品。",
+      "target_users": "子女、中老年群体",
+      "value_proposition": "科技赋能孝心，帮助父母重拾年轻自信，精准带动美妆产品销售。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "谷爱凌 顶级狩猎者的眼神",
+    "scores": {
+      "novelty": 16,
+      "resonance": 13,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 7
+    },
+    "total_score": 68,
+    "grade": "良好",
+    "product_idea": {
+      "name": "冠军凝视：专注力训练AR眼镜",
+      "features": "模拟谷爱凌赛前专注状态，通过眼球追踪技术提供沉浸式专注力训练小游戏。",
+      "target_users": "学生、电竞选手、高压工作者",
+      "value_proposition": "借助明星效应，提供心理调节与专注力提升的工具化解决方案。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "CCTV6 三女休夫",
+    "scores": {
+      "novelty": 17,
+      "resonance": 12,
+      "viral": 15,
+      "entertainment": 15,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 67,
+    "grade": "良好",
+    "product_idea": {
+      "name": "家庭剧场：女性视角剧本杀包月盒",
+      "features": "每月配送一个以女性成长、独立为主题的家庭剧本杀盒，主打“大女主”题材。",
+      "target_users": "年轻女性、闺蜜聚会群体",
+      "value_proposition": "提供情绪宣泄出口与社交话题，满足对独立女性叙事的精神消费需求。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "初三一定记得睡懒觉",
+    "scores": {
+      "novelty": 12,
+      "resonance": 18,
+      "viral": 14,
+      "entertainment": 13,
+      "practical": 7,
+      "market": 5
+    },
+    "total_score": 69,
+    "grade": "良好",
+    "product_idea": {
+      "name": "春节懒人防护指南小程序",
+      "features": "一键生成“我在睡觉勿扰”的微信状态海报，并提供拒绝亲戚催婚/加班的幽默话术。",
+      "target_users": "返乡过年年轻人",
+      "value_proposition": "合法化春节“摆烂”，通过幽默化解社交压力，守护个人休息时间。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "龙洋主持完春晚哭了",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 13,
+      "entertainment": 8,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 49,
+    "grade": "普通",
+    "product_idea": {
+      "name": "真情流露：公众人物情绪速报",
+      "features": "抓取明星访谈或直播中的微表情与泪点，生成情感剪辑短片，主打情感治愈。",
+      "target_users": "娱乐八卦爱好者、情感类用户",
+      "value_proposition": "挖掘名人背后的真实人性，为大众提供情感共鸣的短视频内容。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "曝邓超怒怼项目方维护孙俪",
+    "scores": {
+      "novelty": 8,
+      "resonance": 13,
+      "viral": 14,
+      "entertainment": 12,
+      "practical": 1,
+      "market": 5
+    },
+    "total_score": 53,
+    "grade": "普通",
+    "product_idea": {
+      "name": "护妻力满分：情侣绑定维权卡",
+      "features": "情侣账号绑定，当一方在外消费遇到不公时，另一方可远程介入投诉或代为支付安抚。",
+      "target_users": "情侣、夫妻",
+      "value_proposition": "将“护妻”情感需求转化为实际的社交服务功能，增加情侣互动趣味。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "徐梦桃邵琪孔凡钰进决赛",
+    "scores": {
+      "novelty": 10,
+      "resonance": 14,
+      "viral": 12,
+      "entertainment": 13,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 57,
+    "grade": "普通",
+    "product_idea": {
+      "name": "桃桃助威团：赛事竞猜积分商城",
+      "features": "围绕老将徐梦桃的比赛成绩进行积分竞猜，赢取签名周边或运动装备。",
+      "target_users": "体操迷、竞猜爱好者",
+      "value_proposition": "利用老将的国民度提升观赛粘性，通过竞猜机制活跃私域流量。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "李健 媚眼抛给瞎子看",
+    "scores": {
+      "novelty": 15,
+      "resonance": 11,
+      "viral": 14,
+      "entertainment": 16,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 62,
+    "grade": "良好",
+    "product_idea": {
+      "name": "健哥歌词语录生成器",
+      "features": "输入用户当下的心情，自动生成李健风格的文艺歌词或“冷幽默”金句供朋友圈配图。",
+      "target_users": "文艺青年、李健粉丝",
+      "价值_proposition": "满足用户在社交媒体上展示文艺形象的社交货币需求。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "苏翊鸣身披国旗大喊",
+    "scores": {
+      "novelty": 13,
+      "resonance": 19,
+      "viral": 17,
+      "entertainment": 16,
+      "practical": 2,
+      "market": 7
+    },
+    "total_score": 74,
+    "grade": "良好",
+    "product_idea": {
+      "name": "「我为中国红」AR合影滤镜",
+      "features": "识别用户肩膀位置，自动生成虚拟身披国旗的动态效果，并收录用户的呐喊声合成视频。",
+      "target_users": "全体爱国网民",
+      "value_proposition": "极低门槛参与国家庆典，让普通用户也能制作冠军同款的爱国大片。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "李现祝贺苏翊鸣",
+    "scores": {
+      "novelty": 8,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 47,
+    "grade": "普通",
+    "product_idea": {
+      "name": "星连心：明星互动语音助手",
+      "features": "聚合明星对热点事件的祝贺语音，可作为闹钟铃声或短信提示音。",
+      "target_users": "粉丝群体",
+      "value_proposition": "将零散的明星社交互动转化为可收藏的音频产品，满足粉丝经济。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "谁把郭富城鞋踩掉了",
+    "scores": {
+      "novelty": 16,
+      "resonance": 11,
+      "viral": 16,
+      "entertainment": 17,
+      "practical": 1,
+      "market": 4
+    },
+    "total_score": 65,
+    "grade": "良好",
+    "product_idea": {
+      "name": "晚会防踩神器：魔术贴加固鞋贴",
+      "features": "专为舞台表演或舞会设计的隐形鞋贴，防止剧烈舞蹈时鞋子脱落。",
+      "target_users": "舞者、表演从业者、爱舞人群",
+      "value_proposition": "解决舞台事故痛点，利用热点话题进行功能化种草。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "苏翊鸣第三跳 裁判压分",
+    "scores": {
+      "novelty": 9,
+      "resonance": 17,
+      "viral": 16,
+      "entertainment": 10,
+      "practical": 3,
+      "market": 5
+    },
+    "total_score": 60,
+    "grade": "普通",
+    "product_idea": {
+      "name": "体坛裁判团：大众打分系统",
+      "features": "在争议判罚出现时，邀请注册裁判员或资深爱好者进行“云打分”，生成大众报告。",
+      "target_users": "体育迷、专业解说",
+      "value_proposition": "释放观众的不满情绪，通过专业讨论建立体育评论社区的权威性。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "谷爱凌大跳台决赛第三跳前眼神",
+    "scores": {
+      "novelty": 13,
+      "resonance": 11,
+      "viral": 12,
+      "entertainment": 12,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 56,
+    "grade": "普通",
+    "product_idea": {
+      "name": "冠军眼神壁纸包",
+      "features": "提取谷爱凌决胜时刻的眼神特写，制作成一系列锁屏壁纸，搭配励志语录。",
+      "target_users": "学生、手机壁纸用户",
+      "value_proposition": "通过视觉符号传递自信与从容的心理暗示，提供情绪价值。"
+    }
+  }
+]
