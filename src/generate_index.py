@@ -73,8 +73,8 @@ def generate_index_html():
 
 def generate_html_content(reports_by_platform, platform_names):
     """生成 HTML 内容"""
-    # 统计信息
-    total_reports = sum(len(reports) for reports in reports_by_platform.values())
+    # 统计信息：有报告的平台数
+    platforms_with_reports = sum(1 for reports in reports_by_platform.values() if reports)
 
     html = f"""<!DOCTYPE html>
 <html lang="zh-CN">
@@ -224,8 +224,8 @@ def generate_html_content(reports_by_platform, platform_names):
 
         <div class="stats">
             <div class="stat-card">
-                <p>总报告数</p>
-                <h3>{total_reports}</h3>
+                <p>有报告的平台</p>
+                <h3>{platforms_with_reports}</h3>
             </div>
             <div class="stat-card">
                 <p>支持平台</p>
@@ -250,13 +250,13 @@ def generate_html_content(reports_by_platform, platform_names):
             <div class="platform-header">
                 <span class="platform-icon">{icon}</span>
                 <h2 class="platform-title">{platform_name}热搜</h2>
-                <span class="platform-count">{len(reports)} 份报告</span>
+                <span class="platform-count">{'最新报告' if reports else '暂无报告'}</span>
             </div>
 """
 
         if reports:
             html += '            <div class="reports-grid">\n'
-            for report in reports[:10]:  # 只显示最近 10 份
+            for report in reports[:1]:  # 只显示最新 1 份
                 size_kb = report['size'] / 1024
                 html += f"""                <div class="report-card" onclick="window.location.href='{report['filename']}'">
                     <div class="report-time">{report['display_time']}</div>
