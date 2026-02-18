@@ -56,7 +56,8 @@ This project uses **Chinese conventional commits** with the `feat:` prefix:
 │   ├── analyze_with_claude.py # Alternative Claude analyzer
 │   ├── config_loader.py     # Configuration management
 │   ├── path_utils.py        # Cross-platform path handling
-│   └── generate_index.py    # GitHub Pages index generator
+│   ├── generate_index.py    # GitHub Pages index generator
+│   └── cleanup_temp.py      # Temporary file cleanup
 ├── requirements.txt
 ├── SKILL.md               # This file - extracted patterns
 └── version.txt
@@ -325,6 +326,42 @@ python src/generate_index.py
 {platform}_analysis_{YYYYMMDD_HHMMSS}.html
 Example: weibo_analysis_20260116_195949.html
 ```
+
+### Temporary File Cleanup Module
+
+The project includes an automatic cleanup module for temporary files:
+
+**Cleanup File**: `src/cleanup_temp.py`
+
+**Functionality:**
+- Automatically cleans up `tmpclaude-*` temporary files in project root
+- Keeps the latest N files (default: 3)
+- Removes old files based on modification time
+
+**How it works:**
+1. Scans project root for files matching `tmpclaude-*` pattern
+2. Sorts files by modification time (newest first)
+3. Deletes files beyond the keep limit
+4. Reports deleted file count
+
+**Usage:**
+```bash
+# Run as standalone
+python -m src.cleanup_temp
+
+# Run with custom keep count
+python -m src.cleanup_temp 5  # Keep 5 files
+```
+
+**Integration:**
+- Added as a step in GitHub Actions workflow after index generation
+- Independent module, can be called from any Python code
+
+**Key Features:**
+- Configurable keep count via parameter
+- Cross-platform path handling
+- Detailed logging of cleanup operations
+- Safe: only deletes files, never directories
 
 ### Adding Support for a New Platform
 

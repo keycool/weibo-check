@@ -60,6 +60,9 @@ jobs:
       - name: Generate index page
         run: python -m src.generate_index
 
+      - name: Cleanup temp files
+        run: python -m src.cleanup_temp
+
       - name: Upload analysis report
         uses: actions/upload-artifact@v4
         with:
