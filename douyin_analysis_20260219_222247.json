@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "英国国王回应安德鲁被捕",
+    "scores": {
+      "novelty": 15,
+      "resonance": 16,
+      "viral": 17,
+      "entertainment": 14,
+      "practical": 0,
+      "market": 2
+    },
+    "total_score": 64,
+    "grade": "良好",
+    "product_idea": {
+      "name": "皇室吃瓜模拟器",
+      "features": "基于真实皇室新闻的互动叙事游戏，用户可扮演皇室成员进行危机公关决策，剧情实时更新。",
+      "target_users": "对欧美八卦感兴趣的年轻群体、解压游戏玩家。",
+      "value_proposition": "将严肃新闻转化为寓教于乐的沉浸式体验，满足用户的窥私欲与参与感。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "宁忠岩打破奥运纪录夺金",
+    "scores": {
+      "novelty": 16,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 16,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 77,
+    "grade": "良好",
+    "product_idea": {
+      "name": "冠军同款训练助手",
+      "features": "提取夺金选手的体能训练数据与技巧，提供大众化的短道速滑/滑冰体能跟练课程与姿态矫正。",
+      "target_users": "滑冰爱好者、想要在这个冬天尝试新运动的健身人群。",
+      "value_proposition": "借势奥运热度，让普通人也能体验到专业运动员的训练魅力，强身健体。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "我国在光通信及6G领域取得新进展",
+    "scores": {
+      "novelty": 18,
+      "resonance": 15,
+      "viral": 14,
+      "entertainment": 5,
+      "practical": 6,
+      "market": 9
+    },
+    "total_score": 67,
+    "grade": "良好",
+    "product_idea": {
+      "name": "未来科技可视化科普站",
+      "features": "通过3D可视化模型向用户展示6G和光通信的工作原理，以及其在日常生活中的应用场景。",
+      "target_users": "科技爱好者、学生、关注国家发展的普通大众。",
+      "value_proposition": "将晦涩的高精尖技术转化为可视化的知识内容，激发民族自豪感与学习兴趣。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "尹锡悦因内乱头目罪被判无期",
+    "scores": {
+      "novelty": 18,
+      "resonance": 16,
+      "viral": 18,
+      "entertainment": 12,
+      "practical": 0,
+      "market": 1
+    },
+    "total_score": 65,
+    "grade": "良好",
+    "product_idea": {
+      "name": "国际局势追踪棋盘",
+      "features": "类似《大航海时代》的地图UI，实时更新各国政治新闻，以势力划分展示地缘政治变动。",
+      "target_users": "时政关注者、策略游戏玩家。",
+      "value_proposition": "将枯燥的新闻资讯转化为动态的“权力游戏”地图，增强阅读趣味性。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "俄外长：美国若打击伊朗后果严重",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 15,
+      "entertainment": 4,
+      "practical": 3,
+      "market": 2
+    },
+    "total_score": 50,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球安全风险出行助手",
+      "features": "基于地缘政治新闻数据，实时评估并提示各国旅游、商务出行的安全等级变化。",
+      "target_users": "出境游旅客、跨国商务人士。",
+      "value_proposition": "将宏大的国际新闻转化为与个人安全息息相关的实用情报。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "脱缰凯带剧情大咖集体拜年",
+    "scores": {
+      "novelty": 14,
+      "resonance": 17,
+      "viral": 19,
+      "entertainment": 18,
+      "practical": 2,
+      "market": 9
+    },
+    "total_score": 79,
+    "grade": "良好",
+    "product_idea": {
+      "name": "大咖祝福生成器",
+      "features": "利用AI换脸/声音合成技术，让用户上传照片，生成与明星、大咖“同框”拜年的专属视频。",
+      "target_users": "春节期间需要发送祝福的年轻用户、粉丝群体。",
+      "value_proposition": "满足用户与偶像互动的虚荣心，制作独一无二的个性化春节祝福内容。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "飞驰人生原型车到底有多硬核",
+    "scores": {
+      "novelty": 16,
+      "resonance": 15,
+      "viral": 16,
+      "entertainment": 17,
+      "practical": 4,
+      "market": 8
+    },
+    "total_score": 76,
+    "grade": "良好",
+    "product_idea": {
+      "name": "硬核改装知识库",
+      "features": "结合电影热点，深度解析赛车改装细节、性能参数及成本，提供入门级改装指南。",
+      "target_users": "汽车爱好者、电影观众、潜在车主。",
+      "value_proposition": "将电影热度转化为汽车文化的专业科普，连接影迷与车迷。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "第一次被鱼灯震撼到",
+    "scores": {
+      "novelty": 19,
+      "resonance": 18,
+      "viral": 19,
+      "entertainment": 19,
+      "practical": 5,
+      "market": 8
+    },
+    "total_score": 88,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "非遗AR鱼灯DIY套件",
+      "features": "附带材料包的DIY鱼灯手工盒，配合APP提供AR组装教程及点亮后的特效滤镜拍摄。",
+      "target_users": "亲子家庭、国潮爱好者、追求新年仪式感的年轻人。",
+      "value_proposition": "将传统非遗技艺简化为大众可参与的手工体验，结合科技让传统民俗更酷炫。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "这才是动物园该有的样子",
+    "scores": {
+      "novelty": 14,
+      "resonance": 18,
+      "viral": 18,
+      "entertainment": 17,
+      "practical": 6,
+      "market": 7
+    },
+    "total_score": 80,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "萌宠云认养平台",
+      "features": "用户可在线认养动物园的“网红”动物，获得24小时专属直播权及成长日记，支持线下探视。",
+      "target_users": "都市白领、亲子家庭、动物爱心人士。",
+      "价值_proposition": "解决现代人想养宠却没时间的痛点，同时支持动物保护事业。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "拜年就要年味穿搭",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 7,
+      "market": 9
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "AI新春战袍设计师",
+      "features": "用户上传生肖、星座或喜好，AI生成专属的“新春战袍”设计图，并链接至汉服/国风服饰购买渠道。",
+      "target_users": "追求新年新形象的年轻女性、国风爱好者。",
+      "value_proposition": "结合传统节日与现代审美，提供高定制化的穿搭解决方案，激发购买欲。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "一家人在一起就是幸福",
+    "scores": {
+      "novelty": 8,
+      "resonance": 19,
+      "viral": 12,
+      "entertainment": 10,
+      "practical": 3,
+      "market": 4
+    },
+    "total_score": 56,
+    "grade": "普通",
+    "product_idea": {
+      "name": "家庭聚会时光胶囊",
+      "features": "春节聚会时，引导用户拍摄并剪辑家庭Vlog，自动生成电子相册，并设定一年后的定时发送。",
+      "target_users": "返乡过年的游子、重视家庭记录的用户。",
+      "价值_proposition": "将抽象的情感具象化为可保存的数字资产，留住家庭团聚的温馨瞬间。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "混着喝酒更容易醉吗",
+    "scores": {
+      "novelty": 12,
+      "resonance": 17,
+      "viral": 16,
+      "entertainment": 12,
+      "practical": 9,
+      "market": 6
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "春节解酒护肝指南",
+      "features": "科普混饮危害，提供酒精代谢计算器（估算何时能开车），推荐科学的解酒食物与醒酒时间。",
+      "target_users": "春节期间频繁应酬的饮酒人群。",
+      "value_proposition": "解决春节应酬的实际痛点，提供健康饮酒的科学依据与避险工具。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "美以或对伊朗发动大规模袭击",
+    "scores": {
+      "novelty": 14,
+      "resonance": 15,
+      "viral": 16,
+      "entertainment": 2,
+      "practical": 4,
+      "market": 2
+    },
+    "total_score": 53,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球资讯极简推送",
+      "features": "过滤掉情绪化词汇，仅推送国际冲突的关键时间节点与事实进度，提供背景知识卡片。",
+      "target_users": "希望高效获取信息但不想被焦虑情绪裹挟的用户。",
+      "value_proposition": "在信息过载的时代，提供冷静、客观的核心事实，降低用户的认知焦虑。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "不管外面有多厉害回家都得老实",
+    "scores": {
+      "novelty": 15,
+      "resonance": 20,
+      "viral": 19,
+      "entertainment": 18,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 79,
+    "grade": "良好",
+    "product_idea": {
+      "name": "身份反转短视频模版",
+      "features": "提供“职场霸总VS家庭乖乖仔”的对比视频剪辑模板与特效，用户只需填入素材即可生成搞笑视频。",
+      "target_users": "春节返乡的年轻人、短视频创作者。",
+      "value_proposition": "精准击中春节年轻人回家后的反差萌，具备极强的社交裂变潜力和吐槽娱乐价值。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "镖人票房破3亿",
+    "scores": {
+      "novelty": 14,
+      "resonance": 15,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 68,
+    "grade": "良好",
+    "product_idea": {
+      "name": "国漫IP手办盲盒",
+      "features": "基于热门国漫角色推出Q版或精雕手办盲盒，附带漫画连载二维码引流。",
+      "target_users": "国漫粉丝、盲盒收藏家。",
+      "价值_proposition": "将线上票房热度转化为线下的实体收藏品，延长IP的商业生命周期。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "电影镖人排片上涨",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 14,
+      "entertainment": 13,
+      "practical": 4,
+      "market": 7
+    },
+    "total_score": 64,
+    "grade": "良好",
+    "product_idea": {
+      "name": "电影口碑指数查询器",
+      "features": "实时监控各部电影的上座率与排片变化，预测票房走势，为用户观影选择提供数据支持。",
+      "target_users": "重度影迷、影院投资者。",
+      "价值_proposition": "用数据驱动观影决策，帮助用户在众多影片中找到“遗珠”。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "赵心童6:5险胜斯莱瑟",
+    "scores": {
+      "novelty": 15,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 3,
+      "market": 5
+    },
+    "total_score": 68,
+    "grade": "良好",
+    "product_idea": {
+      "name": "绅士运动社交俱乐部",
+      "features": "以斯诺克、网球等绅士运动为切入点，组织线下观赛局与初级体验局。",
+      "target_users": "中产阶层、商务社交需求人群。",
+      "价值_proposition": "借势热门体育赛事，推广格调高雅的体育运动与社交方式。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "松延动力员工00后占一半",
+    "scores": {
+      "novelty": 16,
+      "resonance": 14,
+      "viral": 15,
+      "entertainment": 10,
+      "practical": 5,
+      "market": 6
+    },
+    "total_score": 66,
+    "grade": "良好",
+    "product_idea": {
+      "name": "00后职场生存图鉴",
+      "features": "通过短视频和图文展现“00后”整顿职场或创新工作的真实案例，为企业提供代际管理咨询。",
+      "target_users": "企业管理者、HR、00后职场新人。",
+      "value_proposition": "剖析新生代职场特点，帮助企业构建更适合年轻人的工作环境与文化。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "伊朗：已进入全面战备状态",
+    "scores": {
+      "novelty": 15,
+      "resonance": 16,
+      "viral": 17,
+      "entertainment": 3,
+      "practical": 2,
+      "market": 1
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "历史大事记回顾插件",
+      "features": "当突发重大国际新闻时，APP自动推送该地区相关的历史背景资料，帮助用户理解前因后果。",
+      "target_users": "新闻读者、历史爱好者。",
+      "价值_proposition": "增加新闻的深度阅读维度，让用户知其然也知其所以然。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "苏翊鸣与朱易秀恩爱",
+    "scores": {
+      "novelty": 18,
+      "resonance": 18,
+      "viral": 20,
+      "entertainment": 15,
+      "practical": 0,
+      "market": 8
+    },
+    "total_score": 79,
+    "grade": "良好",
+    "product_idea": {
+      "name": "体育同款种草清单",
+      "features": "在体育明星社交热点爆发时，迅速聚合他们身上的穿搭、装备、使用的APP等，形成同款购买清单。",
+      "target_users": "体育粉丝、追星族。",
+      "价值_proposition": "将粉丝经济与体育IP结合，实现“看新闻-种草-购买”的高效转化。"
+    }
+  }
+]

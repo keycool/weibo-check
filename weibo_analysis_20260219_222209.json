@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "宁忠岩金牌",
+    "scores": {
+      "novelty": 12,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 69,
+    "grade": "良好",
+    "product_idea": {
+      "name": "冬奥夺金·实时荣耀弹幕APP",
+      "features": "在比赛夺金瞬间触发全屏手机特效与礼花，提供专属夺冠头像框与爱国语录生成器。",
+      "target_users": "关注冬奥的年轻网民、体育迷。",
+      "value_proposition": "将单纯的赛事观看转化为具有仪式感的参与体验，满足用户的民族自豪感与分享欲。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "美军力量被曝正快速集结",
+    "scores": {
+      "novelty": 8,
+      "resonance": 15,
+      "viral": 16,
+      "entertainment": 0,
+      "practical": 0,
+      "market": 0
+    },
+    "total_score": 39,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球局势·安全态势追踪器",
+      "features": "聚合全球突发军事新闻与安全风险指数，提供避险路线规划与物资储备建议。",
+      "target_users": "国际时事关注者、海外务工/旅行人员。",
+      "value_proposition": "消除信息不对称带来的焦虑，为有潜在风险需求的人群提供客观的信息参考。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "他们在天山脚下脚踏冰河巡边",
+    "scores": {
+      "novelty": 10,
+      "resonance": 18,
+      "viral": 15,
+      "entertainment": 5,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 53,
+    "grade": "普通",
+    "product_idea": {
+      "name": "戍边英雄·云守护平台",
+      "features": "展示边防战士实时巡边日志（脱敏），用户可进行线上捐赠物资或发送感谢信，结合边防纪录片。",
+      "target_users": "爱国拥军群体、学生。",
+      "value_proposition": "建立普通民众与边防战士的情感连接，将感动转化为实际的关怀支持。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "谷爱凌第二滑86.50分",
+    "scores": {
+      "novelty": 8,
+      "resonance": 17,
+      "viral": 14,
+      "entertainment": 12,
+      "practical": 1,
+      "market": 9
+    },
+    "total_score": 61,
+    "grade": "良好",
+    "product_idea": {
+      "name": "谷爱凌同款·运动穿搭AI",
+      "features": "用户上传照片，AI自动分析并推荐谷爱凌同款风格的运动装备与日常穿搭。",
+      "target_users": "年轻女性、滑雪运动爱好者、时尚追随者。",
+      "value_proposition": "利用顶级运动员的带货效应，满足粉丝对偶像模仿及对时尚运动生活的追求。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "冬奥花样滑冰女单自由滑",
+    "scores": {
+      "novelty": 5,
+      "resonance": 14,
+      "viral": 12,
+      "entertainment": 15,
+      "practical": 1,
+      "market": 4
+    },
+    "total_score": 51,
+    "grade": "普通",
+    "product_idea": {
+      "name": "花样滑冰·3D动作复盘教学",
+      "features": "将比赛精彩瞬间拆解为3D教学模型，标注旋转周数、起跳角度，供爱好者学习分析。",
+      "target_users": "花滑入门爱好者、教练员。",
+      "value_proposition": "将高观赏性的比赛转化为专业的学习素材，提升大众对运动技术的理解。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "谢景行",
+    "scores": {
+      "novelty": 5,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 12,
+      "practical": 0,
+      "market": 7
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "古言男主·声控恋爱互动剧",
+      "features": "以谢景行为原型的沉浸式音频互动游戏，用户选择剧情分支，解锁专属语音包。",
+      "target_users": "原著小说粉丝、乙女游戏玩家。",
+      "value_proposition": "利用热门IP角色的情感粘性，提供深度的沉浸式陪伴体验。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "李琰连续5届冬奥会带队夺金",
+    "scores": {
+      "novelty": 14,
+      "resonance": 16,
+      "viral": 13,
+      "entertainment": 8,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 59,
+    "grade": "普通",
+    "product_idea": {
+      "name": "冠军教头·领导力课",
+      "features": "李琰执教理念拆解，针对团队管理、抗压心理开发的在线课程或企业内训服务。",
+      "target_users": "企业管理者、体育教练。",
+      "value_proposition": "将顶级体育教练经验转化为通用职场领导力智慧，实现知识变现。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "宁忠岩打破奥运纪录",
+    "scores": {
+      "novelty": 13,
+      "resonance": 17,
+      "viral": 16,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 7
+    },
+    "total_score": 65,
+    "grade": "良好",
+    "product_idea": {
+      "name": "纪录粉碎机·体能挑战小程序",
+      "features": "用户上传日常运动数据，与奥运纪录数据进行趣味对比（如：你跑了多少公里等于宁忠岩滑了一圈），生成打卡海报。",
+      "target_users": "健身爱好者、普通大众。",
+      "value_proposition": "通过数据量化与顶级运动员的差距，激励大众参与日常体育锻炼。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "宁忠岩 圆月弯刀斩落紫微星",
+    "scores": {
+      "novelty": 16,
+      "resonance": 15,
+      "viral": 17,
+      "entertainment": 14,
+      "practical": 1,
+      "market": 5
+    },
+    "total_score": 68,
+    "grade": "良好",
+    "product_idea": {
+      "name": "武侠风·冬奥高燃剪辑厂牌",
+      "features": "专门制作武侠风格体育赛事混剪的短视频账号，结合中国风BGM和特效，打造独特的体育解说风格。",
+      "target_users": "B站/抖音用户、国风爱好者。",
+      "value_proposition": "用传统文化美学重构现代竞技体育，打造极具传播力的视频内容产品。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "大年初四",
+    "scores": {
+      "novelty": 2,
+      "resonance": 18,
+      "viral": 10,
+      "entertainment": 5,
+      "practical": 4,
+      "market": 5
+    },
+    "total_score": 44,
+    "grade": "普通",
+    "product_idea": {
+      "name": "过年省·亲戚社交计算器",
+      "features": "提供大年初四各地的习俗禁忌查询、吉祥话生成器、以及份子钱/红包预算管理工具。",
+      "target_users": "年轻一代、需要走亲访友的人群。",
+      "value_proposition": "解决春节期间的社交焦虑和预算焦虑，辅助用户更从容地应对传统节日流程。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "刘德华解冻失败",
+    "scores": {
+      "novelty": 15,
+      "resonance": 14,
+      "viral": 19,
+      "entertainment": 18,
+      "practical": 1,
+      "market": 5
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "明星拜年·翻搞笑DIY工具",
+      "features": "利用AI换脸或表情捕捉技术，让用户模仿明星拜年动作，生成可能出现的'翻车'或'成功'搞笑视频。",
+      "target_users": "短视频创作者、明星粉丝。",
+      "value_proposition": "将明星娱乐话题转化为用户的创作工具，通过幽默互动增加病毒式传播。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "谭凯回应没戏拍回青岛开饺子店",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 12,
+      "practical": 6,
+      "market": 9
+    },
+    "total_score": 69,
+    "grade": "良好",
+    "product_idea": {
+      "name": "星店探·副业转行指南",
+      "features": "汇集明星或名人转行实体店的案例与经营技巧，提供实体店创业避坑指南与流量扶持。",
+      "target_users": "有创业意向的群体、明星粉丝、餐饮从业者。",
+      "value_proposition": "利用名人效应进行创业教育，同时挖掘明星店铺的打卡经济价值。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "谷爱凌晋级U型场地决赛",
+    "scores": {
+      "novelty": 6,
+      "resonance": 16,
+      "viral": 13,
+      "entertainment": 11,
+      "practical": 1,
+      "market": 8
+    },
+    "total_score": 55,
+    "grade": "普通",
+    "product_idea": {
+      "name": "爱凌赛道·滑雪模拟VR",
+      "features": "基于真实赛道数据还原U型场地VR游戏，用户可挑战谷爱凌的路线与动作。",
+      "target_users": "滑雪发烧友、游戏玩家。",
+      "value_proposition": "打破时空限制，让普通人在虚拟世界中体验奥运赛道的刺激。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "觉得自己闯祸的可以看看美国四人雪车",
+    "scores": {
+      "novelty": 16,
+      "resonance": 15,
+      "viral": 18,
+      "entertainment": 19,
+      "practical": 3,
+      "market": 2
+    },
+    "total_score": 73,
+    "grade": "良好",
+    "product_idea": {
+      "name": "今日水逆·治愈系吐槽社区",
+      "features": "主打'比我惨的人多得是'的心理治愈社区，对比倒霉经历，提供幽默化解尴尬的文案生成。",
+      "target_users": "生活工作压力大、偶尔犯错的上班族。",
+      "value_proposition": "通过观赏'高端失误'来降低用户的完美主义焦虑，提供情绪宣泄出口。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "宁忠岩说滑疯了",
+    "scores": {
+      "novelty": 11,
+      "resonance": 14,
+      "viral": 15,
+      "entertainment": 13,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 61,
+    "grade": "良好",
+    "product_idea": {
+      "name": "滑疯了·极限运动激情滤镜",
+      "features": "拍摄运动视频时自动添加第一人称视角特效、心跳音效及'滑疯了'等热血字幕。",
+      "target_users": "极限运动爱好者、Vlog博主。",
+      "value_proposition": "帮助用户记录并极具感染力地展示运动中的高光时刻与激情状态。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "属相不是从立春开始算",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 8,
+      "practical": 5,
+      "market": 2
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "老黄历·易学百科小助手",
+      "features": "查询农历、属相、节气等传统文化知识的精准工具，解答传统习俗争议。",
+      "target_users": "对传统文化感兴趣的人群、长辈。",
+      "value_proposition": "提供权威、准确的民俗知识查询，解决代际间的认知差异与争论。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "人的心气是能重新养回来的",
+    "scores": {
+      "novelty": 12,
+      "resonance": 19,
+      "viral": 16,
+      "entertainment": 5,
+      "practical": 7,
+      "market": 8
+    },
+    "total_score": 67,
+    "grade": "良好",
+    "product_idea": {
+      "name": "心气复苏·心理能量重启手账",
+      "features": "结合心理学的'低谷期恢复'计划手账，包含每日正念练习、小成就记录与能量曲线分析。",
+      "target_users": "处于迷茫期、职场倦怠期的年轻人。",
+      "value_proposition": "提供一套可视化的心理重建方法论，帮助用户找回生活掌控感与自信心。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "美国若武力介入台湾代价巨大",
+    "scores": {
+      "novelty": 4,
+      "resonance": 14,
+      "viral": 13,
+      "entertainment": 0,
+      "practical": 1,
+      "market": 1
+    },
+    "total_score": 33,
+    "grade": "普通",
+    "product_idea": {
+      "name": "地缘时局·深度分析杂志",
+      "features": "专注于复杂国际局势深度解读的付费专栏，去情绪化，提供历史背景与战略分析。",
+      "target_users": "高知群体、时政发烧友。",
+      "value_proposition": "在碎片化信息中提供有深度、有逻辑的专业分析内容，满足深度阅读需求。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "郭晶晶霍启刚做马蹄糕拜年",
+    "scores": {
+      "novelty": 9,
+      "resonance": 15,
+      "viral": 14,
+      "entertainment": 12,
+      "practical": 7,
+      "market": 9
+    },
+    "total_score": 66,
+    "grade": "良好",
+    "product_idea": {
+      "name": "豪门同款·国潮点心DIY盒",
+      "features": "针对郭晶晶同款马蹄糕推出半成品食材包，附带明星教学视频，主打健康、亲子、过年氛围。",
+      "target_users": "家庭主妇、追求年味仪式感的家庭。",
+      "value_proposition": "借助豪门亲民形象，将高端传统美食简化为家庭可制作的消费品。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "酷滕 雷淞然",
+    "scores": {
+      "novelty": 10,
+      "resonance": 14,
+      "viral": 13,
+      "entertainment": 11,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 56,
+    "grade": "普通",
+    "product_idea": {
+      "name": "CP名侦探·嗑糖向饭圈社区",
+      "features": "专门追踪热门CP（如酷滕雷淞然）互动细节的社区，提供糖点梳理、同文推荐及应援打榜。",
+      "target_users": "剧集粉丝、嗑CP群体。",
+      "value_proposition": "聚合分散的CP粉需求，提供高效的情感寄托与互动空间。"
+    }
+  }
+]
