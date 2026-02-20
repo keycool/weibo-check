@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "米兰短道速滑女子1500米",
+    "scores": {
+      "novelty": 5,
+      "resonance": 18,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 57,
+    "grade": "普通",
+    "product_idea": {
+      "name": "观赛互动实时弹幕插件",
+      "features": "针对短道速滑等快节奏赛事，提供AI智能解说、犯规判罚科普及高能时刻自动剪辑分享功能。",
+      "target_users": "冬季项目爱好者、视频平台用户",
+      "value_proposition": "降低观赛门槛，提升小白用户的观赛体验与参与感。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "迎财神",
+    "scores": {
+      "novelty": 6,
+      "resonance": 20,
+      "viral": 19,
+      "entertainment": 16,
+      "practical": 1,
+      "market": 15
+    },
+    "total_score": 77,
+    "grade": "良好",
+    "product_idea": {
+      "name": "赛博接财AR滤镜/表情包生成器",
+      "features": "基于人脸识别的财神装扮AR滤镜，结合用户生肖生成专属祈福文案与趣味表情包。",
+      "target_users": "年轻群体、社交网络活跃用户",
+      "value_proposition": "利用传统习俗提供社交货币，满足用户祈福与炫耀的心理需求。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "中国非遗给你亿点点震撼",
+    "scores": {
+      "novelty": 15,
+      "resonance": 18,
+      "viral": 17,
+      "entertainment": 16,
+      "practical": 4,
+      "market": 12
+    },
+    "total_score": 82,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "“非遗匠人”沉浸式体验盲盒",
+      "features": "结合视频教学与mini工具包的非遗技艺DIY订阅盒（如皮影、扎染），配套AR扫描展示成品背后的文化故事。",
+      "target_users": "Z世代消费者、文化爱好者、亲子家庭",
+      "value_proposition": "让非遗触手可及，通过动手体验传承文化，提供高成品的情绪价值。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "中国队男子5000米接力B组第一",
+    "scores": {
+      "novelty": 5,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 10,
+      "practical": 1,
+      "market": 2
+    },
+    "total_score": 40,
+    "grade": "普通",
+    "product_idea": {
+      "name": "运动精神激励语录日历",
+      "features": "提取赛场拼搏语录，结合赛场精彩瞬间图片，每日推送正能量提醒。",
+      "target_users": "体育迷、需要激励的上班族",
+      "value_proposition": "将竞技体育的不屈精神转化为日常生活中的心理能量。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "杨婧茹1500米第四",
+    "scores": {
+      "novelty": 5,
+      "resonance": 10,
+      "viral": 8,
+      "entertainment": 8,
+      "practical": 1,
+      "market": 2
+    },
+    "total_score": 34,
+    "grade": "普通",
+    "product_idea": {
+      "name": "运动员伤病康复与体能追踪APP",
+      "features": "针对高强度运动人群的体能监测与伤病预防建议模块，包含专业运动员康复案例分享。",
+      "target_users": "专业运动员、体育生、运动发烧友",
+      "value_proposition": "普及专业运动康复知识，延长运动寿命。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "王心迪金牌",
+    "scores": {
+      "novelty": 8,
+      "resonance": 15,
+      "viral": 15,
+      "entertainment": 12,
+      "practical": 1,
+      "market": 5
+    },
+    "total_score": 56,
+    "grade": "普通",
+    "product_idea": {
+      "name": "冠军同款竞技雪具定制服务",
+      "features": "提供滑雪装备个性化定制及租赁服务，附赠专业动作分析课程。",
+      "target_users": "滑雪爱好者、高端运动人群",
+      "value_proposition": "借势冠军热度，满足大众对专业级装备和技术的向往。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "将门毒后不是大ip是巨ip",
+    "scores": {
+      "novelty": 10,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 15
+    },
+    "total_score": 75,
+    "grade": "良好",
+    "product_idea": {
+      "name": "IP角色剧情沉浸式剧本杀",
+      "features": "获得正版授权，开发基于原著剧情的线下实景剧本杀或线上互动视频游戏。",
+      "target_users": "书粉、剧本杀玩家、古风爱好者",
+      "value_proposition": "利用巨IP流量，提供粉丝深度参与剧情的第三空间。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "王心迪夺冠后李天马大喊回家生孩子",
+    "scores": {
+      "novelty": 16,
+      "resonance": 17,
+      "viral": 19,
+      "entertainment": 19,
+      "practical": 1,
+      "market": 2
+    },
+    "total_score": 74,
+    "grade": "良好",
+    "product_idea": {
+      "name": "友谊时刻趣味语音卡",
+      "features": "捕捉赛场或生活中的真实爆笑/感人瞬间，生成个性化语音二维码卡片或NFT。",
+      "target_users": "Z世代、社交媒体用户",
+      "value_proposition": "记录并分享朋友间最真实、最无厘头的情感连接瞬间。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "兔子战术",
+    "scores": {
+      "novelty": 14,
+      "resonance": 12,
+      "viral": 13,
+      "entertainment": 10,
+      "practical": 3,
+      "market": 4
+    },
+    "total_score": 56,
+    "grade": "普通",
+    "product_idea": {
+      "name": "战术策略科普模拟游戏",
+      "features": "以“兔子战术”等经典体育战术为蓝本，开发策略解谜小游戏，普及竞技规则知识。",
+      "target_users": "游戏迷、体育迷",
+      "value_proposition": "通过游戏化方式普及冷门体育知识，寓教于乐。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "王心迪徐梦桃 金牌夫妻",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 16,
+      "entertainment": 15,
+      "practical": 2,
+      "market": 10
+    },
+    "total_score": 71,
+    "grade": "良好",
+    "product_idea": {
+      "name": "情侣运动挑战打卡小程序",
+      "features": "主打“像金牌夫妻一样共同进步”，提供双人运动计划、默契值测试及挑战勋章。",
+      "target_users": "运动情侣、健身爱好者",
+      "value_proposition": "利用名人效应推广情侣共同健康生活方式，增强情感纽带。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "贝加尔湖事故遇难者遗体被找到",
+    "scores": {
+      "novelty": 2,
+      "resonance": 15,
+      "viral": 10,
+      "entertainment": 0,
+      "practical": 5,
+      "market": 2
+    },
+    "total_score": 34,
+    "grade": "普通",
+    "product_idea": {
+      "name": "户外探险安全SOS手环",
+      "features": "集成了北斗卫星通讯、体温监测和落水自动报警功能的户外穿戴设备。",
+      "target_users": "户外探险者、极地旅游爱好者",
+      "value_proposition": "在无信号区域提供最后一道生命安全保障。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "五路财神",
+    "scores": {
+      "novelty": 8,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 15,
+      "practical": 1,
+      "market": 14
+    },
+    "total_score": 75,
+    "grade": "良好",
+    "product_idea": {
+      "name": "五行财运测试与运势罗盘",
+      "features": "结合传统五行理论与个人画像，生成个性化财运分析及开运指南（方位、颜色）。",
+      "target_users": "玄学爱好者、祈福人群",
+      "value_proposition": "将传统民俗转化为个性化生活建议，提供心理慰藉与谈资。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "将门独后 天崩开局",
+    "scores": {
+      "novelty": 11,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 12
+    },
+    "total_score": 70,
+    "grade": "良好",
+    "product_idea": {
+      "name": "剧情改写互动社区",
+      "features": "针对“天崩开局”的争议，提供粉丝进行剧情二创、改写结局并投票的互动平台。",
+      "target_users": "原著粉、二创作者",
+      "value_proposition": "释放粉丝对改编的不满或创意，通过UGC提升IP热度。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "儿子离家1年母亲在短视频发现踪迹",
+    "scores": {
+      "novelty": 5,
+      "resonance": 19,
+      "viral": 16,
+      "entertainment": 2,
+      "practical": 8,
+      "market": 5
+    },
+    "total_score": 55,
+    "grade": "普通",
+    "product_idea": {
+      "name": "失踪人口AI影像比对寻亲平台",
+      "features": "利用AI图像识别技术，帮助家属在海量互联网视频中筛查特定特征的人物。",
+      "target_users": "寻亲家庭、公益组织",
+      "value_proposition": "利用科技手段降低寻亲难度，连接失散家庭。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "谷爱凌进了第三个决赛",
+    "scores": {
+      "novelty": 6,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 12
+    },
+    "total_score": 68,
+    "grade": "良好",
+    "product_idea": {
+      "name": "明星运动员跨界联名时尚系列",
+      "features": "结合谷爱凌的时尚属性与运动表现，推出兼具功能性与潮流感的运动穿搭。",
+      "target_users": "年轻女性、滑雪初学者",
+      "value_proposition": "借势明星个人品牌，推广“赛场+街头”的双面生活理念。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "方大同去世一周年",
+    "scores": {
+      "novelty": 5,
+      "resonance": 16,
+      "viral": 12,
+      "entertainment": 8,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 51,
+    "grade": "普通",
+    "product_idea": {
+      "name": "音乐人数字纪念馆与复古音乐盒",
+      "features": "上线已故音乐人的沉浸式回忆空间，结合实体黑胶或复古播放器的纪念礼盒。",
+      "target_users": "忠实粉丝、黑胶唱片收藏者",
+      "value_proposition": "以实体与数字结合的方式，长久保存音乐记忆与情感寄托。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "中国游客赴日人数暴跌日媒回应没影响",
+    "scores": {
+      "novelty": 12,
+      "resonance": 17,
+      "viral": 18,
+      "entertainment": 10,
+      "practical": 6,
+      "market": 8
+    },
+    "total_score": 71,
+    "grade": "良好",
+    "product_idea": {
+      "name": "国内高端深度游定制平台",
+      "features": "针对出境游回流需求，挖掘国内小众高端旅游资源，提供对标国际标准的奢华服务。",
+      "target_users": "高净值人群、原出境游重度用户",
+      "value_proposition": "填补出境游留下的消费空白，提供不输国外的本土高端体验。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "将门独后领衔主演杨仕泽姚弛",
+    "scores": {
+      "novelty": 9,
+      "resonance": 14,
+      "viral": 13,
+      "entertainment": 12,
+      "practical": 2,
+      "market": 10
+    },
+    "total_score": 60,
+    "grade": "良好",
+    "product_idea": {
+      "name": "剧集粉丝应援打榜小程序",
+      "features": "整合演员资讯、剧集花絮，为粉丝提供打榜、数据监测及线上观影团功能。",
+      "target_users": "演员粉丝、剧集观众",
+      "value_proposition": "聚合粉丝力量，提升剧集热度与演员商业价值。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "美最高法院裁定特朗普关税违法",
+    "scores": {
+      "novelty": 14,
+      "resonance": 12,
+      "viral": 12,
+      "entertainment": 5,
+      "practical": 3,
+      "market": 4
+    },
+    "total_score": 50,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球贸易风险预警图谱",
+      "features": "将复杂的政治关税新闻转化为可视化的进出口行业影响图谱，为跨境商家提供预警。",
+      "target_users": "跨境电商卖家、外贸从业者",
+      "value_proposition": "帮助商家快速理解国际新闻对生意的实际影响，规避风险。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "金吉莉1500米金牌",
+    "scores": {
+      "novelty": 6,
+      "resonance": 10,
+      "viral": 10,
+      "entertainment": 10,
+      "practical": 1,
+      "market": 3
+    },
+    "total_score": 40,
+    "grade": "普通",
+    "product_idea": {
+      "name": "多语种体育赛事即时翻译工具",
+      "features": "针对国际赛事，提供对采访、解说及社交讨论的实时低延迟翻译字幕。",
+      "target_users": "非母语体育观众、留学生",
+      "value_proposition": "打破语言障碍，让全球体育爱好者无障碍交流。"
+    }
+  }
+]
