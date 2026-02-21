@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "金银价再度大涨",
+    "scores": {
+      "novelty": 5,
+      "resonance": 18,
+      "viral": 12,
+      "entertainment": 2,
+      "practical": 8,
+      "market": 9
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "金价趋势口袋分析师",
+      "features": "实时金价提醒与历史价格走势对比，结合财经新闻解读买卖时机。",
+      "target_users": "投资者、家庭主妇、关注理财的年轻人",
+      "value_proposition": "帮助用户在金价波动中快速做出决策，通过直观的图表和专家解读降低理财门槛。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "正月初五接财神",
+    "scores": {
+      "novelty": 8,
+      "resonance": 19,
+      "viral": 19,
+      "entertainment": 15,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 69,
+    "grade": "良好",
+    "product_idea": {
+      "name": "电子AR接财神",
+      "features": "通过AR技术在不同场景（如家中、办公室）召唤虚拟财神，录制专属拜年短视频。",
+      "target_users": "春节期间求好运的年轻人、传统习俗爱好者",
+      "value_proposition": "用科技手段复刻传统民俗，提供新颖的社交货币和祈福仪式感。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "“破五”出游注意防风沙",
+    "scores": {
+      "novelty": 5,
+      "resonance": 14,
+      "viral": 10,
+      "entertainment": 2,
+      "practical": 9,
+      "market": 5
+    },
+    "total_score": 45,
+    "grade": "普通",
+    "product_idea": {
+      "name": "恶劣天气出行守护助手",
+      "features": "结合实时气象数据的出行路线规划，推荐防风沙装备清单及避风露营点。",
+      "target_users": "自驾游游客、户外探险者",
+      "value_proposition": "解决春节出游遇恶劣天气的痛点，保障出行安全与体验。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "徐梦桃王心迪冲击第5金",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 3,
+      "market": 8
+    },
+    "total_score": 68,
+    "grade": "良好",
+    "product_idea": {
+      "name": "冠军同款定制周边",
+      "features": "根据比赛现场实时热推夺冠纪念T恤、手机壳等定制周边，支持赛后极速发货。",
+      "target_users": "体育迷、粉丝群体",
+      "value_proposition": "抓住夺冠瞬间的情绪高潮，满足粉丝即时庆祝和纪念的需求。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "消息称美考虑打击哈梅内伊父子",
+    "scores": {
+      "novelty": 15,
+      "resonance": 12,
+      "viral": 14,
+      "entertainment": 2,
+      "practical": 2,
+      "market": 1
+    },
+    "total_score": 46,
+    "grade": "普通",
+    "product_idea": {
+      "name": "地缘政治新闻早读",
+      "features": "复杂的国际局势简报与时间轴梳理，提供多方观点对比。",
+      "target_users": "时政关注者、高知群体",
+      "value_proposition": "帮助用户在碎片化时间快速理解复杂的国际冲突背景。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "美将终止部分关税措施",
+    "scores": {
+      "novelty": 14,
+      "resonance": 10,
+      "viral": 8,
+      "entertainment": 1,
+      "practical": 5,
+      "market": 8
+    },
+    "total_score": 46,
+    "grade": "普通",
+    "product_idea": {
+      "name": "跨境电商政策嗅探器",
+      "features": "自动抓取并解读最新关税政策，推算特定品类的成本变化，辅助选品。",
+      "target_users": "跨境电商卖家、采购商",
+      "value_proposition": "将宏观政策转化为微观的选品建议，辅助商业决策。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "王心迪夺冠后谈及徐梦桃",
+    "scores": {
+      "novelty": 10,
+      "resonance": 17,
+      "viral": 16,
+      "entertainment": 13,
+      "practical": 2,
+      "market": 7
+    },
+    "total_score": 65,
+    "grade": "良好",
+    "product_idea": {
+      "name": "情侣赛场高甜时刻剪辑",
+      "features": "AI自动识别并剪辑体育赛事中的CP互动画面，生成糖度超标短视频。",
+      "target_users": "CP粉、短视频用户",
+      "value_proposition": "挖掘体育竞技背后的情感故事，提供娱乐化内容消费。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "与中国短道速滑队同在",
+    "scores": {
+      "novelty": 6,
+      "resonance": 15,
+      "viral": 12,
+      "entertainment": 8,
+      "practical": 1,
+      "market": 6
+    },
+    "total_score": 48,
+    "grade": "普通",
+    "product_idea": {
+      "name": "国家队助威虚拟头像框",
+      "features": "定制支持国家队的社交媒体头像、滤镜和应援口号生成器。",
+      "target_users": "爱国青年、体育粉丝",
+      "value_proposition": "提供低门槛的爱国情怀表达方式，增强社交参与感。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "如何看待特朗普全球关税被推翻",
+    "scores": {
+      "novelty": 12,
+      "resonance": 8,
+      "viral": 10,
+      "entertainment": 3,
+      "practical": 4,
+      "market": 3
+    },
+    "total_score": 40,
+    "grade": "普通",
+    "product_idea": {
+      "name": "宏观经济沙盘推演小游戏",
+      "features": "模拟关税调整对全球经济的连锁反应，寓教于乐。",
+      "target_users": "学生、经济学爱好者",
+      "value_proposition": "将枯燥的经济新闻转化为互动游戏，提升用户对宏观经济的理解。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "中国自由式滑雪空中技巧为何这么强",
+    "scores": {
+      "novelty": 10,
+      "resonance": 14,
+      "viral": 11,
+      "entertainment": 10,
+      "practical": 3,
+      "market": 7
+    },
+    "total_score": 55,
+    "grade": "普通",
+    "product_idea": {
+      "name": "冠军训练科学解析课",
+      "features": "拆解顶尖运动员的训练动作与体能科学，提供青少年滑雪训练指南。",
+      "target_users": "滑雪爱好者、家长",
+      "value_proposition": "利用热点科普专业知识，转化付费体育教育课程。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "节后“甩膘”超负荷运动可取吗",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 13,
+      "entertainment": 5,
+      "practical": 9,
+      "market": 8
+    },
+    "total_score": 59,
+    "grade": "普通",
+    "product_idea": {
+      "name": "科学节后复位计划",
+      "features": "基于身体数据的节后减脂与恢复计划，警示超负荷运动风险，推荐健康食谱。",
+      "target_users": "节后胖回的人群、健身小白",
+      "value_proposition": "纠正错误的减肥观念，提供安全、科学的身体管理方案。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "赵心童晋级半决赛",
+    "scores": {
+      "novelty": 8,
+      "resonance": 13,
+      "viral": 12,
+      "entertainment": 9,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 50,
+    "grade": "普通",
+    "product_idea": {
+      "name": "斯诺克精彩进球集锦生成器",
+      "features": "实时抓取比赛高光时刻，生成慢动作解说视频。",
+      "target_users": "台球迷",
+      "value_proposition": "快速获取比赛精华，满足球迷快速观赛需求。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "电影镖人票房破5亿",
+    "scores": {
+      "novelty": 9,
+      "resonance": 14,
+      "viral": 15,
+      "entertainment": 12,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 60,
+    "grade": "良好",
+    "product_idea": {
+      "name": "国漫IP沉浸式角色拍照馆",
+      "features": "结合电影热门场景的线下实体拍照打卡点，提供原版服饰租赁。",
+      "target_users": "漫迷、情侣、年轻人",
+      "value_proposition": "利用热门国漫IP流量，打造线下实景娱乐体验新地标。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "克宫：俄日关系“已降至零点”",
+    "scores": {
+      "novelty": 13,
+      "resonance": 9,
+      "viral": 11,
+      "entertainment": 1,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 38,
+    "grade": "普通",
+    "product_idea": {
+      "name": "国际关系知识图谱",
+      "features": "动态展示国家间关系变化的历史脉络与影响因素。",
+      "target_users": "学生、研究者",
+      "value_proposition": "可视化复杂的外交关系，提供清晰的知识梳理工具。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "欢迎财神来我家",
+    "scores": {
+      "novelty": 7,
+      "resonance": 18,
+      "viral": 18,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 7
+    },
+    "total_score": 66,
+    "grade": "良好",
+    "product_idea": {
+      "name": "全家福接财神拍照模板",
+      "features": "提供喜庆的春节全家福拍照滤镜和财神贴纸，一键生成拜年海报。",
+      "target_users": "家庭用户",
+      "value_proposition": "简化春节拍照流程，让发朋友圈更有仪式感和年味。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "傻傻的耶这样不行哦",
+    "scores": {
+      "novelty": 12,
+      "resonance": 10,
+      "viral": 15,
+      "entertainment": 16,
+      "practical": 1,
+      "market": 6
+    },
+    "total_score": 60,
+    "grade": "良好",
+    "product_idea": {
+      "name": "宠物/萌娃搞怪配音秀",
+      "features": "利用AI语音合成技术，为宠物视频搭配搞笑方言或流行语配音。",
+      "target_users": "宠物主人、短视频创作者",
+      "价值_proposition": "降低萌宠视频创作门槛，通过反差萌增加视频爆光率。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "初五迎财神就这么穿",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 17,
+      "entertainment": 12,
+      "practical": 6,
+      "market": 9
+    },
+    "total_score": 70,
+    "grade": "良好",
+    "product_idea": {
+      "name": "好运穿搭种草清单",
+      "features": "推荐寓意好的红色系或金色系服饰，主打“招财”穿搭风格。",
+      "target_users": "爱美女性、追求好运的人群",
+      "value_proposition": "结合民俗心理与时尚穿搭，满足节日 dressing code 需求。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "我家有个小财神",
+    "scores": {
+      "novelty": 9,
+      "resonance": 15,
+      "viral": 16,
+      "entertainment": 13,
+      "practical": 3,
+      "market": 8
+    },
+    "total_score": 64,
+    "grade": "良好",
+    "product_idea": {
+      "name": "萌娃财神Cosplay服饰礼盒",
+      "features": "包含儿童版财神官帽、服装和金元宝道具，主打节日拍照场景。",
+      "target_users": "有娃家庭",
+      "value_proposition": "满足家长晒娃心理，同时寄托对孩子未来的美好祝愿。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "一日店长全民挑战",
+    "scores": {
+      "novelty": 14,
+      "resonance": 12,
+      "viral": 16,
+      "entertainment": 15,
+      "practical": 5,
+      "market": 9
+    },
+    "total_score": 71,
+    "grade": "良好",
+    "product_idea": {
+      "name": "角色互换职业体验模拟器",
+      "features": "通过小游戏或VR体验不同职业（如店长、服务员）的工作流程。",
+      "target_users": "求职者、好奇的年轻人",
+      "value_proposition": "提供低成本的试错机会，满足用户对其他职业的好奇心与换位思考。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "王源开门接财神",
+    "scores": {
+      "novelty": 11,
+      "resonance": 17,
+      "viral": 18,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 70,
+    "grade": "良好",
+    "product_idea": {
+      "name": "明星同款开门特效工具",
+      "features": "用户上传自家大门照片，生成明星或财神上门拜年的特效视频。",
+      "target_users": "粉丝群体",
+      "value_proposition": "利用明星效应制造假象互动，满足粉丝追星乐趣，易于传播。"
+    }
+  }
+]
