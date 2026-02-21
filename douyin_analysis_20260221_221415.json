@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "谷爱凌U型场地决赛推迟",
+    "scores": {
+      "novelty": 5,
+      "resonance": 18,
+      "viral": 10,
+      "entertainment": 5,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 45.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "赛事订阅小助手",
+      "features": "实时推送赛程变更、金牌时刻提醒及多机位观看入口聚合。",
+      "target_users": "冬奥会关注者、体育迷",
+      "value_proposition": "解决信息延迟痛点，不错过任何夺冠瞬间。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "过年好像一场热闹的梦",
+    "scores": {
+      "novelty": 14,
+      "resonance": 19,
+      "viral": 16,
+      "entertainment": 8,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 62.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "年味治愈相册",
+      "features": "AI自动剪辑过年期间的精彩瞬间，配以治愈系BGM生成短视频，记录热闹后的余温。",
+      "target_users": "返乡青年、家庭用户",
+      "value_proposition": "用数字化方式对抗节后孤独感，留存温暖记忆。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "春节档电影总票房突破40亿元",
+    "scores": {
+      "novelty": 5,
+      "resonance": 10,
+      "viral": 8,
+      "entertainment": 5,
+      "practical": 4,
+      "market": 8
+    },
+    "total_score": 40.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "票房对赌小游戏",
+      "features": "用户预测每日票房增长，预测准确可获得电影票优惠券。",
+      "target_users": "电影观众、泛娱乐用户",
+      "value_proposition": "增加观影的参与感和娱乐性，降低下次观影成本。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "新春穿搭不重样挑战",
+    "scores": {
+      "novelty": 8,
+      "resonance": 15,
+      "viral": 17,
+      "entertainment": 14,
+      "practical": 5,
+      "market": 9
+    },
+    "total_score": 68.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "百变穿搭AR试衣镜",
+      "features": "基于春节元素（红、国潮）的AR虚拟试穿，一键生成拜年穿搭海报。",
+      "target_users": "年轻女性、时尚博主",
+      "value_proposition": "低成本试错，解决过年“没衣服穿”的拍照社交需求。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "中国队空中技巧混合团体摘铜",
+    "scores": {
+      "novelty": 5,
+      "resonance": 16,
+      "viral": 10,
+      "entertainment": 8,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 45.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "荣耀时刻滤镜",
+      "features": "夺冠/摘牌瞬间自动触发AR庆祝特效，并在直播间刷屏。",
+      "target_users": "体育赛事观众",
+      "value_proposition": "增强观赛仪式感，提供情感宣泄的虚拟出口。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "消息称美考虑打击哈梅内伊父子",
+    "scores": {
+      "novelty": 15,
+      "resonance": 12,
+      "viral": 14,
+      "entertainment": 2,
+      "practical": 3,
+      "market": 1
+    },
+    "total_score": 47.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球态势早知道",
+      "features": "国际关系新闻可视化图谱，非情绪化的客观背景分析。",
+      "target_users": "时政关注者",
+      "value_proposition": "在信息碎片时代提供清晰的因果逻辑，减少信息焦虑。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "宁忠岩直播“验”冬奥金牌",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 15,
+      "entertainment": 16,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 64.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "金牌云传递",
+      "features": "利用AR技术让用户“云端”触摸、把玩金牌，并生成合影视频。",
+      "target_users": "粉丝群体、大众",
+      "value_proposition": "满足大众对奥运冠军荣誉的好奇心和参与感。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "王心迪夺冠后谈及徐梦桃",
+    "scores": {
+      "novelty": 8,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 12,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 62.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "体坛CP嗑糖机",
+      "features": "聚合运动员互动高光时刻，自动生成混剪视频或漫画条漫。",
+      "target_users": "CP粉、年轻女性",
+      "value_proposition": "将体育竞技娱乐化、情感化，引发情感共鸣传播。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "与中国短道速滑队同在",
+    "scores": {
+      "novelty": 5,
+      "resonance": 18,
+      "viral": 14,
+      "entertainment": 5,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 52.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "国家队加油打榜",
+      "features": "粉丝为不同国家队贡献“人气值”，解锁队伍专属加油特效。",
+      "target_users": "体育粉丝",
+      "value_proposition": "聚合粉丝力量，将爱国情怀转化为具体的互动行为。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "水果烂一小块 削掉后能吃吗",
+    "scores": {
+      "novelty": 6,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 5,
+      "practical": 10,
+      "market": 8
+    },
+    "total_score": 60.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "食品安全扫一扫",
+      "features": "拍摄水果霉变部位，AI识别霉菌种类并给出食用建议或丢弃提醒。",
+      "target_users": "家庭主妇/夫、健康关注者",
+      "value_proposition": "用科学解答生活疑惑，保障家庭成员健康。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "村里又恢复了往日的宁静",
+    "scores": {
+      "novelty": 12,
+      "resonance": 17,
+      "viral": 15,
+      "entertainment": 6,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 56.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "乡村声音白噪音",
+      "features": "收录大自然与乡村生活的高清环境音（鸟叫、风声、柴火声），助眠或解压。",
+      "target_users": "城市打工人、失眠人群",
+      "value_proposition": "用声音抚慰乡愁，营造心理上的避风港。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "电影镖人票房破5亿",
+    "scores": {
+      "novelty": 6,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 8,
+      "practical": 4,
+      "market": 7
+    },
+    "total_score": 47.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "镖人江湖通行证",
+      "features": "观影后生成的数字纪念票根，链入电影IP周边商城。",
+      "target_users": "电影观众、IP粉丝",
+      "value_proposition": "强化粉丝身份认同，促进电影后端变现。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "原来过年的你也睡不着啊",
+    "scores": {
+      "novelty": 10,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 59.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "守岁拼夜聊",
+      "features": "基于地理位置的语音匹配房间，专门为除夕夜失眠人群提供陪伴。",
+      "target_users": "失眠的年轻人",
+      "value_proposition": "消除节日孤独感，寻找同频共振的“守岁人”。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "我家有个小财神",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 18,
+      "entertainment": 17,
+      "practical": 3,
+      "market": 8
+    },
+    "total_score": 72.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "萌娃国潮拜年服",
+      "features": "结合“财神”元素的定制化儿童摄影套餐或变装视频模板。",
+      "target_users": "宝爸宝妈、长辈",
+      "value_proposition": "满足晒娃心理，承载长辈对晚辈财富吉祥的美好祝愿。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "欢迎财神来我家",
+    "scores": {
+      "novelty": 8,
+      "resonance": 17,
+      "viral": 17,
+      "entertainment": 14,
+      "practical": 4,
+      "market": 9
+    },
+    "total_score": 69.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "AR迎财神贴纸",
+      "features": "在大门或客厅通过AR扫描召唤虚拟财神，进行拜财神互动并领红包。",
+      "target_users": "全年龄段用户",
+      "value_proposition": "数字化传统习俗，增加过年祈福的趣味性和科技感。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "杨博文一个cha三种感觉",
+    "scores": {
+      "novelty": 16,
+      "resonance": 12,
+      "viral": 18,
+      "entertainment": 18,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 72.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "方言梗挑战赛",
+      "features": "一键跟读神级方言片段，AI评分并生成鬼畜视频。",
+      "target_users": "短视频用户、方言爱好者",
+      "value_proposition": "发掘方言魅力，提供低门槛的搞笑视频创作素材。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "黄景瑜新剧为了上天太拼了",
+    "scores": {
+      "novelty": 8,
+      "resonance": 14,
+      "viral": 15,
+      "entertainment": 12,
+      "practical": 2,
+      "market": 7
+    },
+    "total_score": 58.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "剧组同款健身计划",
+      "features": "结合剧中演员身材和动作，推出的短期集训课程或挑战。",
+      "target_users": "粉丝、健身人群",
+      "value_proposition": "借势明星效应，激发粉丝健身动力。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "一日店长全民挑战",
+    "scores": {
+      "novelty": 10,
+      "resonance": 10,
+      "viral": 12,
+      "entertainment": 13,
+      "practical": 6,
+      "market": 9
+    },
+    "total_score": 60.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "职业体验模拟器",
+      "features": "通过小游戏模拟不同职业（如店长）的一天，通关可获得线下实体优惠券。",
+      "target_users": "求职者、体验派用户",
+      "value_proposition": "低成本体验不同职业乐趣，同时为线下门店引流。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "方大同才二十三MV官宣",
+    "scores": {
+      "novelty": 10,
+      "resonance": 14,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 63.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "复古音乐滤镜",
+      "features": "匹配MV风格的怀旧视频滤镜，支持用户拍摄同款质感的音乐短片。",
+      "target_users": "音乐粉丝、复古风爱好者",
+      "value_proposition": "用视觉风格传递音乐情绪，促进音乐宣发。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "电影镖人海外口碑有多夯",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 12,
+      "entertainment": 8,
+      "practical": 4,
+      "market": 7
+    },
+    "total_score": 53.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "口碑聚合看板",
+      "features": "聚合海外烂番茄、IMDb评分与国内评价，生成多维度对比影评。",
+      "target_users": "影迷、潜在观众",
+      "value_proposition": "打破信息差，用国际口碑为国内观影提供决策参考。"
+    }
+  }
+]
