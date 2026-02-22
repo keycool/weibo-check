@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "女子U型场地决赛",
+    "scores": {
+      "novelty": 15,
+      "resonance": 18,
+      "viral": 17,
+      "entertainment": 16,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 73,
+    "grade": "良好",
+    "product_idea": {
+      "name": "SpectatorSync: 沉浸式观赛伴侣",
+      "features": "实时多机位VR视角回放、运动员生理数据实时可视化、专业解说术语即时科普弹幕、亲友连麦观赛包厢。",
+      "target_users": "滑雪运动爱好者、冬奥会观众、体育发烧友。",
+      "value_proposition": "打破传统观赛局限，让普通观众也能像专业裁判一样看懂比赛门道，享受第一人称的极速刺激。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "曝票房15亿是镖人的回本线",
+    "scores": {
+      "novelty": 18,
+      "resonance": 14,
+      "viral": 16,
+      "entertainment": 12,
+      "practical": 3,
+      "market": 6
+    },
+    "total_score": 69,
+    "grade": "良好",
+    "product_idea": {
+      "name": "影投模拟器: 影视投资沙盘",
+      "features": "基于真实电影大数据的票房预测模型、用户模拟影视投资项目、导演与演员配置组合推演、投资风险评估游戏。",
+      "target_users": "电影发烧友、股民、金融专业学生、娱乐产业从业者。",
+      "value_proposition": "揭秘电影工业背后的资本博弈，让用户在模拟中体验作为电影投资人的快感与风险。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "热气腾腾的中国年",
+    "scores": {
+      "novelty": 5,
+      "resonance": 19,
+      "viral": 15,
+      "entertainment": 12,
+      "practical": 3,
+      "market": 5
+    },
+    "total_score": 59,
+    "grade": "普通",
+    "product_idea": {
+      "name": "家乡味道: 地道年味地图",
+      "features": "基于地理位置的家乡特产与美食打卡、AR全家福拍摄与年俗滤镜、异地邮寄心意单、年味记忆数字博物馆。",
+      "target_users": "返乡游子、异乡打工人、对民俗文化感兴趣的年轻人。",
+      "value_proposition": "用科技连接物理距离，让无论身在何处的人都能感受到家乡的温度和年的烟火气。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "杨幂演技",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 1,
+      "market": 2
+    },
+    "total_score": 56,
+    "grade": "普通",
+    "product_idea": {
+      "name": "演技派: 表演分析AI",
+      "features": "名场面演技拆解、微表情分析对比、台词情感重音标注、用户模仿AI打分。",
+      "target_users": "演艺圈从业者、表演系学生、八卦吃瓜群众。",
+      "value_proposition": "从感性吐槽到理性分析，用AI技术辅助大众看懂演员的表演细节与艺术张力。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "大理初四订房订到医院",
+    "scores": {
+      "novelty": 16,
+      "resonance": 15,
+      "viral": 18,
+      "entertainment": 12,
+      "practical": 8,
+      "market": 9
+    },
+    "total_score": 78,
+    "grade": "良好",
+    "product_idea": {
+      "name": "避峰游: 智能出行调度站",
+      "features": "基于历史大数据的拥堵与饱和度预测、冷门但高质的替代目的地推荐、实时住宿拥挤指数查询、反向旅游套餐定制。",
+      "target_users": "春节自驾游家庭、追求旅行体验品质的年轻情侣。",
+      "value_proposition": "拒绝人挤人，用数据避开拥挤，只为享受真正的休息与风景。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "淀粉肠进入瑜伽裤时代",
+    "scores": {
+      "novelty": 19,
+      "resonance": 14,
+      "viral": 18,
+      "entertainment": 16,
+      "practical": 5,
+      "market": 8
+    },
+    "total_score": 80,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "零食审美: 丑食改造计划",
+      "features": "国民零食的高级感包装设计服务、零食与时尚穿搭的跨界联名礼盒、街头小吃精致化食谱社区、丑食美学滤镜。",
+      "target_users": "Z世代消费者、国潮爱好者、夜市摊主。",
+      "value_proposition": "打破'廉价=低级'的刻板印象，用设计美学重塑传统街边零食的品牌价值，让吃淀粉肠也成为一种时尚。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "白举纲在米兰街头唱响中国红",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 63,
+    "grade": "良好",
+    "product_idea": {
+      "name": "城市乐章: LBS街头演艺平台",
+      "features": "基于LBS的街头艺人直播地图、路人点歌与打赏功能、跨国巡演路线规划工具、华语音乐海外推广专区。",
+      "target_users": "独立音乐人、留学生、跨国旅行者。",
+      "value_proposition": "让世界听到中国的声音，连接街头艺术家与海外听众，打造流动的全球音乐舞台。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "不要在吃喝方面拿捏人",
+    "scores": {
+      "novelty": 14,
+      "resonance": 17,
+      "viral": 16,
+      "entertainment": 10,
+      "practical": 7,
+      "market": 5
+    },
+    "total_score": 69,
+    "grade": "良好",
+    "product_idea": {
+      "name": "饭饭之交: 社交餐饮过滤器",
+      "features": "饮食偏好与禁忌深度标签匹配、AA制账单自动拆分、'谁做决定'随机转盘工具、聚会饮食雷区避坑指南。",
+      "target_users": "年轻社恐人群、职场新人、饭搭子。",
+      "value_proposition": "消除聚餐中的尴尬与控制欲，让吃饭回归纯粹享受，维护餐桌上的社交边界。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "孟子义沈妙路透",
+    "scores": {
+      "novelty": 5,
+      "resonance": 14,
+      "viral": 12,
+      "entertainment": 10,
+      "practical": 0,
+      "market": 3
+    },
+    "total_score": 44,
+    "grade": "普通",
+    "product_idea": {
+      "name": "星踪: 剧组探班雷达",
+      "features": "聚合全网路透信息、剧组拍摄地实时打卡指南、明星偶遇概率预测、路透照片正版版权交易。",
+      "target_users": "追星女孩、影视记者、旅游博主。",
+      "value_proposition": "满足粉丝好奇心，将偶遇明星的随机事件转化为可控的行程规划。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "初六把我回收了吧",
+    "scores": {
+      "novelty": 15,
+      "resonance": 19,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 4,
+      "market": 5
+    },
+    "total_score": 73,
+    "grade": "良好",
+    "product_idea": {
+      "name": "周一生存包: 节后综合症治愈盒",
+      "features": "智能工位情绪发泄早报机、带薪摸鱼计时器、请假理由高情商生成器、低能量健康补给（护肝片、眼药水）订阅。",
+      "target_users": "广大上班族、节后焦虑症患者。",
+      "value_proposition": "不仅治愈你的身体，更治愈你的不想上班的灵魂，提供幽默与实用的节后缓冲方案。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "谷爱凌第一滑失误",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 12,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 59,
+    "grade": "普通",
+    "product_idea": {
+      "name": "逆转时刻: 心理韧性训练",
+      "features": "结合体育明星失误翻盘案例的心理引导课程、高压场景模拟VR、压力调节呼吸训练助手、失败复盘日记。",
+      "target_users": "竞技体育选手、高压职场人群、学生。",
+      "value_proposition": "通过顶尖运动员的抗压心法，教会大众如何面对失误，在绝境中实现心理逆转。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "王婆说媒炫富男子实际年龄40岁",
+    "scores": {
+      "novelty": 13,
+      "resonance": 16,
+      "viral": 18,
+      "entertainment": 17,
+      "practical": 5,
+      "market": 7
+    },
+    "total_score": 76,
+    "grade": "良好",
+    "product_idea": {
+      "name": "鉴情仪: 婚恋背景调查助手",
+      "features": "社媒公开信息交叉验证、话术逻辑一致性分析测谎、常见情感PUA识别预警、线下相亲安全实时报备。",
+      "target_users": "大龄单身青年、相亲市场参与者、操心子女的父母。",
+      "value_proposition": "在充满滤镜的婚恋市场上，做你的私人侦探，帮你通过细节去伪存真，识别'杀猪盘'与虚假人设。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "月薪多少才愿意过这样的人生",
+    "scores": {
+      "novelty": 12,
+      "resonance": 18,
+      "viral": 15,
+      "entertainment": 13,
+      "practical": 4,
+      "market": 5
+    },
+    "total_score": 67,
+    "grade": "良好",
+    "product_idea": {
+      "name": "人生清算所: 价值计算器",
+      "features": "生活方式量化评估工具（将自由度、压力、休闲时间折算成时薪）、人生剧本交换模拟器、各行业幸福感真实数据图谱。",
+      "target_users": "迷茫的职场人、大学生、裸辞预备役。",
+      "value_proposition": "重新定义'成功'的公式，帮助用户计算理想生活的真实成本，找到金钱与体验的平衡点。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "虹猫蓝兔七侠传回来了",
+    "scores": {
+      "novelty": 14,
+      "resonance": 19,
+      "viral": 17,
+      "entertainment": 16,
+      "practical": 3,
+      "market": 9
+    },
+    "total_score": 78,
+    "grade": "良好",
+    "product_idea": {
+      "name": "童年复兴: 经典IP重制引擎",
+      "features": "经典老动画的高清修复与上色、老番剧情续写AI共创平台、怀旧周边定制（3D打印手办）、经典角色跨次元联动。",
+      "target_users": "90后、00后怀旧群体、国漫爱好者。",
+      "value_proposition": "不只是回忆杀，更是对童年情怀的商业化重塑，让经典IP在新技术时代焕发第二春。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "彩民随手扔掉千万彩票2天才发现",
+    "scores": {
+      "novelty": 16,
+      "resonance": 14,
+      "viral": 18,
+      "entertainment": 16,
+      "practical": 6,
+      "market": 8
+    },
+    "total_score": 78,
+    "grade": "良好",
+    "product_idea": {
+      "name": "无忧票夹: 智能彩票管家",
+      "features": "纸质彩票数字化拍照云存储、开奖自动核对与中奖提醒、彩票过期前智能倒计时、防丢失电子标签。",
+      "target_users": "购彩一族、经常丢三落四的人群。",
+      "value_proposition": "防止因疏忽导致的'弃奖'悲剧，保管您的幸运，确保每一份大奖都不会被错过。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "台湾男子在缅甸妙瓦底被殴打拔指甲",
+    "scores": {
+      "novelty": 5,
+      "resonance": 10,
+      "viral": 12,
+      "entertainment": 0,
+      "practical": 6,
+      "market": 2
+    },
+    "total_score": 35,
+    "grade": "普通",
+    "product_idea": {
+      "name": "归途镜: 出入境风险预警",
+      "features": "全球高风险区域诈骗热点地图、海外招聘职位合规性AI筛查、紧急联系人一键报警与定位、跨境反诈知识科普。",
+      "target_users": "海外求职者、出境游旅客、劳务输出人员。",
+      "value_proposition": "用大数据构建安全护盾，警示潜在的高风险区域，守护每一位出境人员的人身安全。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "输液过敏死亡独生女父母有残疾",
+    "scores": {
+      "novelty": 5,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 0,
+      "practical": 6,
+      "market": 3
+    },
+    "total_score": 36,
+    "grade": "普通",
+    "product_idea": {
+      "name": "医安锁: 医疗风险互助基金",
+      "features": "小额医疗意外险众筹、特殊体质患者病历智能标签、过敏史药物AI冲突检测、弱势群体就医法律援助通道。",
+      "target_users": "有慢性病或过敏史患者、独生子女家庭、老年人。",
+      "value_proposition": "针对医疗意外提供兜底保障，利用技术手段减少人为疏忽，为脆弱家庭提供一道法律与经济的防线。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "飞驰人生3豆瓣评分降至7.4",
+    "scores": {
+      "novelty": 10,
+      "resonance": 15,
+      "viral": 14,
+      "entertainment": 8,
+      "practical": 4,
+      "market": 5
+    },
+    "total_score": 56,
+    "grade": "普通",
+    "product_idea": {
+      "name": "影评雷达: 防烂片指南",
+      "features": "全网多平台评分聚合与偏离度分析、烂片预警信号（如评分异动）、个人口味画像定制推荐、退票险购买入口。",
+      "target_users": "春节档观众、电影爱好者、怕踩雷的普通观众。",
+      "value_proposition": "在买票前通过大数据看清电影的真实口碑，避免花冤枉钱看烂片，保护消费者的观影权益。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "韩国队抗议米兰冬奥至少4次印错国旗",
+    "scores": {
+      "novelty": 15,
+      "resonance": 12,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 3,
+      "market": 4
+    },
+    "total_score": 64,
+    "grade": "良好",
+    "product_idea": {
+      "name": "文化哨兵: 品牌合规审查SaaS",
+      "features": "多国国旗、地图、文化禁忌元素自动识别API、营销物料AI预审、全球化营销敏感词库实时更新。",
+      "target_users": "跨国企业、广告公司、大型赛事组委会。",
+      "value_proposition": "避免低级错误引发的公关危机，帮助企业建立全球化视野的合规审查流程，尊重每一个国家的文化尊严。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "谷爱凌第一滑30.00分",
+    "scores": {
+      "novelty": 8,
+      "resonance": 14,
+      "viral": 13,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 51,
+    "grade": "普通",
+    "product_idea": {
+      "name": "冠军课: 沉浸式滑雪教学",
+      "features": "明星选手动作慢速分解、VR第一视角滑雪教学、跌倒失误集锦分析、模拟滑雪机连接软件。",
+      "target_users": "滑雪初学者、滑雪场会员、体育培训机构。",
+      "value_proposition": "借势顶级赛事热度，将明星的赛场表现转化为大众学习滑雪的生动教材，普及冰雪运动。"
+    }
+  }
+]
