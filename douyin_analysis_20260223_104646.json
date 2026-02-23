@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "春节高速免费时段今晚结束",
+    "scores": {
+      "novelty": 2,
+      "resonance": 5,
+      "viral": 5,
+      "entertainment": 1,
+      "practical": 10,
+      "market": 5
+    },
+    "total_score": 28,
+    "grade": "普通",
+    "product_idea": {
+      "name": "返程省钱助手小程序",
+      "features": "提供高速免费结束倒计时、替代路线规划（躲避拥堵/避开收费点）、附近最后一公里加油/充电站预订。",
+      "target_users": "春节自驾返程的车主",
+      "value_proposition": "在免费时段结束前，帮助用户优化路线，最大化利用免费政策并降低返程成本。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "又要回到外面当大人了",
+    "scores": {
+      "novelty": 15,
+      "resonance": 20,
+      "viral": 18,
+      "entertainment": 15,
+      "practical": 3,
+      "market": 6
+    },
+    "total_score": 77,
+    "grade": "良好",
+    "product_idea": {
+      "name": "「回血」治愈盲盒订阅",
+      "features": "针对上班族的解压玩具/零食/办公室绿植月度订阅，随盒附赠“做自己”主题的鼓励语录卡片。",
+      "target_users": "刚结束假期、面临工作焦虑的年轻职场人（打工人）",
+      "value_proposition": "在从“家里的孩子”变回“职场大人”的过渡期，提供情绪价值和心理慰藉，缓解节后焦虑。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "新春里的一百个“想不到”",
+    "scores": {
+      "novelty": 18,
+      "resonance": 16,
+      "viral": 19,
+      "entertainment": 18,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 77,
+    "grade": "良好",
+    "product_idea": {
+      "name": "新春反转故事AI生成器",
+      "features": "用户输入春节经历的平淡片段，AI自动将其改写成充满戏剧性反转的短剧本或搞笑段子视频脚本。",
+      "target_users": "短视频创作者、喜欢分享生活趣事的年轻人",
+      "value_proposition": "利用“反差感”和“意外性”，帮助用户将普通的新春见闻转化为极具传播力的社交内容。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "好像每个车里都塞满了妈妈的爱",
+    "scores": {
+      "novelty": 5,
+      "resonance": 20,
+      "viral": 17,
+      "entertainment": 12,
+      "practical": 6,
+      "market": 8
+    },
+    "total_score": 68,
+    "grade": "良好",
+    "product_idea": {
+      "name": "家乡味·后备箱市集平台",
+      "features": "连接家乡手艺人/父母与城市游民的电商/社区，允许用户分享并售卖自家制作的特产，或交换家乡味道。",
+      "target_users": "异地务工人员、对家乡味道有执念的年轻人",
+      "value_proposition": "将“塞满后备箱的爱”转化为可持续的获取渠道，解决城市中难以吃到正宗家乡菜的痛点。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "直击春运返程高峰",
+    "scores": {
+      "novelty": 2,
+      "resonance": 8,
+      "viral": 10,
+      "entertainment": 3,
+      "practical": 9,
+      "market": 5
+    },
+    "total_score": 37,
+    "grade": "普通",
+    "product_idea": {
+      "name": "路况直播贴纸",
+      "features": "基于地理位置的短视频/直播AR贴纸，自动显示当前路况拥堵指数和天气信息，一键分享给亲友报平安。",
+      "target_users": "春运路上的自驾者及关心他们的家人",
+      "value_proposition": "通过可视化的路况分享，让亲友实时了解返程进度，既实用又增强了情感连接。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "又到一年返程时",
+    "scores": {
+      "novelty": 2,
+      "resonance": 10,
+      "viral": 5,
+      "entertainment": 5,
+      "practical": 5,
+      "market": 5
+    },
+    "total_score": 32,
+    "grade": "普通",
+    "product_idea": {
+      "name": "智能行李箱",
+      "features": "具备自动跟随、防丢失报警、内置称重和移动电源功能，减轻长途返程的负担。",
+      "target_users": "高频率出行的大学生及商务人士",
+      "value_proposition": "通过科技手段减轻返程旅途中的物理负担，让搬家式的返程变得更轻松。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "今天是正月初七人日节",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 12,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 51,
+    "grade": "普通",
+    "product_idea": {
+      "name": "中国传统节日日历App",
+      "features": "除了日期提醒，重点介绍各传统节日（如人日）的习俗、禁忌及相关祈福仪式，支持线上祈福。",
+      "target_users": "传统文化爱好者、重视仪式感的年轻一代",
+      "value_proposition": "复兴传统小众节日文化，帮助用户在现代生活中寻找文化归属感和仪式感。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "德国总理默茨将访华",
+    "scores": {
+      "novelty": 8,
+      "resonance": 6,
+      "viral": 4,
+      "entertainment": 2,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 25,
+    "grade": "普通",
+    "product_idea": {
+      "name": "财经热点解读AI助手",
+      "features": "针对国际政治新闻（如领导人访华），实时生成对相关行业、股市及外贸的影响分析简报。",
+      "target_users": "外贸从业者、投资者、商业分析师",
+      "value_proposition": "帮助用户快速剥离新闻表面的喧嚣，获取对自己职业或投资有价值的深层商业情报。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "谷爱凌：我不退役我才22岁",
+    "scores": {
+      "novelty": 12,
+      "resonance": 15,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 9
+    },
+    "total_score": 68,
+    "grade": "良好",
+    "product_idea": {
+      "name": "冠军心态·健身激励App",
+      "features": "结合运动员名言与训练计划的健身应用，当用户想放弃时，播放偶像的励志语音并动态调整训练难度。",
+      "target_users": "年轻运动爱好者、谷爱凌粉丝群体",
+      "value_proposition": "利用顶级运动员的“年轻不服输”精神作为核心驱动力，解决用户难以坚持运动的痛点。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "赵心童首夺球员锦标赛冠军",
+    "scores": {
+      "novelty": 10,
+      "resonance": 8,
+      "viral": 8,
+      "entertainment": 8,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 42,
+    "grade": "普通",
+    "product_idea": {
+      "name": "草根运动员逆袭社区",
+      "features": "为处于禁赛或低谷期的运动员提供展示训练成果的窗口，同时也为业余爱好者提供挑战职业选手的机会。",
+      "target_users": "体育迷、低谷期运动员、业余高手",
+      "value_proposition": "打造专注于“复出”和“逆袭”的故事线，不仅关注冠军时刻，也关注回归之路的励志价值。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "皇马官博发布赫伊森道歉内容",
+    "scores": {
+      "novelty": 5,
+      "resonance": 10,
+      "viral": 12,
+      "entertainment": 8,
+      "practical": 1,
+      "market": 2
+    },
+    "total_score": 38,
+    "grade": "普通",
+    "product_idea": {
+      "name": "危机公关公关案例库",
+      "features": "收集并分析全球品牌/名人的公开道歉信，利用AI评分机制评估道歉的诚意度并给出优化建议。",
+      "target_users": "公关从业者、新媒体运营人员、品牌方",
+      "value_proposition": "将热点娱乐事件转化为专业教学案例，提供公关危机处理的实操参考。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "如果车窗有记忆",
+    "scores": {
+      "novelty": 19,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 17,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 80,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "「流动时光」智能行车记录仪",
+      "features": "不仅记录路况，还利用AI捕捉车内发生的温馨瞬间（如乘客笑脸、路上的风景），自动剪辑成情感Vlog。",
+      "target_users": "家庭用户、网约车司机、自驾游爱好者",
+      "value_proposition": "从冷冰冰的“取证工具”转变为情感记录者，让每次出行都留下可回忆的温暖影像。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "“吃蓝莓能美白”无科学依据",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 15,
+      "entertainment": 8,
+      "practical": 9,
+      "market": 8
+    },
+    "total_score": 66,
+    "grade": "良好",
+    "product_idea": {
+      "name": "成分查查·科学护肤探测器",
+      "features": "扫描化妆品或食物条形码，直接显示其功效背后的科学证据等级（证据确凿/尚无定论/谣言），并关联权威论文。",
+      "target_users": "注重成分的理智消费者、护肤小白",
+      "value_proposition": "以科学硬核数据粉碎伪养生谣言，为消费者节省开支并避免无效护肤。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "镖人票房超射雕成武侠片冠军",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 12,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 52,
+    "grade": "普通",
+    "product_idea": {
+      "name": "国漫IP衍生物平台",
+      "features": "专注于挖掘热门国漫IP的商业价值，提供从角色扮演装备到手办的众筹与预售服务。",
+      "target_users": "国漫粉丝、国风爱好者",
+      "价值_proposition": "抓住国漫崛起的风口，为粉丝提供更正版、更有收藏价值的周边衍生品。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "复工飒气穿搭拿捏了",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 8,
+      "market": 10
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "「职场变身」AR试衣镜",
+      "features": "用户上传春节在家邋遢的照片，AI自动生成复工后的专业精致穿搭照，并附带购买链接。",
+      "target_users": "职场女性、时尚穿搭博主",
+      "value_proposition": "利用强烈的视觉反差制造社交话题，同时通过“一键购买”实现高效的服装带货。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "当我和弟弟和解",
+    "scores": {
+      "novelty": 15,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 3,
+      "market": 4
+    },
+    "total_score": 70,
+    "grade": "良好",
+    "product_idea": {
+      "name": "手足和解·亲情修复卡",
+      "features": "提供一系列尴尬但有效的和解话术和互动小游戏卡片，帮助兄弟姐妹在春节期间打破冷战。",
+      "target_users": "多子女家庭、存在家庭矛盾的年轻人",
+      "value_proposition": "通过幽默和仪式感，辅助用户修复原生家庭关系，缓解回家过节的社交压力。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "好好的时光开播",
+    "scores": {
+      "novelty": 5,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 45,
+    "grade": "普通",
+    "product_idea": {
+      "name": "影视同感·剧情沉浸体验",
+      "features": "根据热播剧剧情，推荐同款取景地旅游、同款美食或同款家居装饰，打造剧中人生活。",
+      "target_users": "剧粉、生活方式追求者",
+      "value_proposition": "延长影视剧的生命周期，将观众的情感投射转化为线下的消费行为。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "除恶今日开播",
+    "scores": {
+      "novelty": 6,
+      "resonance": 10,
+      "viral": 10,
+      "entertainment": 12,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 45,
+    "grade": "普通",
+    "product_idea": {
+      "name": "罪案推理互动游戏社区",
+      "features": "结合扫黑剧播出进度，推出同步的线索搜集、案情推理互动小游戏，用户可竞争“神探”排名。",
+      "target_users": "悬疑推理爱好者、剧迷",
+      "value_proposition": "将被动观剧转化为主动参与，增强用户粘性和讨论热度。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "美军重兵合围伊朗",
+    "scores": {
+      "novelty": 10,
+      "resonance": 8,
+      "viral": 6,
+      "entertainment": 3,
+      "practical": 3,
+      "market": 2
+    },
+    "total_score": 32,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球局势·安全预警地图",
+      "features": "为出国出差或旅行的人提供实时的地缘政治安全评级和规避路线建议。",
+      "target_users": "国际商务人士、海外旅行者",
+      "value_proposition": "在动荡的国际局势下，为用户提供人身安全方面的决策依据。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "大年初七暴雪席卷西安",
+    "scores": {
+      "novelty": 5,
+      "resonance": 10,
+      "viral": 12,
+      "entertainment": 5,
+      "practical": 8,
+      "market": 6
+    },
+    "total_score": 46,
+    "grade": "普通",
+    "product_idea": {
+      "name": "极端天气·互助拼车平台",
+      "features": "在暴雪等极端天气下，基于地理位置快速匹配同路车主和乘客，共享出行并分摊成本。",
+      "target_users": "受天气影响的交通受阻人群",
+      "value_proposition": "利用社交网络解决突发天气下的公共交通瘫痪问题，体现一方有难八方支援的价值。"
+    }
+  }
+]
