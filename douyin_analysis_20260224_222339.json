@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "俄乌冲突四周年",
+    "scores": {
+      "novelty": 5,
+      "resonance": 10,
+      "viral": 5,
+      "entertainment": 0,
+      "practical": 2,
+      "market": 0
+    },
+    "total_score": 22,
+    "grade": "普通",
+    "product_idea": {
+      "name": "历史战争时间线交互图谱",
+      "features": "可视化呈现四周年关键事件节点，深度整合多方新闻报道与数据分析。",
+      "target_users": "国际政治关注者、历史爱好者、研究人员。",
+      "value_proposition": "打破信息茧房，提供客观、宏观的冲突全景视角，帮助用户理解复杂地缘政治。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "惊艳千年的非遗花丝镶嵌",
+    "scores": {
+      "novelty": 15,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 6,
+      "market": 9
+    },
+    "total_score": 78,
+    "grade": "良好",
+    "product_idea": {
+      "name": "指尖非遗：国潮DIY数字工坊",
+      "features": "结合AR技术还原花丝镶嵌工艺，提供线上线下材料包定制服务。",
+      "target_users": "国潮青年、手工艺爱好者、亲子家庭。",
+      "value_proposition": "将昂贵且复杂的皇室技艺平民化、数字化，满足用户对东方美学的追求与动手解压需求。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "春运单日旅客发送量创新高",
+    "scores": {
+      "novelty": 5,
+      "resonance": 12,
+      "viral": 5,
+      "entertainment": 2,
+      "practical": 5,
+      "market": 4
+    },
+    "total_score": 33,
+    "grade": "普通",
+    "product_idea": {
+      "name": "城市脉搏-春节人口迁徙大数据看板",
+      "features": "实时展示春运热度图、返乡/复工路线推荐及交通拥堵预测。",
+      "target_users": "出行旅客、城市规划者、物流企业。",
+      "value_proposition": "通过数据可视化缓解出行焦虑，优化行程规划，体现宏观社会活力。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "复工飒气穿搭拿捏了",
+    "scores": {
+      "novelty": 12,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 16,
+      "practical": 9,
+      "market": 10
+    },
+    "total_score": 84,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "AI职场衣橱诊断师",
+      "features": "用户上传职业场景与身材数据，AI生成个性化“复工战袍”穿搭方案及购买链接。",
+      "target_users": "职场白领、求职新人、时尚爱好者。",
+      "value_proposition": "解决“穿什么”的日常焦虑，通过形象管理提升职场自信与工作效率。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "李在明社媒发AI视频",
+    "scores": {
+      "novelty": 16,
+      "resonance": 8,
+      "viral": 15,
+      "entertainment": 12,
+      "practical": 4,
+      "market": 6
+    },
+    "total_score": 61,
+    "grade": "良好",
+    "product_idea": {
+      "name": "数字分身政治家助手",
+      "features": "利用AI生成多语言、多风格的政客演讲视频，用于政策宣发或粉丝互动。",
+      "target_users": "公关团队、政务新媒体、新闻机构。",
+      "value_proposition": "创新政治传播形式，以年轻化、科技化的方式拉近与公众的距离。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "中方回应“美考虑军事打击伊朗”",
+    "scores": {
+      "novelty": 5,
+      "resonance": 10,
+      "viral": 8,
+      "entertainment": 0,
+      "practical": 2,
+      "market": 0
+    },
+    "total_score": 25,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球地缘风险预警早报",
+      "features": "聚合国际冲突新闻，分析对特定行业（如航运、石油）的潜在影响。",
+      "target_users": "投资者、外贸从业者、跨国企业。",
+      "value_proposition": "为商业决策提供宏观风险评估，规避因地缘政治动荡带来的经济损失。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "长和：反对巴方强行接管港口公司",
+    "scores": {
+      "novelty": 2,
+      "resonance": 4,
+      "viral": 3,
+      "entertainment": 0,
+      "practical": 5,
+      "market": 4
+    },
+    "total_score": 18,
+    "grade": "普通",
+    "product_idea": {
+      "name": "跨国投资合规风控系统",
+      "features": "针对新兴市场的政治变动与政策法规进行实时监控与合规预警。",
+      "target_users": "跨国企业、海外投资者。",
+      "value_proposition": "保障海外资产安全，提前识别东道国政治与法律风险。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "涉爱泼斯坦案 英前驻美大使被捕",
+    "scores": {
+      "novelty": 12,
+      "resonance": 15,
+      "viral": 17,
+      "entertainment": 8,
+      "practical": 0,
+      "market": 2
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "悬疑案件深度挖掘社区",
+      "features": "以时间线和人物关系图解构复杂案件，提供UGC讨论与资料整理功能。",
+      "target_users": "侦探小说爱好者、悬疑迷、新闻关注者。",
+      "value_proposition": "满足公众对高知名度案件的猎奇心理，提供逻辑清晰的案情梳理工具。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "中美就特朗普访华事宜保持着沟通",
+    "scores": {
+      "novelty": 8,
+      "resonance": 14,
+      "viral": 12,
+      "entertainment": 2,
+      "practical": 4,
+      "market": 6
+    },
+    "total_score": 46,
+    "grade": "普通",
+    "product_idea": {
+      "name": "中美关系风向标资讯流",
+      "features": "专门追踪中美高层互动与贸易政策变化，提供简报解读。",
+      "target_users": "外贸从业者、留学生、金融分析师。",
+      "value_proposition": "帮助用户快速捕捉大国关系走向对个人业务和生活的潜在影响。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "河北大范围雨雪到达",
+    "scores": {
+      "novelty": 2,
+      "resonance": 15,
+      "viral": 8,
+      "entertainment": 2,
+      "practical": 8,
+      "market": 3
+    },
+    "total_score": 38,
+    "grade": "普通",
+    "product_idea": {
+      "name": "恶劣天气出行互助平台",
+      "features": "实时路况直播、道路救援请求匹配、天气预警推送。",
+      "target_users": "河北及周边驾驶员、物流司机。",
+      "value_proposition": "在极端天气下保障出行安全，建立司机之间的互助信任网络。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "商务部回应美近期关税调整举措",
+    "scores": {
+      "novelty": 3,
+      "resonance": 8,
+      "viral": 6,
+      "entertainment": 0,
+      "practical": 8,
+      "market": 7
+    },
+    "total_score": 32,
+    "grade": "普通",
+    "product_idea": {
+      "name": "跨境贸易关税计算器",
+      "features": "输入HS编码即可计算最新关税成本，并推送政策变动提醒。",
+      "target_users": "跨境电商卖家、进出口贸易商。",
+      "价值_proposition": "精准核算合规成本，避免因关税政策波动导致的利润亏损。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "财神庙香火太旺致起火系谣言",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 10,
+      "practical": 4,
+      "market": 5
+    },
+    "total_score": 59,
+    "grade": "普通",
+    "product_idea": {
+      "name": "智能辟谣与祈福助手",
+      "features": "利用AI识别网络热点谣言，同时提供合规的线上祈福或电子香火功能。",
+      "target_users": "信教群众、易受骗的中老年群体。",
+      "value_proposition": "引导理性祈福，阻断虚假信息传播，弘扬安全的民俗文化。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "对20家日本实体实施出口管制",
+    "scores": {
+      "novelty": 8,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 0,
+      "practical": 6,
+      "market": 5
+    },
+    "total_score": 41,
+    "grade": "普通",
+    "product_idea": {
+      "name": "出口管制合规查询库",
+      "features": "可检索的实体黑名单数据库，包含受限制的技术与物项清单。",
+      "target_users": "供应链经理、外贸法务人员。",
+      "value_proposition": "为企业提供一键式合规筛查工具，降低违反出口管制规定的法律风险。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "黑龙江一地疑似出现老虎",
+    "scores": {
+      "novelty": 14,
+      "resonance": 12,
+      "viral": 16,
+      "entertainment": 12,
+      "practical": 3,
+      "market": 4
+    },
+    "total_score": 61,
+    "grade": "良好",
+    "product_idea": {
+      "name": "野生动物邂逅记录AR地图",
+      "features": "结合GIS地理信息系统与AR技术，标记野生动物出没地并进行科普互动。",
+      "target_users": "自然探险者、生态游客、当地居民。",
+      "价值_proposition": "在保障人畜安全距离的前提下，普及野生动物知识，开发生态旅游价值。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "飞驰3破30亿彩蛋是沈腾卖萌",
+    "scores": {
+      "novelty": 10,
+      "resonance": 18,
+      "viral": 17,
+      "entertainment": 19,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 74,
+    "grade": "良好",
+    "product_idea": {
+      "name": "电影彩蛋触发式社交App",
+      "features": "用户在影院通过GPS或听音识别触发彩蛋内容，解锁独家花絮并参与影迷讨论。",
+      "target_users": "电影观众、粉丝群体。",
+      "value_proposition": "延伸电影观影体验，通过彩蛋营销增加影院上座率与话题热度。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "伊朗一军用直升机坠毁",
+    "scores": {
+      "novelty": 8,
+      "resonance": 10,
+      "viral": 10,
+      "entertainment": 2,
+      "practical": 2,
+      "market": 1
+    },
+    "total_score": 33,
+    "grade": "普通",
+    "product_idea": {
+      "name": "航空安全动态追踪终端",
+      "features": "整合全球军用与民用航空器的意外事故数据，分析安全趋势。",
+      "target_users": "航空爱好者、安全分析师。",
+      "value_proposition": "提供专业、深度的航空器事故数据视角，满足硬核军事迷的信息需求。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "商务部回应对日相关出口管制",
+    "scores": {
+      "novelty": 4,
+      "resonance": 10,
+      "viral": 8,
+      "entertainment": 0,
+      "practical": 6,
+      "market": 6
+    },
+    "total_score": 34,
+    "grade": "普通",
+    "product_idea": {
+      "name": "供应链替代方案推荐引擎",
+      "features": "当发生出口管制时，自动推荐非受限国家的替代供应商或原材料。",
+      "target_users": "制造业采购经理、供应链负责人。",
+      "价值_proposition": "在贸易摩擦常态化的背景下，提升供应链的韧性与抗风险能力。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "2月LPR报价出炉",
+    "scores": {
+      "novelty": 2,
+      "resonance": 12,
+      "viral": 4,
+      "entertainment": 0,
+      "practical": 9,
+      "market": 7
+    },
+    "total_score": 34,
+    "grade": "普通",
+    "product_idea": {
+      "name": "房贷利率变动计算器",
+      "features": "根据最新LPR数据，自动计算存量房贷及新增房贷的月供变化。",
+      "target_users": "购房者、还贷家庭。",
+      "价值_proposition": "直观化金融数据，帮助普通人做出最优的还贷决策或资产配置。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "湖南一男子放烟花炸膛致身亡",
+    "scores": {
+      "novelty": 6,
+      "resonance": 10,
+      "viral": 13,
+      "entertainment": 0,
+      "practical": 8,
+      "market": 5
+    },
+    "total_score": 42,
+    "grade": "普通",
+    "product_idea": {
+      "name": "智能烟花燃破安全监测装置",
+      "features": "集成温度与压力传感器的烟花底座，异常时自动熄灭并通过App报警。",
+      "target_users": "烟花爆竹制造商、安全监管部门。",
+      "价值_proposition": "利用物联网技术从源头遏制劣质烟花造成的伤亡事故。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "过年后回家的留守猫",
+    "scores": {
+      "novelty": 8,
+      "resonance": 19,
+      "viral": 16,
+      "entertainment": 15,
+      "practical": 8,
+      "market": 9
+    },
+    "total_score": 75,
+    "grade": "良好",
+    "product_idea": {
+      "name": "宠物滞留情绪缓解陪伴舱",
+      "features": "结合主人声音定制、远程逗玩与生理监测的智能喂食器，主打“分离焦虑”解决。",
+      "target_users": "返乡过年的打工人、养宠人士。",
+      "价值_proposition": "解决春节期间宠物寄养难问题，通过科技手段维持宠物心理健康。"
+    }
+  }
+]

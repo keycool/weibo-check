@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "惊蛰无声",
+    "scores": {
+      "novelty": 15,
+      "resonance": 14,
+      "viral": 10,
+      "entertainment": 12,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 58,
+    "grade": "普通",
+    "product_idea": {
+      "name": "惊蛰·白噪音节气日历",
+      "features": "融合传统二十四节气与电影级沉浸式声音体验的App，在惊蛰等特定节点提供‘无声’冥想或‘春雷’唤醒服务，主打反差感听觉美学。",
+      "target_users": "文艺青年、压力大的都市职场人、国风爱好者",
+      "value_proposition": "在喧嚣的节气里寻找内心的宁静角落，用声音疗愈现代焦虑。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "王楚钦鹰眼挑战失败",
+    "scores": {
+      "novelty": 5,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 15,
+      "practical": 1,
+      "market": 8
+    },
+    "total_score": 63,
+    "grade": "良好",
+    "product_idea": {
+      "name": "鹰眼回放AI训练助手",
+      "features": "利用AI视频分析技术，捕捉并生成体育爱好者运动中的争议瞬间，提供模拟鹰眼视角的轨迹分析和规则判定。",
+      "target_users": "业余球类爱好者、体育迷、短视频创作者",
+      "value_proposition": "让普通人也能享受专业赛事的鹰眼判罚体验，增加运动社交的话题性。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "九组数据感受万马奔腾的活力春节",
+    "scores": {
+      "novelty": 8,
+      "resonance": 12,
+      "viral": 8,
+      "entertainment": 5,
+      "practical": 6,
+      "market": 5
+    },
+    "total_score": 44,
+    "grade": "普通",
+    "product_idea": {
+      "name": "春节消费热力图谱",
+      "features": "基于大数据的可视化个人春节消费复盘工具，通过数据对比展示个人与全国数据的差异，生成年度消费报告。",
+      "target_users": "财务管理者、数据爱好者、家庭用户",
+      "value_proposition": "直观了解钱花哪儿了，通过宏观对比获得参与感，辅助下一年度预算规划。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "当地回应女生徒步失联在牛棚被找到",
+    "scores": {
+      "novelty": 10,
+      "resonance": 15,
+      "viral": 12,
+      "entertainment": 5,
+      "practical": 8,
+      "market": 7
+    },
+    "total_score": 57,
+    "grade": "普通",
+    "product_idea": {
+      "name": "救援宝——户外紧急避险网",
+      "features": "集成失联预警、临时避难所地图（如牛棚、洞穴）及一键求救功能的户外安全硬件及App。",
+      "target_users": "徒步爱好者、驴友、探险新手",
+      "value_proposition": "比救援更快的是自救，提供离线环境下的生存指引与避难资源导航。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "不内耗的人脑子里是这样想的",
+    "scores": {
+      "novelty": 14,
+      "resonance": 19,
+      "viral": 17,
+      "entertainment": 10,
+      "practical": 9,
+      "market": 10
+    },
+    "total_score": 79,
+    "grade": "良好",
+    "product_idea": {
+      "name": "反内耗思维AI教练",
+      "features": "基于认知行为疗法（CBT）的对话机器人，当用户输入纠结想法时，AI即时模拟‘不内耗’的思维模式进行回应和重构。",
+      "target_users": "高敏感人群、职场新人、焦虑症患者",
+      "value_proposition": "把心理咨询师装进口袋，用‘钝感力’思维模型重塑日常决策，拒绝精神内耗。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "谷爱凌妈妈谷燕的人生轨迹",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 12,
+      "practical": 5,
+      "market": 8
+    },
+    "total_score": 67,
+    "grade": "良好",
+    "product_idea": {
+      "name": "精英妈妈成长档案",
+      "features": "专注于女性自我成长与育儿平衡的知识社群App，解析名人教育路径，提供职业规划与子女教育的并行方案。",
+      "target_users": "追求自我实现的母亲、高知女性群体",
+      "value_proposition": "不放弃自我成长的育儿百科，不仅培养出优秀的孩子，更要成为卓越的自己。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "中方回应特朗普3月31日将访问中国",
+    "scores": {
+      "novelty": 8,
+      "resonance": 10,
+      "viral": 9,
+      "entertainment": 2,
+      "practical": 1,
+      "market": 0
+    },
+    "total_score": 30,
+    "grade": "普通",
+    "product_idea": {
+      "name": "地缘政治风险早报",
+      "features": "面向外贸及跨境企业的资讯服务，即时推送国际关系变动对特定行业的潜在影响分析。",
+      "target_users": "外贸从业者、跨境电商卖家、国际物流商",
+      "value_proposition": "从新闻中提炼商业风险与机遇，助企业提前布局应对国际局势变化。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "将门独后",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 15,
+      "entertainment": 16,
+      "practical": 1,
+      "market": 9
+    },
+    "total_score": 67,
+    "grade": "良好",
+    "product_idea": {
+      "name": "古风短剧剧本生成器",
+      "features": "针对热门网文套路（如将门独后）提供快速剧本大纲生成、分镜描述及AI配音的创作者工具。",
+      "target_users": "短剧制作团队、网文作者、短视频创作者",
+      "value_proposition": "精准捕捉爆款元素，一键将热门网文梗转化为可拍摄的短剧脚本，降本增效。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "纯真年代的爱情",
+    "scores": {
+      "novelty": 10,
+      "resonance": 15,
+      "viral": 12,
+      "entertainment": 14,
+      "practical": 1,
+      "market": 6
+    },
+    "total_score": 58,
+    "grade": "普通",
+    "product_idea": {
+      "name": "时光情书——复古社交App",
+      "features": "模拟千禧年代论坛和BBS风格的慢社交平台，文字为主，图片有颗粒感，信件投递有延迟，主打‘车马慢’的恋爱体验。",
+      "target_users": "怀旧用户、厌倦快餐式恋爱的年轻人",
+      "value_proposition": "在快节奏时代重返纯真，用延迟满足找回怦然心动的恋爱感。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "牛奶灌溉草莓卖出360元天价",
+    "scores": {
+      "novelty": 16,
+      "resonance": 18,
+      "viral": 17,
+      "entertainment": 12,
+      "practical": 5,
+      "market": 9
+    },
+    "total_score": 77,
+    "grade": "良好",
+    "product_idea": {
+      "name": "奢侈品水果溯源认证平台",
+      "features": "利用区块链技术对高端农产品进行‘生长日记’溯源，验证是否真的用了牛奶、豆粕等高级饲料，并提供真假鉴别服务。",
+      "target_users": "高端礼品购买者、追求生活品质的中产阶级",
+      "value_proposition": "为高价农产品提供信任背书，让每一分钱都花在眼见为实的品质上。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "江西一家人自驾返程出车祸1死4伤",
+    "scores": {
+      "novelty": 2,
+      "resonance": 10,
+      "viral": 8,
+      "entertainment": 0,
+      "practical": 8,
+      "market": 3
+    },
+    "total_score": 31,
+    "grade": "普通",
+    "product_idea": {
+      "name": "长途驾驶守护者——疲劳干预系统",
+      "features": "基于面部识别和方向盘震动监测的车载硬件，一旦检测到返程高峰期的驾驶员疲劳或异常路况，立即强介入提醒。",
+      "target_users": "自驾返乡人群、职业司机",
+      "value_proposition": "春节返程路上的隐形保镖，关键时刻比导航更重要。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "俄乌冲突",
+    "scores": {
+      "novelty": 2,
+      "resonance": 8,
+      "viral": 6,
+      "entertainment": 0,
+      "practical": 2,
+      "market": 1
+    },
+    "total_score": 19,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球局势动态沙盘",
+      "features": "3D地理信息可视化软件，实时标注冲突地区、能源管道及航线变化，辅助理解国际新闻背后的资源博弈。",
+      "target_users": "时政爱好者、投资者、教育机构",
+      "value_proposition": "跳出新闻标题，从地理和资源维度看懂世界局势的底层逻辑。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "吴昕自曝录制快本三四个月还是想走",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 4,
+      "market": 6
+    },
+    "total_score": 67,
+    "grade": "良好",
+    "product_idea": {
+      "name": "职场‘撤退’模拟器",
+      "features": "匿名分享职场至暗时刻的社区，并提供AI模拟的‘裸辞后果’分析，帮助用户梳理想走背后的真实原因。",
+      "target_users": "职场新人、对工作感到迷茫的社畜",
+      "value_proposition": "在想走又不敢走的纠结中找到答案，看见真实的职场生存样本。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "西安一市民除夕夜被AI给骂了",
+    "scores": {
+      "novelty": 18,
+      "resonance": 17,
+      "viral": 19,
+      "entertainment": 18,
+      "practical": 4,
+      "market": 9
+    },
+    "total_score": 85,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "毒舌AI树洞——情绪宣泄Bot",
+      "features": "专门设定为‘毒舌’人设的AI对话产品，用户可以发泄吐槽，AI毫不留情地回怼，主打以毒攻毒的心理解压。",
+      "target_users": "压力巨大的都市青年、寻求新奇体验的Z世代",
+      "value_proposition": "生活太虚伪，来听点真话。用一场被痛骂来清理内心的情绪垃圾。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "肖战的鼻间痣好像小狐狸",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 12,
+      "practical": 1,
+      "market": 10
+    },
+    "total_score": 62,
+    "grade": "良好",
+    "product_idea": {
+      "name": "星痣AR滤镜——美颜定制",
+      "features": "能够精准识别人物面部特征并添加/放大特定痣点的AR美颜滤镜，满足粉丝模仿爱豆同款瑕疵美的需求。",
+      "target_users": "饭圈女孩、自拍爱好者",
+      "value_proposition": "不盲目磨皮，保留个人特色，定制你的‘爱豆同款’记忆点。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "瑶一瑶小肉包近30天掉粉4万",
+    "scores": {
+      "novelty": 10,
+      "resonance": 13,
+      "viral": 12,
+      "entertainment": 8,
+      "practical": 3,
+      "market": 6
+    },
+    "total_score": 52,
+    "grade": "普通",
+    "product_idea": {
+      "name": "网红生命周期体检工具",
+      "features": "面向MCN机构和自媒体博主的数据分析工具，预测流量拐点，诊断掉粉原因并提示转型风险。",
+      "target_users": "自媒体创作者、网红运营机构",
+      "value_proposition": "比数据更懂趋势，提前预判流量危机，避免‘过气’带来的商业损失。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "不让江山作者取关剧组",
+    "scores": {
+      "novelty": 14,
+      "resonance": 14,
+      "viral": 16,
+      "entertainment": 15,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 69,
+    "grade": "良好",
+    "product_idea": {
+      "name": "原著粉维权联盟平台",
+      "features": "为IP改编提供粉丝监督与投票的社区平台，粉丝可集体对剧组选角、剧情改编进行‘股份制’投票干预。",
+      "target_users": "书粉、游戏原作党、影视投资者",
+      "value_proposition": "尊重原著就是尊重票房，让粉丝成为改编剧的‘产品经理’。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "93岁老人去世将千万财产赠邻居",
+    "scores": {
+      "novelty": 15,
+      "resonance": 17,
+      "viral": 16,
+      "entertainment": 10,
+      "practical": 7,
+      "market": 6
+    },
+    "total_score": 71,
+    "grade": "良好",
+    "product_idea": {
+      "name": "时间银行——邻里互助养老链",
+      "features": "基于社区的非血缘关系养老互助平台，记录邻里间的照护时长与情感投入，可兑换未来的养老服务或作为遗产分配参考。",
+      "target_users": "空巢老人、社区工作者、热心邻居",
+      "value_proposition": "远亲不如近邻，让善意的陪伴被记录、被奖励、被传承。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "Prada出发图",
+    "scores": {
+      "novelty": 5,
+      "resonance": 12,
+      "viral": 13,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 9
+    },
+    "total_score": 51,
+    "grade": "普通",
+    "product_idea": {
+      "name": "名媛穿搭AI生成器",
+      "features": "输入Prada等品牌的新品发布图，AI自动生成适合普通消费者身材和预算的‘平替’穿搭方案及购买链接。",
+      "target_users": "时尚追求者、买不起奢侈品的年轻女性",
+      "value_proposition": "不买大牌也能拥有大牌同款氛围感，让奢侈品灵感服务于日常审美。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "地球超新鲜2",
+    "scores": {
+      "novelty": 11,
+      "resonance": 13,
+      "viral": 11,
+      "entertainment": 16,
+      "practical": 4,
+      "market": 7
+    },
+    "total_score": 62,
+    "grade": "良好",
+    "product_idea": {
+      "name": "微观自然探索VR",
+      "features": "配合纪录片内容的VR沉浸式体验，让用户以‘昆虫视角’或‘微观视角’观察自然界鲜为人知的生态细节。",
+      "target_users": "科普教育机构、自然纪录片爱好者、儿童",
+      "value_proposition": "打破屏幕限制，走进屏幕里的世界，获得比纪录片更震撼的自然教育体验。"
+    }
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "努力创造经得起实践 人民 历史检验的实绩",
+    "scores": {
+      "novelty": 5,
+      "resonance": 15,
+      "viral": 5,
+      "entertainment": 0,
+      "practical": 10,
+      "market": 2
+    },
+    "total_score": 37,
+    "grade": "普通",
+    "product_idea": {
+      "name": "政务绩效可视化大屏",
+      "features": "基于大数据的城市/区域发展指标实时看板，将'实践、人民、历史'三个维度转化为可量化的数据指标（如交通改善、就业率、基建寿命等）。",
+      "target_users": "政府机关、事业单位、政策研究机构",
+      "value_proposition": "将抽象的政治口号转化为具象的数据成果，提升政务透明度和决策效率。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "创新高！春节假期国内出游5.96亿人次",
+    "scores": {
+      "novelty": 10,
+      "resonance": 18,
+      "viral": 15,
+      "entertainment": 5,
+      "practical": 8,
+      "market": 8
+    },
+    "total_score": 64,
+    "grade": "良好",
+    "product_idea": {
+      "name": "反向旅游/冷门景点挖掘器",
+      "features": "基于5.96亿人次的流动数据，分析拥挤指数，推荐尚未爆火但具备高性价比的'平替'景点，提供错峰出行路线规划。",
+      "target_users": "年轻游客、自驾游家庭、追求性价比的旅行者",
+      "value_proposition": "利用大数据避开人海，发现未被打扰的风景，解决节假日'看人头'的痛点。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "国常会：抓紧部署春节后政府工作",
+    "scores": {
+      "novelty": 2,
+      "resonance": 5,
+      "viral": 2,
+      "entertainment": 0,
+      "practical": 8,
+      "market": 2
+    },
+    "total_score": 19,
+    "grade": "普通",
+    "product_idea": {
+      "name": "政策风向标企业版",
+      "features": "自动提取政府工作会议中的关键词，分析行业趋势，为企业提供合规建议和商机预测。",
+      "target_users": "B端企业主、创业者、投资人",
+      "value_proposition": "帮助企业快速解读宏观政策，捕捉春节后的政策红利窗口期。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "活力满满！一组数据看热气腾腾中国年",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 12,
+      "entertainment": 5,
+      "practical": 5,
+      "market": 5
+    },
+    "total_score": 51,
+    "grade": "普通",
+    "product_idea": {
+      "name": "个人年度消费账单生成器",
+      "features": "不仅展示国家宏观数据，还允许用户输入个人春节消费、出行数据，生成对比'我的春节VS全国平均'的趣味图表。",
+      "target_users": "C端大众用户、社交媒体用户",
+      "价值主张": "通过大数据对比，满足用户的社交分享虚荣心和寻找归属感的需求。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "女子买到同车次两张票 12306回应",
+    "scores": {
+      "novelty": 12,
+      "resonance": 15,
+      "viral": 18,
+      "entertainment": 10,
+      "practical": 6,
+      "market": 4
+    },
+    "total_score": 65,
+    "grade": "良好",
+    "product_idea": {
+      "name": "火车票智能纠错与理赔助手",
+      "features": "自动检测购票订单中的异常（如重复出票、时间冲突），并一键发起退改或理赔流程，防止用户损失。",
+      "target_users": "春节返乡人群、差旅人士、不常使用APP的老年人",
+      "value_proposition": "解决购票系统的'Bug'给用户带来的麻烦，提供兜底保障服务。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "凌晨候补成功醒来车已开，12306回应",
+    "scores": {
+      "novelty": 10,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 5,
+      "practical": 8,
+      "market": 6
+    },
+    "total_score": 63,
+    "grade": "良好",
+    "product_idea": {
+      "name": "候补成功智能唤醒器",
+      "features": "监测12306候补状态，一旦出票成功，立即通过电话强唤醒、短信轰炸等方式通知用户，并提供一键支付链接。",
+      "target_users": "抢票困难户、夜间候补的旅客",
+      "value_proposition": "解决'票来了人睡醒'的焦虑，确保用户的每一张候补票都能被及时确认。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "“赛车星冰乐”诋毁尊界 被判赔30万",
+    "scores": {
+      "novelty": 14,
+      "resonance": 12,
+      "viral": 16,
+      "entertainment": 12,
+      "practical": 4,
+      "market": 5
+    },
+    "total_score": 63,
+    "grade": "良好",
+    "product_idea": {
+      "name": "企业品牌舆情防御系统",
+      "features": "针对自媒体/KOL的诋毁言论进行AI取证、法律咨询匹配及自动发函，帮助企业低成本维权。",
+      "target_users": "品牌公关部、初创企业、网红品牌",
+      "value_proposition": "降低网络诽谤对企业品牌的伤害，提供标准化的法律反击工具。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "通车不到半年 大桥旁地砖大面积碎裂",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 5,
+      "practical": 7,
+      "market": 6
+    },
+    "total_score": 57,
+    "grade": "普通",
+    "product_idea": {
+      "name": "基建质量随手拍众审平台",
+      "features": "允许用户上传身边的基建质量问题照片，利用AI识别严重程度并自动上报给监管部门，建立工程质量监督档案。",
+      "target_users": "市民、新闻媒体、监管部门",
+      "value_proposition": "发动群众力量监督'豆腐渣'工程，提升公共设施的安全性和维护效率。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "31省份财政收入增速目标出炉",
+    "scores": {
+      "novelty": 5,
+      "resonance": 8,
+      "viral": 5,
+      "entertainment": 2,
+      "practical": 6,
+      "market": 5
+    },
+    "total_score": 31,
+    "grade": "普通",
+    "product_idea": {
+      "name": "区域投资机会分析仪",
+      "features": "结合财政收入数据与当地产业政策，评估各省市的投资潜力和风险，为跨区域经营者提供数据支持。",
+      "target_users": "中小企业主、跨区域投资者、咨询师",
+      "value_proposition": "将枯燥的财政数据转化为具体的选址和扩张建议。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "Meta将采购AMD芯片和计算机",
+    "scores": {
+      "novelty": 12,
+      "resonance": 10,
+      "viral": 10,
+      "entertainment": 5,
+      "practical": 8,
+      "market": 9
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "科技产业链掘金地图",
+      "features": "追踪科技巨头（如Meta）的供应链动向，挖掘二级、三级供应商的投资与就业机会。",
+      "target_users": "二级市场投资者、求职者、供应链企业",
+      "value_proposition": "跟着巨头的采购清单走，提前布局热门产业链。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "春节期间这些谣言你信了吗",
+    "scores": {
+      "novelty": 8,
+      "resonance": 12,
+      "viral": 14,
+      "entertainment": 8,
+      "practical": 9,
+      "market": 4
+    },
+    "total_score": 55,
+    "grade": "普通",
+    "product_idea": {
+      "name": "家庭群辟谣小助手",
+      "features": "针对长辈常转发的内容进行AI真伪检测，并生成'语音版'辟谣内容，方便子女转发回家族群。",
+      "target_users": "有老人的家庭成员、新媒体用户",
+      "value_proposition": "降低子女帮长辈辟谣的沟通成本，保护家庭信息环境。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "香港特区政府向巴拿马提出严正抗议",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 2,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 38,
+    "grade": "普通",
+    "product_idea": {
+      "name": "外事实时动态追踪器",
+      "features": "提供简明扼要的国际关系事件时间轴和背景解读，服务于外贸和国际物流行业。",
+      "target_users": "外贸从业者、跨境物流商",
+      "value_proposition": "快速评估国际政治事件对特定地区业务的潜在影响。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "泽连斯基首次展示所使用地下掩体",
+    "scores": {
+      "novelty": 16,
+      "resonance": 14,
+      "viral": 16,
+      "entertainment": 10,
+      "practical": 3,
+      "market": 4
+    },
+    "total_score": 63,
+    "grade": "良好",
+    "product_idea": {
+      "name": "家庭应急避难所设计指南",
+      "features": "结合新闻热点，提供家庭地下室或安全屋的改造方案、物资储备清单及生存技能教学。",
+      "target_users": "生存主义者、有独立住房的居民",
+      "value_proposition": "满足公众在不确定性环境下对安全感的焦虑需求。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "外交部回应特朗普是否即将访华",
+    "scores": {
+      "novelty": 10,
+      "resonance": 15,
+      "viral": 12,
+      "entertainment": 5,
+      "practical": 6,
+      "market": 8
+    },
+    "total_score": 56,
+    "grade": "普通",
+    "product_idea": {
+      "name": "跨境贸易政策预警工具",
+      "features": "根据高层互访动态和外交辞令，预测关税、签证及进出口政策的变化趋势。",
+      "target_users": "跨境电商、进出口贸易商",
+      "value_proposition": "提前规避外交摩擦带来的商业风险。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "AMD拿下Meta千亿GPU大单",
+    "scores": {
+      "novelty": 12,
+      "resonance": 10,
+      "viral": 10,
+      "entertainment": 5,
+      "practical": 8,
+      "market": 9
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "AI算力租赁交易平台",
+      "features": "聚合闲置的AMD及其他品牌GPU资源，为中小企业提供低成本的大模型训练算力。",
+      "target_users": "AI初创公司、高校实验室",
+      "value_proposition": "降低AI算力门槛，共享硬件升级红利。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "内蒙古一獾子进居民区追咬狗",
+    "scores": {
+      "novelty": 18,
+      "resonance": 12,
+      "viral": 16,
+      "entertainment": 16,
+      "practical": 5,
+      "market": 4
+    },
+    "total_score": 71,
+    "grade": "良好",
+    "product_idea": {
+      "name": "宠物户外遇险防护记录仪",
+      "features": "轻量化宠物可穿戴设备，具备夜视、自动录像及驱赶野生动物的超声波功能，并在宠物遇袭时报警。",
+      "target_users": "养宠人士、户外遛狗人群",
+      "value_proposition": "保护爱宠免受流浪动物或野生动物侵害，提供事后追责证据。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "女子预订好年夜饭却被放鸽子 商家回应",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 5,
+      "practical": 8,
+      "market": 8
+    },
+    "total_score": 60,
+    "grade": "良好",
+    "product_idea": {
+      "name": "节日订餐履约险",
+      "features": "用户在平台预订年夜饭等重要聚餐时，自动或低价购买保险，一旦商家违约，保险先行赔付并安排备用餐厅。",
+      "target_users": "家庭聚餐组织者、节日消费者",
+      "value_proposition": "杜绝节日'订不到位'的尴尬，保障重要时刻的体验。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "高速堵车 男子路边卖炒粉10元送到手",
+    "scores": {
+      "novelty": 16,
+      "resonance": 18,
+      "viral": 20,
+      "entertainment": 16,
+      "practical": 8,
+      "market": 10
+    },
+    "total_score": 88,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "高速堵车移动补给站",
+      "features": "LBS定位的移动服务匹配平台，堵车时，附近的服务人员（摩托车/小型车）携带食物和水提供上门配送服务。",
+      "target_users": "春运堵车车主、路边潜在创业者",
+      "value_proposition": "将'堵车痛点'转化为'流动商业机会'，解决高速应急饮食需求。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "夫妻春节送外卖月入4万 站长：补贴高",
+    "scores": {
+      "novelty": 12,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 8,
+      "practical": 10,
+      "market": 9
+    },
+    "total_score": 73,
+    "grade": "良好",
+    "product_idea": {
+      "name": "灵活用工高薪机会聚合器",
+      "features": "专门收集春节等特殊时段的高补贴兼职机会（外卖、客服、分拣等），并为用户提供短期技能培训。",
+      "target_users": "蓝领工人、大学生、想赚快钱的人群",
+      "value_proposition": "利用信息差和特殊时段红利，帮助用户快速增收。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "法国连续降雨40天创纪录",
+    "scores": {
+      "novelty": 10,
+      "resonance": 8,
+      "viral": 8,
+      "entertainment": 5,
+      "practical": 7,
+      "market": 6
+    },
+    "total_score": 44,
+    "grade": "普通",
+    "product_idea": {
+      "name": "极端天气出行助手",
+      "features": "针对长期阴雨、雪灾等极端天气提供衣物烘干设备租赁、除湿配送及室内游玩推荐。",
+      "target_users": "受极端天气影响的居民、游客",
+      "value_proposition": "缓解恶劣天气带来的生活不便，提供针对性解决方案。"
+    }
+  }
+]
