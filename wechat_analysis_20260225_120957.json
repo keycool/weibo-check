@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "方寸桌凳载深情",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 8,
+      "entertainment": 5,
+      "practical": 2,
+      "market": 1
+    },
+    "total_score": 40,
+    "grade": "普通",
+    "product_idea": {
+      "name": "“乡土记忆”微缩场景摆件",
+      "features": "基于用户上传的老照片或描述，利用3D打印定制家乡老屋、旧桌凳等微缩模型，并在底座刻入专属亲情寄语。",
+      "target_users": "怀旧的都市打工人、异地游子",
+      "value_proposition": "将无形的乡愁和深情转化为可触摸的桌面陪伴，弥补物理距离带来的情感缺失。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "商务部回应美贸易代表言论",
+    "scores": {
+      "novelty": 5,
+      "resonance": 15,
+      "viral": 12,
+      "entertainment": 2,
+      "practical": 6,
+      "market": 2
+    },
+    "total_score": 42,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球宏观风险雷达APP",
+      "features": "实时聚合全球贸易政策与宏观言论，通过AI分析对特定行业（如进出口、跨境电商）的潜在影响系数并推送预警。",
+      "target_users": "外贸从业者、跨境电商卖家、投资者",
+      "value_proposition": "帮助从业者从海量政经新闻中快速筛选出与自己生意相关的关键信号，规避贸易风险。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "半夜候补成功1700元车票作废 官方回应",
+    "scores": {
+      "novelty": 10,
+      "resonance": 18,
+      "viral": 18,
+      "entertainment": 2,
+      "practical": 8,
+      "market": 5
+    },
+    "total_score": 61,
+    "grade": "良好",
+    "product_idea": {
+      "name": "抢票“保险”与支付管家工具",
+      "features": "在支付火车票前开启“资金预锁”功能，若候补成功未在规定时间内支付，系统自动触发退款或二次尝试支付，避免资金浪费或票款流失。",
+      "target_users": "春节期间的返乡人群、出差党",
+      "value_proposition": "解决因深夜熟睡或操作延迟导致的高价票作废痛点，用技术手段挽回经济损失。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "九组数据，感受万马奔腾的活力春节",
+    "scores": {
+      "novelty": 6,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 5,
+      "practical": 5,
+      "market": 3
+    },
+    "total_score": 41,
+    "grade": "普通",
+    "product_idea": {
+      "name": "个人年度消费账单生成器",
+      "features": "导入支付软件流水，自动生成可视化的年度生活消费数据报告，对比全国平均数据，展示个人独特的“活力”生活图鉴。",
+      "target_users": "所有消费者、社交媒体用户",
+      "value_proposition": "通过数据可视化满足用户的炫耀心理和自我总结需求，增强社交分享属性。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "1905年出生女子或破纪录 饮食习惯曝光",
+    "scores": {
+      "novelty": 12,
+      "resonance": 10,
+      "viral": 12,
+      "entertainment": 8,
+      "practical": 6,
+      "market": 7
+    },
+    "total_score": 55,
+    "grade": "普通",
+    "product_idea": {
+      "name": "“寿乡同款”健康食材订阅盒",
+      "features": "基于长寿地区老人的公开饮食习惯，推出每周配送的食材包，并附带由营养师配比的相似食谱。",
+      "target_users": "中老年人群、注重养生的年轻群体",
+      "value_proposition": "利用“长寿食谱”的权威效应，为用户提供便捷、科学的健康饮食解决方案。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "中方当场驳斥美方",
+    "scores": {
+      "novelty": 4,
+      "resonance": 14,
+      "viral": 14,
+      "entertainment": 3,
+      "practical": 2,
+      "market": 1
+    },
+    "total_score": 38,
+    "grade": "普通",
+    "product_idea": {
+      "name": "时政热点辩论场社区",
+      "features": "针对国际热点事件提供正反方观点聚合，用户可领取观点卡牌进行辩论，赢取积分兑换权益。",
+      "target_users": "时政关注者、大学生",
+      "value_proposition": "提供一个理性表达和观点碰撞的平台，释放用户的表达欲，增加用户粘性。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "修车工用扳手当方向盘跑完戈壁赛道",
+    "scores": {
+      "novelty": 18,
+      "resonance": 14,
+      "viral": 18,
+      "entertainment": 18,
+      "practical": 3,
+      "market": 6
+    },
+    "total_score": 77,
+    "grade": "良好",
+    "product_idea": {
+      "name": "荒野求生/硬核DIY模拟游戏",
+      "features": "高拟真模拟各种极端故障场景，玩家需利用现场有限的工具（如扳手、铁丝）进行物理改装以继续前行。",
+      "target_users": "硬核玩家、机械爱好者、荒野生存粉",
+      "value_proposition": "满足用户对机械硬核知识和极限生存挑战的好奇心，提供极具爽感的“奇迹创造”体验。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "高市早苗，涉嫌违法",
+    "scores": {
+      "novelty": 8,
+      "resonance": 10,
+      "viral": 12,
+      "entertainment": 4,
+      "practical": 2,
+      "market": 1
+    },
+    "total_score": 37,
+    "grade": "普通",
+    "product_idea": {
+      "name": "政客法律风险追踪器",
+      "features": "追踪全球政客的法律诉讼与合规风险，生成廉政报告。",
+      "target_users": "法律从业者、政治研究人员",
+      "value_proposition": "专业的合规信息聚合工具，提升行业调研效率。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "系统错误致欠款千万亿 男子索赔200万",
+    "scores": {
+      "novelty": 16,
+      "resonance": 8,
+      "viral": 14,
+      "entertainment": 14,
+      "practical": 4,
+      "market": 2
+    },
+    "total_score": 58,
+    "grade": "普通",
+    "product_idea": {
+      "name": "个人资产异常监控小程序",
+      "features": "连接银行和支付账户，利用AI检测额度或账单中的异常数值（如多一位少一位、天文数字错误），并即时生成报错截图作为证据。",
+      "target_users": "所有人、对信用敏感的群体",
+      "value_proposition": "防止因系统BUG导致的无妄之灾，为用户提供法律维权的第一手证据保全工具。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "普京：有敌人破坏和平进程",
+    "scores": {
+      "novelty": 5,
+      "resonance": 12,
+      "viral": 12,
+      "entertainment": 2,
+      "practical": 3,
+      "market": 1
+    },
+    "total_score": 35,
+    "grade": "普通",
+    "product_idea": {
+      "name": "地缘冲突对投资影响分析插件",
+      "features": "浏览器插件，当用户阅读地缘新闻时，侧边栏自动显示相关行业ETF、原油黄金等避险资产的价格波动预测。",
+      "target_users": "散户投资者、财经新闻读者",
+      "value_proposition": "帮助普通人看懂国际局势与钱袋子的关系，提供即时避险建议。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "应急车道，多“急”才能停",
+    "scores": {
+      "novelty": 10,
+      "resonance": 14,
+      "viral": 14,
+      "entertainment": 6,
+      "practical": 9,
+      "market": 4
+    },
+    "total_score": 57,
+    "grade": "普通",
+    "product_idea": {
+      "name": "“急事通”——紧急情况救援辅助APP",
+      "features": "当车主遇到车内突发急病等特殊情况需占用车道时，APP提供一键录像取证功能，并自动连接交警后台报备，记录“紧急”证据链。",
+      "target_users": "长途司机、新手车主",
+      "value_proposition": "厘清“紧急情况”的法律边界，通过数字化取证避免违规扣分，保障生命通道的合理使用。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "春节返岗途中车祸身亡算工伤吗？",
+    "scores": {
+      "novelty": 6,
+      "resonance": 16,
+      "viral": 10,
+      "entertainment": 2,
+      "practical": 10,
+      "market": 8
+    },
+    "total_score": 52,
+    "grade": "普通",
+    "product_idea": {
+      "name": "职场工伤法律顾问AI",
+      "features": "针对通勤、出差、加班等不同场景，通过问答形式判定是否属于工伤，并指导收集证据、联系法援。",
+      "target_users": "职场人士、HR、工伤家属",
+      "value_proposition": "填补企业HR解释的空白，为劳动者提供低成本、标准化的法律权益判定服务。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "人民币汇率创34个月新高",
+    "scores": {
+      "novelty": 8,
+      "resonance": 10,
+      "viral": 10,
+      "entertainment": 2,
+      "practical": 8,
+      "market": 6
+    },
+    "total_score": 44,
+    "grade": "普通",
+    "product_idea": {
+      "name": "海淘/留学汇率换算优选助手",
+      "features": "在汇率高位时提醒用户换汇或进行跨境支付，自动对比不同支付渠道的手续费，推荐最佳购汇时机。",
+      "target_users": "留学生、海淘党、外贸从业者",
+      "value_proposition": "利用汇率波动为跨境消费者省钱，最大化资金利用效率。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "15岁少女失联半月，父亲悬赏百万",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 16,
+      "entertainment": 0,
+      "practical": 10,
+      "market": 2
+    },
+    "total_score": 52,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全民寻人/走失预警分发网",
+      "features": "一旦有儿童走失报案，系统自动向事发地周边数公里的用户推送弹窗警报，并利用AI生成失踪者可能变化的容貌。",
+      "target_users": "警方、失踪家属、志愿者",
+      "value_proposition": "建立黄金时间内的社会响应网络，利用移动互联网的覆盖率提高寻人效率。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "韩“蛇蝎美人”连环杀人 粉丝涨50倍",
+    "scores": {
+      "novelty": 15,
+      "resonance": 12,
+      "viral": 16,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 58,
+    "grade": "普通",
+    "product_idea": {
+      "name": "真实犯罪剧情推演播客/视频",
+      "features": "不美化犯罪，而是深挖犯罪心理、动机及侦破过程，邀请心理学家分析大众对“恶”的猎奇心理。",
+      "target_users": "悬疑爱好者、心理学爱好者",
+      "value_proposition": "满足大众对极端案件的窥探欲，同时提供严肃的心理学和社会学分析视角。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "中国游客亲历莫斯科机场关闭",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 12,
+      "entertainment": 6,
+      "practical": 9,
+      "market": 7
+    },
+    "total_score": 56,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球突发状况互助指南",
+      "features": "基于LBS和新闻实时数据，为出境游客提供当地罢工、自然灾害、动乱等突发事件的应对指南和避难所地图。",
+      "target_users": "出境游游客、商务差旅人士",
+      "value_proposition": "作为海外的“安全宝典”，在通讯中断或混乱中提供冷静的生存指引。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "WTO将解决中印能源、汽车领域争端",
+    "scores": {
+      "novelty": 4,
+      "resonance": 6,
+      "viral": 6,
+      "entertainment": 1,
+      "practical": 8,
+      "market": 5
+    },
+    "total_score": 30,
+    "grade": "普通",
+    "product_idea": {
+      "name": "跨境贸易合规智能查询库",
+      "features": "针对能源及汽车零部件领域，提供各国WTO争端案例库及合规建议，帮助企业预判政策壁垒。",
+      "target_users": "汽车及能源出口企业",
+      "value_proposition": "为企业决策层提供合规情报支持，降低因贸易争端带来的经营风险。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "女护士被前男友杀害案凶手提起上诉",
+    "scores": {
+      "novelty": 4,
+      "resonance": 14,
+      "viral": 12,
+      "entertainment": 1,
+      "practical": 5,
+      "market": 2
+    },
+    "total_score": 38,
+    "grade": "普通",
+    "product_idea": {
+      "name": "危险关系背景筛查与预警工具",
+      "features": "辅助用户查询伴侣是否有公开的暴力、成瘾或犯罪记录，提供隐秘的求助报警通道。",
+      "target_users": "婚恋人群、单身女性",
+      "value_proposition": "通过数据筛查保护用户免受潜在极端伴侣的伤害，提供安全感。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "95后夫妻春节送外卖月赚4万 平台回应",
+    "scores": {
+      "novelty": 12,
+      "resonance": 18,
+      "viral": 18,
+      "entertainment": 8,
+      "practical": 9,
+      "market": 8
+    },
+    "total_score": 73,
+    "grade": "良好",
+    "product_idea": {
+      "name": "蓝领副业/兼职收益聚合与技能交易平台",
+      "features": "不仅展示外卖骑手收入，还聚合各类春节期间的高薪零工信息，提供入职培训、装备租赁及收入结算服务。",
+      "target_users": "想增加收入的人群、灵活就业者",
+      "value_proposition": "打破信息差，让普通人快速找到高性价比的副业机会，实现“日结”或“月赚X万”的增收目标。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "韩国股市“牛冠全球”，市值超法国",
+    "scores": {
+      "novelty": 8,
+      "resonance": 8,
+      "viral": 10,
+      "entertainment": 4,
+      "practical": 10,
+      "market": 9
+    },
+    "total_score": 49,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球基金定投组合建议器",
+      "features": "根据各国股市表现（如韩国、美国），通过算法推荐跨市场ETF组合，提示买入卖出时机。",
+      "target_users": "基金投资者、理财小白",
+      "value_proposition": "让普通投资者也能一键配置全球资产，分享不同国家股市增长的红利。"
+    }
+  }
+]
