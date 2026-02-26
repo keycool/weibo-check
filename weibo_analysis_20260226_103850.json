@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "手机 涨价",
+    "scores": {
+      "novelty": 5,
+      "resonance": 18,
+      "viral": 15,
+      "entertainment": 2,
+      "practical": 8,
+      "market": 6
+    },
+    "total_score": 54.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "手机价格锚点与置换助手",
+      "features": "全网价格历史追踪工具，结合当前以旧换新补贴计算器，预测未来3个月价格走势，推荐最佳购机时机。",
+      "target_users": "追求性价比的换机用户、数码发烧友。",
+      "value_proposition": "对抗涨价焦虑，用数据决策省下每一分钱。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "日本网民称日本确实存在撞人族",
+    "scores": {
+      "novelty": 15,
+      "resonance": 16,
+      "viral": 17,
+      "entertainment": 5,
+      "practical": 6,
+      "market": 2
+    },
+    "total_score": 61.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "海外安全出行情报局",
+      "features": "聚合全球各国治安奇闻与实用避坑指南，提供特定街区（如日本行走族高发区）的安全热力图与实时预警。",
+      "target_users": "出境游游客、留学生、海外商务人士。",
+      "value_proposition": "不仅仅看风景，更要看风险。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "银发经济市场规模有望达30万亿元",
+    "scores": {
+      "novelty": 8,
+      "resonance": 10,
+      "viral": 12,
+      "entertainment": 2,
+      "practical": 9,
+      "market": 10
+    },
+    "total_score": 51.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "银发时光重组社区",
+      "features": "基于兴趣（如园艺、书法）的同城互助养老平台，整合适老化改造服务与老年大学课程资源。",
+      "target_users": "60-75岁活力老人、成年子女。",
+      "value_proposition": "变老不是被社会遗弃，而是开启第二人生。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "薛之谦开票",
+    "scores": {
+      "novelty": 2,
+      "resonance": 19,
+      "viral": 15,
+      "entertainment": 12,
+      "practical": 6,
+      "market": 9
+    },
+    "total_score": 63.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "抢票概率加速器",
+      "features": "针对热门演出的多平台自动刷新抢票助手，提供票务行情分析与闲置票源转赠担保服务。",
+      "target_users": "演出爱好者、粉丝群体。",
+      "value_proposition": "不让你因为手速慢而错过偶像。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "160万江景房被父母堆成废品站",
+    "scores": {
+      "novelty": 16,
+      "resonance": 18,
+      "viral": 19,
+      "entertainment": 14,
+      "practical": 5,
+      "market": 4
+    },
+    "total_score": 76.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "断舍离心理陪伴服务",
+      "features": "结合线上心理咨询与线下整理收纳服务，专门解决囤积症老人的家庭矛盾，提供物品数字化存储方案。",
+      "target_users": "深受长辈囤积困扰的子女、囤积症患者。",
+      "value_proposition": "清理的不只是房间，更是家庭关系的堵塞。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "欠款1000万亿当事人这次真要逾期了",
+    "scores": {
+      "novelty": 18,
+      "resonance": 12,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 64.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "网络吃瓜辟谣助手",
+      "features": "针对离谱网络热梗的数据核查插件，用简单的数据可视化展示其荒谬性，提供理性分析视角。",
+      "target_users": "热衷八卦但求真的网民、内容创作者。",
+      "value_proposition": "在喧嚣的互联网里保持一份清醒。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "杨紫允许自己绕个弯",
+    "scores": {
+      "novelty": 10,
+      "resonance": 15,
+      "viral": 10,
+      "entertainment": 5,
+      "practical": 4,
+      "market": 3
+    },
+    "total_score": 47.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "慢成长心灵手账",
+      "features": "记录人生停滞期与转折期的日记App，引入名人低谷期故事库，提供心理按摩与人生路径规划。",
+      "target_users": "处于迷茫期的年轻人、职场倦怠者。",
+      "value_proposition": "绕弯不是迷路，是人生观的升级。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "镖人 一代大蠕",
+    "scores": {
+      "novelty": 17,
+      "resonance": 13,
+      "viral": 15,
+      "entertainment": 16,
+      "practical": 3,
+      "market": 7
+    },
+    "total_score": 71.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "国漫硬核IP解谜盲盒",
+      "features": "结合《镖人》等硬核国漫推出的剧情实体解谜盒，玩家需通过实体道具与线上H5结合推进剧情。",
+      "target_users": "国漫粉丝、剧本杀爱好者。",
+      "value_proposition": "体验东方美学的暴力美学与沉浸式叙事。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "林俊杰作曲方文山作词",
+    "scores": {
+      "novelty": 8,
+      "resonance": 17,
+      "viral": 14,
+      "entertainment": 12,
+      "practical": 3,
+      "market": 8
+    },
+    "total_score": 62.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "AI黄金搭档作曲台",
+      "features": "模仿黄金搭档（如林方组合）风格的AI辅助作词作曲工具，用户输入意境即可生成高契合度Demo。",
+      "target_users": "独立音乐人、短视频创作者。",
+      "value_proposition": "人人都能拥有自己的金牌制作团队。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "千元lululemon外套仅穿一次就起球",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 18,
+      "entertainment": 8,
+      "practical": 7,
+      "market": 5
+    },
+    "total_score": 66.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "品牌信任度透明榜",
+      "features": "基于UGC的服装质量耐用性评测社区，通过标签化记录（如'洗后缩水'、'一次起球'）建立品牌红黑榜。",
+      "target_users": "追求品质的中产阶级、理性消费者。",
+      "value_proposition": "剥离品牌溢价，只为真实质量买单。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "微信能看图片使用次数了",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 16,
+      "entertainment": 8,
+      "practical": 6,
+      "market": 4
+    },
+    "total_score": 60.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "阅后即焚私密相册",
+      "features": "基于阅后即焚原理的加密相册小程序，发送图片时可设置'仅查看一次'或'查看后自动删除'，防止转发。",
+      "target_users": "注重隐私的商务人士、情侣。",
+      "value_proposition": "你的每一张私密照片，都由你完全掌控。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "爱泼斯坦私密储物柜曝光",
+    "scores": {
+      "novelty": 10,
+      "resonance": 15,
+      "viral": 18,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 57.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "暗网吃瓜图谱",
+      "features": "将复杂的国际政经丑闻通过人物关系图谱可视化呈现，梳理时间线与利益网，降低吃瓜门槛。",
+      "target_users": "国际时政爱好者、猎奇用户。",
+      "value_proposition": "看懂全球豪门大戏背后的逻辑。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "全球首部防窥屏手机",
+    "scores": {
+      "novelty": 17,
+      "resonance": 15,
+      "viral": 16,
+      "entertainment": 5,
+      "practical": 8,
+      "market": 8
+    },
+    "total_score": 69.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "物理防窥磁吸手机壳",
+      "features": "内置电控调光膜的手机壳，通过手机App一键开启/关闭防窥模式，无需换机即可享受防窥屏。",
+      "target_users": "商务人士、注重隐私的普通用户。",
+      "value_proposition": "无需换机，给你的手机加上隐私开关。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "坐顺风车排泄后失联男子被封号",
+    "scores": {
+      "novelty": 19,
+      "resonance": 14,
+      "viral": 19,
+      "entertainment": 15,
+      "practical": 4,
+      "market": 3
+    },
+    "total_score": 74.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "网约车司乘互评信用系统",
+      "features": "独立的第三方信用评价体系，记录司乘双方的文明行为，支持黑名单共享，保护司机权益。",
+      "target_users": "网约车司机、顺风车乘客。",
+      "value_proposition": "让每一次出行都体面，让劣迹者无处可藏。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "日本把宇树机器人改成僧侣",
+    "scores": {
+      "novelty": 18,
+      "resonance": 10,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 4,
+      "market": 6
+    },
+    "total_score": 68.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "赛博法事定制服务",
+      "features": "结合全息投影与AI语音的电子祈福服务，提供电子烧香、AI解签等现代佛事功能。",
+      "target_users": "寻求心理慰藉的年轻人、科技爱好者。",
+      "value_proposition": "赛博朋克式的禅意，抚慰数字时代的焦虑。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "意外继承了前任同事留下的100块",
+    "scores": {
+      "novelty": 14,
+      "resonance": 15,
+      "viral": 12,
+      "entertainment": 10,
+      "practical": 3,
+      "market": 3
+    },
+    "total_score": 57.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "职场缘分漂流瓶",
+      "features": "企业内部的匿名社交/遗物传递平台，允许离职员工留下办公用品或寄语，作为职场文化的传承。",
+      "target_users": "大厂员工、职场新人。",
+      "value_proposition": "连接职场中的陌生人，传递微小的善意。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "郑业成新剧只能看见赵晴",
+    "scores": {
+      "novelty": 6,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 45.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "剧迷滤镜相机",
+      "features": "观众视角的视频剪辑App，允许用户上传剧集素材，通过AI自动聚焦特定角色，屏蔽其他人或添加特效。",
+      "target_users": "追剧女孩、饭圈剪辑手。",
+      "value_proposition": "把C位留给你的本命，我的剧我做主。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "Uzi说Light太任性了",
+    "scores": {
+      "novelty": 8,
+      "resonance": 15,
+      "viral": 12,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 53.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "电竞选手情绪压力监测手环",
+      "features": "监测训练和比赛中的心率变异性，分析选手心态波动，辅助教练组进行情绪管理。",
+      "target_users": "职业电竞战队、电竞青训营。",
+      "value_proposition": "用数据管理心态，减少任性操作。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "等Gucci大秀一场",
+    "scores": {
+      "novelty": 8,
+      "resonance": 12,
+      "viral": 13,
+      "entertainment": 12,
+      "practical": 3,
+      "market": 8
+    },
+    "total_score": 56.0,
+    "grade": "普通",
+    "product_idea": {
+      "name": "虚拟秀场Runway Z",
+      "features": "高精度的时尚元宇宙空间，用户可用虚拟形象观看各大品牌同步直播，并一键试穿虚拟单品。",
+      "target_users": "时尚爱好者、Z世代用户。",
+      "value_proposition": "打破时空限制，零距离接触国际时装周。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "小猫守家26天在主人床上拉满便便",
+    "scores": {
+      "novelty": 16,
+      "resonance": 14,
+      "viral": 17,
+      "entertainment": 16,
+      "practical": 6,
+      "market": 6
+    },
+    "total_score": 75.0,
+    "grade": "良好",
+    "product_idea": {
+      "name": "宠物分离焦虑安抚舱",
+      "features": "带有主人气味模拟器和互动投屏的智能猫窝/狗窝，远程喂食的同时播放主人预设的声音和全息影像。",
+      "target_users": "经常出差/旅游的养宠人士。",
+      "value_proposition": "缓解宠物焦虑，回家不再有'惊喜'。"
+    }
+  }
+]
