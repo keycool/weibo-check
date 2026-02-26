@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "习近平主席密集会见这些访华领导人",
+    "scores": {
+      "novelty": 15,
+      "resonance": 15,
+      "viral": 10,
+      "entertainment": 5,
+      "practical": 10,
+      "market": 5
+    },
+    "total_score": 60,
+    "grade": "良好",
+    "product_idea": {
+      "name": "时政脉络AI",
+      "features": "自动梳理国际时政人物关系图谱与会见要点解析",
+      "target_users": "商务人士、新闻从业者、考研学生",
+      "value_proposition": "降低信息获取门槛，快速理解大国关系背后的商业与政治信号"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "全球汽车销量前10出炉 中国3品牌上榜",
+    "scores": {
+      "novelty": 12,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 10,
+      "practical": 8,
+      "market": 10
+    },
+    "total_score": 74,
+    "grade": "良好",
+    "product_idea": {
+      "name": "智选车Pro",
+      "features": "基于全球销量数据的多维度购车对比与国产车优势分析器",
+      "target_users": "潜在购车者、汽车行业从业者",
+      "value_proposition": "用数据量化国产崛起，提供更具信服力的购车决策支持"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "女子替父请假 父亲竟因此被开除",
+    "scores": {
+      "novelty": 14,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 5,
+      "practical": 8,
+      "market": 5
+    },
+    "total_score": 69,
+    "grade": "良好",
+    "product_idea": {
+      "name": "职场护盾",
+      "features": "代请假话术生成器、劳动法快速咨询与案例匹配",
+      "target_users": "企业员工、HR、兼职工作者",
+      "value_proposition": "解决突发情况下的沟通尴尬，提供即时法律权益保护"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "新春文旅市场活力迸发",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 8,
+      "entertainment": 12,
+      "practical": 9,
+      "market": 8
+    },
+    "total_score": 59,
+    "grade": "普通",
+    "product_idea": {
+      "name": "反向游导航",
+      "features": "避开人潮的冷门景点推荐与实时客流热力图",
+      "target_users": "春节旅行者、自驾游家庭",
+      "value_proposition": "在市场活力爆棚的背景下，提供不拥挤的高质量旅行体验"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "手机品牌，又倒下一个",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 14,
+      "entertainment": 10,
+      "practical": 6,
+      "market": 5
+    },
+    "total_score": 57,
+    "grade": "普通",
+    "product_idea": {
+      "name": "机龄保障助手",
+      "features": "手机品牌健康度监测、停服预警与二手价值估算",
+      "target_users": "小众手机品牌用户、二手手机买家",
+      "value_proposition": "避免因品牌倒闭导致的服务中断或资产贬值风险"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "海南工业辣椒禁食用提示牌引热议",
+    "scores": {
+      "novelty": 18,
+      "resonance": 16,
+      "viral": 18,
+      "entertainment": 16,
+      "practical": 5,
+      "market": 6
+    },
+    "total_score": 79,
+    "grade": "良好",
+    "product_idea": {
+      "name": "辣度卫士",
+      "features": "基于图像识别的辣椒品种鉴定与安全食用指南",
+      "target_users": "吃货、外地游客、辣椒种植户",
+      "value_proposition": "趣味化科普工业辣椒知识，避免误食带来的健康风险"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "赖清德改口称中国大陆 台媒：罕见",
+    "scores": {
+      "novelty": 16,
+      "resonance": 15,
+      "viral": 12,
+      "entertainment": 5,
+      "practical": 5,
+      "market": 2
+    },
+    "total_score": 55,
+    "grade": "普通",
+    "product_idea": {
+      "name": "两岸通",
+      "features": "政策新闻去极化解读与台商投资环境分析",
+      "target_users": "台商、两岸关注者",
+      "value_proposition": "提供客观中立的政策变化分析，辅助商业与生活决策"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "高市早苗，有麻烦了",
+    "scores": {
+      "novelty": 12,
+      "resonance": 10,
+      "viral": 12,
+      "entertainment": 8,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 46,
+    "grade": "普通",
+    "product_idea": {
+      "name": "国际政治八卦卡片",
+      "features": "将枯燥的政治新闻转化为易懂的图文卡片",
+      "target_users": "泛资讯阅读用户",
+      "value_proposition": "降低国际政治阅读门槛，满足社交谈资需求"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "日系车在华“大退败”",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 12,
+      "practical": 8,
+      "market": 8
+    },
+    "total_score": 71,
+    "grade": "良好",
+    "product_idea": {
+      "name": "二手车残值预测",
+      "features": "基于市场份额变化预测日系或其他车型未来保值率",
+      "target_users": "二手车商、车主",
+      "value_proposition": "在市场格局剧变时，帮助用户精准把握买卖时机"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "四川卧龙现“全网最黑”大熊猫",
+    "scores": {
+      "novelty": 18,
+      "resonance": 19,
+      "viral": 19,
+      "entertainment": 19,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 84,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "熊猫脸盲治疗仪",
+      "features": "大熊猫面部识别与个性化性格解读小程序",
+      "target_users": "熊猫粉丝、亲子家庭",
+      "value_proposition": "利用大IP流量，通过趣味科普和AR合影变现"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "这5类药千万不能掰开吃",
+    "scores": {
+      "novelty": 14,
+      "resonance": 16,
+      "viral": 18,
+      "entertainment": 5,
+      "practical": 10,
+      "market": 6
+    },
+    "total_score": 69,
+    "grade": "良好",
+    "product_idea": {
+      "name": "安心用药扫一扫",
+      "features": "扫描药盒识别是否可掰开/碾碎服用，并给出用药提醒",
+      "target_users": "老年人、慢性病患者、护士",
+      "value_proposition": "解决服药安全痛点，填补家庭用药知识盲区"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "国民党与民众党合作，有新进展",
+    "scores": {
+      "novelty": 12,
+      "resonance": 13,
+      "viral": 11,
+      "entertainment": 4,
+      "practical": 3,
+      "market": 2
+    },
+    "total_score": 45,
+    "grade": "普通",
+    "product_idea": {
+      "name": "选情追踪器",
+      "features": "实时追踪政党合作动态与政策倾向预测",
+      "target_users": "时政爱好者",
+      "value_proposition": "整合碎片化政治新闻，提供清晰的局势演变图"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "老虎滩104舰启动拆解，大连市民告别",
+    "scores": {
+      "novelty": 12,
+      "resonance": 15,
+      "viral": 10,
+      "entertainment": 8,
+      "practical": 5,
+      "market": 6
+    },
+    "total_score": 56,
+    "grade": "普通",
+    "product_idea": {
+      "name": "军武遗珍AR",
+      "features": "退役舰船的AR数字博物馆与历史故事复刻",
+      "target_users": "军迷、退役海军、青少年",
+      "价值_proposition": "数字化保存军事记忆，提供沉浸式国防教育"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "于东来退休后在老家卖甘蔗 边吃边叫卖",
+    "scores": {
+      "novelty": 16,
+      "resonance": 18,
+      "viral": 18,
+      "entertainment": 17,
+      "practical": 4,
+      "market": 7
+    },
+    "total_score": 80,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "老板去哪儿",
+      "features": "追踪知名企业家退休后生活，打造“反内卷”生活指南",
+      "target_users": "创业者、职场焦虑人群",
+      "value_proposition": "展示商业大佬的烟火气一面，提供生活方式新思考"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "猪肉冒充牛肉 陕西商户被罚没6.9万",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 16,
+      "entertainment": 5,
+      "practical": 9,
+      "market": 5
+    },
+    "total_score": 59,
+    "grade": "普通",
+    "product_idea": {
+      "name": "真肉鉴别家",
+      "features": "基于纹理分析的肉类真假识别App，内置举报通道",
+      "target_users": "家庭主妇、餐饮采购",
+      "value_proposition": "通过技术手段保障餐桌安全，协助监管食品安全"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "中国AI调用量首超美国",
+    "scores": {
+      "novelty": 16,
+      "resonance": 17,
+      "viral": 15,
+      "entertainment": 8,
+      "practical": 8,
+      "market": 9
+    },
+    "total_score": 73,
+    "grade": "良好",
+    "product_idea": {
+      "name": "AI指数基金定投助手",
+      "features": "基于AI调用量数据的行业发展预测与投资建议",
+      "target_users": "二级市场投资者、科技从业者",
+      "value_proposition": "将宏观数据转化为微观投资信号，把握AI红利"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "李嘉诚家族出售英国资产",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 13,
+      "entertainment": 6,
+      "practical": 8,
+      "market": 7
+    },
+    "total_score": 60,
+    "grade": "良好",
+    "product_idea": {
+      "name": "跟单聪明钱",
+      "features": "追踪顶级富豪家族资产配置变化，提供简报",
+      "target_users": "高净值人群、财经分析师",
+      "value_proposition": "借鉴资本巨鳄的动向，优化个人资产配置策略"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "AI清空安全总监邮箱 无视停手指令",
+    "scores": {
+      "novelty": 19,
+      "resonance": 17,
+      "viral": 18,
+      "entertainment": 15,
+      "practical": 8,
+      "market": 8
+    },
+    "total_score": 85,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "AI熔断保险箱",
+      "features": "针对AI Agent的物理级隔离与操作回撤系统",
+      "target_users": "企业安全官、AI开发者",
+      "value_proposition": "解决AI失控风险，提供最后一道防线的数据安全保护"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "银行压岁钱战场现利率“倒挂”",
+    "scores": {
+      "novelty": 14,
+      "resonance": 15,
+      "viral": 14,
+      "entertainment": 8,
+      "practical": 9,
+      "market": 9
+    },
+    "total_score": 69,
+    "grade": "良好",
+    "product_idea": {
+      "name": "捡钱理财器",
+      "features": "实时监控银行利率倒挂、漏洞与最优存款组合推荐",
+      "target_users": "储户、羊毛党、家庭理财者",
+      "价值_proposition": "利用信息不对称和银行营销漏洞，实现收益最大化"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "多位省级党委书记密集安排部署",
+    "scores": {
+      "novelty": 10,
+      "resonance": 10,
+      "viral": 8,
+      "entertainment": 2,
+      "practical": 8,
+      "market": 6
+    },
+    "total_score": 44,
+    "grade": "普通",
+    "product_idea": {
+      "name": "政策风向标",
+      "features": "从会议通稿中提取地方政策重点与投资机会",
+      "target_users": "政府关系从业者、基建企业",
+      "value_proposition": "从官场动态中解读未来的行业风口与区域发展重点"
+    }
+  }
+]

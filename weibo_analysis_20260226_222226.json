@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "24岁女生成功诞下1男4女5胞胎",
+    "scores": {
+      "novelty": 18,
+      "resonance": 19,
+      "viral": 20,
+      "entertainment": 18,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 81,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "多胞胎家庭专项支持平台",
+      "features": "提供多胞胎育儿百科、众筹喂养基金、专用育儿装备租赁及批量处理家务的对接服务。",
+      "target_users": "多胞胎家庭、慈善机构、母婴品牌方。",
+      "value_proposition": "解决多胞胎家庭资源匮乏与精力不足的痛点，通过社会互助实现高效育儿。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "手机 涨价",
+    "scores": {
+      "novelty": 5,
+      "resonance": 18,
+      "viral": 15,
+      "entertainment": 2,
+      "practical": 8,
+      "market": 6
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "手机价格趋势预警助手",
+      "features": "全网比价监控、历史低价曲线分析、购机反向竞价功能。",
+      "target_users": "数码产品消费者、价格敏感型用户。",
+      "value_proposition": "打破信息差，帮助用户在涨价周期中以最优时机和价格购入设备。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "春节消费市场人气旺活力足",
+    "scores": {
+      "novelty": 2,
+      "resonance": 8,
+      "viral": 5,
+      "entertainment": 2,
+      "practical": 5,
+      "market": 8
+    },
+    "total_score": 30,
+    "grade": "普通",
+    "product_idea": {
+      "name": "本地生活消费热力图App",
+      "features": "基于实时人流数据的商圈拥挤度查询、排队远程取号、春节特色消费地图。",
+      "target_users": "假日出游人群、实体店商家。",
+      "value_proposition": "实时避开拥挤，提升节假日线下消费体验与商家流量分发效率。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "男子谎称走亲戚欲把7岁儿子留老家",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 5,
+      "practical": 3,
+      "market": 2
+    },
+    "total_score": 52,
+    "grade": "普通",
+    "product_idea": {
+      "name": "儿童心理与亲子沟通模拟器",
+      "features": "AI模拟不同育儿对话场景，分析父母话语对儿童心理的潜在伤害，提供高情商沟通话术。",
+      "target_users": "新手父母、离异家庭、亲子教育机构。",
+      "value_proposition": "避免言语暴力，通过AI演练提升亲子沟通质量，保护儿童心理健康。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "飞驰人生3",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 16,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 67,
+    "grade": "良好",
+    "product_idea": {
+      "name": "沉浸式赛车剧情体验游戏",
+      "features": "与电影联动的剧情竞速手游，结合电影原声与经典复刻赛道，支持第一视角驾驶。",
+      "target_users": "电影观众、赛车游戏爱好者。",
+      "value_proposition": "打破屏幕界限，让观众在游戏中延续电影的热血与速度感。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "老外以为一个姓张的人研究遍及各学科",
+    "scores": {
+      "novelty": 16,
+      "resonance": 15,
+      "viral": 17,
+      "entertainment": 16,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 68,
+    "grade": "良好",
+    "product_idea": {
+      "name": "中文名消歧义文化科普Bot",
+      "features": "在阅读外文文献或新闻时，自动识别并解释常见中文姓氏的背景、著名人物及文化梗。",
+      "target_users": "海外留学生、跨文化交流工作者、外语学习者。",
+      "value_proposition": "消除文化误解，作为跨文化交流时的智能文化翻译官。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "日本物价居然到这种程度了",
+    "scores": {
+      "novelty": 8,
+      "resonance": 14,
+      "viral": 12,
+      "entertainment": 8,
+      "practical": 6,
+      "market": 4
+    },
+    "total_score": 52,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球通胀生活成本追踪器",
+      "features": "全球主要城市实时物价对比数据库、汇率换算、购买力平价可视化。",
+      "target_users": "海外游客、留学生、移民群体。",
+      "value_proposition": "直观展示全球物价波动，为跨国生活决策提供数据支持。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "纯真年代的爱情",
+    "scores": {
+      "novelty": 5,
+      "resonance": 18,
+      "viral": 12,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "慢节奏复古书信社交App",
+      "features": "模拟90年代笔友模式，延时发送信息、电子信纸设计、无算法干扰的纯净匹配。",
+      "target_users": "向往复古恋爱的年轻人、情感剧观众。",
+      "value_proposition": "在快时代找回慢爱情，通过延迟满足体验情感沉淀。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "30秒内3次预警救了一车人",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 5,
+      "practical": 10,
+      "market": 9
+    },
+    "total_score": 65,
+    "grade": "良好",
+    "product_idea": {
+      "name": "全场景AI灾害预警终端",
+      "features": "整合气象、地质、交通数据，提供毫秒级本地灾害预警，并与智能家居联动自动切断危险源。",
+      "target_users": "运输公司、学校、家庭用户。",
+      "value_proposition": "利用AI争取黄金逃生时间，构建生命安全最后一道防线。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "尘白禁区发文回应",
+    "scores": {
+      "novelty": 5,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 5,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 37,
+    "grade": "普通",
+    "product_idea": {
+      "name": "游戏社区舆情公关沙盘",
+      "features": "模拟玩家对游戏运营策略的反应，AI生成公关话术建议及舆论走向预测。",
+      "target_users": "游戏运营团队、独立游戏开发者。",
+      "value_proposition": "降低公关危机风险，通过模拟演练优化运营决策。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "比尔盖茨出轨女性身份曝光",
+    "scores": {
+      "novelty": 12,
+      "resonance": 18,
+      "viral": 19,
+      "entertainment": 15,
+      "practical": 1,
+      "market": 1
+    },
+    "total_score": 66,
+    "grade": "良好",
+    "product_idea": {
+      "name": "数字隐私痕迹清理管家",
+      "features": "深度扫描社交媒体历史记录，AI评估潜在舆论风险，提供一键隐藏或去标识化建议。",
+      "target_users": "公众人物、商务人士、注重隐私的用户。",
+      "value_proposition": "防患于未然，保护个人声誉与数字隐私安全。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "杨幂TOP坐一起",
+    "scores": {
+      "novelty": 8,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 1,
+      "market": 8
+    },
+    "total_score": 65,
+    "grade": "良好",
+    "product_idea": {
+      "name": "明星同款造型实时搜",
+      "features": "直播或盛典视频流中，点击画面即可实时识别明星穿戴品牌并提供购买链接。",
+      "target_users": "时尚爱好者、追星族、电商平台。",
+      "value_proposition": "所见即所得，缩短从'看到'到'买到'的心理与时间路径。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "苹果新品来了",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 10,
+      "practical": 6,
+      "market": 9
+    },
+    "total_score": 65,
+    "grade": "良好",
+    "product_idea": {
+      "name": "旧机抵扣最佳时机计算器",
+      "features": "结合新品发布节奏与二手市场行情，预测旧设备贬值曲线，提示最佳出手或置换时间。",
+      "target_users": "数码收藏者、精打细算的消费者。",
+      "value_proposition": "最大化数码资产残值，省心省力完成设备更新换代。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "冬奥花滑冠军刘美贤遭俄罗斯粉丝吐槽",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 13,
+      "entertainment": 12,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 55,
+    "grade": "普通",
+    "product_idea": {
+      "name": "跨国粉丝文化翻译与社区",
+      "features": "专注于体育/娱乐偶像的跨国评论翻译，并附带文化背景注释，减少误解。",
+      "target_users": "国际体育迷、粉丝后援会。",
+      "value_proposition": "架设跨语言粉丝沟通桥梁，将争议转化为文化交流机会。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "肖战Gucci看秀待遇",
+    "scores": {
+      "novelty": 8,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 14,
+      "practical": 1,
+      "market": 10
+    },
+    "total_score": 70,
+    "grade": "良好",
+    "product_idea": {
+      "name": "明星私服街拍AR试穿",
+      "features": "利用AR技术，让用户在自己手机摄像头前'穿'上明星同款看秀或街拍单品。",
+      "target_users": "奢侈品消费者、Z世代用户。",
+      "value_proposition": "连接顶级明星流量与电商转化，提供沉浸式购物体验。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "一盒内存条堪比一套房",
+    "scores": {
+      "novelty": 15,
+      "resonance": 14,
+      "viral": 16,
+      "entertainment": 10,
+      "practical": 4,
+      "market": 5
+    },
+    "total_score": 64,
+    "grade": "良好",
+    "product_idea": {
+      "name": "服务器硬件资产化投资平台",
+      "features": "类似于众筹购买高性能服务器内存/AI算力卡，分割产权并租赁给AI公司获得收益。",
+      "target_users": "科技投资者、中小型AI企业。",
+      "value_proposition": "降低参与AI基础设施建设的门槛，让普通投资者也能享受硬件红利。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "Prada认领杨幂",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 12,
+      "practical": 1,
+      "market": 8
+    },
+    "total_score": 59,
+    "grade": "普通",
+    "product_idea": {
+      "name": "高奢品牌代言人效能分析工具",
+      "features": "监测代言话题热度、品牌关联度及舆情倾向，为品牌方提供ROI数据报告。",
+      "target_users": "时尚品牌市场部、公关公司。",
+      "value_proposition": "量化代言价值，辅助品牌进行更精准的营销投放决策。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "搞对象后弟弟的变化",
+    "scores": {
+      "novelty": 10,
+      "resonance": 15,
+      "viral": 14,
+      "entertainment": 16,
+      "practical": 3,
+      "market": 2
+    },
+    "total_score": 60,
+    "grade": "良好",
+    "product_idea": {
+      "name": "恋爱状态亲友团互动小程序",
+      "features": "允许亲友团匿名投票或评价伴侣，通过第三方视角提供恋爱建议，生成'变化报告'。",
+      "target_users": "情侣双方、闺蜜/兄弟团。",
+      "价值_proposition": "借旁观者清发现恋爱盲点，增加社交互动趣味性。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "田柾国直播爆粗口",
+    "scores": {
+      "novelty": 8,
+      "resonance": 15,
+      "viral": 15,
+      "entertainment": 10,
+      "practical": 1,
+      "market": 3
+    },
+    "total_score": 52,
+    "grade": "普通",
+    "product_idea": {
+      "name": "直播实时敏感词净化耳机",
+      "features": "硬件级音频处理，在推流出去前自动识别并屏蔽或和谐不当词汇，保护主播形象。",
+      "target_users": "直播主、跨国MCN机构。",
+      "value_proposition": "实时直播护航，避免因口误导致的重大公关事故。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "香港山火仍在扑救中",
+    "scores": {
+      "novelty": 5,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 2,
+      "practical": 9,
+      "market": 2
+    },
+    "total_score": 40,
+    "grade": "普通",
+    "product_idea": {
+      "name": "城市突发灾害避险社区",
+      "features": "基于LBS的实时灾害信息推送、互助救援拼单、物资捐赠点导航。",
+      "target_users": "城市居民、志愿者组织。",
+      "value_proposition": "黄金时间内的救命信息速递，构建城市防灾韧性网络。"
+    }
+  }
+]
