@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "腾讯感谢爱奇艺宣传逐玉",
+    "scores": {
+      "novelty": 18,
+      "resonance": 16,
+      "viral": 17,
+      "entertainment": 15,
+      "practical": 1,
+      "market": 2
+    },
+    "total_score": 69,
+    "grade": "良好",
+    "product_idea": {
+      "name": "影视竞品互嘲互宣社区",
+      "features": "提供不同平台剧集的对比数据、名场面混剪工具、粉丝阵营辩论区。",
+      "target_users": "追剧党、八卦爱好者、市场营销人员。",
+      "value_proposition": "将原本的恶性竞争转化为娱乐内容，通过粉丝争论和官方互动热度反哺剧集流量。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "妈妈在女儿婚礼上美出圈",
+    "scores": {
+      "novelty": 14,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 16,
+      "practical": 5,
+      "market": 8
+    },
+    "total_score": 80,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "喜宴专属高定租赁平台",
+      "features": "针对中老年女性的婚礼/喜宴礼服租赁与定制服务，提供现场妆造快速出片服务。",
+      "target_users": "即将举办婚礼的子女、需要出席重要宴会的长辈。",
+      "value_proposition": "打破长辈只能穿俗气大红大绿的刻板印象，让妈妈们在重要场合成为焦点，满足情感与审美需求。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "数读春节消费市场年味十足",
+    "scores": {
+      "novelty": 5,
+      "resonance": 10,
+      "viral": 5,
+      "entertainment": 2,
+      "practical": 8,
+      "market": 6
+    },
+    "total_score": 36,
+    "grade": "普通",
+    "product_idea": {
+      "name": "宏观趋势个人投资助手",
+      "features": "基于国家宏观经济数据（如春节消费）解读，为个人提供行业投资或副业选择建议。",
+      "target_users": "个人投资者、小生意经营者。",
+      "value_proposition": "将宏大的经济数据转化为个人可执行的商业洞察，帮助普通人看懂经济形势。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "白敬亭章若楠 二搭",
+    "scores": {
+      "novelty": 12,
+      "resonance": 18,
+      "viral": 17,
+      "entertainment": 18,
+      "practical": 0,
+      "market": 5
+    },
+    "total_score": 70,
+    "grade": "良好",
+    "product_idea": {
+      "name": "CP嗑糖模拟器",
+      "features": "用户上传自己喜欢的两位艺人或朋友的视频/照片，AI自动生成同框互动视频或合体Vlog。",
+      "target_users": "CP粉、短视频创作者。",
+      "value_proposition": "利用AI技术满足粉丝对特定人物关系的幻想，降低同人视频创作门槛。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "新娘出嫁徒手拔光碎发",
+    "scores": {
+      "novelty": 16,
+      "resonance": 12,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 3,
+      "market": 2
+    },
+    "total_score": 62,
+    "grade": "良好",
+    "product_idea": {
+      "name": "便携式面部静电除毛仪",
+      "features": "针对细小绒毛和碎发，利用物理吸附或微电流去除，体积小巧适合补妆。",
+      "target_users": "爱美女性、需要频繁出镜的博主。",
+      "value_proposition": "解决视频中面部绒毛明显影响画质的问题，提供“妈生皮”般的无瑕底妆体验。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "现在就出发4",
+    "scores": {
+      "novelty": 8,
+      "resonance": 14,
+      "viral": 12,
+      "entertainment": 16,
+      "practical": 4,
+      "market": 6
+    },
+    "total_score": 60,
+    "grade": "良好",
+    "product_idea": {
+      "name": "社交旅游拼团App",
+      "features": "基于性格测试匹配旅游搭子，主打综艺式旅行体验，提供剧本化旅游路线。",
+      "target_users": "年轻社恐、喜欢旅行但缺乏同伴的人群。",
+      "价值主张": "像综艺一样去旅行，解决找人难、玩不开的痛点，提供社交+旅行的双重体验。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "不建议在朋友圈展示技能",
+    "scores": {
+      "novelty": 15,
+      "resonance": 17,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 6,
+      "market": 4
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "技能变现匿名社区",
+      "features": "用户可以匿名发布自己的技能作品，如果有人欣赏并付费，双方再私下对接。",
+      "target_users": "有技能但不想被熟人打扰的接单者、寻找专业服务的人。",
+      "value_proposition": "将朋友圈的“炫耀”转化为“商业机会”，同时屏蔽无效社交和道德绑架。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "43岁也能考编了",
+    "scores": {
+      "novelty": 12,
+      "resonance": 19,
+      "viral": 15,
+      "entertainment": 5,
+      "practical": 9,
+      "market": 9
+    },
+    "total_score": 69,
+    "grade": "良好",
+    "product_idea": {
+      "name": "大龄公考笔友互助圈",
+      "features": "专门针对35岁以上考公人群的学习计划、健康管理、心理疏导服务，匹配同龄考友。",
+      "target_users": "35岁+的考公/考编大龄考生。",
+      "价值主张": "大龄考公是一场身心挑战，提供同龄人陪伴和针对性的备考策略，拒绝年龄焦虑。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "超短学期",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 12,
+      "entertainment": 4,
+      "practical": 7,
+      "market": 5
+    },
+    "total_score": 52,
+    "grade": "普通",
+    "product_idea": {
+      "name": "极速学分规划助手",
+      "features": "针对短学期制定压缩版学习计划，利用AI提炼核心考点，提供考前突击速成课。",
+      "target_users": "大中小学生、赶进度的职场考证人。",
+      "价值_proposition": "学期越短，效率越重要。帮助学生和职场人在极短时间内掌握核心知识，应对考试。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "TODS大秀",
+    "scores": {
+      "novelty": 10,
+      "resonance": 8,
+      "viral": 12,
+      "entertainment": 12,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 50,
+    "grade": "普通",
+    "product_idea": {
+      "name": "高定秀场VR漫游",
+      "features": "通过VR/全景技术还原顶级奢侈品大秀现场，用户可操控视角看细节，并购买同款。",
+      "target_users": "时尚爱好者、无法亲临现场的VIP客户。",
+      "价值_proposition": "打破时空限制，让普通人也能沉浸式体验顶级时尚秀场的氛围与奢华感。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "36岁程序员被曝复工当晚猝死",
+    "scores": {
+      "novelty": 2,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 0,
+      "practical": 6,
+      "market": 2
+    },
+    "total_score": 44,
+    "grade": "普通",
+    "product_idea": {
+      "name": "职场人生命体征监测手环",
+      "features": "针对高危高强度职业，实时监测心率、血氧、疲劳度，异常时自动报警并通知紧急联系人。",
+      "target_users": "程序员、医生、警察等高强度职业人群。",
+      "价值_proposition": "生命比KPI更重要，为职场奋斗者提供最后一道健康防线，预防悲剧发生。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "镖人破十亿刀马谛听番外",
+    "scores": {
+      "novelty": 13,
+      "resonance": 15,
+      "viral": 14,
+      "entertainment": 16,
+      "practical": 2,
+      "market": 7
+    },
+    "total_score": 67,
+    "grade": "良好",
+    "product_idea": {
+      "name": "国漫IP周边盲盒订阅制",
+      "features": "按月订阅热门国漫独家周边，包含未公开番外漫画书、精美手办、设定集等。",
+      "target_users": "国漫粉丝、二次元收藏爱好者。",
+      "价值_proposition": "为优秀的国产漫画提供变现渠道，同时满足粉丝对高独家性、高质量周边的收集欲。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "女子婚内出轨同居犯重婚罪获刑",
+    "scores": {
+      "novelty": 6,
+      "resonance": 14,
+      "viral": 13,
+      "entertainment": 2,
+      "practical": 8,
+      "market": 4
+    },
+    "total_score": 47,
+    "grade": "普通",
+    "product_idea": {
+      "name": "婚姻资产法律保全险",
+      "features": "在婚姻出现危机时（如分居、出轨证据出现），自动启动资产冻结或法律咨询保险服务。",
+      "target_users": "担忧婚姻风险的已婚人群、婚前财产保护需求者。",
+      "价值_proposition": "用金融和法律手段兜底婚姻风险，让弱势一方在遭遇背叛时能有法律和经济的保障。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "米哈游内部发文回应员工意外离世",
+    "scores": {
+      "novelty": 4,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 0,
+      "practical": 3,
+      "market": 2
+    },
+    "total_score": 39,
+    "grade": "普通",
+    "product_idea": {
+      "name": "企业心理健康EAPS系统",
+      "features": "针对高压游戏/互联网公司，提供员工心理健康匿名监测、强制休假建议、心理咨询服务。",
+      "target_users": "互联网大厂HR、员工福利采购负责人。",
+      "价值_proposition": "关注员工心理状态不仅是人道主义，更是维持企业生产力的必要手段，预防过劳悲剧。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "女孩遭猥亵爷爷维权被要求别声张",
+    "scores": {
+      "novelty": 0,
+      "resonance": 19,
+      "viral": 17,
+      "entertainment": 0,
+      "practical": 7,
+      "market": 2
+    },
+    "total_score": 45,
+    "grade": "普通",
+    "product_idea": {
+      "name": "弱势群体法律AI援助",
+      "features": "通过AI小程序快速记录证据链，自动生成法律文书，并对接公益律师团队，保护受害者隐私。",
+      "target_users": "妇女、儿童、老年人及偏远地区人群。",
+      "价值_proposition": "让法律援助触手可及，利用技术降低维权门槛，打破“别声张”的沉默认知。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "未开封杨枝甘露8天后爆炸",
+    "scores": {
+      "novelty": 16,
+      "resonance": 8,
+      "viral": 18,
+      "entertainment": 12,
+      "practical": 6,
+      "market": 5
+    },
+    "total_score": 65,
+    "grade": "良好",
+    "product_idea": {
+      "name": "鲜果饮品杀菌保鲜添加剂",
+      "features": "食品级天然抑菌剂，专门用于富含果肉、高糖分的奶茶饮品，延长保质期且不爆炸。",
+      "target_users": "奶茶店店主、鲜果饮料生产商。",
+      "价值_proposition": "解决鲜果饮品易发酵胀袋的安全隐患，减少商家因食品变质导致的损失和赔偿风险。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "头像洁癖",
+    "scores": {
+      "novelty": 14,
+      "resonance": 15,
+      "viral": 15,
+      "entertainment": 10,
+      "practical": 4,
+      "market": 6
+    },
+    "total_score": 64,
+    "grade": "良好",
+    "product_idea": {
+      "name": "社交形象强迫症诊疗所",
+      "features": "分析用户头像和朋友圈的一致性、审美等级，提供强迫症级别的封面美化与置顶内容管理服务。",
+      "target_users": "重度社交媒体用户、个人IP打造者。",
+      "价值_proposition": "满足用户对“网络门面”的极致追求，治愈一切不对称、不清晰带来的心理不适。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "东莞几百辆纯电公交因电池故障停运",
+    "scores": {
+      "novelty": 8,
+      "resonance": 10,
+      "viral": 12,
+      "entertainment": 2,
+      "practical": 8,
+      "market": 8
+    },
+    "total_score": 48,
+    "grade": "普通",
+    "product_idea": {
+      "name": "公共交通电池健康监控云平台",
+      "features": "实时监控车队电池状态，故障预警，维保路径优化，提供电池残值评估报告。",
+      "target_users": "公交集团、物流车队管理者。",
+      "价值_proposition": "避免大面积趴窝事故，通过数据驱动的维护降低运营成本，保障公共交通出勤率。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "P图的时候忘记P的是实况",
+    "scores": {
+      "novelty": 17,
+      "resonance": 18,
+      "viral": 19,
+      "entertainment": 19,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 78,
+    "grade": "良好",
+    "product_idea": {
+      "name": "实况照片智能修补App",
+      "features": "一键识别并批量处理实况照片（Live图）中的每一帧，确保动图全程美颜且滤镜一致。",
+      "target_users": "爱自拍的女性、社交媒体重度用户。",
+      "价值_proposition": "让“实况”不再是社死现场，完美保留动态氛围的同时保持颜值，治愈尴尬瞬间。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "母子溺亡村民称是非法采砂遗留水坑",
+    "scores": {
+      "novelty": 2,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 0,
+      "practical": 8,
+      "market": 5
+    },
+    "total_score": 46,
+    "grade": "普通",
+    "product_idea": {
+      "name": "危险水域社区众包地图",
+      "features": "允许村民和用户标记农村、野外存在的废弃水坑、深潭等危险区域，并推送给家长和孩子。",
+      "target_users": "农村地区的家长、学校、村委会。",
+      "价值_proposition": "利用“人人为我，我为人人”的众包模式，填补监管盲区，防止儿童溺水悲剧。"
+    }
+  }
+]

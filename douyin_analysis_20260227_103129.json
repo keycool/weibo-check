@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "巴防长宣布与阿进入公开战争",
+    "scores": {
+      "novelty": 18,
+      "resonance": 15,
+      "viral": 14,
+      "entertainment": 2,
+      "practical": 8,
+      "market": 1
+    },
+    "total_score": 58,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球局势·战事速递",
+      "features": "基于GIS地图的地缘冲突实时追踪与推演，提供历史背景科普及安全预警。",
+      "target_users": "时政爱好者、国际留学生、外贸商务人士。",
+      "value_proposition": "打破信息不对称，提供直观的战局态势感知与安全知识库。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "四六级查分",
+    "scores": {
+      "novelty": 5,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 10,
+      "practical": 8,
+      "market": 9
+    },
+    "total_score": 69,
+    "grade": "良好",
+    "product_idea": {
+      "name": "逢考必过·锦鲤签",
+      "features": "考试查分工具与玄学祈福结合，提供成绩分析报告及AI预测下次备考策略。",
+      "target_users": "大学生群体、英语考证党。",
+      "value_proposition": "缓解查分焦虑，用数据驱动与情绪价值双重赋能备考之路。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "从春运变化看消费业态升级",
+    "scores": {
+      "novelty": 8,
+      "resonance": 10,
+      "viral": 5,
+      "entertainment": 4,
+      "practical": 5,
+      "market": 8
+    },
+    "total_score": 40,
+    "grade": "普通",
+    "product_idea": {
+      "name": "春运行囊·优选助手",
+      "features": "基于春运大数据的返乡智能伴手礼推荐，结合当地特产与新零售消费趋势。",
+      "target_users": "返乡人群、礼品采购者。",
+      "value_proposition": "让带回家的礼物既体面又符合家乡亲人的实际需求，传递心意。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "太阳113:110险胜湖人",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 10
+    },
+    "total_score": 67,
+    "grade": "良好",
+    "product_idea": {
+      "name": "绝杀时刻·高光剪辑",
+      "features": "AI自动抓取比赛关键球生成个人专属精彩集锦，支持一键生成球星海报。",
+      "target_users": "NBA球迷、球迷社群运营者。",
+      "value_proposition": "让每一个精彩瞬间都成为社交货币，满足粉丝的归属感与炫耀心理。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "这个春节麻辣拌是真顶流",
+    "scores": {
+      "novelty": 15,
+      "resonance": 17,
+      "viral": 19,
+      "entertainment": 16,
+      "practical": 6,
+      "market": 10
+    },
+    "total_score": 83,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "烟火气·复刻厨房",
+      "features": "提供网红地方小吃（如麻辣拌）的DIY速食料包，配套AR沉浸式烹饪教程。",
+      "target_users": "独居青年、地方美食爱好者、馋嘴党。",
+      "value_proposition": "复刻家乡味道与网红爆款，3分钟还原街头巷尾的烟火气。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "巴基斯坦阿富汗在边境激烈交火",
+    "scores": {
+      "novelty": 16,
+      "resonance": 12,
+      "viral": 13,
+      "entertainment": 2,
+      "practical": 7,
+      "market": 1
+    },
+    "total_score": 51,
+    "grade": "普通",
+    "product_idea": {
+      "name": "平安路·跨境避险",
+      "features": "针对特定高危区域的冲突动态订阅推送，为跨境物流及人员提供路线规避建议。",
+      "target_users": "跨境贸易商、国际旅行者、海外务工人员。",
+      "value_proposition": "生命安全第一，提供精准的区域风险情报与避险方案。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "我拼命扣上的行李箱",
+    "scores": {
+      "novelty": 12,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 15,
+      "practical": 7,
+      "market": 8
+    },
+    "total_score": 79,
+    "grade": "良好",
+    "product_idea": {
+      "name": "收纳大师·真空立方",
+      "features": "便携式手动电动一体压缩袋，针对超规行李提供物理压缩方案，附带便携称重。",
+      "target_users": "春节返程人群、旅游达人、异地学生。",
+      "value_proposition": "再多爱也能装得下，解决物理空间限制与情感寄托的矛盾。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "美国建议美公民尽快离开以色列",
+    "scores": {
+      "novelty": 14,
+      "resonance": 11,
+      "viral": 12,
+      "entertainment": 2,
+      "practical": 9,
+      "market": 3
+    },
+    "total_score": 51,
+    "grade": "普通",
+    "product_idea": {
+      "name": " SOS·全球求援卡",
+      "features": "集成多国领事馆紧急联络方式及一键定位报警功能的便携硬件或SaaS服务。",
+      "target_users": "出境游客、海外留学生、外派人员。",
+      "value_proposition": "危急时刻的数字护身符，建立与官方救援力量的最快连接。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "请你看花",
+    "scores": {
+      "novelty": 14,
+      "resonance": 16,
+      "viral": 17,
+      "entertainment": 16,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 71,
+    "grade": "良好",
+    "product_idea": {
+      "name": "云赏花·慢时光",
+      "features": "高质量花卉生长延时摄影流媒体，结合白噪音与冥想引导的治愈系APP。",
+      "target_users": "高压职场人、视觉艺术爱好者。",
+      "value_proposition": "在快节奏的数字世界构建一座静谧的精神花园，提供情绪价值。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "外交部回应巴阿冲突",
+    "scores": {
+      "novelty": 10,
+      "resonance": 11,
+      "viral": 10,
+      "entertainment": 2,
+      "practical": 6,
+      "market": 2
+    },
+    "total_score": 41,
+    "grade": "普通",
+    "product_idea": {
+      "name": "大国外交·每日一听",
+      "features": "将外交部发布会内容转化为通俗易懂的短音频或思维导图，解读国际关系背后的逻辑。",
+      "target_users": "时政关注者、考研考公群体。",
+      "value_proposition": "看懂国际局势背后的中国立场，提升时政素养与谈资储备。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "这一刻的爱太沉重也太伟大",
+    "scores": {
+      "novelty": 12,
+      "resonance": 20,
+      "viral": 18,
+      "entertainment": 12,
+      "practical": 3,
+      "market": 5
+    },
+    "total_score": 70,
+    "grade": "良好",
+    "product_idea": {
+      "name": "岁月记·情感胶囊",
+      "features": "家庭成员情感记录平台，通过问答引导用户记录长辈的感人瞬间并生成电子传记。",
+      "target_users": "家庭用户、银发经济关注者。",
+      "value_proposition": "不要让爱意只存在于感动的一瞬，将其永久数字化保存与传承。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "王楚钦3:1林德",
+    "scores": {
+      "novelty": 12,
+      "resonance": 15,
+      "viral": 15,
+      "entertainment": 13,
+      "practical": 2,
+      "market": 9
+    },
+    "total_score": 66,
+    "grade": "良好",
+    "product_idea": {
+      "name": "国球荣耀·竞猜社区",
+      "features": "乒乓球赛事数据分析与粉丝互动社区，提供专业球技教学视频与周边商城。",
+      "target_users": "国球球迷、乒乓球运动爱好者。",
+      "value_proposition": "连接亿万球迷的热爱，打造最专业的乒乓球垂直社群。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "晒晒我的四六级",
+    "scores": {
+      "novelty": 6,
+      "resonance": 18,
+      "viral": 18,
+      "entertainment": 12,
+      "practical": 5,
+      "market": 8
+    },
+    "total_score": 67,
+    "grade": "良好",
+    "product_idea": {
+      "name": "学霸圈·证书美化",
+      "features": "将考试证书、成绩单生成精美的社交分享海报，支持添加校友水印与励志语录。",
+      "target_users": "大学生、求职者。",
+      "value_proposition": "把努力的结果变成最好的个人名片，满足成就感分享需求。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "警方回应早5晚23作息时间表",
+    "scores": {
+      "novelty": 15,
+      "resonance": 17,
+      "viral": 16,
+      "entertainment": 10,
+      "practical": 6,
+      "market": 5
+    },
+    "total_score": 69,
+    "grade": "良好",
+    "product_idea": {
+      "name": "打工魂·合规摸鱼",
+      "features": "劳动法相关权益科普工具，针对高强度工作提供隐形取证建议与身心健康监测。",
+      "target_users": "职场打工人、劳动者权益关注者。",
+      "value_proposition": "在高压工作中守住法律底线，为劳动者提供无声的法律支持。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "柬埔寨国王和太后抵京",
+    "scores": {
+      "novelty": 10,
+      "resonance": 8,
+      "viral": 8,
+      "entertainment": 5,
+      "practical": 3,
+      "market": 4
+    },
+    "total_score": 38,
+    "grade": "普通",
+    "product_idea": {
+      "name": "友谊路·跨境通",
+      "features": "介绍中国与友好国家（如柬埔寨）的签证便利化政策及特色旅游资源推荐。",
+      "target_users": "出境游爱好者、外贸从业者。",
+      "value_proposition": "紧跟国家外交步伐，挖掘小众但友好的出境目的地红利。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "世预赛中国男篮逆转战胜日本队",
+    "scores": {
+      "novelty": 16,
+      "resonance": 19,
+      "viral": 19,
+      "entertainment": 18,
+      "practical": 3,
+      "market": 10
+    },
+    "total_score": 85,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "逆转之王·赛事竞猜",
+      "features": "结合体育赛事的预测小游戏与体育彩票走势分析，提供赢球周边的实时抢购功能。",
+      "target_users": "篮球迷、体育竞彩爱好者。",
+      "价值_proposition": "点燃爱国热情，在每一次逆转的激情中体验参与感与荣誉感。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "谁还没个隐藏技能",
+    "scores": {
+      "novelty": 14,
+      "resonance": 16,
+      "viral": 17,
+      "entertainment": 17,
+      "practical": 4,
+      "market": 7
+    },
+    "total_score": 75,
+    "grade": "良好",
+    "product_idea": {
+      "name": "技能盲盒·社交局",
+      "features": "基于兴趣标签的技能交换社交平台，用户可以发起线下'技能教学局'或'才艺展示会'。",
+      "target_users": "Z世代青年、斜杠青年。",
+      "value_proposition": "发掘每个人独一无二的闪光点，让技能成为社交的新货币。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "绿色手势舞挑战",
+    "scores": {
+      "novelty": 11,
+      "resonance": 12,
+      "viral": 18,
+      "entertainment": 15,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 63,
+    "grade": "良好",
+    "product_idea": {
+      "name": "绿动·AR滤镜",
+      "features": "结合环保主题的AR手势舞挑战，用户完成动作后解锁环保公益积分或品牌优惠券。",
+      "target_users": "短视频用户、环保倡导者。",
+      "value_proposition": "用最潮的方式践行公益，让手指舞动变成传递绿色能量的行动。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "小徐的英语六级又未过",
+    "scores": {
+      "novelty": 13,
+      "resonance": 16,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 4,
+      "market": 7
+    },
+    "total_score": 70,
+    "grade": "良好",
+    "product_idea": {
+      "name": "防挂科·学伴搭子",
+      "features": "专为学渣设计的AI监督学习工具，以'失败案例'反向激励，提供陪伴式备考计划。",
+      "target_users": "大学生、考证屡败者。",
+      "value_proposition": "比学霸更懂你的痛点，用幽默化解尴尬，用陪伴对抗懒惰。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "陈熠3:0战胜桥本帆乃香",
+    "scores": {
+      "novelty": 12,
+      "resonance": 13,
+      "viral": 14,
+      "entertainment": 12,
+      "practical": 2,
+      "market": 7
+    },
+    "total_score": 60,
+    "grade": "良好",
+    "product_idea": {
+      "name": "国球少壮·训练营",
+      "features": "聚焦新生代运动员的IP孵化与粉丝应援平台，提供青训课程预约与直播打榜。",
+      "target_users": "乒乓球迷、青少年家长。",
+      "value_proposition": "见证未来之星的崛起，连接粉丝情感与专业体育青训资源。"
+    }
+  }
+]
