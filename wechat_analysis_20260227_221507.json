@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "夯实中国式现代化的底座",
+    "scores": {
+      "novelty": 5,
+      "resonance": 8,
+      "viral": 2,
+      "entertainment": 0,
+      "practical": 0,
+      "market": 0
+    },
+    "total_score": 15,
+    "grade": "普通",
+    "product_idea": {
+      "name": "国情政策学习通",
+      "features": "将时政热点转化为通俗易懂的图文解析和知识竞赛。",
+      "target_users": "党政机关工作人员、学生、备考公人员。",
+      "value_proposition": "降低政策理解门槛，利用碎片化时间完成政治学习任务。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "外交部：中国公民暂勿前往伊朗",
+    "scores": {
+      "novelty": 10,
+      "resonance": 15,
+      "viral": 15,
+      "entertainment": 0,
+      "practical": 10,
+      "market": 2
+    },
+    "total_score": 52,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球安全预警地图",
+      "features": "基于外交数据实时推送目的地安全风险等级及避难路线。",
+      "target_users": "出境游客、海外商务人士、留学生。",
+      "value_proposition": "为海外出行者提供即时安全决策依据，规避地缘政治风险。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "去政府部门借厕所被怼？",
+    "scores": {
+      "novelty": 18,
+      "resonance": 18,
+      "viral": 19,
+      "entertainment": 15,
+      "practical": 8,
+      "market": 5
+    },
+    "total_score": 83,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "公厕联盟 - 文明共享小程序",
+      "features": "收录政府部门、商铺开放的共享厕所，支持评价与投诉，甚至提供“一键求助”避免尴尬。",
+      "target_users": "外卖员、快递员、游客、急行路人。",
+      "value_proposition": "解决城市内急难问题，盘活闲置公共资源，通过社区监督改善服务态度。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "一组数据看春节消费市场年味浓、人气旺",
+    "scores": {
+      "novelty": 5,
+      "resonance": 10,
+      "viral": 5,
+      "entertainment": 2,
+      "practical": 6,
+      "market": 6
+    },
+    "total_score": 34,
+    "grade": "普通",
+    "product_idea": {
+      "name": "文旅消费趋势雷达",
+      "features": "可视化展示节假日消费热点与趋势预测，辅助商家备货。",
+      "target_users": "零售商、小摊主、投资分析师。",
+      "value_proposition": "利用大数据挖掘消费热点，辅助商业选址和库存管理。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "高速免费能按里程计算吗？专家回应了",
+    "scores": {
+      "novelty": 15,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 5,
+      "practical": 9,
+      "market": 6
+    },
+    "total_score": 69,
+    "grade": "良好",
+    "product_idea": {
+      "name": "智行路费计算器",
+      "features": "对比现行免费政策与“按里程免费”的差异，提供最佳错峰出行方案。",
+      "target_users": "自驾游车主、货运物流公司。",
+      "value_proposition": "通过精准计算高速费用与时间成本，帮助用户在政策变动下省钱省时。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "全国第一个房价大涨的城市出现了",
+    "scores": {
+      "novelty": 16,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 5,
+      "practical": 8,
+      "market": 5
+    },
+    "total_score": 71,
+    "grade": "良好",
+    "product_idea": {
+      "name": "房价回暖风向标",
+      "features": "监控并分析异常房价波动城市，提供抄底或出清建议。",
+      "target_users": "房产投资者、刚需购房者。",
+      "value_proposition": "在低迷市场中捕捉早期反弹信号，降低投资误判风险。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "代孕子女落户争议：户口怎么落？",
+    "scores": {
+      "novelty": 14,
+      "resonance": 15,
+      "viral": 14,
+      "entertainment": 4,
+      "practical": 8,
+      "market": 3
+    },
+    "total_score": 58,
+    "grade": "普通",
+    "product_idea": {
+      "name": "法治家庭合规顾问",
+      "features": "针对非传统生育（代孕、非婚）提供法律政策解读及合规落户咨询。",
+      "target_users": "面临生育法律问题的特殊家庭。",
+      "value_proposition": "填补法律灰色地带的信息差，提供合规的操作指引。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "男子抢夺出租车方向盘 逃跑后被抓",
+    "scores": {
+      "novelty": 5,
+      "resonance": 10,
+      "viral": 12,
+      "entertainment": 5,
+      "practical": 2,
+      "market": 1
+    },
+    "total_score": 35,
+    "grade": "普通",
+    "product_idea": {
+      "name": "司机一键SOS报警器",
+      "features": "隐藏式物理报警按钮，触发后自动录音录像并上传云端同步警方。",
+      "target_users": "网约车司机、出租车司机。",
+      "value_proposition": "保障公共交通驾驶员的人身安全，震慑暴力行为。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "OpenAI完成1100亿美元融资",
+    "scores": {
+      "novelty": 12,
+      "resonance": 15,
+      "viral": 14,
+      "entertainment": 5,
+      "practical": 8,
+      "market": 10
+    },
+    "total_score": 64,
+    "grade": "良好",
+    "product_idea": {
+      "name": "AI创投情报局",
+      "features": "追踪头部AI公司融资动态及技术落地产品，挖掘潜在投资标的。",
+      "target_users": "一级市场投资人、科技创业者。",
+      "value_proposition": "紧跟资本流向，快速识别AI领域的下一个独角兽。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "外交部回应巴拿马总统涉华言论",
+    "scores": {
+      "novelty": 8,
+      "resonance": 12,
+      "viral": 8,
+      "entertainment": 2,
+      "practical": 0,
+      "market": 0
+    },
+    "total_score": 30,
+    "grade": "普通",
+    "product_idea": {
+      "name": "外交关系简报",
+      "features": "自动抓取并摘要外交部发言，分析双边关系变化对贸易的影响。",
+      "target_users": "跨国贸易商、外贸从业者。",
+      "value_proposition": "从外交辞令中解读商业环境变化，预警跨国业务风险。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "今日辟谣2.27",
+    "scores": {
+      "novelty": 6,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 4,
+      "practical": 9,
+      "market": 2
+    },
+    "total_score": 43,
+    "grade": "普通",
+    "product_idea": {
+      "name": "家庭谣言粉碎机",
+      "features": "针对中老年人朋友圈高频谣言生成辟谣短视频或漫画，子女一键转发。",
+      "target_users": "关心父母健康的子女、易受骗人群。",
+      "value_proposition": "降低沟通成本，用长辈喜闻乐见的方式守护家庭信息健康。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "87岁谢国民，成为省委书记“座上宾”",
+    "scores": {
+      "novelty": 10,
+      "resonance": 14,
+      "viral": 12,
+      "entertainment": 2,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 43,
+    "grade": "普通",
+    "product_idea": {
+      "name": "高端政商人脉圈App",
+      "features": "商业传记与新闻整合，分析政商互动脉络与商业版图。",
+      "target_users": "商业研究者、EMBA学员。",
+      "value_proposition": "解构顶级富豪的政商关系网，提供商业思维案例库。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "王健林20亿售出上海项目",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 12,
+      "entertainment": 5,
+      "practical": 6,
+      "market": 5
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "商业资产交易追踪器",
+      "features": "监控大佬资产出售动态，分析资金流向与行业信心指数。",
+      "target_users": "房地产投资者、商业分析师。",
+      "value_proposition": "从头部玩家的资产腾挪中窥探行业周期转折点。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "结果已经出来，中国越打越强",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 12,
+      "entertainment": 5,
+      "practical": 0,
+      "market": 0
+    },
+    "total_score": 41,
+    "grade": "普通",
+    "product_idea": {
+      "name": "大国博弈互动沙盘",
+      "features": "结合新闻制作历史/军事互动推演游戏。",
+      "target_users": "军事迷、历史爱好者。",
+      "value_proposition": "满足公众对宏观叙事的参与感和自豪感，寓教于乐。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "重庆教委：中小学开学不强制作业检查",
+    "scores": {
+      "novelty": 16,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 5,
+      "practical": 9,
+      "market": 5
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "亲子减负规划师",
+      "features": "在不检查作业的政策背景下，提供素质教育活动推荐与自主学习习惯培养工具。",
+      "target_users": "焦虑的中小学生家长。",
+      "value_proposition": "缓解家长教育焦虑，通过科学规划替代机械的作业检查。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "女子称洗澡遭外卖员闯入：看了20秒",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 19,
+      "entertainment": 10,
+      "practical": 7,
+      "market": 4
+    },
+    "total_score": 68,
+    "grade": "良好",
+    "product_idea": {
+      "name": "居家安全卫士 - 智能门铃",
+      "features": "AI识别门外人员停留时间与异常行为，并在APP弹窗预警。",
+      "target_users": "独居女性、租房年轻人。",
+      "value_proposition": "提供全天候居家隐私保护，将安全隐患扼杀在门外。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "老鹰“偷袭”航拍无人机 画面曝光",
+    "scores": {
+      "novelty": 18,
+      "resonance": 14,
+      "viral": 19,
+      "entertainment": 19,
+      "practical": 3,
+      "market": 4
+    },
+    "total_score": 77,
+    "grade": "良好",
+    "product_idea": {
+      "name": "飞鸟避让检测系统",
+      "features": "为无人机加装视觉模块，利用AI识别并自动避开猛禽攻击。",
+      "target_users": "无人机飞手、航拍爱好者。",
+      "value_proposition": "保护昂贵的航拍设备免受野生动物攻击，减少坠机损失。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "为什么“马”最懂中国人的热血赤诚",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 8,
+      "entertainment": 6,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 43,
+    "grade": "普通",
+    "product_idea": {
+      "name": "国潮文化IP图库",
+      "features": "将传统文化符号（如马）生成现代化IP素材，供设计师商用。",
+      "target_users": "文创设计师、广告营销人员。",
+      "value_proposition": "通过文化符号的现代化重塑，赋能国潮品牌营销。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "九问日本",
+    "scores": {
+      "novelty": 10,
+      "resonance": 15,
+      "viral": 12,
+      "entertainment": 5,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 46,
+    "grade": "普通",
+    "product_idea": {
+      "name": "国际时政辩论社区",
+      "features": "针对热点国际话题提供正反方观点库，引导理性辩论。",
+      "target_users": "关注国际时政的网民。",
+      "value_proposition": "在情绪化舆论中提供深度分析空间，提升用户思辨能力。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "上海一地铁站无座，乘客直接坐地上",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 5,
+      "practical": 7,
+      "market": 6
+    },
+    "total_score": 59,
+    "grade": "普通",
+    "product_idea": {
+      "name": "城市拥挤度预测与共享座椅",
+      "features": "实时显示地铁拥挤度，并引入可租赁的折叠便携座椅服务。",
+      "target_users": "通勤族、早晚高峰人群。",
+      "value_proposition": "解决极端拥挤情况下的休息痛点，提升通勤舒适度。"
+    }
+  }
+]
