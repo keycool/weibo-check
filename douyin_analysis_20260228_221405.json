@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "伊朗宣布关闭霍尔木兹海峡",
+    "scores": {
+      "novelty": 18,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 5,
+      "practical": 8,
+      "market": 2
+    },
+    "total_score": 70,
+    "grade": "良好",
+    "product_idea": {
+      "name": "地缘局势推手APP",
+      "features": "实时追踪关键航道动态，推送突发新闻，提供对进出口贸易影响的简易分析图表。",
+      "target_users": "外贸从业者、物流从业者、关注时事的普通用户",
+      "value_proposition": "第一时间掌握国际局势对物流和成本的潜在影响，提前规划避险。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "小米超跑正式亮相",
+    "scores": {
+      "novelty": 18,
+      "resonance": 17,
+      "viral": 19,
+      "entertainment": 15,
+      "practical": 4,
+      "market": 8
+    },
+    "total_score": 81,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "SU7 模拟竞速体验小程序",
+      "features": "利用视频素材生成的H5赛车游戏，模拟SU7的加速性能，用户生成完赛视频分享。",
+      "target_users": "车迷、科技发烧友、年轻群体",
+      "value_proposition": "零成本体验“国民超跑”的速度感，通过社交裂变为品牌引流。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "我国最大采煤沉陷区光伏基地投运",
+    "scores": {
+      "novelty": 15,
+      "resonance": 14,
+      "viral": 12,
+      "entertainment": 2,
+      "practical": 6,
+      "market": 4
+    },
+    "total_score": 53,
+    "grade": "普通",
+    "product_idea": {
+      "name": "绿能地图：碳足迹追踪器",
+      "features": "可视化展示国家绿色能源工程，用户可计算自己的用电折合的绿色占比，生成环保勋章。",
+      "target_users": "学生、环保主义者",
+      "value_proposition": "了解国家能源转型，提升个人环保成就感。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "黄金连续上涨7个月",
+    "scores": {
+      "novelty": 10,
+      "resonance": 18,
+      "viral": 15,
+      "entertainment": 5,
+      "practical": 8,
+      "market": 6
+    },
+    "total_score": 62,
+    "grade": "良好",
+    "product_idea": {
+      "name": "金饰比价与闲置回血助手",
+      "features": "抓取各大金店实时金价，计算工费差异，提供闲置黄金回收估值和上门回收对接。",
+      "target_users": "家庭主妇、理财小白、有闲置黄金的用户",
+      "value_proposition": "买金不踩坑，卖金不吃亏，抓住金价波动的变现机会。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "元宵节一定要去福州接福鱼",
+    "scores": {
+      "novelty": 16,
+      "resonance": 14,
+      "viral": 17,
+      "entertainment": 16,
+      "practical": 4,
+      "market": 7
+    },
+    "total_score": 74,
+    "grade": "良好",
+    "product_idea": {
+      "name": "非遗民俗AR祈福相机",
+      "features": "针对福州或特定民俗开发AR滤镜，用户可虚拟“接福鱼”并制作电子祝福卡片发给亲友。",
+      "target_users": "元宵节游客、本地居民",
+      "value_proposition": "即使不到现场也能通过沉浸式体验参与民俗，传递好运。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "考研失败又不是人生失败",
+    "scores": {
+      "novelty": 12,
+      "resonance": 19,
+      "viral": 16,
+      "entertainment": 5,
+      "practical": 6,
+      "market": 3
+    },
+    "total_score": 61,
+    "grade": "良好",
+    "product_idea": {
+      "name": "落单考研人重启计划手账",
+      "features": "提供考研后的心理疏导音频、B计划职业测评、以及 gap year 的时间管理模板。",
+      "target_users": "考研失利群体、应届毕业生",
+      "value_proposition": "缓解考试焦虑，帮助用户在“失败”后快速找回生活秩序。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "蔡磊已进入渐冻症疾病的终末期",
+    "scores": {
+      "novelty": 10,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 0,
+      "practical": 5,
+      "market": 2
+    },
+    "total_score": 51,
+    "grade": "普通",
+    "product_idea": {
+      "name": "渐冻症护理知识库与互助社区",
+      "features": "汇总蔡磊团队推荐的护理方案、辅具推荐，为患者家属提供经验交流的去中心化社区。",
+      "target_users": "罕见病家属、医护人群",
+      "value_proposition": "汇聚爱与专业知识，为绝望的家庭提供实用的护理指南。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "我的考研出分时刻",
+    "scores": {
+      "novelty": 8,
+      "resonance": 18,
+      "viral": 18,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 58,
+    "grade": "普通",
+    "product_idea": {
+      "name": "查分万能表情包生成器",
+      "features": "用户输入分数或状态（如“过线”、“落榜”），自动生成对应的搞笑或宣泄情绪的短视频模板。",
+      "target_users": "考研学生",
+      "value_proposition": "用幽默化解紧张情绪，提供社交货币，让查分不再是沉重的时刻。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "春晚同款机器人开箱",
+    "scores": {
+      "novelty": 14,
+      "resonance": 13,
+      "viral": 16,
+      "entertainment": 17,
+      "practical": 5,
+      "market": 9
+    },
+    "total_score": 74,
+    "grade": "良好",
+    "product_idea": {
+      "name": "家用机器人性能测评数据库",
+      "features": "专业的机器人拆解视频、负载测试、互动玩法测评，提供不同价位机器人的选购指南。",
+      "target_users": "科技爱好者、有儿童/老人的家庭",
+      "value_proposition": "去伪存真，帮助用户判断机器人究竟是“玩具”还是“帮手”。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "当代人的算了型人格",
+    "scores": {
+      "novelty": 17,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 16,
+      "practical": 3,
+      "market": 5
+    },
+    "total_score": 78,
+    "grade": "良好",
+    "product_idea": {
+      "name": "‘算了’情绪宣泄抱枕/解压玩具",
+      "features": "印有“算了”字样的解压捏捏乐，或者配备语音感应器的公仔，拍一下就说“算了，不气了”。",
+      "target_users": "高压工作的年轻职场人、Z世代",
+      "value_proposition": "精准击中“不想内耗”的心理，用幽默的方式提供情绪价值。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "伊朗：袭击致约200名美军人员伤亡",
+    "scores": {
+      "novelty": 12,
+      "resonance": 17,
+      "viral": 16,
+      "entertainment": 2,
+      "practical": 5,
+      "market": 2
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球冲突可视化新闻板",
+      "features": "不使用血腥图片，而是用信息图展示冲突地点、伤亡数据对比及历史渊源。",
+      "target_users": "关注国际新闻的用户",
+      "value_proposition": "快速看懂复杂的国际战局，过滤情绪化信息，只看核心数据。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "哈梅内伊已转移至安全地点",
+    "scores": {
+      "novelty": 11,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 3,
+      "practical": 4,
+      "market": 1
+    },
+    "total_score": 50,
+    "grade": "普通",
+    "product_idea": {
+      "name": "实时避险资讯推送插件",
+      "features": "针对在伊或中东地区的华人，推送安全提醒和避险路线建议（纯工具属性）。",
+      "target_users": "出境务工人员、留学生",
+      "value_proposition": "关键时期的生命安全指南。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "多地开征新能源汽车里程税系谣言",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 2,
+      "practical": 9,
+      "market": 3
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "用车政策辟谣日历",
+      "features": "整合车管所官方信息，针对车主关注的“年检、限行、税费”政策进行真假辨析。",
+      "target_users": "新能源车主、燃油车车主",
+      "value_proposition": "消除信息不对称，避免被谣言误导产生恐慌或经济损失。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "伊朗军方称总司令身体健康",
+    "scores": {
+      "novelty": 8,
+      "resonance": 10,
+      "viral": 10,
+      "entertainment": 2,
+      "practical": 4,
+      "market": 1
+    },
+    "total_score": 35,
+    "grade": "普通",
+    "product_idea": {
+      "name": "国际政要健康动态简报",
+      "features": "自动收录全球重要领导人的公开露面及健康声明，分析其对政策稳定性的影响。",
+      "target_users": "金融从业者、国际关系研究者",
+      "value_proposition": "辅助投资决策，预判地缘政治风险。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "反诈老陈因多次违规被处罚",
+    "scores": {
+      "novelty": 14,
+      "resonance": 16,
+      "viral": 17,
+      "entertainment": 12,
+      "practical": 3,
+      "market": 4
+    },
+    "total_score": 66,
+    "grade": "良好",
+    "product_idea": {
+      "name": "公职人员离职合规风险指南",
+      "features": "针对想离职创业或做自媒体的公职人员，提供关于肖像权、保密协议及竞业限制的案例分析课程。",
+      "target_users": "体制内人员、律师",
+      "value_proposition": "前车之鉴，帮助个人在转型过程中规避法律和职业风险。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "伊朗打击美国中东军事基地",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 4,
+      "practical": 5,
+      "market": 2
+    },
+    "total_score": 52,
+    "grade": "普通",
+    "product_idea": {
+      "name": "FPS军事科普短视频系列",
+      "features": "结合新闻热点，用游戏引擎还原战场态势，科普涉及的武器型号和战术逻辑。",
+      "target_users": "军迷、游戏玩家",
+      "value_proposition": "硬核科普，将枯燥的新闻转化为可视化的战术分析。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "伊媒称伊朗总统安全",
+    "scores": {
+      "novelty": 8,
+      "resonance": 10,
+      "viral": 10,
+      "entertainment": 2,
+      "practical": 4,
+      "market": 1
+    },
+    "total_score": 35,
+    "grade": "普通",
+    "product_idea": {
+      "name": "突发新闻聚合助手",
+      "features": "多源实时抓取同一事件的报道，利用AI生成最可能接近事实的摘要。",
+      "target_users": "资讯密集型用户",
+      "value_proposition": "在海量碎片化信息中快速还原真相。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "我的考研MVP结算画面",
+    "scores": {
+      "novelty": 16,
+      "resonance": 17,
+      "viral": 18,
+      "entertainment": 18,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 74,
+    "grade": "良好",
+    "product_idea": {
+      "name": "游戏化成绩单生成器",
+      "features": "将考研分数、复习时长、做的试卷数量转化为游戏中的KDA数据、伤害值和MVP结算画面。",
+      "target_users": "考研学生、游戏玩家",
+      "value_proposition": "把苦涩的备考过程包装成一场热血的战斗胜利，提供强烈的情绪宣泄口。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "元宵节就吃这个马到成功吧",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 7,
+      "market": 8
+    },
+    "total_score": 70,
+    "grade": "良好",
+    "product_idea": {
+      "name": "谐音梗好运速食汤圆",
+      "features": "将汤圆做成特定的形状（如马形状）或色彩，包装印有“马到成功”、“通过”等吉利话。",
+      "target_users": "过节年轻人、备考家庭",
+      "value_proposition": "吃的是汤圆，图的是彩头，赋予传统食品社交传播的属性。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "老爸评测之艾条检测",
+    "scores": {
+      "novelty": 10,
+      "resonance": 15,
+      "viral": 14,
+      "entertainment": 8,
+      "practical": 9,
+      "market": 8
+    },
+    "total_score": 64,
+    "grade": "良好",
+    "product_idea": {
+      "name": "智能艾灸温度贴",
+      "features": "贴在艾灸罐或皮肤上，监测皮肤温度，防止艾灸烫伤，并提醒用户穴位时长。",
+      "target_users": "中医养生人群、中老年人",
+      "value_proposition": "解决传统艾灸“容易烫伤”、“难以把控时间”的痛点，让养生更安全。"
+    }
+  }
+]
