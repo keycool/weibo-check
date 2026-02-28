@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "美窃陈志亿万虚拟币真相",
+    "scores": {
+      "novelty": 18,
+      "resonance": 16,
+      "viral": 17,
+      "entertainment": 15,
+      "practical": 3,
+      "market": 5
+    },
+    "total_score": 74,
+    "grade": "良好",
+    "product_idea": {
+      "name": "链上黑盒：数字资产安全侦探",
+      "features": "可视化资金流向追踪、风险交易所预警、数字遗产继承法律咨询。",
+      "target_users": "加密货币持有者、区块链安全爱好者、高净值人群。",
+      "value_proposition": "揭露隐藏的黑客手段，为用户的虚拟钱包提供军工级防护与法律确权服务。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "美以袭击伊朗",
+    "scores": {
+      "novelty": 10,
+      "resonance": 18,
+      "viral": 19,
+      "entertainment": 5,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 58,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球安全通：实时避险地图",
+      "features": "突发战事推送、基于GIS的安全撤离路线规划、跨国领保一键呼叫。",
+      "target_users": "出境商务人士、留学生、国际旅行者。",
+      "value_proposition": "在动荡世界中，为您的人身安全提供毫秒级的预警与逃生方案。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "国家水网覆盖率超八成",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 8,
+      "entertainment": 2,
+      "practical": 6,
+      "market": 7
+    },
+    "total_score": 45,
+    "grade": "普通",
+    "product_idea": {
+      "name": "城乡水脉：智慧水务通",
+      "features": "家庭水质监测报告、区域用水效率分析、节水灌溉智能控制。",
+      "target_users": "农村居民、农业种植户、环保关注者。",
+      "value_proposition": "让每一滴国家水网的水，在流进您家时都清澈可见、使用高效。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "伊朗打击美国中东军事基地",
+    "scores": {
+      "novelty": 10,
+      "resonance": 18,
+      "viral": 19,
+      "entertainment": 5,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 58,
+    "grade": "普通",
+    "product_idea": {
+      "name": "和平守望者：地缘风险推演沙盘",
+      "features": "实时战况3D还原、能源供应链影响预测、历史战役复盘。",
+      "target_users": "投资者、军事迷、外贸企业主。",
+      "value_proposition": "看懂局势背后的经济逻辑，为您的投资决策提供宏观视野参考。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "以媒：伊朗陆军总司令身亡",
+    "scores": {
+      "novelty": 12,
+      "resonance": 17,
+      "viral": 18,
+      "entertainment": 4,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 57,
+    "grade": "普通",
+    "product_idea": {
+      "name": "真相核查局：突发快讯粉碎机",
+      "features": "多源新闻交叉验证、深度造假鉴别、谣言传播图谱。",
+      "target_users": "新闻从业者、关注时事的普通用户。",
+      "value_proposition": "在信息过载的战场迷雾中，做您最信赖的真伪过滤器。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "2026年考研国家线公布",
+    "scores": {
+      "novelty": 5,
+      "resonance": 19,
+      "viral": 16,
+      "entertainment": 5,
+      "practical": 9,
+      "market": 10
+    },
+    "total_score": 64,
+    "grade": "良好",
+    "product_idea": {
+      "name": "研途指北：智能调剂与决策助手",
+      "features": "历年大数据精准择校、AI模拟复试面试、败局止损方案（调剂/留学/就业）。",
+      "target_users": "考研落榜生、二战考生、迷茫的大学生。",
+      "value_proposition": "不仅是报分，更是为您规划考后的最优人生路径。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "寒假作业赶工现场",
+    "scores": {
+      "novelty": 8,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 16,
+      "practical": 5,
+      "market": 6
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "神笔马良：作业共创社区",
+      "features": "难题极速拍照解答、学霸笔记共享、拖延症监督打卡。",
+      "target_users": "中小学生、被迫辅导作业的家长。",
+      "value_proposition": "把赶作业的焦虑变成互助的乐趣，让孩子的告别假期恐慌。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "我的考研出分时刻",
+    "scores": {
+      "novelty": 8,
+      "resonance": 19,
+      "viral": 17,
+      "entertainment": 10,
+      "practical": 6,
+      "market": 8
+    },
+    "total_score": 68,
+    "grade": "良好",
+    "product_idea": {
+      "name": "高光时刻：人生里程碑记录仪",
+      "features": "查分视频一键剪辑生成、情绪识别配乐、匿名树洞倾诉。",
+      "target_users": "考研党、高考党、各类考证人群。",
+      "value_proposition": "记录每一次心跳加速的瞬间，把人生的转折点变成永恒的高光。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "元宵节一定要去福州接福鱼",
+    "scores": {
+      "novelty": 15,
+      "resonance": 14,
+      "viral": 16,
+      "entertainment": 16,
+      "practical": 4,
+      "market": 8
+    },
+    "total_score": 73,
+    "grade": "良好",
+    "product_idea": {
+      "name": "方志游：民俗AR体验卡",
+      "features": "LBS定位打卡福州特色民俗、AR接福鱼小游戏、本地非遗文创预约。",
+      "target_users": "文艺青年、外地游客、汉服爱好者。",
+      "value_proposition": "不走寻常路，用AR技术带您沉浸式体验一座城市的灵魂与运气。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "中使馆提醒在伊朗公民避险",
+    "scores": {
+      "novelty": 5,
+      "resonance": 15,
+      "viral": 15,
+      "entertainment": 2,
+      "practical": 9,
+      "market": 5
+    },
+    "total_score": 51,
+    "grade": "普通",
+    "product_idea": {
+      "name": "领保通：海外 SOS 卫星通讯器",
+      "features": "无网络区域短报文发送、一键使领馆定位、多语言求救广播。",
+      "target_users": "常驻高风险地区人员、野外探险者。",
+      "value_proposition": "当通讯网络瘫痪，我们是您连接祖国的最后生命线。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "我的考研MVP结算画面",
+    "scores": {
+      "novelty": 16,
+      "resonance": 18,
+      "viral": 18,
+      "entertainment": 18,
+      "practical": 5,
+      "market": 7
+    },
+    "total_score": 82,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "荣耀结算台：人生高光生成器",
+      "features": "将个人生活数据（如学习时长、运动里程）游戏化生成MVP结算画面、成就徽章系统。",
+      "target_users": "Z世代学生、游戏玩家、考研考公党。",
+      "value_proposition": "谁说人生不是一场游戏？我们要为您在枯燥的备考中打出最漂亮的团战。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "2月“科学”流言榜发布",
+    "scores": {
+      "novelty": 12,
+      "resonance": 10,
+      "viral": 12,
+      "entertainment": 12,
+      "practical": 8,
+      "market": 5
+    },
+    "total_score": 59,
+    "grade": "普通",
+    "product_idea": {
+      "name": "谣言粉碎机：家庭健康辟谣公众号",
+      "features": "针对老年人易感谣言的定制化辟谣视频、家庭圈一键转发。",
+      "target_users": "中老年人群、有老人的家庭。",
+      "value_proposition": "用科学守住家庭群的健康底线，让爱不再被伪科学误导。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "伊媒称伊朗总统安全",
+    "scores": {
+      "novelty": 5,
+      "resonance": 15,
+      "viral": 14,
+      "entertainment": 2,
+      "practical": 4,
+      "market": 3
+    },
+    "total_score": 43,
+    "grade": "普通",
+    "product_idea": {
+      "name": "新闻拼图：多视角事件还原板",
+      "features": "聚合各国媒体报道、时间轴自动整理、立场倾向分析。",
+      "target_users": "深度阅读者、时政评论员。",
+      "value_proposition": "跳出信息茧房，看同一件事在地球另一端是如何被讲述的。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "特朗普宣布打击伊朗",
+    "scores": {
+      "novelty": 5,
+      "resonance": 17,
+      "viral": 18,
+      "entertainment": 4,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 50,
+    "grade": "普通",
+    "product_idea": {
+      "name": "懂王词典：政治人物语录梗库",
+      "features": "实时热梗解析、语音包生成、表情包制作。",
+      "target_users": "网络冲浪者、 meme 文化爱好者。",
+      "value_proposition": "把严肃的政治娱乐化，做吃瓜群众的社交货币制造机。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "蔡磊已进入渐冻症疾病的终末期",
+    "scores": {
+      "novelty": 10,
+      "resonance": 20,
+      "viral": 15,
+      "entertainment": 2,
+      "practical": 5,
+      "market": 6
+    },
+    "total_score": 58,
+    "grade": "普通",
+    "product_idea": {
+      "name": "声音胶囊：AI声纹复刻录",
+      "features": "为病患录制生前声音、AI模拟情感交互、数字遗嘱。",
+      "target_users": "绝症患者家属、有念旧需求的用户。",
+      "value_proposition": "即使声音被冰封，爱意也能通过AI跨越时间，永远陪伴亲人。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "元宵节就吃这个马到成功吧",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 5,
+      "market": 9
+    },
+    "total_score": 71,
+    "grade": "良好",
+    "product_idea": {
+      "name": "锦理：好运国潮点心盲盒",
+      "features": "节日限定谐音梗造型点心、抽签式口味、定制祝福贺卡。",
+      "target_users": "职场新人、求好运的年轻人、送礼人群。",
+      "value_proposition": "把这一年的好运都包进馅料里，吃出新一年的好彩头。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "谁还没个隐藏技能",
+    "scores": {
+      "novelty": 15,
+      "resonance": 17,
+      "viral": 18,
+      "entertainment": 18,
+      "practical": 6,
+      "market": 7
+    },
+    "total_score": 81,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "技能树：宝藏人类社交图谱",
+      "features": "基于奇葩技能的匹配社交、技能交换市场、挑战视频PK。",
+      "target_users": "拥有冷门特长的年轻人、猎头、兴趣社交用户。",
+      "价值_proposition": "在这个无聊的世界里，帮您找到那个懂您“无用”绝技的知音。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "快接住正月十二的好运",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 4,
+      "market": 7
+    },
+    "total_score": 67,
+    "grade": "良好",
+    "product_idea": {
+      "name": "福气叮当：玄学运势管理App",
+      "features": "每日黄历提醒、电子祈福墙、幸运色穿搭推荐。",
+      "target_users": "年轻人、迷信与科学混搭人群。",
+      "value_proposition": "虽说我命由我不由天，但接个好运图个吉利，心里总归是稳的。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "今晚不要失眠了",
+    "scores": {
+      "novelty": 8,
+      "resonance": 18,
+      "viral": 15,
+      "entertainment": 5,
+      "practical": 9,
+      "market": 10
+    },
+    "total_score": 65,
+    "grade": "良好",
+    "product_idea": {
+      "name": "深睡茧：全感官助眠豆",
+      "features": "3D音效白噪音、重力被模式引导、脑波监测助眠。",
+      "target_users": "高压打工人、熬夜党、失眠人群。",
+      "value_proposition": "今晚不想世界，只做一只安睡的蚕，告别凌晨三点的emo。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "以色列全国进入紧急状态",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 17,
+      "entertainment": 2,
+      "practical": 4,
+      "market": 4
+    },
+    "total_score": 51,
+    "grade": "普通",
+    "product_idea": {
+      "name": "避风港：物资短缺互助雷达",
+      "features": "周边避难所查询、社区物资互助共享、应急物资采购指南。",
+      "target_users": "海外高风险区居民、生存狂爱好者。",
+      "value_proposition": "未雨绸缪，在危机时刻连接邻里，构建互助的生命防线。"
+    }
+  }
+]

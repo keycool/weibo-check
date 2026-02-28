@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "以色列宣布袭击伊朗",
+    "scores": {
+      "novelty": 10,
+      "resonance": 19,
+      "viral": 19,
+      "entertainment": 2,
+      "practical": 5,
+      "market": 2
+    },
+    "total_score": 57,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球局势实时避险地图",
+      "features": "基于地缘政治新闻更新的实时风险区域标注与民用物资采购指引。",
+      "target_users": "留学生、跨国商务人士、关注国际时事的用户。",
+      "value_proposition": "在突发国际新闻发生时，提供即时的安全分析与生存建议。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "伊朗陆军总司令身亡",
+    "scores": {
+      "novelty": 12,
+      "resonance": 18,
+      "viral": 18,
+      "entertainment": 0,
+      "practical": 2,
+      "market": 1
+    },
+    "total_score": 51,
+    "grade": "普通",
+    "product_idea": {
+      "name": "历史事件复盘百科Bot",
+      "features": "当突发重大政治/军事人物变动时，自动推送相关历史背景、势力关系图谱。",
+      "target_users": "时政爱好者、历史研究者。",
+      "value_proposition": "快速看懂突发新闻背后的历史脉络和派系关系。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "2025我国完成92次宇航发射",
+    "scores": {
+      "novelty": 15,
+      "resonance": 17,
+      "viral": 14,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 66,
+    "grade": "良好",
+    "product_idea": {
+      "name": "星际发射日历",
+      "features": "收录2025年所有航天发射任务，提供直播提醒、AR观测指南及航天科普。",
+      "target_users": "航天爱好者、青少年学生。",
+      "value_proposition": "不再错过每一次中国航天的精彩瞬间，参与感满满。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "新锐王牌问界M6七色亮相",
+    "scores": {
+      "novelty": 12,
+      "resonance": 10,
+      "viral": 12,
+      "entertainment": 8,
+      "practical": 8,
+      "market": 10
+    },
+    "total_score": 60,
+    "grade": "良好",
+    "product_idea": {
+      "name": "智能座舱DIY伴侣App",
+      "features": "针对新车型提供自定义氛围灯效调节、多场景模式（小憩/影院）一键适配。",
+      "target_users": "问界M6车主、科技尝鲜者。",
+      "value_proposition": "释放车机潜力，打造个性化的第三移动空间。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "伊朗反击",
+    "scores": {
+      "novelty": 8,
+      "resonance": 18,
+      "viral": 18,
+      "entertainment": 2,
+      "practical": 3,
+      "market": 2
+    },
+    "total_score": 51,
+    "grade": "普通",
+    "product_idea": {
+      "name": "突发新闻极简推送",
+      "features": "过滤情绪化评论，仅推送经过验证的突发事件核心事实进度条。",
+      "target_users": "信息过载的职场人。",
+      "value_proposition": "在纷繁复杂的战争中，30秒掌握最关键的进展。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "伊朗正准备毁灭性报复行动",
+    "scores": {
+      "novelty": 14,
+      "resonance": 19,
+      "viral": 19,
+      "entertainment": 0,
+      "practical": 4,
+      "market": 2
+    },
+    "total_score": 58,
+    "grade": "普通",
+    "product_idea": {
+      "name": "生存狂急救包",
+      "features": "针对极端情况设计的家用应急物资包（包含急救、能源、通讯设备），搭配SOS联络指南。",
+      "target_users": "有备无患家庭、偏远地区居住者。",
+      "value_proposition": "居安思危，为家庭提供最后一道安全防线。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "山姆520元巧克力降到99元",
+    "scores": {
+      "novelty": 5,
+      "resonance": 18,
+      "viral": 18,
+      "entertainment": 10,
+      "practical": 10,
+      "market": 9
+    },
+    "total_score": 70,
+    "grade": "良好",
+    "product_idea": {
+      "name": "捡漏神器 - 临期/折扣商品聚合器",
+      "features": "抓取山姆/Costco等会员店的大幅降价商品信息，按地理位置推送库存提醒。",
+      "target_users": "价格敏感型消费者、家庭采购者。",
+      "value_proposition": "专攻会员店神价，让低价商品不再需要蹲守运气。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "伊朗又一轮导弹射向以色列",
+    "scores": {
+      "novelty": 6,
+      "resonance": 16,
+      "viral": 16,
+      "entertainment": 2,
+      "practical": 2,
+      "market": 1
+    },
+    "total_score": 43,
+    "grade": "普通",
+    "product_idea": {
+      "name": "冲突百科可视化图谱",
+      "features": "将导弹袭击、军事冲突点在地图上进行可视化回放，标注涉及武器类型。",
+      "target_users": "军迷、地缘政治研究者。",
+      "value_proposition": "用数据看清战争局势，专业且直观。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "一点点 植脂末",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 5,
+      "practical": 8,
+      "market": 7
+    },
+    "total_score": 59,
+    "grade": "普通",
+    "product_idea": {
+      "name": "健康饮品扫描仪",
+      "features": "扫描奶茶配料表或上传菜单，智能识别植脂末（反式脂肪酸）及糖分含量，给出替代建议。",
+      "target_users": "健身人群、奶茶爱好者。",
+      "value_proposition": "喝得明白，拒绝科技与狠活，守护心血管健康。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "小米YU9",
+    "scores": {
+      "novelty": 16,
+      "resonance": 16,
+      "viral": 16,
+      "entertainment": 12,
+      "practical": 6,
+      "market": 9
+    },
+    "total_score": 75,
+    "grade": "良好",
+    "product_idea": {
+      "name": "YU9概念版共创社区",
+      "features": "允许用户针对传闻/预告中的车型进行外观绘制、功能投票，甚至预订盲盒名额。",
+      "target_users": "米粉、电动车潜在买家。",
+      "value_proposition": "在车发布前就参与其定义，从旁观者变成造梦者。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "伊朗正在打击美国军事基地",
+    "scores": {
+      "novelty": 9,
+      "resonance": 17,
+      "viral": 17,
+      "entertainment": 2,
+      "practical": 3,
+      "market": 2
+    },
+    "total_score": 50,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球安全差旅助手",
+      "features": "为企业差旅提供实时风险预警，自动避开冲突区域规划路线。",
+      "target_users": "跨国企业HR、商务差旅人士。",
+      "value_proposition": "保障员工人身安全，是企业风险管理的必备工具。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "突然对1g黄金没概念了",
+    "scores": {
+      "novelty": 15,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 15,
+      "practical": 5,
+      "market": 8
+    },
+    "total_score": 80,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "克金感 - 黄金实物可视化工具",
+      "features": "通过AR对比日常物品（如手机、硬币）与1g黄金的大小/体积，并实时换算金价。",
+      "target_users": "金价关注者、年轻投资者。",
+      "value_proposition": "在高金价时代，建立直观的'金本位'物理感知，辅助消费决策。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "金价",
+    "scores": {
+      "novelty": 5,
+      "resonance": 18,
+      "viral": 15,
+      "entertainment": 5,
+      "practical": 9,
+      "market": 10
+    },
+    "total_score": 62,
+    "grade": "良好",
+    "product_idea": {
+      "name": "高金价置换计算器",
+      "features": "计算当前金价下，旧金首饰回收能抵扣多少购买力，或者是否适合现在变现。",
+      "target_users": "持有黄金的家庭、消费者。",
+      "value_proposition": "打破信息差，在金价高位最大化黄金收益。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "特朗普",
+    "scores": {
+      "novelty": 10,
+      "resonance": 18,
+      "viral": 17,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 4
+    },
+    "total_score": 61,
+    "grade": "良好",
+    "product_idea": {
+      "name": "大选对冲指路明灯",
+      "features": "分析特朗普言论/政策对特定行业（如 crypto, 制造业）的潜在影响，给出资产配置建议。",
+      "target_users": "投资者、财经媒体从业者。",
+      "value_proposition": "将政治噪音转化为投资信号。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "内塔尼亚胡喊话伊朗",
+    "scores": {
+      "novelty": 8,
+      "resonance": 15,
+      "viral": 15,
+      "entertainment": 5,
+      "practical": 2,
+      "market": 1
+    },
+    "total_score": 46,
+    "grade": "普通",
+    "product_idea": {
+      "name": "关键演讲情绪分析器",
+      "features": "对政治人物的重要喊话/演讲进行情绪基调分析，预测后续行动的激烈程度。",
+      "target_users": "国际关系观察者。",
+      "value_proposition": "听懂弦外之音，预判政治博弈走向。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "阿联酋传出爆炸声",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 14,
+      "entertainment": 2,
+      "practical": 4,
+      "market": 2
+    },
+    "total_score": 48,
+    "grade": "普通",
+    "product_idea": {
+      "name": "周边危机预警圈",
+      "features": "基于地理位置，当用户关注的区域（如亲友所在地、出差地）发生突发事故时立即强提醒。",
+      "target_users": "有海外亲友的人士。",
+      "value_proposition": "由于关注，所以安心；即时获知远方安危。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "王皓赛后生气了",
+    "scores": {
+      "novelty": 14,
+      "resonance": 16,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 68,
+    "grade": "良好",
+    "product_idea": {
+      "name": "偶像情绪手办/表情包生成器",
+      "features": "截取名人（如教练、运动员）的真实情绪反应瞬间，生成个性化表情包或Q版手办。",
+      "target_users": "体育粉丝、社交媒体用户。",
+      "value_proposition": "将竞技体育的张力转化为日常社交的娱乐货币。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "德国总理从中国回去后急了",
+    "scores": {
+      "novelty": 15,
+      "resonance": 14,
+      "viral": 15,
+      "entertainment": 10,
+      "practical": 4,
+      "market": 5
+    },
+    "total_score": 63,
+    "grade": "良好",
+    "product_idea": {
+      "name": "中国产业竞争力对标",
+      "features": "针对新闻热点（如德国总理反应），分析相关中国产业（如汽车、机械）的出海优势与数据。",
+      "target_users": "出海企业、宏观经济关注者。",
+      "value_proposition": "从国际新闻中挖掘中国产业的商业机会。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "特朗普称等行动结束接管伊朗政府",
+    "scores": {
+      "novelty": 16,
+      "resonance": 16,
+      "viral": 17,
+      "entertainment": 12,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 66,
+    "grade": "良好",
+    "product_idea": {
+      "name": "政客打脸预测记",
+      "features": "记录政客的夸张言论，并在未来某个时间节点验证其真伪，生成讽刺性报告。",
+      "target_users": "新闻讽刺爱好者、青年用户。",
+      "value_proposition": "用幽默解构政治大话，做互联网记忆的守门人。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "朱元璋玩偶眼睛被指像美元符号",
+    "scores": {
+      "novelty": 18,
+      "resonance": 17,
+      "viral": 19,
+      "entertainment": 18,
+      "practical": 2,
+      "market": 9
+    },
+    "total_score": 83,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "文物梗玩偶盲盒系列",
+      "features": "结合历史人物形象与现代网络梗（如朱元璋、马皇后等），设计具有'丑萌'或讽刺意味的潮玩。",
+      "target_users": "Z世代、博物馆文创消费者。",
+      "value_proposition": "让严肃历史人物变得玩梗有趣，满足年轻人的解构娱乐需求。"
+    }
+  }
+]
