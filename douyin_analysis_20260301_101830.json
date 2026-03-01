@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "中国男篮力克中国台北男篮",
+    "scores": {
+      "novelty": 6,
+      "resonance": 15,
+      "viral": 8,
+      "entertainment": 7,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 46,
+    "grade": "普通",
+    "product_idea": {
+      "name": "球迷高光时刻剪辑APP",
+      "features": "AI自动识别比赛精彩进球，一键生成带特效和氛围音乐的个人高光集锦视频。",
+      "target_users": "篮球爱好者、体育迷、短视频创作者。",
+      "value_proposition": "让每一位球迷都能零门槛制作属于自己的主队助威视频，增强参与感和归属感。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "三月 你好",
+    "scores": {
+      "novelty": 2,
+      "resonance": 18,
+      "viral": 12,
+      "entertainment": 2,
+      "practical": 1,
+      "market": 3
+    },
+    "total_score": 38,
+    "grade": "普通",
+    "product_idea": {
+      "name": "「时光寄语」月度屏保生成器",
+      "features": "根据用户上传的照片或当前天气，自动生成带有月份主题（如“三月你好”）的文艺风格手机壁纸或动态海报。",
+      "target_users": "文艺青年、朋友圈活跃用户。",
+      "value_proposition": "满足用户在重要时间节点表达情感、记录生活的社交需求，提供低成本的情感宣泄出口。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "开局之年共赴这场春天的盛会",
+    "scores": {
+      "novelty": 5,
+      "resonance": 12,
+      "viral": 5,
+      "entertainment": 2,
+      "practical": 4,
+      "market": 2
+    },
+    "total_score": 30,
+    "grade": "普通",
+    "product_idea": {
+      "name": "政务民生热词解读卡片",
+      "features": "将官方会议热词（如“开局之年”）转化为可视化的图文卡片或一图读懂，结合本地化服务功能。",
+      "target_users": "关注时事的市民、体制内人员。",
+      "value_proposition": "降低宏大叙事的理解门槛，帮助用户快速捕捉政策红利与生活关联。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "伊朗最高领袖哈梅内伊遇袭身亡",
+    "scores": {
+      "novelty": 19,
+      "resonance": 16,
+      "viral": 19,
+      "entertainment": 1,
+      "practical": 0,
+      "market": 0
+    },
+    "total_score": 55,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球地缘冲突实时追踪地图",
+      "features": "提供实时更新的新闻地图，标记冲突区域、关键人物关系图谱及历史背景时间轴。",
+      "target_users": "军事迷、时政关注者、金融从业者。",
+      "value_proposition": "在信息碎片化时代，提供结构化、可视化的深度信息，满足用户对突发重大事件的求知欲。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "江浙沪就这样等美食回归解馋",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 12,
+      "entertainment": 10,
+      "practical": 7,
+      "market": 9
+    },
+    "total_score": 62,
+    "grade": "良好",
+    "product_idea": {
+      "name": "「乡味云餐馆」预制菜订阅礼盒",
+      "features": "针对江浙沪封控或怀念家乡味的用户，提供上海本帮菜、杭帮菜等半成品套餐，包含“老字号”复刻菜单。",
+      "target_users": "在外地的江浙沪人、追求便捷口味的都市白领。",
+      "value_proposition": "以地域美食为情感纽带，提供高还原度的地道口味，解决异地乡愁与居家烹饪难题。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "挑战把墙画成艺术品",
+    "scores": {
+      "novelty": 12,
+      "resonance": 10,
+      "viral": 14,
+      "entertainment": 16,
+      "practical": 5,
+      "market": 8
+    },
+    "total_score": 65,
+    "grade": "良好",
+    "product_idea": {
+      "name": "AR墙绘魔术师工具",
+      "features": "通过手机摄像头扫描空白墙面，利用AR技术将预设的艺术画作（如梵高风格、涂鸦）投射在墙上，并支持试色和虚拟创作。",
+      "target_users": "家居装修人群、艺术爱好者、租房族。",
+      "value_proposition": "零风险可视化墙面艺术创作，让用户在动工前预览效果，或直接使用投影作为绘画底稿。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "一抹春妆赴春光",
+    "scores": {
+      "novelty": 8,
+      "resonance": 12,
+      "viral": 11,
+      "entertainment": 10,
+      "practical": 6,
+      "market": 9
+    },
+    "total_score": 56,
+    "grade": "普通",
+    "product_idea": {
+      "name": "季节限定「桃花坞」妆容试色滤镜",
+      "features": "结合当下春游场景，提供春季专属妆容AR滤镜，并附带对应色号的化妆品购买链接。",
+      "target_users": "年轻女性、美妆爱好者、春游人群。",
+      "value_proposition": "“先试后买”的场景化美妆体验，将春季出游与个人形象管理深度绑定。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "伊朗导弹击中以军总参谋部",
+    "scores": {
+      "novelty": 18,
+      "resonance": 15,
+      "viral": 18,
+      "entertainment": 1,
+      "practical": 0,
+      "market": 0
+    },
+    "total_score": 52,
+    "grade": "普通",
+    "product_idea": {
+      "name": "紧急预警与安全指南插件",
+      "features": "针对突发战争或冲突新闻，自动弹窗推送相关地区的安全避难指南及外交撤离建议。",
+      "target_users": "出境游旅客、海外务工人员、跨国企业。",
+      "value_proposition": "在极端新闻热点下提供实用生存指南，将流量转化为对生命安全的焦虑管理服务。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "大鱼高音PK",
+    "scores": {
+      "novelty": 14,
+      "resonance": 12,
+      "viral": 16,
+      "entertainment": 17,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 67,
+    "grade": "良好",
+    "product_idea": {
+      "name": "「声波大作战」多人在线K歌竞技游戏",
+      "features": "以高音挑战为核心的实时对战游戏，用户需跟随歌曲旋律飙高音来控制游戏角色攻击对手。",
+      "target_users": "K歌爱好者、音游玩家、直播观众。",
+      "value_proposition": "将枯燥的练歌转化为趣味性的PK竞技，利用胜负欲和社交互动提升用户粘性。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "元宵节一定要去福州接福鱼",
+    "scores": {
+      "novelty": 10,
+      "resonance": 13,
+      "viral": 13,
+      "entertainment": 11,
+      "practical": 4,
+      "market": 8
+    },
+    "total_score": 59,
+    "grade": "普通",
+    "product_idea": {
+      "name": "福州「数字鱼灯」AR导航系统",
+      "features": "在元宵节期间，用户打开APP可在AR地图中看到虚拟的“福鱼”游向特定灯会地点，集齐可兑换实体文创。",
+      "target_users": "福州本地游客、亲子家庭。",
+      "value_proposition": "将传统民俗与现代AR技术结合，增加节日互动的趣味性并引导线下客流。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "伊朗武装部队总参谋长身亡",
+    "scores": {
+      "novelty": 17,
+      "resonance": 14,
+      "viral": 17,
+      "entertainment": 1,
+      "practical": 0,
+      "market": 0
+    },
+    "total_score": 49,
+    "grade": "普通",
+    "product_idea": {
+      "name": "无",
+      "features": "由于话题敏感且属于突发悲剧/灾难新闻，不适合开发娱乐导向产品。",
+      "target_users": "无",
+      "value_proposition": "无"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "小米超跑正式亮相",
+    "scores": {
+      "novelty": 16,
+      "resonance": 14,
+      "viral": 15,
+      "entertainment": 13,
+      "practical": 6,
+      "market": 10
+    },
+    "total_score": 74,
+    "grade": "良好",
+    "product_idea": {
+      "name": "智能家居车机联动模拟器",
+      "features": "在手机上模拟小米超级跑车的车机系统界面，展示与小米家生态（手机、空调、灯光）的无缝互联体验。",
+      "target_users": "数码发烧友、潜在购车车主、极客。",
+      "value_proposition": "提前体验“人车家全生态”的未来感，为实体汽车预售积累流量和用户期待。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "男子造谣霸王茶姬涉毒被抓",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 15,
+      "entertainment": 8,
+      "practical": 3,
+      "market": 2
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "企业品牌舆情风向标",
+      "features": "监控特定品牌的关键词风险，自动分析谣言传播路径并生成公关预警报告。",
+      "target_users": "品牌公关部、中小企业主。",
+      "value_proposition": "帮助企业第一时间发现恶意造谣，把握“黄金4小时”进行危机公关，保护品牌资产。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "与福鱼合拍我的新年大片",
+    "scores": {
+      "novelty": 11,
+      "resonance": 12,
+      "viral": 14,
+      "entertainment": 14,
+      "practical": 3,
+      "market": 6
+    },
+    "total_score": 60,
+    "grade": "良好",
+    "product_idea": {
+      "name": "国潮鱼灯AR合拍相机",
+      "features": "提供一键生成福鱼环绕特效的短视频模板，支持用户换脸或植入私人照片，生成电影质感的拜年视频。",
+      "target_users": "追求年味的年轻人、短视频用户。",
+      "value_proposition": "低门槛参与地域性热门民俗话题，用科技手段让传统年味更具传播力。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "伊媒称哈梅内伊多名亲属身亡",
+    "scores": {
+      "novelty": 16,
+      "resonance": 13,
+      "viral": 16,
+      "entertainment": 0,
+      "practical": 0,
+      "market": 0
+    },
+    "total_score": 45,
+    "grade": "普通",
+    "product_idea": {
+      "name": "无",
+      "features": "涉及灾难与政治家族悲剧，不适宜进行商业化创意开发。",
+      "target_users": "无",
+      "value_proposition": "无"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "小满晓丹异国恋分手",
+    "scores": {
+      "novelty": 6,
+      "resonance": 18,
+      "viral": 14,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 55,
+    "grade": "普通",
+    "product_idea": {
+      "name": "「跨国恋」情感树洞与法律咨询",
+      "features": "为跨国情侣提供情感疏导社区，并附带跨国婚姻签证、法律纠纷的科普与咨询服务。",
+      "target_users": "异地恋情侣、跨国婚姻群体。",
+      "value_proposition": "从情感八卦延伸至实际痛点，解决跨国恋面临的现实阻碍与孤独感。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "我就是滇风盛典超燃",
+    "scores": {
+      "novelty": 9,
+      "resonance": 10,
+      "viral": 10,
+      "entertainment": 12,
+      "practical": 2,
+      "market": 7
+    },
+    "total_score": 50,
+    "grade": "普通",
+    "product_idea": {
+      "name": "民族风情变装短视频模板",
+      "features": "提供云南少数民族服饰（如滇风）的AI换装特效，搭配动感鼓点音乐，一键生成卡点变装视频。",
+      "target_users": "旅游博主、民族风爱好者。",
+      "value_proposition": "满足用户对多元文化的猎奇心理与展示欲，推动地方文旅的数字化传播。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "迪拜国际机场航站楼遭到袭击",
+    "scores": {
+      "novelty": 17,
+      "resonance": 12,
+      "viral": 16,
+      "entertainment": 0,
+      "practical": 1,
+      "market": 1
+    },
+    "total_score": 47,
+    "grade": "普通",
+    "product_idea": {
+      "name": "无",
+      "features": "属于国际公共安全事件，不建议进行娱乐或商业导向的产品开发。",
+      "target_users": "无",
+      "value_proposition": "无"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "星空风铃让我看到了宇宙浪漫",
+    "scores": {
+      "novelty": 15,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 15,
+      "practical": 4,
+      "market": 9
+    },
+    "total_score": 73,
+    "grade": "良好",
+    "product_idea": {
+      "name": "「摘星」DIY星空氛围灯套件",
+      "features": "提供材料包和教程，让用户手工制作具有光影投影效果的星空风铃，支持连接蓝牙音箱播放白噪音。",
+      "target_users": "情侣、独居女性、手工DIY爱好者。",
+      "value_proposition": "将浪漫意象实体化，提供兼具装饰性、治愈感和动手乐趣的情感消费产品。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "寒假作业赶工现场",
+    "scores": {
+      "novelty": 5,
+      "resonance": 18,
+      "viral": 17,
+      "entertainment": 15,
+      "practical": 3,
+      "market": 4
+    },
+    "total_score": 62,
+    "grade": "良好",
+    "product_idea": {
+      "name": "「作业救星」AI扫题笔与学习平板",
+      "features": "针对寒假作业场景，提供快速拍照解题、生字词听写批改、作业进度规划等高效辅导功能。",
+      "target_users": "中小学生、焦虑的家长。",
+      "value_proposition": "将“赶作业”的慌乱场景转化为对高效学习工具的迫切需求，解决家长辅导作业的痛点。"
+    }
+  }
+]

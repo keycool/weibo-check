@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "伊朗袭击27个美军基地",
+    "scores": {
+      "novelty": 18,
+      "resonance": 19,
+      "viral": 20,
+      "entertainment": 5,
+      "practical": 2,
+      "market": 1
+    },
+    "total_score": 65,
+    "grade": "良好",
+    "product_idea": {
+      "name": "全球态势速递Bot",
+      "features": "基于AI大模型的突发地缘政治冲突梳理与时间线生成，去除谣言，提供背景知识库。",
+      "target_users": "关注时事的网民、投资者、军事爱好者",
+      "value_proposition": "在海量碎片化信息中快速还原事件全貌，缓解信息焦虑。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "中国男篮vs中国台北男篮",
+    "scores": {
+      "novelty": 5,
+      "resonance": 18,
+      "viral": 15,
+      "entertainment": 16,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 64,
+    "grade": "良好",
+    "product_idea": {
+      "name": "全民竞猜预测社区",
+      "features": "体育赛事实时数据流与社交预测功能，用户可用虚拟积分预测比分。",
+      "target_users": "体育迷、竞彩爱好者",
+      "value_proposition": "增强观赛参与感，通过预测机制激活社区活跃度。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "全国政协会议议程来了",
+    "scores": {
+      "novelty": 5,
+      "resonance": 15,
+      "viral": 10,
+      "entertainment": 2,
+      "practical": 10,
+      "market": 2
+    },
+    "total_score": 44,
+    "grade": "普通",
+    "product_idea": {
+      "name": "政策关键词提取器",
+      "features": "自动提取长篇政府工作报告中的民生相关条款（如社保、医疗），并生成个性化解读。",
+      "target_users": "普通市民、企业经营者",
+      "value_proposition": "将晦涩的政策文件转化为与个人利益相关的 actionable insights。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "小米徕卡全球影像大赛",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 16,
+      "entertainment": 15,
+      "practical": 3,
+      "market": 8
+    },
+    "total_score": 68,
+    "grade": "良好",
+    "product_idea": {
+      "name": "AI摄影风格迁移滤镜App",
+      "features": "利用大模型模拟徕卡等经典胶片风格，支持用户上传照片一键生成参赛级作品。",
+      "target_users": "手机摄影爱好者、社交媒体用户",
+      "value_proposition": "降低专业摄影门槛，让普通用户也能产出高质量视觉内容。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "哈梅内伊遇害",
+    "scores": {
+      "novelty": 19,
+      "resonance": 18,
+      "viral": 20,
+      "entertainment": 2,
+      "practical": 2,
+      "market": 1
+    },
+    "total_score": 62,
+    "grade": "良好",
+    "product_idea": {
+      "name": "时事动态地图追踪器",
+      "features": "可视化展示全球突发事件地理位置，结合历史数据推演潜在影响范围。",
+      "target_users": "新闻从业者、时政发烧友",
+      "value_proposition": "提供上帝视角的事件关联分析，满足高阶信息需求。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "中国男篮险胜中国台北男篮",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 15,
+      "practical": 2,
+      "market": 7
+    },
+    "total_score": 62,
+    "grade": "良好",
+    "product_idea": {
+      "name": "赛后高光剪辑工具",
+      "features": "AI自动识别比赛精彩瞬间并生成短视频，一键配乐分享至社交平台。",
+      "target_users": "球迷、短视频创作者",
+      "value_proposition": "快速捕捉情绪爆发点，助力用户表达激动心情。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "伊朗确认继任者后或将扩大反击",
+    "scores": {
+      "novelty": 16,
+      "resonance": 17,
+      "viral": 18,
+      "entertainment": 3,
+      "practical": 2,
+      "market": 1
+    },
+    "total_score": 57,
+    "grade": "普通",
+    "product_idea": {
+      "name": "危机应对知识库",
+      "features": "针对海外冲突地区，提供安全避险指南与应急联络清单。",
+      "target_users": "海外华人、留学生、外贸商",
+      "value_proposition": "提供硬核的生存实用信息，解决极端情况下的安全感问题。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "沈腾马丽 我欲成冰再也无退路",
+    "scores": {
+      "novelty": 12,
+      "resonance": 15,
+      "viral": 17,
+      "entertainment": 19,
+      "practical": 1,
+      "market": 9
+    },
+    "total_score": 73,
+    "grade": "良好",
+    "product_idea": {
+      "name": "电影台词一键生成海报",
+      "features": "用户输入情感关键词，AI生成类似热门电影风格的剧照海报和金句文案。",
+      "target_users": "追星族、内容创作者",
+      "value_proposition": "借势热点电影宣发，满足用户社交展示的虚荣心。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "将门独后王鹤棣路透",
+    "scores": {
+      "novelty": 10,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 17,
+      "practical": 1,
+      "market": 10
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "明星同款AR试穿",
+      "features": "扫描路透照中的服饰，自动匹配电商同款并提供AR虚拟试穿。",
+      "target_users": "粉丝群体、时尚消费者",
+      "value_proposition": "缩短从'看到偶像穿'到'自己买'的决策路径。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "小镇唯一外卖员靠跑单月入过万",
+    "scores": {
+      "novelty": 15,
+      "resonance": 18,
+      "viral": 17,
+      "entertainment": 12,
+      "practical": 8,
+      "market": 6
+    },
+    "total_score": 76,
+    "grade": "良好",
+    "product_idea": {
+      "name": "下沉市场蓝职业挖掘平台",
+      "features": "展示县城/乡镇等低竞争环境的岗位高薪案例，并提供职业技能转型培训。",
+      "target_users": "返乡青年、灵活就业者",
+      "value_proposition": "打破信息差，挖掘非一线城市的高收入机会。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "六点半下班和七点半下班的差别",
+    "scores": {
+      "novelty": 14,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 14,
+      "practical": 4,
+      "market": 3
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "摸鱼高效能助手",
+      "features": "基于不同下班时间，自动生成最优时间管理方案，包含下班后的一小时生活指南。",
+      "target_users": "职场打工人",
+      "value_proposition": "帮助被工作异化的用户夺回私人时间的掌控感。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "伊朗总统就哈梅内伊身亡发声明",
+    "scores": {
+      "novelty": 17,
+      "resonance": 16,
+      "viral": 18,
+      "entertainment": 2,
+      "practical": 2,
+      "market": 1
+    },
+    "total_score": 56,
+    "grade": "普通",
+    "product_idea": {
+      "name": "权威信源辟谣助手",
+      "features": "针对突发重大政治新闻，自动抓取官方声明并比对互联网传言，标记可信度。",
+      "target_users": "关注时事的网民",
+      "value_proposition": "在混乱的信息战中提供确定性，建立可信信源筛选机制。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "我在挨骂 稍等呀",
+    "scores": {
+      "novelty": 16,
+      "resonance": 19,
+      "viral": 19,
+      "entertainment": 18,
+      "practical": 1,
+      "market": 2
+    },
+    "total_score": 75,
+    "grade": "良好",
+    "product_idea": {
+      "name": "社交缓冲表情包生成器",
+      "features": "将'正在挨骂'等尴尬状态转化为高情商、幽默的视觉表达（如表情包、状态气泡）。",
+      "target_users": "重度社交网络用户",
+      "value_proposition": "用幽默化解网络社交中的尴尬与冲突，提供社交润滑剂。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "贝因美 大麻二酚",
+    "scores": {
+      "novelty": 15,
+      "resonance": 16,
+      "viral": 14,
+      "entertainment": 5,
+      "practical": 6,
+      "market": 8
+    },
+    "total_score": 64,
+    "grade": "良好",
+    "product_idea": {
+      "name": "成分党安全查询器",
+      "features": "扫码识别母婴/美妆产品成分，基于医学数据库提示潜在风险（如 CBD 是否合规）。",
+      "target_users": "宝妈、成分敏感人群",
+      "value_proposition": "为敏感人群提供严格的产品安全筛查，消除对新型成分的恐慌。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "以军开始打击伊朗首都心脏地带",
+    "scores": {
+      "novelty": 18,
+      "resonance": 18,
+      "viral": 19,
+      "entertainment": 2,
+      "practical": 2,
+      "market": 1
+    },
+    "total_score": 60,
+    "grade": "普通",
+    "product_idea": {
+      "name": "战区实时资讯流",
+      "features": "聚合多源战地视频与文字直播，提供无延迟的冲突前线信息。",
+      "target_users": "硬核军迷、研究人员",
+      "value_proposition": "满足对极端事件的窥探欲与信息掌控欲。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "男子酒后和老婆吵架胸口撕裂40厘米",
+    "scores": {
+      "novelty": 18,
+      "resonance": 15,
+      "viral": 17,
+      "entertainment": 8,
+      "practical": 8,
+      "market": 4
+    },
+    "total_score": 70,
+    "grade": "良好",
+    "product_idea": {
+      "name": "情绪宣泄与健康管理App",
+      "features": "结合智能手环监测心率异常，当检测到剧烈情绪波动时引导冥想或拨打紧急电话。",
+      "target_users": "高血压人群、易怒人群",
+      "value_proposition": "防止情绪激动导致的生理伤害，提供物理+心理双重保护。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "张小满严晓丹分手",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 1,
+      "market": 5
+    },
+    "total_score": 59,
+    "grade": "普通",
+    "product_idea": {
+      "name": "嗑CP剧情追踪器",
+      "features": "自动整理综艺/剧中情侣线的所有糖点与刀点时间线，生成情感报告。",
+      "target_users": "综艺观众、CP粉",
+      "value_proposition": "为追星用户提供结构化的情感体验数据。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "秦岚嗓子哑了三年",
+    "scores": {
+      "novelty": 12,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 5,
+      "market": 6
+    },
+    "total_score": 68,
+    "grade": "良好",
+    "product_idea": {
+      "name": "职场护嗓急救包",
+      "features": "针对教师、销售等高嗓音使用职业，提供嗓音康复训练课程与便携理疗产品推荐。",
+      "target_users": "职业用嗓者、咽炎患者",
+      "value_proposition": "解决职业人群的慢性职业病痛点，提供科学护理方案。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "2岁小孩高铁车厢唱歌旅客大打出手",
+    "scores": {
+      "novelty": 10,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 10,
+      "practical": 7,
+      "market": 5
+    },
+    "total_score": 69,
+    "grade": "良好",
+    "product_idea": {
+      "name": "公共静音降噪耳机租赁",
+      "features": "在高铁、飞机等公共场所提供共享降噪耳机租赁服务，一键屏蔽噪音。",
+      "target_users": "商务出行人士、噪音敏感者",
+      "value_proposition": "在公共空间低成本创造私密安静环境，避免噪音冲突。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "蓝眼狐是L3吗",
+    "scores": {
+      "novelty": 15,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 12,
+      "practical": 6,
+      "market": 7
+    },
+    "total_score": 71,
+    "grade": "良好",
+    "product_idea": {
+      "name": "智能生物识别手册",
+      "features": "针对《鸣潮》等游戏，提供怪物弱点分析、战斗技巧教学及素材掉落查询。",
+      "target_users": "二次元游戏玩家",
+      "value_proposition": "帮助玩家快速提升游戏技术，不因识别怪物机制而卡关。"
+    }
+  }
+]
