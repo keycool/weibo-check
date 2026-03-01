@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "孙颖莎新加坡大满贯冠军",
+    "scores": {
+      "novelty": 12,
+      "resonance": 19,
+      "viral": 18,
+      "entertainment": 17,
+      "practical": 2,
+      "market": 9
+    },
+    "total_score": 77,
+    "grade": "良好",
+    "product_idea": {
+      "name": "冠军光环智能训练手环",
+      "features": "内置孙颖莎标志性发球与挥拍动作模型，通过震动反馈指导用户纠正动作；同步比赛数据与心率监测。",
+      "target_users": "乒乓球爱好者、青少年运动员、体育迷。",
+      "value_proposition": "让普通用户也能拥有“世界冠军教练”，通过数据化的专业指导，提升运动表现并获得成就感。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "中国男篮力克中国台北男篮",
+    "scores": {
+      "novelty": 10,
+      "resonance": 17,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 65,
+    "grade": "良好",
+    "product_idea": {
+      "name": "热血时刻球迷社区APP",
+      "features": "实时比赛情绪共鸣弹幕、关键时刻剪辑AI一键生成、胜率预测竞猜游戏。",
+      "target_users": "篮球迷、体育竞猜爱好者。",
+      "value_proposition": "放大比赛获胜的集体荣誉感，让球迷在互动中获得更深层次的参与体验。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "中国农机火到海外",
+    "scores": {
+      "novelty": 16,
+      "resonance": 15,
+      "viral": 15,
+      "entertainment": 12,
+      "practical": 6,
+      "market": 8
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "硬核农机模型DIY套件",
+      "features": "高仿真微缩模型（如东方红拖拉机），带有液压臂联动功能；配套海外播种解压视频。",
+      "target_users": "模型爱好者、机械迷、短视频用户。",
+      "value_proposition": "满足大众对硬核工业机械的猎奇心理，兼具动手乐趣与解压属性。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "江浙沪就这样等美食回归解馋",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 12,
+      "entertainment": 10,
+      "practical": 7,
+      "market": 8
+    },
+    "total_score": 61,
+    "grade": "良好",
+    "product_idea": {
+      "name": "江浙沪排队雷达小程序",
+      "features": "实时监控网红餐厅排队进度，提供“占号+预点单”服务，推荐附近平替美食。",
+      "target_users": "吃货、排队焦虑人群、江浙沪地区用户。",
+      "value_proposition": "解决美食等待焦虑，优化用餐时间安排，不错过任何解馋机会。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "三月 你好",
+    "scores": {
+      "novelty": 5,
+      "resonance": 15,
+      "viral": 14,
+      "entertainment": 6,
+      "practical": 3,
+      "market": 5
+    },
+    "total_score": 48,
+    "grade": "普通",
+    "product_idea": {
+      "name": "月度心情手帐模板包",
+      "features": "根据三月季节（春日、花期）设计的AR互动手帐模板，可生成唯美打卡视频。",
+      "target_users": "学生党、文艺青年、 planner群体。",
+      "value_proposition": "为新月份提供仪式感开启，帮助用户以积极心态规划生活。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "幸福在未被发现时叫普通的一天",
+    "scores": {
+      "novelty": 14,
+      "resonance": 18,
+      "viral": 15,
+      "entertainment": 5,
+      "practical": 4,
+      "market": 4
+    },
+    "total_score": 60,
+    "grade": "良好",
+    "product_idea": {
+      "name": "“小确幸”捕捉相机",
+      "features": "基于日记模式的相机APP，每天随机推送一个微小的拍摄任务（如拍一杯水、一朵云），自动生成温馨叙事Vlog。",
+      "target_users": "情绪敏感人群、文艺青年、生活记录者。",
+      "value_proposition": "帮助用户发现并记录被忽视的日常美好，提升生活幸福感。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "开学就开始盼暑假了",
+    "scores": {
+      "novelty": 12,
+      "resonance": 18,
+      "viral": 16,
+      "entertainment": 12,
+      "practical": 3,
+      "market": 4
+    },
+    "total_score": 65,
+    "grade": "良好",
+    "product_idea": {
+      "name": "假期倒计时盲盒日历",
+      "features": "可视化的学期/工作进度条，每过一天解锁一个治愈小贴士或周末微度假建议，将大目标拆解为小盼头。",
+      "target_users": "学生、职场新人、摸鱼党。",
+      "value_proposition": "用幽默和游戏化的方式对抗开学/开工焦虑，给予用户持续的心理慰藉。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "独行侠裁掉琼斯转正内姆布哈德",
+    "scores": {
+      "novelty": 10,
+      "resonance": 10,
+      "viral": 12,
+      "entertainment": 8,
+      "practical": 3,
+      "market": 5
+    },
+    "total_score": 48,
+    "grade": "普通",
+    "product_idea": {
+      "name": "NBA球队经理模拟器小游戏",
+      "features": "实时更新真实NBA球员数据，玩家扮演经理，针对真实新闻（如裁员）进行薪资空间管理和交易决策。",
+      "target_users": "篮球迷、策略游戏玩家。",
+      "价值主张": "让球迷过足“经理瘾”，深度参与球队建设的策略博弈。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "一抹春妆赴春光",
+    "scores": {
+      "novelty": 11,
+      "resonance": 12,
+      "viral": 13,
+      "entertainment": 10,
+      "practical": 8,
+      "market": 9
+    },
+    "total_score": 63,
+    "grade": "良好",
+    "product_idea": {
+      "name": "AI春日专属妆容试色镜",
+      "features": "分析用户肤质与当日穿搭，结合春季元素（樱花、草地）生成定制妆容AR试色，一键购买同款。",
+      "target_users": "女性用户、美妆爱好者。",
+      "价值_proposition": "解决换季“不知道化什么妆”的痛点，提供高匹配度的个性化美妆方案。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "挑战把墙画成艺术品",
+    "scores": {
+      "novelty": 16,
+      "resonance": 14,
+      "viral": 18,
+      "entertainment": 17,
+      "practical": 7,
+      "market": 9
+    },
+    "total_score": 81,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "“光影魔术手”DIY墙绘投影仪",
+      "features": "将手机里的图案通过强光投影仪直接投射到墙面进行描边，附带智能填色建议，无需绘画基础。",
+      "target_users": "租房党、家居DIY爱好者、美术生。",
+      "value_proposition": "降低家居美化的门槛，将高难度的墙绘变成轻松有趣的解压活动，打造个性化空间。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "早春的油菜花我先拍了",
+    "scores": {
+      "novelty": 8,
+      "resonance": 13,
+      "viral": 14,
+      "entertainment": 10,
+      "practical": 5,
+      "market": 6
+    },
+    "total_score": 56,
+    "grade": "普通",
+    "product_idea": {
+      "name": "花季人像AI修图滤镜",
+      "features": "针对油菜花田等特定场景的自动修图滤镜，解决油菜花海中黄皮肤过曝、背景杂乱的问题，一键生成“春日大片”。",
+      "target_users": "摄影爱好者、踏青游客。",
+      "value_proposition": "解决特定场景下的拍照痛点，让普通用户也能拍出专业的春季踏青照片。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "我就是滇风盛典超燃",
+    "scores": {
+      "novelty": 13,
+      "resonance": 14,
+      "viral": 15,
+      "entertainment": 16,
+      "practical": 4,
+      "market": 7
+    },
+    "total_score": 69,
+    "grade": "良好",
+    "product_idea": {
+      "name": "民族风变装视频生成器",
+      "features": "利用AI技术，将用户上传的照片瞬间转化为不同民族服饰的动态舞蹈视频，自动匹配鼓点音乐。",
+      "target_users": "短视频创作者、民族文化爱好者。",
+      "价值_proposition": "低门槛体验民族文化魅力，快速生成高热度变装素材。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "男子造谣霸王茶姬涉毒被抓",
+    "scores": {
+      "novelty": 14,
+      "resonance": 16,
+      "viral": 17,
+      "entertainment": 5,
+      "practical": 8,
+      "market": 7
+    },
+    "total_score": 67,
+    "grade": "良好",
+    "product_idea": {
+      "name": "企业品牌谣言防火墙SaaS",
+      "features": "全网24小时舆情监控，利用AI识别恶意谣言并自动生成取证报告，一键连接法律发函渠道。",
+      "target_users": "品牌公关部、中小企业主。",
+      "价值_proposition": "为企业提供自动化的声誉保护，将谣言扼杀在萌芽状态，降低公关危机处理成本。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "伊朗最高领袖哈梅内伊遇袭身亡",
+    "scores": {
+      "novelty": 10,
+      "resonance": 10,
+      "viral": 15,
+      "entertainment": 0,
+      "practical": 5,
+      "market": 2
+    },
+    "total_score": 42,
+    "grade": "普通",
+    "product_idea": {
+      "name": "地缘风险资讯聚合终端",
+      "features": "针对外贸、石油等行业，提供基于地理位置的实时安全预警与新闻摘要。",
+      "target_users": "外贸从业者、国际物流人员。",
+      "价值_proposition": "在信息混乱时期，为特定行业提供经过筛选的高价值安全情报。"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "伊朗前总统内贾德遇袭身亡",
+    "scores": {
+      "novelty": 10,
+      "resonance": 9,
+      "viral": 14,
+      "entertainment": 0,
+      "practical": 5,
+      "market": 2
+    },
+    "total_score": 40,
+    "grade": "普通",
+    "product_idea": {
+      "name": "突发新闻真伪溯源插件",
+      "features": "浏览器插件，当用户阅读突发重磅新闻时，自动侧边栏显示时间线与官方/权威信源的核实情况。",
+      "target_users": "新闻关注者、研究者。",
+      "价值_proposition": "在假新闻和突发报道混杂时，快速帮助用户建立事件认知坐标系。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "伊朗：向美航母发射四枚导弹",
+    "scores": {
+      "novelty": 10,
+      "resonance": 10,
+      "viral": 16,
+      "entertainment": 2,
+      "practical": 5,
+      "market": 3
+    },
+    "total_score": 46,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球冲突互动沙盘",
+      "features": "基于真实地图的3D冲突模拟器，用户可以查看武器参数、射程覆盖等硬核数据。",
+      "target_users": "军迷、策略游戏玩家。",
+      "价值_proposition": "满足硬核军迷对武器性能和战术地理位置的探究欲。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "王楚钦赢得大满贯男单冠军",
+    "scores": {
+      "novelty": 12,
+      "resonance": 18,
+      "viral": 17,
+      "entertainment": 16,
+      "practical": 2,
+      "market": 8
+    },
+    "total_score": 73,
+    "grade": "良好",
+    "product_idea": {
+      "name": "偶像同款护颈与体能修复仪",
+      "features": "针对乒乓球运动特点设计的颈部按摩与肩部放松设备，设计融入冠军元素，附带明星语音鼓励。",
+      "target_users": "乒乓球爱好者、低头族、粉丝。",
+      "价值_proposition": "将竞技体育的专业体能恢复功能大众化，同时满足粉丝的偶像追随心理。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "黄景瑜关晓彤给剧粉喂糖了",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 14,
+      "practical": 3,
+      "market": 9
+    },
+    "total_score": 65,
+    "grade": "良好",
+    "product_idea": {
+      "name": "CP名场面恋爱模拟互动剧",
+      "features": "利用热门影视素材，制作第一视角的互动视频游戏，用户可自由选择分支结局，体验“被喂糖”。",
+      "target_users": "剧粉、偶像粉丝、乙女游戏玩家。",
+      "价值_proposition": "延伸影视IP价值，让粉丝从“看剧”变为“入戏”，提供深度的情感满足。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "伊朗武装部队总参谋长身亡",
+    "scores": {
+      "novelty": 10,
+      "resonance": 8,
+      "viral": 13,
+      "entertainment": 0,
+      "practical": 5,
+      "market": 2
+    },
+    "total_score": 38,
+    "grade": "普通",
+    "product_idea": {
+      "name": "国际局势变动个人安全助手",
+      "features": "针对新闻中的冲突地区，为海外旅行者或外派人员提供针对性的安全避险指南与路线规划。",
+      "target_users": "出境游游客、外派人员。",
+      "价值_proposition": "将宏观的国际新闻转化为微观的个人出行安全建议。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "阿联酋机场遭袭1亚洲公民死亡",
+    "scores": {
+      "novelty": 10,
+      "resonance": 8,
+      "viral": 12,
+      "entertainment": 0,
+      "practical": 6,
+      "market": 3
+    },
+    "total_score": 39,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球旅行保险智能推荐引擎",
+      "features": "根据即时地缘新闻数据，动态评估目的地风险等级，即时推荐或升级相应的旅行保险险种。",
+      "target_users": "出境游旅客、差旅人士。",
+      "价值_proposition": "利用新闻数据的时效性，动态保障用户的旅行安全与资产风险。"
+    }
+  }
+]
