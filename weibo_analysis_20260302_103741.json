@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "伊朗一名中国公民遇难",
+    "scores": {
+      "novelty": 10,
+      "resonance": 18,
+      "viral": 5,
+      "entertainment": 0,
+      "practical": 0,
+      "market": 0
+    },
+    "total_score": 33,
+    "grade": "普通",
+    "product_idea": {
+      "name": "SafeTrack 全球危机预警APP",
+      "features": "基于地理位置的实时冲突区域避让、紧急撤离路线规划、一键领事馆报备。",
+      "target_users": "海外商务人士、留学生、出境游客。",
+      "value_proposition": "在动荡时刻为您提供生命安全通道，将危险信息提前推送到您的手机。"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "莫斯科遭炸弹袭击",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 8,
+      "entertainment": 0,
+      "practical": 0,
+      "market": 0
+    },
+    "total_score": 32,
+    "grade": "普通",
+    "product_idea": {
+      "name": "AirGuard 城市安全穿戴设备",
+      "features": "集成了高敏麦克风和气压传感器的TWS耳机，检测爆炸声波并自动向紧急联系人发送位置。",
+      "target_users": "身处高风险城市的居民、记者、安保人员。",
+      "value_proposition": "随身携带的安全黑匣子，在灾难发生时争取救援时间。"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "十四届全国人大四次会议发布会",
+    "scores": {
+      "novelty": 5,
+      "resonance": 15,
+      "viral": 5,
+      "entertainment": 0,
+      "practical": 8,
+      "market": 5
+    },
+    "total_score": 38,
+    "grade": "普通",
+    "product_idea": {
+      "name": "PolicyDigest 政策AI解读助手",
+      "features": "将冗长的会议报告和文件转化为图表和个人影响分析，快速提取民生相关利好。",
+      "target_users": "企业主、投资者、普通纳税人。",
+      "value_proposition": "让宏观经济政策与您的个人钱包产生直接连接，读懂国家风向标。"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "刘宇宁喊你上闲鱼赚一笔",
+    "scores": {
+      "novelty": 12,
+      "resonance": 15,
+      "viral": 18,
+      "entertainment": 16,
+      "practical": 5,
+      "market": 10
+    },
+    "total_score": 76,
+    "grade": "良好",
+    "product_idea": {
+      "name": "StarResell 明星闲置代挂小程序",
+      "features": "粉丝专属的闲置交易流转平台，支持明星同款或周边的快速转手与溢价评估。",
+      "target_users": "追星族、演唱会常客、周边收藏家。",
+      "value_proposition": "让粉丝经济流动起来，用爱发电的同时也能回血。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "豆瓣称无法承受异常订单巨额损失",
+    "scores": {
+      "novelty": 14,
+      "resonance": 16,
+      "viral": 12,
+      "entertainment": 5,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 51,
+    "grade": "普通",
+    "product_idea": {
+      "name": "HypeShield 影票防刷监测系统",
+      "features": "针对影院票务系统的异常流量清洗与自动化退票处理机制，防止黄牛恶意刷单。",
+      "target_users": "电影院线、票务平台、演出主办方。",
+      "value_proposition": "保障真实用户的购票权益，维护票房数据的真实性。"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "多架美军战机坠毁",
+    "scores": {
+      "novelty": 12,
+      "resonance": 14,
+      "viral": 10,
+      "entertainment": 2,
+      "practical": 0,
+      "market": 0
+    },
+    "total_score": 38,
+    "grade": "普通",
+    "product_idea": {
+      "name": "MilWatch 军工科技媒体社区",
+      "features": "深度解析坠毁原因、装备技术参数的科普内容平台。",
+      "target_users": "军迷、模型爱好者、硬核科技发烧友。",
+      "价值_proposition": "透过新闻表象看军工技术本质，硬核科普聚集地。"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "刘文祥麻辣烫",
+    "scores": {
+      "novelty": 16,
+      "resonance": 12,
+      "viral": 14,
+      "entertainment": 10,
+      "practical": 5,
+      "market": 5
+    },
+    "total_score": 62,
+    "grade": "良好",
+    "product_idea": {
+      "name": "ChiliGuess 地方美食盲盒订阅",
+      "features": "每月寄送一个不同城市的网红或老字号地方特色速食，附带地图和故事。",
+      "target_users": "吃货、独居青年、美食探店博主。",
+      "value_proposition": "足不出户吃遍全国隐藏美食，寻找你的'刘文祥'。"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "mwc2026",
+    "scores": {
+      "novelty": 15,
+      "resonance": 10,
+      "viral": 8,
+      "entertainment": 5,
+      "practical": 5,
+      "market": 6
+    },
+    "total_score": 49,
+    "grade": "普通",
+    "product_idea": {
+      "name": "TechLens AR展会导航",
+      "features": "基于增强现实技术的展会展位指引与即时产品信息抓取。",
+      "target_users": "展会观众、科技媒体、采购商。",
+      "value_proposition": "在信息过载的展会中，用AR眼镜一眼锁定未来科技。"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "海澜之家被暂停全军采购资格",
+    "scores": {
+      "novelty": 15,
+      "resonance": 14,
+      "viral": 12,
+      "entertainment": 5,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 50,
+    "grade": "普通",
+    "product_idea": {
+      "name": "SupplierCheck 企业合规查询API",
+      "features": "快速查询企业的政府采购资质、合规记录与信用评分。",
+      "target_users": "采购经理、供应链专员、企业风控部门。",
+      "value_proposition": "避免合作风险，一键透视合作伙伴的合规底色。"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "20后都避开网红名了吗",
+    "scores": {
+      "novelty": 18,
+      "resonance": 20,
+      "viral": 19,
+      "entertainment": 18,
+      "practical": 8,
+      "market": 8
+    },
+    "total_score": 91,
+    "grade": "优秀",
+    "product_idea": {
+      "name": "UniqueName 宝宝重名避雷助手",
+      "features": "分析当前网红名、重名率大数据，生成既不落俗套又有文化底蕴的小众名字。",
+      "target_users": "准父母、起名爱好者。",
+      "value_proposition": "拒绝'子轩'和'紫萱'，给孩子一个独特的身份开场白。"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "陈昊宇剧宣 低头",
+    "scores": {
+      "novelty": 5,
+      "resonance": 8,
+      "viral": 6,
+      "entertainment": 8,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 34,
+    "grade": "普通",
+    "product_idea": {
+      "name": "SceneClip 剧情短视频剪辑工具",
+      "features": "自动识别影视高光时刻并一键剪辑为适合抖音/快手的短视频模板。",
+      "target_users": "剧粉、短视频博主、粉丝团。",
+      "value_proposition": "让追星安利更简单，一键生成爱豆名场面。"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "日本遭遇霍尔木兹休克",
+    "scores": {
+      "novelty": 18,
+      "resonance": 10,
+      "viral": 10,
+      "entertainment": 2,
+      "practical": 5,
+      "market": 2
+    },
+    "total_score": 47,
+    "grade": "普通",
+    "product_idea": {
+      "name": "EnergyWatch 能源价格追踪器",
+      "features": "实时追踪国际油价与物流动态，预测成品油价格波动。",
+      "target_users": "物流企业、货运司机、普通车主。",
+      "value_proposition": "在能源危机面前，提前掌握加油时机。"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "中方回应伊朗关闭霍尔木兹海峡",
+    "scores": {
+      "novelty": 8,
+      "resonance": 10,
+      "viral": 5,
+      "entertainment": 0,
+      "practical": 3,
+      "market": 0
+    },
+    "total_score": 26,
+    "grade": "普通",
+    "product_idea": {
+      "name": "GlobalLogistics 跨境物流风险地图",
+      "features": "可视化展示地缘政治对海运航线的影响及延误预测。",
+      "target_users": "跨境电商卖家、国际贸易商。",
+      "value_proposition": "预判由于政治局势导致的货物延误，降低供应链风险。"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "俄罗斯",
+    "scores": {
+      "novelty": 0,
+      "resonance": 10,
+      "viral": 5,
+      "entertainment": 0,
+      "practical": 0,
+      "market": 0
+    },
+    "total_score": 15,
+    "grade": "普通",
+    "product_idea": {
+      "name": "无创意（泛话题）",
+      "features": "暂无",
+      "target_users": "暂无",
+      "value_proposition": "暂无"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "伊朗发动第10波攻势",
+    "scores": {
+      "novelty": 5,
+      "resonance": 10,
+      "viral": 5,
+      "entertainment": 0,
+      "practical": 0,
+      "market": 0
+    },
+    "total_score": 20,
+    "grade": "普通",
+    "product_idea": {
+      "name": "CrisisMap 冲突实时地图",
+      "features": "基于开源情报(OSINT)的实时战况标记地图。",
+      "target_users": "国际关系研究者、新闻媒体。",
+      "value_proposition": "透明化展示混乱局势，剔除虚假信息。"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "命运真的会提醒你适合走哪条路",
+    "scores": {
+      "novelty": 8,
+      "resonance": 19,
+      "viral": 15,
+      "entertainment": 2,
+      "practical": 5,
+      "market": 5
+    },
+    "total_score": 54,
+    "grade": "普通",
+    "product_idea": {
+      "name": "SignMoment 灵感捕捉手帐",
+      "features": "记录生活中的'巧合'与'直觉'，并用AI分析潜意识倾向。",
+      "target_users": "迷茫期的青年、心理学爱好者。",
+      "value_proposition": "帮你从日常琐事中拼凑出命运的指引图。"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "中方回应是否会对伊朗提供军事支持",
+    "scores": {
+      "novelty": 5,
+      "resonance": 12,
+      "viral": 8,
+      "entertainment": 0,
+      "practical": 0,
+      "market": 0
+    },
+    "total_score": 25,
+    "grade": "普通",
+    "product_idea": {
+      "name": "Diplomat 外交辞令翻译机",
+      "features": "将官方新闻发布会的'外交黑话'翻译成通俗易懂的人话。",
+      "target_users": "网民、学生、媒体工作者。",
+      "价值_proposition": "听懂言外之意，看透国际博弈的真相。"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "爱与不爱真的很明显",
+    "scores": {
+      "novelty": 5,
+      "resonance": 20,
+      "viral": 18,
+      "entertainment": 5,
+      "practical": 5,
+      "market": 5
+    },
+    "total_score": 58,
+    "grade": "普通",
+    "product_idea": {
+      "name": "LoveLens 关系状态分析器",
+      "features": "基于聊天记录频率、回复时长、用词情感分析亲密关系的健康度。",
+      "target_users": "情侣、处于暧昧期的年轻人。",
+      "value_proposition": "用数据看清暧昧，别骗自己，他真的不回你消息。"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "伊朗前总统内贾德亲信称其平安",
+    "scores": {
+      "novelty": 8,
+      "resonance": 5,
+      "viral": 5,
+      "entertainment": 0,
+      "practical": 0,
+      "market": 0
+    },
+    "total_score": 18,
+    "grade": "普通",
+    "product_idea": {
+      "name": "TruthVerifier 讯息溯源插件",
+      "features": "在浏览突发新闻时自动标注信源可靠性，并聚合多方报道。",
+      "target_users": "新闻阅读者、事实核查员。",
+      "value_proposition": "在谣言满天飞时，第一时间确认信源。"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "日本动漫巨头封口性侵受害者",
+    "scores": {
+      "novelty": 12,
+      "resonance": 18,
+      "viral": 19,
+      "entertainment": 2,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 55,
+    "grade": "普通",
+    "product_idea": {
+      "name": "VoiceUp 匿名职场树洞",
+      "features": "基于区块链技术的行业黑幕与性骚扰匿名举报与爆料平台。",
+      "target_users": "娱乐圈从业者、职场新人。",
+      "value_proposition": "让权力下的罪恶无处遁形，保护每一个吹哨人。"
+    }
+  }
+]
