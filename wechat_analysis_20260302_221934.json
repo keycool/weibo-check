@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "微视频｜总书记心中的头等大事",
+    "scores": {
+      "novelty": 5,
+      "resonance": 10,
+      "viral": 5,
+      "entertainment": 0,
+      "practical": 5,
+      "market": 0
+    },
+    "total_score": 25,
+    "grade": "普通",
+    "product_idea": {
+      "name": "政策焦点·时事学习通",
+      "features": "时政热点智能摘要与要点提取",
+      "target_users": "体制内工作人员、党员",
+      "value_proposition": "高效掌握国家大政方针，提升政治素养"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "哈梅内伊的妻子去世",
+    "scores": {
+      "novelty": 10,
+      "resonance": 10,
+      "viral": 15,
+      "entertainment": 0,
+      "practical": 0,
+      "market": 0
+    },
+    "total_score": 35,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球视野·地缘情报局",
+      "features": "国际重大事件对国内形势影响分析",
+      "target_users": "国际关系爱好者、投资者",
+      "value_proposition": "深度解读国际局势背后的经济与政治逻辑"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "美军多架战机被友军误击坠毁",
+    "scores": {
+      "novelty": 18,
+      "resonance": 12,
+      "viral": 18,
+      "entertainment": 15,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 70,
+    "grade": "良好",
+    "product_idea": {
+      "name": "鹰击·空战模拟器",
+      "features": "高拟真现代空战多人对战游戏，包含误击惩罚机制",
+      "target_users": "军迷、FPS/飞行模拟游戏玩家",
+      "value_proposition": "体验真实现代战争压力，考验团队协作与判断"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "新华读报｜中国南方冰雪经济蓬勃发展",
+    "scores": {
+      "novelty": 5,
+      "resonance": 8,
+      "viral": 5,
+      "entertainment": 5,
+      "practical": 8,
+      "market": 10
+    },
+    "total_score": 41,
+    "grade": "普通",
+    "product_idea": {
+      "name": "趣南方·冰雪旅游指南",
+      "features": "南方小众冰雪景点推荐与装备租赁一站式服务",
+      "target_users": "南方旅游爱好者、亲子家庭",
+      "value_proposition": "不出省也能体验北国冰雪乐趣"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "元宵节“走桥”习俗有何讲究",
+    "scores": {
+      "novelty": 8,
+      "resonance": 10,
+      "viral": 8,
+      "entertainment": 8,
+      "practical": 5,
+      "market": 5
+    },
+    "total_score": 44,
+    "grade": "普通",
+    "product_idea": {
+      "name": "古韵·中华传统民俗日历",
+      "features": "每日传统习俗科普与线下打卡互动地图",
+      "target_users": "汉服爱好者、文化传承人群",
+      "value_proposition": "复兴传统节日仪式感，记录文化传承足迹"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "最高法：夫妻单方赠与第三人财产无效",
+    "scores": {
+      "novelty": 10,
+      "resonance": 15,
+      "viral": 15,
+      "entertainment": 5,
+      "practical": 10,
+      "market": 5
+    },
+    "total_score": 60,
+    "grade": "良好",
+    "product_idea": {
+      "name": "婚姻守护·财产公证人",
+      "features": "基于最新法律的夫妻共同财产管理与赠予风险提醒APP",
+      "target_users": "已婚人士、准备结婚的情侣",
+      "value_proposition": "用法律手段保护家庭资产，防范财产流失风险"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "云南村民挖出东汉铜鼓主动捐出",
+    "scores": {
+      "novelty": 12,
+      "resonance": 15,
+      "viral": 10,
+      "entertainment": 5,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 46,
+    "grade": "普通",
+    "product_idea": {
+      "name": "探宝·民间考古助手",
+      "features": "文物识别与保护法规查询，一键联系专家鉴定",
+      "target_users": "户外探险者、历史爱好者",
+      "value_proposition": "正确处理发现的地下文物，让保护文物更合规"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "生三胎就奖励员工183万元？",
+    "scores": {
+      "novelty": 15,
+      "resonance": 18,
+      "viral": 18,
+      "entertainment": 12,
+      "practical": 8,
+      "market": 8
+    },
+    "total_score": 79,
+    "grade": "良好",
+    "product_idea": {
+      "name": "宝贝福·企业福利规划顾问",
+      "features": "企业生育津贴方案设计与员工生育关怀计划管理",
+      "target_users": "HR、企业主、备孕职工",
+      "value_proposition": "解决企业员工福利难题，提升员工归属感"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "“海澜之家”被暂停全军采购资格",
+    "scores": {
+      "novelty": 15,
+      "resonance": 15,
+      "viral": 15,
+      "entertainment": 8,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 57,
+    "grade": "普通",
+    "product_idea": {
+      "name": "红盾·供应链合规检测",
+      "features": "面向政府采购的供应商资质风险预判系统",
+      "target_users": "企业采购经理、合规部门",
+      "value_proposition": "规避供应商资质风险，保障采购业务连续性"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "年轻人超爱的“椰子水”塌房了",
+    "scores": {
+      "novelty": 12,
+      "resonance": 18,
+      "viral": 18,
+      "entertainment": 10,
+      "practical": 10,
+      "market": 8
+    },
+    "total_score": 76,
+    "grade": "良好",
+    "product_idea": {
+      "name": "纯净·成分透明查",
+      "features": "扫码即查饮料真实配方与添加剂危害科普",
+      "target_users": "健康饮食人群、健身人群",
+      "value_proposition": "撕开伪健康面纱，喝得明明白白"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "警方对造谣茶饮“涉毒”者采取刑事措施",
+    "scores": {
+      "novelty": 12,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 5,
+      "practical": 5,
+      "market": 2
+    },
+    "total_score": 46,
+    "grade": "普通",
+    "product_idea": {
+      "name": "真相·网络谣言过滤器",
+      "features": "基于官方通报的新闻真伪快速辟谣插件",
+      "target_users": "中老年网民、信息敏感人群",
+      "value_proposition": "一键核实热点真相，拒绝成为谣言传声筒"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "女子带1米长巨大豆荚坐飞机 引围观",
+    "scores": {
+      "novelty": 18,
+      "resonance": 12,
+      "viral": 18,
+      "entertainment": 18,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 73,
+    "grade": "良好",
+    "product_idea": {
+      "name": "奇物·异形行李托运助手",
+      "features": "特殊尺寸物品航空/铁路托运合规计算与打包服务",
+      "target_users": "带特产旅客、电商卖家",
+      "value_proposition": "让奇怪形状的物品也能顺利过检上机"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "羽毛球去年涨价3次 今年集体降价",
+    "scores": {
+      "novelty": 10,
+      "resonance": 16,
+      "viral": 12,
+      "entertainment": 5,
+      "practical": 10,
+      "market": 10
+    },
+    "total_score": 63,
+    "grade": "良好",
+    "product_idea": {
+      "name": "羽你行·运动耗材雷达",
+      "features": "运动器材价格走势追踪与低价自动囤货提醒",
+      "target_users": "羽毛球爱好者、俱乐部采购",
+      "value_proposition": "在价格低谷买入，降低长期运动开销"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "《乡村爱情》，别再拍了",
+    "scores": {
+      "novelty": 15,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 10,
+      "practical": 0,
+      "market": 0
+    },
+    "total_score": 56,
+    "grade": "普通",
+    "product_idea": {
+      "name": "剧评·经典剧集反鸡汤社区",
+      "features": "针对长青老剧的剧情吐槽与创意续写平台",
+      "target_users": "老剧观众、影视创作者",
+      "value_proposition": "释放对经典IP的爱恨情仇，共创剧情新走向"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "对话90岁作曲家谷建芬",
+    "scores": {
+      "novelty": 5,
+      "resonance": 12,
+      "viral": 8,
+      "entertainment": 5,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 34,
+    "grade": "普通",
+    "product_idea": {
+      "name": "岁月·大师课音乐鉴赏",
+      "features": "老一辈艺术家经典作品背后的创作故事与乐理拆解",
+      "target_users": "音乐专业学生、怀旧听众",
+      "value_proposition": "向大师学创作，聆听时代金曲的诞生"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "网红“爱心海”是小水坑？当地回应",
+    "scores": {
+      "novelty": 18,
+      "resonance": 15,
+      "viral": 18,
+      "entertainment": 15,
+      "practical": 5,
+      "market": 5
+    },
+    "total_score": 76,
+    "grade": "良好",
+    "product_idea": {
+      "name": "滤镜粉碎·避雷旅游地图",
+      "features": "网红景点真实VS滤镜对比图库与避坑指南",
+      "target_users": "自由行游客、特种兵大学生",
+      "value_proposition": "拒绝照骗，还原真实的旅游体验"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "岳父婚礼收200元彩礼，还陪嫁2万",
+    "scores": {
+      "novelty": 15,
+      "resonance": 18,
+      "viral": 18,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 2
+    },
+    "total_score": 65,
+    "grade": "良好",
+    "product_idea": {
+      "name": "喜事通·极简婚礼策划",
+      "features": "主打零彩礼或低彩礼的极简主义婚礼策划社区",
+      "target_users": "备婚年轻人、崇尚极简人群",
+      "value_proposition": "回归婚姻本质，轻装上阵组建新家庭"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "36岁副镇长开会时脑出血离世",
+    "scores": {
+      "novelty": 5,
+      "resonance": 15,
+      "viral": 10,
+      "entertainment": 0,
+      "practical": 8,
+      "market": 5
+    },
+    "total_score": 43,
+    "grade": "普通",
+    "product_idea": {
+      "name": "职安·基层健康监测",
+      "features": "针对高强度脑力工作者的定时健康提醒与急救指南",
+      "target_users": "公务员、程序员、加班族",
+      "value_proposition": "在拼搏事业的同时，不忘监测身体红线"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "一团伙在多个车站附近诈骗 法院退赃",
+    "scores": {
+      "novelty": 8,
+      "resonance": 10,
+      "viral": 10,
+      "entertainment": 5,
+      "practical": 8,
+      "market": 5
+    },
+    "total_score": 46,
+    "grade": "普通",
+    "product_idea": {
+      "name": "无忧行·车站防骗指南",
+      "features": "基于地理位置的车站附近常见诈骗套路实时预警",
+      "target_users": "差旅人士、学生、务工人员",
+      "value_proposition": "出行防身锦囊，捂紧您的钱袋子"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "男子带一家10口人从迪拜惊险回国",
+    "scores": {
+      "novelty": 12,
+      "resonance": 12,
+      "viral": 15,
+      "entertainment": 10,
+      "practical": 5,
+      "market": 5
+    },
+    "total_score": 59,
+    "grade": "普通",
+    "product_idea": {
+      "name": "归途·海外家庭撤离助手",
+      "features": "突发事件下的家庭跨国撤离路线规划与物资清单",
+      "target_users": "海外华人、外派人员家庭",
+      "value_proposition": "危难时刻，为您和家人规划最安全的回家路"
+    }
+  }
+]

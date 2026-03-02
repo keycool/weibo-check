@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "title": "伊朗导弹击中美第五舰队总部瞬间",
+    "scores": {
+      "novelty": 18,
+      "resonance": 16,
+      "viral": 19,
+      "entertainment": 4,
+      "practical": 2,
+      "market": 5
+    },
+    "total_score": 64,
+    "grade": "良好",
+    "product_idea": {
+      "name": "地缘危机实时避难地图",
+      "features": "基于冲突数据的实时风险区域标注、一键导航至最近掩体、离线紧急通讯包",
+      "target_users": "海外务工人员、出境旅行者、国际时事关注者",
+      "value_proposition": "在极端不确定的国际局势下，为生命安全提供确定性指引"
+    }
+  },
+  {
+    "rank": 2,
+    "title": "刘文祥麻辣烫",
+    "scores": {
+      "novelty": 15,
+      "resonance": 14,
+      "viral": 18,
+      "entertainment": 12,
+      "practical": 8,
+      "market": 10
+    },
+    "total_score": 77,
+    "grade": "良好",
+    "product_idea": {
+      "name": "老字号非遗美食盲盒订阅",
+      "features": "每月配送不同地域的非遗级街头小吃（如刘文祥口味）、附带地道冲煮教程和背后的历史故事卡片",
+      "target_users": "吃货青年、家乡情怀游子、美食文化爱好者",
+      "value_proposition": "足不出户，舌尖上的非遗之旅，让隐秘的街头美味走进家门"
+    }
+  },
+  {
+    "rank": 3,
+    "title": "598名女性获全国三八红旗手称号",
+    "scores": {
+      "novelty": 5,
+      "resonance": 12,
+      "viral": 6,
+      "entertainment": 2,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 30,
+    "grade": "普通",
+    "product_idea": {
+      "name": "她的力量：女性榜样激励社区",
+      "features": "展示获奖女性事迹、提供职业导师匹配服务、女性领导力课程众筹",
+      "target_users": "职业女性、女大学生、寻求榜样的女性群体",
+      "value_proposition": "看见光，追随光，成为光；连接女性榜样与追梦人的桥梁"
+    }
+  },
+  {
+    "rank": 4,
+    "title": "周柯宇又要用礼物狙击谁",
+    "scores": {
+      "novelty": 12,
+      "resonance": 18,
+      "viral": 15,
+      "entertainment": 15,
+      "practical": 2,
+      "market": 6
+    },
+    "total_score": 68,
+    "grade": "良好",
+    "product_idea": {
+      "name": "爱豆同款礼物狙击助手",
+      "features": "根据明星送礼风格推荐相似高颜值礼物、提供明星惊喜互动预测、一键购买同款",
+      "target_users": "追星少女、需要送礼的年轻群体、粉丝站姐",
+      "value_proposition": "复刻偶像级浪漫，解决送礼困难症的社交神器"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "伊朗首都5地几乎同时爆炸",
+    "scores": {
+      "novelty": 16,
+      "resonance": 15,
+      "viral": 17,
+      "entertainment": 3,
+      "practical": 3,
+      "market": 4
+    },
+    "total_score": 58,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全球突发新闻AI聚合屏",
+      "features": "利用AI从全球社交媒体抓取第一手现场视频、自动去重验证真伪、多语言实时字幕翻译",
+      "target_users": "新闻从业者、国际局势研究者、资讯重度用户",
+      "value_proposition": "打破信息茧房，比传统媒体快一步的全球真相聚合"
+    }
+  },
+  {
+    "rank": 6,
+    "title": "中国有了量子手机",
+    "scores": {
+      "novelty": 19,
+      "resonance": 17,
+      "viral": 18,
+      "entertainment": 8,
+      "practical": 6,
+      "market": 9
+    },
+    "total_score": 77,
+    "grade": "良好",
+    "product_idea": {
+      "name": "量子加密社交私语",
+      "features": "利用量子技术原理（或概念）的阅后即焚聊天应用、绝对安全的隐私保险箱、防截屏水印",
+      "target_users": "商务人士、注重隐私的高净值人群、科技极客",
+      "value_proposition": "在数据裸奔时代，掌握上帝视角的绝对隐私权"
+    }
+  },
+  {
+    "rank": 7,
+    "title": "法国总统下令增加核弹头数量",
+    "scores": {
+      "novelty": 14,
+      "resonance": 8,
+      "viral": 10,
+      "entertainment": 2,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 39,
+    "grade": "普通",
+    "product_idea": {
+      "name": "世界末日生存模拟器",
+      "features": "基于真实地缘政治数据的策略推演游戏、模拟核战后的资源管理、多人在线避难所建设",
+      "target_users": "策略游戏玩家、军迷、反战主义者",
+      "value_proposition": "在虚拟世界中体验失去，从而更加珍视现实和平"
+    }
+  },
+  {
+    "rank": 8,
+    "title": "女子带1米长巨大豆荚坐飞机引围观",
+    "scores": {
+      "novelty": 18,
+      "resonance": 14,
+      "viral": 19,
+      "entertainment": 18,
+      "practical": 3,
+      "market": 7
+    },
+    "total_score": 79,
+    "grade": "良好",
+    "product_idea": {
+      "name": "奇趣异宠种植盲盒",
+      "features": "销售各种奇特植物种子（如巨型豆荚、异型瓜果）、提供罕见农作物的种植直播日记、分享丰收食谱",
+      "target_users": "都市新农人、园艺爱好者、猎奇网红",
+      "value_proposition": "满足人类对自然的原始好奇心，打造阳台上的朋友圈流量密码"
+    }
+  },
+  {
+    "rank": 9,
+    "title": "中方回应特朗普3月访华能否成行",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 13,
+      "entertainment": 3,
+      "practical": 4,
+      "market": 5
+    },
+    "total_score": 47,
+    "grade": "普通",
+    "product_idea": {
+      "name": "外交风云预测竞猜平台",
+      "features": "针对重大外交事件进行用户押注（非金钱）、预测准确度排行榜、提供外交知识点科普",
+      "target_users": "时政评论爱好者、国际关系专业学生、股民",
+      "value_proposition": "把严肃的外交新闻变成全民参与的益智游戏，提升大众时政素养"
+    }
+  },
+  {
+    "rank": 10,
+    "title": "种地吧",
+    "scores": {
+      "novelty": 10,
+      "resonance": 14,
+      "viral": 10,
+      "entertainment": 14,
+      "practical": 8,
+      "market": 10
+    },
+    "total_score": 66,
+    "grade": "良好",
+    "product_idea": {
+      "name": "云认养-真实农场托管App",
+      "features": "用户认领真实地块、通过24小时直播查看作物生长、手机远程指导浇水施肥、收获实物快递到家",
+      "target_users": "向往田园生活的都市白领、注重食品安全的家庭、自然教育机构",
+      "value_proposition": "像玩游戏一样种地，收获看得见的健康与治愈"
+    }
+  },
+  {
+    "rank": 11,
+    "title": "郭晓婷回复孙千",
+    "scores": {
+      "novelty": 8,
+      "resonance": 16,
+      "viral": 12,
+      "entertainment": 10,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 51,
+    "grade": "普通",
+    "product_idea": {
+      "name": "剧组糖点雷达",
+      "features": "AI自动抓取明星微博互动、分析CP感指数、生成互动时间线视频、粉丝打分功能",
+      "target_users": "CP粉、剧粉、综艺节目宣发方",
+      "value_proposition": "不错过任何一丝暧昧信号，全自动嗑糖神器"
+    }
+  },
+  {
+    "rank": 12,
+    "title": "哈梅内伊妻子伤重不治去世",
+    "scores": {
+      "novelty": 15,
+      "resonance": 8,
+      "viral": 14,
+      "entertainment": 2,
+      "practical": 2,
+      "market": 3
+    },
+    "total_score": 44,
+    "grade": "普通",
+    "product_idea": {
+      "name": "权威信源辟谣助手",
+      "features": "针对突发重大负面新闻，第一时间聚合权威信源发布、标记未经证实的小道消息、提供新闻 Timeline 还原",
+      "target_users": "媒体人、事实核查者、需要准确信息的决策者",
+      "value_proposition": "在后真相时代，用速度和信度对抗谣言"
+    }
+  },
+  {
+    "rank": 13,
+    "title": "肖战记录粉丝",
+    "scores": {
+      "novelty": 12,
+      "resonance": 19,
+      "viral": 16,
+      "entertainment": 14,
+      "practical": 3,
+      "market": 8
+    },
+    "total_score": 72,
+    "grade": "良好",
+    "product_idea": {
+      "name": "爱豆记忆胶囊",
+      "features": "为粉丝建立与偶像相关的数字日记本、记录偶像公开行程与个人心情时间轴、生成专属粉丝周年纪念报告",
+      "target_users": "核心粉丝群体、追星族",
+      "value_proposition": "将追星路上的点滴感动，永久封存为独家青春记忆"
+    }
+  },
+  {
+    "rank": 14,
+    "title": "王毅和伊朗外长通电话",
+    "scores": {
+      "novelty": 8,
+      "resonance": 10,
+      "viral": 11,
+      "entertainment": 2,
+      "practical": 4,
+      "market": 5
+    },
+    "total_score": 40,
+    "grade": "普通",
+    "product_idea": {
+      "name": "国际局势大事件日历",
+      "features": "可视化展示外交大事记、关联国家关系图谱、提供每日外交部金句摘录",
+      "target_users": "外贸从业者、留学生、时政考试党",
+      "value_proposition": "一张图看懂复杂的国际关系脉络"
+    }
+  },
+  {
+    "rank": 15,
+    "title": "王安宇CELINE首位中国男大使",
+    "scores": {
+      "novelty": 14,
+      "resonance": 16,
+      "viral": 15,
+      "entertainment": 12,
+      "practical": 4,
+      "market": 9
+    },
+    "total_score": 70,
+    "grade": "良好",
+    "product_idea": {
+      "name": "高奢平替穿搭推荐AI",
+      "features": "上传明星奢侈品红毯照，AI识别款式并推荐Z世代买得起的平替品牌、评分相似度、提供购买链接",
+      "target_users": "时尚平权主义者、预算有限的年轻学生、跟风党",
+      "value_proposition": "不用吃土也能穿出明星范，让时尚不再昂贵"
+    }
+  },
+  {
+    "rank": 16,
+    "title": "伊朗称已准备长期战争",
+    "scores": {
+      "novelty": 12,
+      "resonance": 10,
+      "viral": 12,
+      "entertainment": 2,
+      "practical": 3,
+      "market": 4
+    },
+    "total_score": 43,
+    "grade": "普通",
+    "product_idea": {
+      "name": "战备物资囤货计算器",
+      "features": "根据家庭人数计算生存物资最优储备量、临期食品管理提醒、应急避险包一键采购清单",
+      "target_users": "家庭主妇、风险意识较强的中产阶级、户外生存爱好者",
+      "value_proposition": "未雨绸缪，用科学的储备给家庭安全感"
+    }
+  },
+  {
+    "rank": 17,
+    "title": "iPhone17e浅粉色",
+    "scores": {
+      "novelty": 8,
+      "resonance": 14,
+      "viral": 12,
+      "entertainment": 6,
+      "practical": 5,
+      "market": 8
+    },
+    "total_score": 53,
+    "grade": "普通",
+    "product_idea": {
+      "name": "DIY手机皮肤定制工坊",
+      "features": "提供超多流行色（如浅粉色）的个性化手机贴膜/壳定制、用户上传图案生成专属保护壳、AR试戴效果",
+      "target_users": "追求个性化的年轻女性、数码配件消费者",
+      "value_proposition": "既然手机长得千篇一律，那就让外壳独一无二"
+    }
+  },
+  {
+    "rank": 18,
+    "title": "伊方愿全力保障中方人员机构的安全",
+    "scores": {
+      "novelty": 6,
+      "resonance": 8,
+      "viral": 9,
+      "entertainment": 2,
+      "practical": 6,
+      "market": 5
+    },
+    "total_score": 36,
+    "grade": "普通",
+    "product_idea": {
+      "name": "跨国企业风险管理SaaS",
+      "features": "实时监控全球风险数据、自动生成人员撤离预案、一键群发安全警告给驻外员工",
+      "target_users": "跨国HR部门、出海企业负责人、外派人员",
+      "value_proposition": "守护每一位海外游子，是企业的最高责任"
+    }
+  },
+  {
+    "rank": 19,
+    "title": "俄罗斯",
+    "scores": {
+      "novelty": 5,
+      "resonance": 10,
+      "viral": 8,
+      "entertainment": 2,
+      "practical": 4,
+      "market": 5
+    },
+    "total_score": 34,
+    "grade": "普通",
+    "product_idea": {
+      "name": "全景看俄罗斯VR旅游",
+      "features": "360度VR全景展示俄罗斯各大城市风景、提供虚拟导游讲解、预约实地旅游路线",
+      "target_users": "旅游爱好者、俄语学习者、由于签证或疫情无法出行的人",
+      "value_proposition": "打破空间限制，北国风光尽在眼底"
+    }
+  },
+  {
+    "rank": 20,
+    "title": "李静回应飞清迈陪戴军过年",
+    "scores": {
+      "novelty": 10,
+      "resonance": 12,
+      "viral": 10,
+      "entertainment": 10,
+      "practical": 4,
+      "market": 6
+    },
+    "total_score": 52,
+    "grade": "普通",
+    "product_idea": {
+      "name": "闺蜜/兄弟结伴游拼单App",
+      "features": "针对单身人群的节日出游拼单平台、智能匹配兴趣爱好相同的旅伴、分账记账功能",
+      "target_users": "单身青年、不想独自过节的人群、旅游特种兵",
+      "value_proposition": "找不到人陪你过节？在这里，遇见你的最佳旅伴"
+    }
+  }
+]
